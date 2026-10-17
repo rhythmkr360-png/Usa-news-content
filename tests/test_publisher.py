@@ -60,6 +60,34 @@ class ParsingTests(unittest.TestCase):
         self.assertEqual(news.https_url('https://example.com/news?id=1&utm_source=abc#fragment'),
                          'https://example.com/news?id=1')
 
+    def test_images_only_from_dvids_hosted_news_media(self):
+        def xml(url):
+            return f'''<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><item>
+                <title>U.S. Navy begins naval exercise with aircraft</title>
+                <description>U.S. Navy personnel completed an aircraft exercise at sea during a scheduled maritime training event.</description>
+                <link>https://www.dvidshub.net/news/1234</link>
+                <pubDate>Sat, 17 Oct 2026 10:00:00 GMT</pubDate>
+                <media:thumbnail url="{url}"/>
+                </item></channel></rss>'''.encode()
+        allowed = news.parse_syndication(
+            xml('https://media-cdn.dvidshub.net/photo.jpg'),
+            'DVIDS U.S. Military News'
+        )[0]
+        self.assertEqual(
+            news.candidate(allowed, NOW, timedelta(hours=72))['imageUrl'],
+            'https://media-cdn.dvidshub.net/photo.jpg'
+        )
+        rejected = news.parse_syndication(
+            xml('https://random-publisher.example/photo.jpg'),
+            'DVIDS U.S. Military News'
+        )[0]
+        self.assertNotIn('imageUrl', news.candidate(rejected, NOW, timedelta(hours=72)))
+        not_dvids = news.parse_syndication(
+            xml('https://media-cdn.dvidshub.net/photo.jpg'),
+            'Other Publisher'
+        )[0]
+        self.assertNotIn('imageUrl', news.candidate(not_dvids, NOW, timedelta(hours=72)))
+
     def test_invalid_format_rejected(self):
         with self.assertRaises(ValueError):
             news.parse_syndication(b'<stories><story/></stories>', 'Other')
