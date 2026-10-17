@@ -30,6 +30,7 @@ LOG = logging.getLogger("military-news")
 UTC = timezone.utc
 USER_AGENT = "MilitaryBriefFeed/1.0 (+https://github.com/rhythmkr360-png/Usa-news-content)"
 ATOM = "{http://www.w3.org/2005/Atom}"
+MEDIA = "{http://search.yahoo.com/mrss/}"
 CONTENT = "{http://purl.org/rss/1.0/modules/content/}"
 MILITARY_TERMS = re.compile(
     r"\b(military|defen[sc]e|pentagon|army|navy|naval|marine corps|marines|"
@@ -161,10 +162,26 @@ def parse_syndication(xml: bytes, source_name: str) -> list[dict[str, str]]:
                         break
             source = element_text(item, "source", f"{ATOM}source/{ATOM}title") or source_name
             date = element_text(item, f"{ATOM}published", f"{ATOM}updated") if atom else element_text(item, "pubDate", "{http://purl.org/dc/elements/1.1/}date")
+            # DVIDS journalism generally allows reuse with credit. Restrict
+            # extracted media to DVIDS-hosted image links, never publisher photos.
+            photo = ""
+            if source_name.lower().startswith("dvids"):
+                images = list(item.findall(f"{MEDIA}thumbnail"))
+                images += list(item.findall(f"{MEDIA}content"))
+                images += list(item.findall("enclosure"))
+                for media in images:
+                    media_url = https_url(media.attrib.get("url", ""))
+                    media_type = media.attrib.get("type", "").lower()
+                    if not media_url or media_type and not media_type.startswith("image/"):
+                        continue
+                    host = urlsplit(media_url).hostname or ""
+                    if host == "dvidshub.net" or host.endswith(".dvidshub.net"):
+                        photo = media_url
+                        break
             if title and link:
                 records.append({"title": title, "description": desc, "link": link,
                                 "sourceName": clean_text(source, 90) or source_name,
-                                "publishedAt": date})
+                                "publishedAt": date, "imageUrl": photo})
         except (ValueError, TypeError):
             LOG.warning("Skipping one malformed RSS item from %s", source_name)
     return records
@@ -224,9 +241,12 @@ def candidate(raw: dict[str, str], now: datetime, maximum_age: timedelta) -> dic
         return None
     category = next((name for name, pattern in CATEGORY_TERMS if pattern.search(title)), "Defense")
     article_id = hashlib.sha256(url.encode("utf-8")).hexdigest()[:24]
-    return {"id": article_id, "title": title, "summary": short_excerpt(description),
-            "category": category, "sourceName": source, "sourceUrl": url,
-            "publishedAt": iso(published)}
+    result = {"id": article_id, "title": title, "summary": short_excerpt(description),
+              "category": category, "sourceName": source, "sourceUrl": url,
+              "publishedAt": iso(published)}
+    if raw.get("imageUrl"):
+        result["imageUrl"] = raw["imageUrl"]
+    return result
 
 
 def json_file(path: Path, default):
