@@ -40,10 +40,10 @@ MILITARY_TERMS = re.compile(
     re.IGNORECASE,
 )
 US_TERMS = re.compile(
-    r"\b(united states|american|pentagon|department of defen[sc]e|"
-    r"u\.s\.|u\.s\.a\.|usaf|usmc|ussf|us navy|us army|us air force|"
-    r"u\.s\. navy|u\.s\. army|u\.s\. air force|uss [a-z]|"
-    r"national guard|us coast guard)\b",
+    r"(?:\bu\.s\.(?:a\.)?(?=\W|$)|"
+    r"\b(?:united states|american|pentagon|department of defen[sc]e|"
+    r"usaf|usmc|ussf|us navy|us army|us air force|"
+    r"uss [a-z]|national guard|us coast guard)\b)",
     re.IGNORECASE,
 )
 CATEGORY_TERMS = [
