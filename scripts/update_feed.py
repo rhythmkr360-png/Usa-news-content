@@ -339,8 +339,9 @@ def publish(articles: list[dict], now: datetime, page_size: int) -> bool:
                   (not publish_time(a.get("publishedAt")) or
                    publish_time(a.get("publishedAt")) < expiry_cutoff)
                   for a in existing)
-    uninformative = any(isinstance(a, dict) and not informative_excerpt(
-        str(a.get("title", "")), str(a.get("summary", "")))
+    uninformative = any(isinstance(a, dict) and (
+        not informative_excerpt(str(a.get("title", "")), str(a.get("summary", "")))
+        or bool(SPORTS_TERMS.search(str(a.get("title", "")))))
         for a in existing)
     if not new_articles and not expired and not uninformative:
         LOG.info("No new eligible stories; leaving existing feed unchanged")
@@ -354,6 +355,7 @@ def publish(articles: list[dict], now: datetime, page_size: int) -> bool:
         if isinstance(a, dict) and "id" in a
         and publish_time(a.get("publishedAt"))
         and informative_excerpt(str(a.get("title", "")), str(a.get("summary", "")))
+        and not SPORTS_TERMS.search(str(a.get("title", "")))
     }
     for article in new_articles:
         merged[article["id"]] = article
