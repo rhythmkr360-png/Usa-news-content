@@ -32,6 +32,11 @@ USER_AGENT = "MilitaryBriefFeed/1.0 (+https://github.com/rhythmkr360-png/Usa-new
 ATOM = "{http://www.w3.org/2005/Atom}"
 MEDIA = "{http://search.yahoo.com/mrss/}"
 CONTENT = "{http://purl.org/rss/1.0/modules/content/}"
+SPORTS_TERMS = re.compile(
+    r"\b(football|basketball|baseball|soccer|touchdown|gameday|"
+    r"quarterback|halftime|playoffs|homecoming game|varsity)\b",
+    re.IGNORECASE,
+)
 MILITARY_TERMS = re.compile(
     r"\b(military|defen[sc]e|pentagon|army|navy|naval|marine corps|marines|"
     r"air force|aircraft carrier|fighter jet|destroyer|submarine|troops|"
@@ -247,6 +252,8 @@ def candidate(raw: dict[str, str], now: datetime, maximum_age: timedelta) -> dic
     if not informative_excerpt(title, description):
         return None
     evidence = title + " " + description
+    if SPORTS_TERMS.search(title):
+        return None
     if not MILITARY_TERMS.search(evidence) or not US_TERMS.search(evidence):
         return None
     category = next((name for name, pattern in CATEGORY_TERMS if pattern.search(title)), "Defense")
