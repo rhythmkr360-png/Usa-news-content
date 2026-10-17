@@ -1,0 +1,69 @@
+[
+  {
+    "name": "DVIDS U.S. Military News",
+    "type": "rss",
+    "url": "https://www.dvidshub.net/rss/news",
+    "max_items": 100
+  },
+  {
+    "name": "Breaking Defense",
+    "type": "rss",
+    "url": "https://breakingdefense.com/feed/",
+    "max_items": 100
+  },
+  {
+    "name": "Defense News",
+    "type": "rss",
+    "url": "https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml",
+    "max_items": 100
+  },
+  {
+    "name": "USNI News",
+    "type": "rss",
+    "url": "https://news.usni.org/feed",
+    "max_items": 100
+  },
+  {
+    "name": "Task & Purpose",
+    "type": "rss",
+    "url": "https://taskandpurpose.com/feed/",
+    "max_items": 100
+  },
+  {
+    "name": "U.S. Military News",
+    "type": "google_news",
+    "query": "US military OR Pentagon defense",
+    "max_items": 200
+  },
+  {
+    "name": "U.S. Navy",
+    "type": "google_news",
+    "query": "US Navy naval operations",
+    "max_items": 200
+  },
+  {
+    "name": "U.S. Air Force",
+    "type": "google_news",
+    "query": "US Air Force aircraft defense",
+    "max_items": 200
+  },
+  {
+    "name": "U.S. Army",
+    "type": "google_news",
+    "query": "US Army military deployment",
+    "max_items": 200
+  },
+  {
+    "name": "U.S. Marine Corps",
+    "type": "google_news",
+    "query": "US Marine Corps military",
+    "max_items": 200
+  },
+  {
+    "name": "U.S. Defense Technology",
+    "type": "google_news",
+    "query": "US defense missile drone weapons Pentagon",
+    "max_items": 200
+  }
+]
+
