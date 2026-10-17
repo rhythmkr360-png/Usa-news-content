@@ -88,6 +88,13 @@ class ParsingTests(unittest.TestCase):
         )[0]
         self.assertNotIn('imageUrl', news.candidate(not_dvids, NOW, timedelta(hours=72)))
 
+    def test_football_results_do_not_count_as_military_reports(self):
+        sports_item = sample(
+            title='Army football game returns with a thrilling touchdown',
+            description='The U.S. Army academy football team won its gameday fixture after a quarterback threw a decisive pass in a college sports match.',
+        )
+        self.assertIsNone(news.candidate(sports_item, NOW, timedelta(hours=72)))
+
     def test_headline_repetition_is_not_publishable_news(self):
         title = 'U.S. Navy announces aircraft carrier training exercise - Publisher'
         duplicate = 'U.S. Navy announces aircraft carrier training exercise Publisher'
