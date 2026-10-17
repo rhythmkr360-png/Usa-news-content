@@ -26,6 +26,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: main
           persist-credentials: true
       - uses: actions/setup-python@v5
         with:
@@ -49,6 +50,7 @@ jobs:
             exit 0
           fi
           git commit -m "news: publish verified feed update"
-          git pull --rebase origin main
+          # Run from the latest main ref; if another writer pushes while this
+          # job executes, fail safely and retry at the next scheduled run.
           git push origin HEAD:main
 
