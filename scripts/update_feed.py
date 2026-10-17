@@ -222,6 +222,16 @@ def short_excerpt(value: str, limit: int = 350) -> str:
     return clipped.rsplit(" ", 1)[0].rstrip(",;: ") + "…"
 
 
+def informative_excerpt(title: str, description: str) -> bool:
+    """Reject RSS fields that merely repeat the headline or publisher."""
+    if len(description) < 65:
+        return False
+    title_words = set(re.findall(r"[a-z0-9]+", title.casefold()))
+    description_words = set(re.findall(r"[a-z0-9]+", description.casefold()))
+    novel = description_words - title_words
+    return len(novel) >= max(5, len(description_words) // 5)
+
+
 def candidate(raw: dict[str, str], now: datetime, maximum_age: timedelta) -> dict | None:
     title = clean_text(raw.get("title"), 220)
     source = clean_text(raw.get("sourceName"), 90)
@@ -234,7 +244,7 @@ def candidate(raw: dict[str, str], now: datetime, maximum_age: timedelta) -> dic
         return None
     # Google News RSS descriptions often contain only a repeat of the headline,
     # publisher name, and HTML links. Do not invent a summary from these.
-    if len(description) < 65 or description.casefold() in title.casefold() or title.casefold() in description.casefold() and len(description) < len(title) + 45:
+    if not informative_excerpt(title, description):
         return None
     evidence = title + " " + description
     if not MILITARY_TERMS.search(evidence) or not US_TERMS.search(evidence):
@@ -322,14 +332,22 @@ def publish(articles: list[dict], now: datetime, page_size: int) -> bool:
                   (not publish_time(a.get("publishedAt")) or
                    publish_time(a.get("publishedAt")) < expiry_cutoff)
                   for a in existing)
-    if not new_articles and not expired:
+    uninformative = any(isinstance(a, dict) and not informative_excerpt(
+        str(a.get("title", "")), str(a.get("summary", "")))
+        for a in existing)
+    if not new_articles and not expired and not uninformative:
         LOG.info("No new eligible stories; leaving existing feed unchanged")
         return False
 
     max_age_days = int(os.getenv("HISTORY_DAYS", "10"))
     max_items = int(os.getenv("MAX_STORED_ARTICLES", "1000"))
     cutoff = now - timedelta(days=max_age_days)
-    merged = {a["id"]: a for a in existing if isinstance(a, dict) and "id" in a and publish_time(a.get("publishedAt"))}
+    merged = {
+        a["id"]: a for a in existing
+        if isinstance(a, dict) and "id" in a
+        and publish_time(a.get("publishedAt"))
+        and informative_excerpt(str(a.get("title", "")), str(a.get("summary", "")))
+    }
     for article in new_articles:
         merged[article["id"]] = article
     ordered = sorted(
