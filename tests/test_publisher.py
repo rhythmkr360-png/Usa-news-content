@@ -88,6 +88,12 @@ class ParsingTests(unittest.TestCase):
         )[0]
         self.assertNotIn('imageUrl', news.candidate(not_dvids, NOW, timedelta(hours=72)))
 
+    def test_headline_repetition_is_not_publishable_news(self):
+        title = 'U.S. Navy announces aircraft carrier training exercise - Publisher'
+        duplicate = 'U.S. Navy announces aircraft carrier training exercise Publisher'
+        item = sample(title=title, description=duplicate)
+        self.assertIsNone(news.candidate(item, NOW, timedelta(hours=72)))
+
     def test_invalid_format_rejected(self):
         with self.assertRaises(ValueError):
             news.parse_syndication(b'<stories><story/></stories>', 'Other')
@@ -158,6 +164,17 @@ class PublishTests(unittest.TestCase):
         current = news.json_file(self.root / 'feed.json', {})
         self.assertEqual(current['articles'], [])
         self.assertNotIn('nextPage', current)
+
+    def test_republishes_to_remove_old_headline_only_summaries(self):
+        record = news.candidate(sample(), NOW, timedelta(hours=72))
+        invalid = dict(record, summary=record['title'] + ' DVIDS')
+        news.store_json(self.root / 'data' / 'articles.json', [invalid])
+        news.store_json(self.root / 'data' / 'seen.json', [record['id']])
+        news.store_json(self.root / 'feed.json', {
+            'version': 1, 'articles': [invalid]
+        })
+        self.assertTrue(news.publish([], NOW, 40))
+        self.assertEqual(news.json_file(self.root / 'feed.json', {})['articles'], [])
 
     def test_dry_run_never_writes(self):
         news.store_json(self.root / 'sources.json', [{'name': 'DVIDS', 'type': 'rss', 'url': 'https://dvidshub.net/rss/news'}])
