@@ -66,3 +66,7 @@ python scripts/update_feed.py
 - **Alerts:** Inspect failed Actions runs. Host delays, RSS changes, rate limits, missing summaries, or insufficient sources can reduce volume. An API error falls back to RSS excerpts, not fabricated stories.
 - **Limitations:** This service collects and writes summaries, but does not do independent fact-checking. Model-based changes should be periodically reviewed by a human before being treated as verified reporting.
 
+
+## Privacy and editorial limits
+
+Read our [Privacy Policy](PRIVACY.md). News categories match the mobile app's filters, and each item must explicitly concern U.S. military reporting. The GitHub Actions publisher starts after qualifying source updates and follows a three-hour schedule; exact run timing and volume are not guaranteed. Automated selection and summaries are **not** independent fact-checking.

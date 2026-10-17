@@ -1,6 +1,13 @@
 name: Refresh U.S. military news
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/publish.yml'
+      - 'scripts/**'
+      - 'sources.json'
+      - 'tests/**'
   schedule:
     - cron: '19 */3 * * *'
   workflow_dispatch:

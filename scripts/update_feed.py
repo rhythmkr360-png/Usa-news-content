@@ -39,13 +39,20 @@ MILITARY_TERMS = re.compile(
     r"dod|usaf|usmc|uss|aircraft|bomber)\b",
     re.IGNORECASE,
 )
+US_TERMS = re.compile(
+    r"\b(united states|american|pentagon|department of defen[sc]e|"
+    r"u\.s\.|u\.s\.a\.|usaf|usmc|ussf|us navy|us army|us air force|"
+    r"u\.s\. navy|u\.s\. army|u\.s\. air force|uss [a-z]|"
+    r"national guard|us coast guard)\b",
+    re.IGNORECASE,
+)
 CATEGORY_TERMS = [
     ("Navy", re.compile(r"\b(navy|naval|sailor|carrier|destroyer|submarine|uss|shipbuilding|fleet)\b", re.I)),
     ("Air Force", re.compile(r"\b(air force|usaf|airmen|bomber|fighter jet|f-35|f-22|b-52|aircraft)\b", re.I)),
     ("Army", re.compile(r"\b(army|soldier|infantry|armored|abrams|artillery|national guard)\b", re.I)),
-    ("Marines", re.compile(r"\b(marines|marine corps|usmc|marine expeditionary)\b", re.I)),
+    ("Marine Corps", re.compile(r"\b(marines|marine corps|usmc|marine expeditionary)\b", re.I)),
     ("Space Force", re.compile(r"\b(space force|ussf|space command|satellite)\b", re.I)),
-    ("Defense Technology", re.compile(r"\b(drone|missile|weapon|radar|technology|hypersonic|cyber|ai system)\b", re.I)),
+    ("Defense", re.compile(r"\b(drone|missile|weapon|radar|technology|hypersonic|cyber|ai system)\b", re.I)),
 ]
 
 
@@ -212,7 +219,8 @@ def candidate(raw: dict[str, str], now: datetime, maximum_age: timedelta) -> dic
     # publisher name, and HTML links. Do not invent a summary from these.
     if len(description) < 65 or description.casefold() in title.casefold() or title.casefold() in description.casefold() and len(description) < len(title) + 45:
         return None
-    if not MILITARY_TERMS.search(title + " " + description):
+    evidence = title + " " + description
+    if not MILITARY_TERMS.search(evidence) or not US_TERMS.search(evidence):
         return None
     category = next((name for name, pattern in CATEGORY_TERMS if pattern.search(title)), "Defense")
     article_id = hashlib.sha256(url.encode("utf-8")).hexdigest()[:24]

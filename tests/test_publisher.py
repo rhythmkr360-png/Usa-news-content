@@ -69,6 +69,26 @@ class ParsingTests(unittest.TestCase):
         b = news.candidate(sample(link='https://www.dvidshub.net/news/1234?utm_campaign=a'), NOW, timedelta(hours=72))
         self.assertEqual(a['id'], b['id'])
 
+    def test_category_labels_match_flutter_filters(self):
+        marine = sample(
+            title='U.S. Marines conduct scheduled exercise at Camp Pendleton',
+            description='U.S. Marine Corps personnel completed an exercise at Camp Pendleton with live-fire training and coordinated ground operations.'
+        )
+        technology = sample(
+            title='Pentagon evaluates new missile radar technology',
+            description='The Pentagon reviewed a missile radar system as part of a United States military defense technology evaluation.'
+        )
+        self.assertEqual(news.candidate(marine, NOW, timedelta(hours=72))['category'], 'Marine Corps')
+        self.assertEqual(news.candidate(technology, NOW, timedelta(hours=72))['category'], 'Defense')
+
+    def test_requires_unambiguous_us_military_evidence(self):
+        other_country = sample(
+            title='Foreign navy completes maritime military exercise',
+            description='The foreign navy carried out a naval deployment with allied vessels, coordinating maritime training and ship movements.'
+        )
+        self.assertIsNone(news.candidate(other_country, NOW, timedelta(hours=72)))
+        self.assertIsNotNone(news.candidate(sample(), NOW, timedelta(hours=72)))
+
 
 class PublishTests(unittest.TestCase):
     def setUp(self):
