@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-18T15:54:31Z",
+  "generatedAt": "2026-10-18T23:16:56Z",
   "articles": [
+    {
+      "id": "99f481d62d702dc9f581868e",
+      "title": "‘Join the National Guard’ for family, says Oregon’s newest general",
+      "summary": "Col. Russell Gibson, assistant adjutant general for the Oregon Army National Guard, was promoted to brigadier general during a ceremony at the 41st Infantry Division Armed Forces Reserve Center in Clackamas, Ore., Oct. 17, 2026. Brig. Gen.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577203/join-national-guard-family-says-oregons-newest-general",
+      "publishedAt": "2026-10-18T22:12:14Z"
+    },
+    {
+      "id": "ee8d6da03e0d689c4801d471",
+      "title": "Voices of the VaANG: Master Sgt. Sabrina Jahner and Tech. Sgt. Stephen Kolmer, Leader Empowerment and Development program instructors",
+      "summary": "Master Sgt. Sabrina Jahner and Tech. Sgt. Stephen Kolmer have been selected as the new instructors to spearhead the Virginia Air National Guard's reignited Leader Empowerment and Development program.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577204/voices-vaang-master-sgt-sabrina-jahner-and-tech-sgt-stephen-kolmer-leader-empowerment-and-development-program-instructors",
+      "publishedAt": "2026-10-18T21:56:28Z"
+    },
+    {
+      "id": "893eb3d1ed64a013d9567b63",
+      "title": "Multi-state RED HORSE units fortify Pacific airfields, advance Agile Combat Employment",
+      "summary": "Civil engineers from the Virginia Air National Guard’s 203rd RED HORSE completed a historic deployment across Guam, Japan and Tinian, partnering with Florida Air National Guard and active-duty units under the 513th Expeditionary RED HORSE banner.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577202/multi-state-red-horse-units-fortify-pacific-airfields-advance-agile-combat-employment",
+      "publishedAt": "2026-10-18T21:38:09Z"
+    },
+    {
+      "id": "8a28c5a8c59de63c5809d86d",
+      "title": "Kansas honors 130th Field Artillery Brigade with homecoming from Operation Epic Fury",
+      "summary": "The Kansas Army National Guard's 130th Field Artillery Brigade was recognized at a Yellow Ribbon reintegration event after a deployment that shifted from the deterrence-focused Operation Spartan Shield to the combat operations of Operation Epic Fury.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577199/kansas-honors-130th-field-artillery-brigade-with-homecoming-operation-epic-fury",
+      "publishedAt": "2026-10-18T21:08:28Z"
+    },
     {
       "id": "502280d31f64fe104775f544",
       "title": "Colonel Retires After 27 Years of Making His Mark on History – And Having Fun",
