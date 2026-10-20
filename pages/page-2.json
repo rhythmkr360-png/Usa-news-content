@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-19T20:36:46Z",
+  "generatedAt": "2026-10-20T00:23:59Z",
   "articles": [
+    {
+      "id": "9247ad03967f2eb4b2806e30",
+      "title": "USS San Antonio (LPD 17) Returns to Norfolk from Deployment to U.S. 4th Fleet Area of Operations",
+      "summary": "NAVAL STATION NORFOLK, Vir. – The first-in-class amphibious transport dock USS San Antonio (LPD 17) returned to Naval Station Norfolk, Oct. 13, 2026, concluding a dynamic deployment to the U.S. 4th Fleet area of operations.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577178/uss-san-antonio-lpd-17-returns-norfolk-deployment-us-4th-fleet-area-operations",
+      "publishedAt": "2026-10-16T21:25:07Z"
+    },
+    {
+      "id": "c3dcd3a6b529a9264f8ca817",
+      "title": "Navy Establishes Seabee Training and Evaluation Unit (STEU) 1 to Drive Pacific Force Readiness",
+      "summary": "The U.S. Navy officially commissioned Seabee Training and Evaluation Unit (STEU) 1 during a ceremony on board Naval Base Ventura County, Port Hueneme, Calif., Oct. 16, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577169/navy-establishes-seabee-training-and-evaluation-unit-steu-1-drive-pacific-force-readiness",
+      "publishedAt": "2026-10-16T20:29:20Z"
+    },
+    {
+      "id": "0dba011592e25663829b99c7",
+      "title": "“The Commandant’s Own” Marks Transition of Leadership, Drum Major Relief and Appointment",
+      "summary": "WASHINGTON — “The Commandant’s Own” United States Marine Drum & Bugle Corps marked a transition in enlisted leadership as Master Gunnery Sgt. Joshua Dannemiller relinquished his duties as the unit’s 26th drum major to Master Gunnery Sgt. David Cox during a relief and appointment ceremony at Marine Barracks Washington, Oct. 16, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577162/commandants-own-marks-transition-leadership-drum-major-relief-and-appointment",
+      "publishedAt": "2026-10-16T20:13:40Z"
+    },
     {
       "id": "97009b7a87aabe1d7bccfc6c",
       "title": "Construction Battalion Maintenance Unit 303 Disestablished After Decades of Expeditionary Excellence",

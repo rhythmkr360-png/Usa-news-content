@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-19T20:36:46Z",
+  "generatedAt": "2026-10-20T00:23:59Z",
   "articles": [
+    {
+      "id": "1bd54c849ea50f391342de81",
+      "title": "Arctic experiment explores ways to close air surveillance gaps",
+      "summary": "U.S. military personnel, scientists and international partners conducted live-fly testing Sept. 7–11, 2026, during the final event of a three-year Arctic air domain awareness experiment series, collecting data to assess technology that could help close surveillance gaps across Alaska.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577397/arctic-experiment-explores-ways-close-air-surveillance-gaps",
+      "publishedAt": "2026-10-19T22:52:53Z"
+    },
+    {
+      "id": "7a8de58d5e7ea7565a2aadfb",
+      "title": "Clackamas Fire and Military Responders Conduct Structural Collapse and Air Mobility Joint Training Exercise",
+      "summary": "Members of the Clackamas Fire Department, Oregon Army National Guard, Oregon Air National Guard, Air Force Reserve, U.S. Coast Guard, and CHAIS, which provides professional handlers and working dogs, participated in a simulated tsunami response mission on October 15, 2026, at Camp Rilea Armed Forces Training Center near Warrenton, Oregon.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577396/clackamas-fire-and-military-responders-conduct-structural-collapse-and-air-mobility-joint-training-exercise",
+      "publishedAt": "2026-10-19T21:52:33Z"
+    },
+    {
+      "id": "1a257c7b2bb4be01ea2ceb1d",
+      "title": "San Diego Native Named Motivator of the Month While Serving with Navy Medicine in Cuba",
+      "summary": "Courtesy story by Ashley Craig, Navy Office of Community Outreach MILLINGTON, Tenn. – Hospitalman Kimberly MartinezInfante, a native of San Diego, California, was recently named Motivator of the Month while serving aboard U.S. Navy Medicine Readiness and Training Command (USNMRTC) Guantanamo Bay at U.S. Naval Hospital Guantanamo Bay, Cuba.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577391/san-diego-native-named-motivator-month-while-serving-with-navy-medicine-cuba",
+      "publishedAt": "2026-10-19T20:39:40Z"
+    },
     {
       "id": "2593ba1c58fbb4cfdc87444d",
       "title": "Logistics exchange strengthens Washington Guard, Malaysia military partnership",
@@ -334,33 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577184/usag-hawaii-dpw-releases-lead-service-line-inventory-public-notification",
       "publishedAt": "2026-10-17T05:12:55Z"
-    },
-    {
-      "id": "9247ad03967f2eb4b2806e30",
-      "title": "USS San Antonio (LPD 17) Returns to Norfolk from Deployment to U.S. 4th Fleet Area of Operations",
-      "summary": "NAVAL STATION NORFOLK, Vir. – The first-in-class amphibious transport dock USS San Antonio (LPD 17) returned to Naval Station Norfolk, Oct. 13, 2026, concluding a dynamic deployment to the U.S. 4th Fleet area of operations.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577178/uss-san-antonio-lpd-17-returns-norfolk-deployment-us-4th-fleet-area-operations",
-      "publishedAt": "2026-10-16T21:25:07Z"
-    },
-    {
-      "id": "c3dcd3a6b529a9264f8ca817",
-      "title": "Navy Establishes Seabee Training and Evaluation Unit (STEU) 1 to Drive Pacific Force Readiness",
-      "summary": "The U.S. Navy officially commissioned Seabee Training and Evaluation Unit (STEU) 1 during a ceremony on board Naval Base Ventura County, Port Hueneme, Calif., Oct. 16, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577169/navy-establishes-seabee-training-and-evaluation-unit-steu-1-drive-pacific-force-readiness",
-      "publishedAt": "2026-10-16T20:29:20Z"
-    },
-    {
-      "id": "0dba011592e25663829b99c7",
-      "title": "“The Commandant’s Own” Marks Transition of Leadership, Drum Major Relief and Appointment",
-      "summary": "WASHINGTON — “The Commandant’s Own” United States Marine Drum & Bugle Corps marked a transition in enlisted leadership as Master Gunnery Sgt. Joshua Dannemiller relinquished his duties as the unit’s 26th drum major to Master Gunnery Sgt. David Cox during a relief and appointment ceremony at Marine Barracks Washington, Oct. 16, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577162/commandants-own-marks-transition-leadership-drum-major-relief-and-appointment",
-      "publishedAt": "2026-10-16T20:13:40Z"
     }
   ],
   "nextPage": "pages/page-2.json"
