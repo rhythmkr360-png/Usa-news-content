@@ -1,7 +1,106 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T19:18:57Z",
+  "generatedAt": "2026-10-20T23:55:33Z",
   "articles": [
+    {
+      "id": "6692023fd7d63de5a84ce0e3",
+      "title": "Recap: Autonomy dominates the US Army’s 2026 conference in Washington",
+      "summary": "Dominating displays at this year’s show was an unmistakable surge in automation and unmanned systems, as well as weaponry and vehicle capabilities.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/recap/ausa/2026/10/16/recap-autonomy-dominates-the-us-armys-2026-conference-in-washington/",
+      "publishedAt": "2026-10-16T12:17:46Z"
+    },
+    {
+      "id": "66c230e35a349253a12e9f17",
+      "title": "Blood supplies, autonomous systems shape US Army’s Indo-Pacific combat care plans",
+      "summary": "18th Theater Medical Command leaders are experimenting with ways to prolong care in a theater where the \"Golden Hour\" standard is difficult to maintain.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/14/blood-supplies-autonomous-systems-shape-us-armys-indo-pacific-combat-care-plans/",
+      "publishedAt": "2026-10-16T12:00:00Z"
+    },
+    {
+      "id": "6ec1b04a44940fb06c4a04ca",
+      "title": "What is the US Army doing in Panama? A bit of everything.",
+      "summary": "As Washington shifts its attention toward the Western Hemisphere, a reinvigorated jungle school is just one part of the evolving U.S. presence in Panama.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/14/what-is-the-us-army-doing-in-panama-a-bit-of-everything/",
+      "publishedAt": "2026-10-16T10:00:00Z"
+    },
+    {
+      "id": "47101c95f851d1a8bf273558",
+      "title": "Killer balloons an option as US Army seeks to ‘exploit the stratosphere’",
+      "summary": "While using balloons as shooters likely presents more challenges than using them for sensing, nothing is off the table, an Army official said.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/15/killer-balloons-an-option-as-us-army-seeks-to-exploit-the-stratosphere/",
+      "publishedAt": "2026-10-15T23:00:00Z"
+    },
+    {
+      "id": "291c8e75dcd5989b70d89579",
+      "title": "Ukrainian officials blame Pentagon for withholding life-saving intel from Kyiv",
+      "summary": "The U.S. appears to have stopped sharing some forms of key intelligence with Kyiv, Ukrainian officials said Wednesday.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/global/2026/10/15/ukrainian-officials-blame-pentagon-for-withholding-life-saving-intel-from-kyiv/",
+      "publishedAt": "2026-10-15T22:00:48Z"
+    },
+    {
+      "id": "137be50514663882325ffda2",
+      "title": "Expanded dining options popular among soldiers, US Army officials say",
+      "summary": "“Chow halls operated on decades-old schedules that clashed with modern soldier work shifts,” one U.S. Army official said.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/15/expanded-dining-options-popular-among-soldiers-us-army-officials-say/",
+      "publishedAt": "2026-10-15T21:30:00Z"
+    },
+    {
+      "id": "2a9ecb2279976650ff0a757d",
+      "title": "US Army eyes developing soldier-worn drone detection gear",
+      "summary": "The Army is in the early stages of developing and testing a wearable or lightweight device that could alert soldiers to the presence of hostile drones.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-army-eyes-developing-soldier-worn-drone-detection-gear/",
+      "publishedAt": "2026-10-15T20:00:00Z"
+    },
+    {
+      "id": "a1fd623a923a9d6718e1ca49",
+      "title": "US Army to stand up second expeditionary cyber battalion in coming months",
+      "summary": "The head of U.S. Army Cyber Command said this week that the service would be building an exact replica of the 11th Cyber Battalion in the next few months.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/14/us-army-to-stand-up-second-expeditionary-cyber-battalion-in-coming-months/",
+      "publishedAt": "2026-10-15T17:00:00Z"
+    },
+    {
+      "id": "c41c9cfa0feaab241b285d5e",
+      "title": "Trump reverses Pentagon’s plan to livestream Hasan execution",
+      "summary": "President Donald Trump posted on social media that the execution would still occur at Fort Hood, Texas, by firing squad, but would not be livestreamed to the general public. The post Trump reverses Pentagon’s plan to livestream Hasan execution appeared first on Task & Purpose .",
+      "category": "Defense",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/trump-cancels-nidal-hasan-livestream/",
+      "publishedAt": "2026-10-15T15:23:01Z"
+    },
+    {
+      "id": "c6b8d8dc43c021e9ccb5372e",
+      "title": "Report to Congress on North Korea’s Nuclear Weapons and Missile Programs",
+      "summary": "The following is the Oct. 13, 2026, Congressional Research Service report, North Korea’s Nuclear Weapons and Missile Programs.",
+      "category": "Defense",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/15/report-to-congress-on-north-koreas-nuclear-weapons-and-missile-programs-5",
+      "publishedAt": "2026-10-15T14:12:17Z"
+    },
+    {
+      "id": "ca2b2de8e4fb6497f1445090",
+      "title": "Pentagon seeks expertise to develop brain injury assessment standards",
+      "summary": "The Defense Department is seeking a variety of information that can help in formulating standards for assessing mild traumatic brain injuries, or mTBI.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/15/pentagon-seeks-expertise-to-develop-brain-injury-assessment-standards/",
+      "publishedAt": "2026-10-15T14:00:00Z"
+    },
     {
       "id": "8d7c2646e746b944b8e15bb0",
       "title": "VIDEO: F-35C Lands on New Navy Aircraft Carrier Class for First Time",
