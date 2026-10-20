@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T08:37:11Z",
+  "generatedAt": "2026-10-20T14:20:23Z",
   "articles": [
+    {
+      "id": "9df574f573acd02295d071c0",
+      "title": "Six Soldier-athletes to represent Army WCAP at United World Wrestling Championships in Kazakhstan",
+      "summary": "Six Soldier-athletes from the U.S. Army World Class Athlete Program will carry Army pride and medal ambitions on to wrestling’s biggest international stage.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577196/six-soldier-athletes-represent-army-wcap-united-world-wrestling-championships-kazakhstan",
+      "publishedAt": "2026-10-18T14:32:31Z"
+    },
+    {
+      "id": "e896af83457350bd76b2be2d",
+      "title": "A final flight, a new chapter: 944th Operations Group welcomes new commander",
+      "summary": "An F-16 Fighting Falcon from Holloman Air Force Base stood alongside an F-35 Lightning II inside Hangar 999 at Luke Air Force Base, Ariz.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577193/final-flight-new-chapter-944th-operations-group-welcomes-new-commander",
+      "publishedAt": "2026-10-17T23:05:39Z"
+    },
+    {
+      "id": "348356d76953324dfe49f8bd",
+      "title": "Pentagon’s wireless services left locations, data exposed, watchdog finds",
+      "summary": "Security vulnerabilities meant that malicious groups could “pinpoint sensitive locations like safe houses or command posts, and expose operational vulnerabilities, significantly compromising national security.” The post Pentagon’s wireless services left locations, data exposed, watchdog finds appeared first on Task & Purpose .",
+      "category": "Defense",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/pentagon-wireless-location-services-exposed/",
+      "publishedAt": "2026-10-17T20:19:05Z"
+    },
     {
       "id": "8b4f9d63c4ebfa436afa2a56",
       "title": "Unlocking the War Chest: How a Trip to Belleau Wood Bound Five Generations of Service",
