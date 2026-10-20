@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T00:23:59Z",
+  "generatedAt": "2026-10-20T08:37:11Z",
   "articles": [
+    {
+      "id": "6ba95978f87eac9ebaf99af6",
+      "title": "ROK, U.S. Airmen unite during Korean-American Friendship Day at Kunsan AB",
+      "summary": "KUNSAN AIR BASE, Republic of Korea -- Airmen from the U.S. Air Force’s 8th Fighter Wing and the Republic of Korea Air Force’s 38th Fighter Group united for the tenth annual Korean-American Friendship Day at Kunsan Air Base, ROK., Oct. 16, 2026. Korean-American Friendship Day is the largest annual bilateral event hosted at Kunsan AB. ROKAF and U.S.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577400/rok-us-airmen-unite-during-korean-american-friendship-day-kunsan-ab",
+      "publishedAt": "2026-10-20T07:52:26Z"
+    },
+    {
+      "id": "88aa2d2ee412b91241e09195",
+      "title": "U.S. Navy, Republic of Korea Navy conclude combined Maritime Mine Countermeasures Exercise 2026",
+      "summary": "The U.S. Navy, Republic of Korea (ROK) Navy, and 15 partner nations successfully concluded the ninth Multi-National Mine Warfare Exercise 2026 (MNMIWEX 26) off the southeast coast of Busan, Oct. 16, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577399/us-navy-republic-korea-navy-conclude-combined-maritime-mine-countermeasures-exercise-2026",
+      "publishedAt": "2026-10-20T07:26:34Z"
+    },
+    {
+      "id": "13de261dc7d9616b7fb49757",
+      "title": "Bridging Cultures: Japanese youth, U.S. Soldiers find common ground",
+      "summary": "CAMP ZAMA, Japan – Soldiers here hosted a community outreach event Oct. 3 to strengthen ties and build cross-cultural connections with local Japanese youth through a day of interactive games, a shared meal, and shared fellowship.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577398/bridging-cultures-japanese-youth-us-soldiers-find-common-ground",
+      "publishedAt": "2026-10-20T06:53:00Z"
+    },
     {
       "id": "1bd54c849ea50f391342de81",
       "title": "Arctic experiment explores ways to close air surveillance gaps",
@@ -334,33 +361,6 @@
       "sourceName": "Task & Purpose",
       "sourceUrl": "https://taskandpurpose.com/news/pentagon-wireless-location-services-exposed/",
       "publishedAt": "2026-10-17T20:19:05Z"
-    },
-    {
-      "id": "8b4f9d63c4ebfa436afa2a56",
-      "title": "Unlocking the War Chest: How a Trip to Belleau Wood Bound Five Generations of Service",
-      "summary": "Thousands of American service members fought with everything they had at the Battle of Belleau Wood. Some returned home, while others took their last breaths in the blood-stained wheat fields. More than a century later, 1st Lt. Nicholaus Adams stood on those same hallowed grounds, walking in the exact footsteps of his great-great-grandfather, U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577188/unlocking-war-chest-trip-belleau-wood-bound-five-generations-service",
-      "publishedAt": "2026-10-17T18:07:50Z"
-    },
-    {
-      "id": "d0af53084b86c661081fc2cb",
-      "title": "Maine National Guard, Coast Guard strengthen search and rescue partnership through joint training",
-      "summary": "The Maine National Guard and U.S. Coast Guard conducted a joint search and rescue training exercise Oct. 7, simulating a search for a missing kayaker at Acadia National Park to strengthen coordination between the two organizations and improve emergency response capabilities.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577185/maine-national-guard-coast-guard-strengthen-search-and-rescue-partnership-through-joint-training",
-      "publishedAt": "2026-10-17T17:20:07Z"
-    },
-    {
-      "id": "15b4cf7e6b4576e3d7458173",
-      "title": "USAG Hawaii DPW releases lead service line inventory public notification",
-      "summary": "The U.S. Army Garrison (USAG) Hawaii has updated the Lead Service Line Inventories. (LSLI) required by U.S. EPA’s Lead and Copper Rule Revisions for its water systems and are now available for review. The deadline for the inventories update is October 16, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577184/usag-hawaii-dpw-releases-lead-service-line-inventory-public-notification",
-      "publishedAt": "2026-10-17T05:12:55Z"
     }
   ],
   "nextPage": "pages/page-2.json"
