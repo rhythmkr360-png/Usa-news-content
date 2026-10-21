@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T04:54:28Z",
+  "generatedAt": "2026-10-21T11:55:28Z",
   "articles": [
+    {
+      "id": "9f332f5d619c5e1967b4f796",
+      "title": "Pentagon, BAE sign deal for up to 25,000 precision-guided munition kits a year",
+      "summary": "The Pentagon and BAE Systems signed a framework agreement for up to 25,000 Advanced Precision Kill Weapon System, or APKWS, guidance kits a year.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year/",
+      "publishedAt": "2026-10-19T18:50:11Z"
+    },
     {
       "id": "a60ad131d7b585f5d8bdafff",
       "title": "Lt. Gen. Hilbert discusses Eighth Army’s role in Northeast Asia",
@@ -352,15 +361,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/16/us-armys-8th-psychological-operations-group-inactivated/",
       "publishedAt": "2026-10-16T18:30:00Z"
-    },
-    {
-      "id": "443e3652535b451734d03a0c",
-      "title": "Hundreds of 10th Mountain Division soldiers deploying to Latin America",
-      "summary": "Roughly 500 soldiers will support ongoing exercises with partners as the U.S. expands military operations against cartels. The post Hundreds of 10th Mountain Division soldiers deploying to Latin America appeared first on Task & Purpose .",
-      "category": "Defense",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/army-10th-mountain-division-latin-america/",
-      "publishedAt": "2026-10-16T18:14:46Z"
     }
   ],
   "nextPage": "page-3.json"

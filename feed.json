@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T04:54:28Z",
+  "generatedAt": "2026-10-21T11:55:28Z",
   "articles": [
+    {
+      "id": "6e252609d5cc0804f36a8969",
+      "title": "U.S. Army, Colombian senior military leaders converge at Fort Bragg for bi-annual exchange",
+      "summary": "FORT BRAGG, N.C. — U.S. Army Western Hemisphere Command welcomed a 12-member Colombian senior enlisted delegation Oct.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577482/us-army-colombian-senior-military-leaders-converge-fort-bragg-bi-annual-exchange",
+      "publishedAt": "2026-10-21T11:04:53Z"
+    },
     {
       "id": "a6b0ee1e6b3399313deb63ce",
       "title": "Wolf Pack tests radiological response readiness during exercise Radiant Falcon",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577388/us-army-stand-down-connects-soldiers-with-voting-assistance-vicenza-italy",
       "publishedAt": "2026-10-19T19:39:51Z"
-    },
-    {
-      "id": "9f332f5d619c5e1967b4f796",
-      "title": "Pentagon, BAE sign deal for up to 25,000 precision-guided munition kits a year",
-      "summary": "The Pentagon and BAE Systems signed a framework agreement for up to 25,000 Advanced Precision Kill Weapon System, or APKWS, guidance kits a year.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year/",
-      "publishedAt": "2026-10-19T18:50:11Z"
     }
   ],
   "nextPage": "pages/page-2.json"
