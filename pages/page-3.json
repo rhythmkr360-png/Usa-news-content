@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T23:55:33Z",
+  "generatedAt": "2026-10-21T04:54:28Z",
   "articles": [
+    {
+      "id": "b5c15b0f978b762c2b327382",
+      "title": "Army Lays Out New Plan for Prolonged Fight in First Island Chain",
+      "summary": "The U.S. Army laid out its plans to prepare for a prolonged fight in the Pacific along the First Island Chain in the service’s new warfighting guidance released this month. For decades, the ground branch has oriented troops against insurgent threats and high-intensity combat operations from the Middle East, Europe and the Korean Peninsula.",
+      "category": "Army",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/16/army-lays-out-new-plan-for-prolonged-fight-in-first-island-chain",
+      "publishedAt": "2026-10-16T17:08:15Z"
+    },
+    {
+      "id": "043fcfda1cbd9219f052a189",
+      "title": "‘Weaponized light’: KBR’s new base defense technology pits lasers against drones",
+      "summary": "The Pentagon recently selected KBR's Firefly system for a pilot program to test defending U.S. military installations against adversarial drones.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/15/weaponized-light-kbrs-new-base-defense-technology-pits-lasers-against-drones/",
+      "publishedAt": "2026-10-16T14:00:00Z"
+    },
     {
       "id": "6692023fd7d63de5a84ce0e3",
       "title": "Recap: Autonomy dominates the US Army’s 2026 conference in Washington",

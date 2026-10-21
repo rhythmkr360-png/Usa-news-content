@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T23:55:33Z",
+  "generatedAt": "2026-10-21T04:54:28Z",
   "articles": [
+    {
+      "id": "a6b0ee1e6b3399313deb63ce",
+      "title": "Wolf Pack tests radiological response readiness during exercise Radiant Falcon",
+      "summary": "KUNSAN AIR BASE, Republic of Korea - U.S. Air Force Airmen assigned to the 8th Fighter Wing and 51st Medical Group participated in exercise Radiant Falcon at Kunsan Air Base, Republic of Korea, Oct. 5-8, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577484/wolf-pack-tests-radiological-response-readiness-during-exercise-radiant-falcon",
+      "publishedAt": "2026-10-21T02:48:44Z"
+    },
+    {
+      "id": "28966ec28811ac7e26c40212",
+      "title": "Nevada Guard Transportation Company Deploys for Southern Border Mission",
+      "summary": "The Nevada Army National Guard’s 1859th Light-Medium Transportation Company has deployed 125 soldiers to the U.S. southern border to support the Department of Homeland Security and U.S. Customs and Border Protection, marking the unit’s first mobilization in its 10-year history.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577483/nevada-guard-transportation-company-deploys-southern-border-mission",
+      "publishedAt": "2026-10-21T01:29:07Z"
+    },
     {
       "id": "9cbadacf2ddbbce2130fd50f",
       "title": "Return to the Bay: San Francisco Fleet Week 2026 Recap",
@@ -343,24 +361,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year/",
       "publishedAt": "2026-10-19T18:50:11Z"
-    },
-    {
-      "id": "a60ad131d7b585f5d8bdafff",
-      "title": "Lt. Gen. Hilbert discusses Eighth Army’s role in Northeast Asia",
-      "summary": "Senior leader highlights the command’s support to U.S. Forces Korea and regional deterrence.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577382/lt-gen-hilbert-discusses-eighth-armys-role-northeast-asia",
-      "publishedAt": "2026-10-19T18:49:31Z"
-    },
-    {
-      "id": "240b7a7edc5210b5906a83c0",
-      "title": "U.S. Marine Corps Stands Up First NMESIS Anti-ship Missile Battalion",
-      "summary": "The U.S. Marine Corps stood up its first Medium-range Missile Battalion last week as the service works to integrate longer range and maritime strike capabilities across the force.",
-      "category": "Marine Corps",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/19/u-s-marine-corps-stands-up-first-nmesis-anti-ship-missile-battalion",
-      "publishedAt": "2026-10-19T17:45:08Z"
     }
   ],
   "nextPage": "pages/page-2.json"
