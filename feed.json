@@ -1,7 +1,97 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T11:55:28Z",
+  "generatedAt": "2026-10-21T17:15:56Z",
   "articles": [
+    {
+      "id": "20101045f53096f3fc1484e7",
+      "title": "Hydra Brigade Welcomes New Command Sergeant Major",
+      "summary": "The Georgia Army National Guard’s 648th Maneuver Enhancement Brigade welcomed Command Sgt. Maj. Matthew Eubank as its new senior enlisted leader during a change-of-responsibility ceremony at Clay National Guard Center in Marietta, Georgia, Oct. 18, 2026. Eubank succeeded Command Sgt. Maj.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577530/hydra-brigade-welcomes-new-command-sergeant-major",
+      "publishedAt": "2026-10-21T17:05:25Z"
+    },
+    {
+      "id": "57363ae5199745323643de90",
+      "title": "Commander of Air Combat Command tours Luke AFB",
+      "summary": "U.S. Air Force Gen. Adrian Spain, commander of Air Combat Command, recently visited Luke Air Force Base to engage with Airmen and observe how the 56th Fighter Wing develops combat-ready Airmen and fighter pilots.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577528/commander-air-combat-command-tours-luke-afb",
+      "publishedAt": "2026-10-21T16:11:01Z"
+    },
+    {
+      "id": "f57798343cae0af6390fdd17",
+      "title": "Pentagon AI oversight office struggles to keep pace with department’s ambitions, GAO finds",
+      "summary": "The Pentagon office tapped in 2022 to oversee the military’s responsible use of AI had filled just three of 10 authorized positions as of February 2026.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/10/21/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds/",
+      "publishedAt": "2026-10-21T15:55:31Z"
+    },
+    {
+      "id": "0d1f1bffb928bb565253daa6",
+      "title": "Road to NTC: Light support battalion moves mountains (and Humvees)",
+      "summary": "Soldiers assigned to the Washington Army National Guard's 181st Light Support Battalion conducted a two-day deployment readiness exercise at Joint Base Lewis-McChord, Washington, Oct. 15–16, 2026, as part of preparations for an upcoming National Training Center rotation at Fort Irwin, California.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577518/road-ntc-light-support-battalion-moves-mountains-and-humvees",
+      "publishedAt": "2026-10-21T15:41:05Z"
+    },
+    {
+      "id": "688d75b1d83e227038386f87",
+      "title": "Critical Industrial Base Facility Breaks Ground Thanks to Australian Submarine Industrial Base Contribution",
+      "summary": "U.S. Navy leaders joined industry partners, members of the Jackson County Economic Development Foundation, Inc., and representatives from the Australian Embassy to break ground on a new facility in Pascagoula, Miss., that will manufacture critical components for in-service and new-construction submarines.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577523/critical-industrial-base-facility-breaks-ground-thanks-australian-submarine-industrial-base-contribution",
+      "publishedAt": "2026-10-21T15:36:08Z"
+    },
+    {
+      "id": "e8967dbb84e043ba8faf2e90",
+      "title": "Got milk? US Army refines its pasteurization power",
+      "summary": "Thirteen U.S. Army Veterinary Corps officers milked a trip to Denmark last month, completing Europe Dairy Pasteurization Audit Training.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power/",
+      "publishedAt": "2026-10-21T15:18:41Z"
+    },
+    {
+      "id": "5d0e2b28dcf31c0240858982",
+      "title": "ILLINOIS ARMY NATIONAL GUARD OFFICER PROMOTED TO MAJOR",
+      "summary": "Capt. Thaddaeus Carr was promoted to major during a ceremony on Oct. 18 at Cantigny Park in Wheaton, Illinois, recognizing his military service, professional development and contributions to military intelligence.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577515/illinois-army-national-guard-officer-promoted-major",
+      "publishedAt": "2026-10-21T15:07:45Z"
+    },
+    {
+      "id": "bfc2d906e7d5818f3eac67dd",
+      "title": "Colorado Army National Guard hosts first U.S. based Eager Lion exercise",
+      "summary": "The Colorado Army National Guard hosted Eager Lion 2026 at the 168th Regional Training Institute, Fort Carson, Colorado, Sept. 15–25, 2026. Historically held exclusively in the Hashemite Kingdom of Jordan as U.S.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577512/colorado-army-national-guard-hosts-first-us-based-eager-lion-exercise",
+      "publishedAt": "2026-10-21T14:36:59Z"
+    },
+    {
+      "id": "051e848ce6bb34beac264e3a",
+      "title": "Timing to roll out US Army’s NGC2 depends on funds, commander says",
+      "summary": "The head of the Army formation responsible for fielding the Next Generation Command and Control system said the timeline depends on resources available.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/21/timing-to-roll-out-us-armys-ngc2-depends-on-funds-commander-says/",
+      "publishedAt": "2026-10-21T13:59:36Z"
+    },
+    {
+      "id": "f378c9b91996ae09563e54f5",
+      "title": "Report to Congress on Russia’s Arctic Military Posture",
+      "summary": "The following is the Oct. 14, 2026, Congressional Research Service report, Russia’s Arctic Military Posture: Considerations for Congress. From the Report The Arctic is a key strategic region for Russia with significant military and economic implications.",
+      "category": "Defense",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/21/report-to-congress-on-russias-arctic-military-posture",
+      "publishedAt": "2026-10-21T13:56:42Z"
+    },
     {
       "id": "6e252609d5cc0804f36a8969",
       "title": "U.S. Army, Colombian senior military leaders converge at Fort Bragg for bi-annual exchange",
@@ -271,96 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577403/army-medical-service-corps-officer-serves-liaison-german-military-medical-forces",
       "publishedAt": "2026-10-20T11:32:23Z"
-    },
-    {
-      "id": "66be215f1ec3609e1cf0f892",
-      "title": "Tip of the spear, or stranded on beaches? Chinese planners dissect USMC Pacific posture",
-      "summary": "Understanding these dynamics, American leaders should recalibrate and opt to rely less on forward defense, writes analyst Lyle Goldstein.",
-      "category": "Marine Corps",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/opinion/2026/10/20/tip-of-the-spear-or-stranded-on-beaches-chinese-planners-dissect-usmc-pacific-posture/",
-      "publishedAt": "2026-10-20T09:09:33Z"
-    },
-    {
-      "id": "6ba95978f87eac9ebaf99af6",
-      "title": "ROK, U.S. Airmen unite during Korean-American Friendship Day at Kunsan AB",
-      "summary": "KUNSAN AIR BASE, Republic of Korea -- Airmen from the U.S. Air Force’s 8th Fighter Wing and the Republic of Korea Air Force’s 38th Fighter Group united for the tenth annual Korean-American Friendship Day at Kunsan Air Base, ROK., Oct. 16, 2026. Korean-American Friendship Day is the largest annual bilateral event hosted at Kunsan AB. ROKAF and U.S.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577400/rok-us-airmen-unite-during-korean-american-friendship-day-kunsan-ab",
-      "publishedAt": "2026-10-20T07:52:26Z"
-    },
-    {
-      "id": "88aa2d2ee412b91241e09195",
-      "title": "U.S. Navy, Republic of Korea Navy conclude combined Maritime Mine Countermeasures Exercise 2026",
-      "summary": "The U.S. Navy, Republic of Korea (ROK) Navy, and 15 partner nations successfully concluded the ninth Multi-National Mine Warfare Exercise 2026 (MNMIWEX 26) off the southeast coast of Busan, Oct. 16, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577399/us-navy-republic-korea-navy-conclude-combined-maritime-mine-countermeasures-exercise-2026",
-      "publishedAt": "2026-10-20T07:26:34Z"
-    },
-    {
-      "id": "13de261dc7d9616b7fb49757",
-      "title": "Bridging Cultures: Japanese youth, U.S. Soldiers find common ground",
-      "summary": "CAMP ZAMA, Japan – Soldiers here hosted a community outreach event Oct. 3 to strengthen ties and build cross-cultural connections with local Japanese youth through a day of interactive games, a shared meal, and shared fellowship.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577398/bridging-cultures-japanese-youth-us-soldiers-find-common-ground",
-      "publishedAt": "2026-10-20T06:53:00Z"
-    },
-    {
-      "id": "1bd54c849ea50f391342de81",
-      "title": "Arctic experiment explores ways to close air surveillance gaps",
-      "summary": "U.S. military personnel, scientists and international partners conducted live-fly testing Sept. 7–11, 2026, during the final event of a three-year Arctic air domain awareness experiment series, collecting data to assess technology that could help close surveillance gaps across Alaska.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577397/arctic-experiment-explores-ways-close-air-surveillance-gaps",
-      "publishedAt": "2026-10-19T22:52:53Z"
-    },
-    {
-      "id": "7a8de58d5e7ea7565a2aadfb",
-      "title": "Clackamas Fire and Military Responders Conduct Structural Collapse and Air Mobility Joint Training Exercise",
-      "summary": "Members of the Clackamas Fire Department, Oregon Army National Guard, Oregon Air National Guard, Air Force Reserve, U.S. Coast Guard, and CHAIS, which provides professional handlers and working dogs, participated in a simulated tsunami response mission on October 15, 2026, at Camp Rilea Armed Forces Training Center near Warrenton, Oregon.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577396/clackamas-fire-and-military-responders-conduct-structural-collapse-and-air-mobility-joint-training-exercise",
-      "publishedAt": "2026-10-19T21:52:33Z"
-    },
-    {
-      "id": "1a257c7b2bb4be01ea2ceb1d",
-      "title": "San Diego Native Named Motivator of the Month While Serving with Navy Medicine in Cuba",
-      "summary": "Courtesy story by Ashley Craig, Navy Office of Community Outreach MILLINGTON, Tenn. – Hospitalman Kimberly MartinezInfante, a native of San Diego, California, was recently named Motivator of the Month while serving aboard U.S. Navy Medicine Readiness and Training Command (USNMRTC) Guantanamo Bay at U.S. Naval Hospital Guantanamo Bay, Cuba.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577391/san-diego-native-named-motivator-month-while-serving-with-navy-medicine-cuba",
-      "publishedAt": "2026-10-19T20:39:40Z"
-    },
-    {
-      "id": "2593ba1c58fbb4cfdc87444d",
-      "title": "Logistics exchange strengthens Washington Guard, Malaysia military partnership",
-      "summary": "Logistics experts from the Washington National Guard and Royal Malaysian Armed Forces participated in a subject matter expert exchange at Camp Murray, Wash., Sept. 21-25, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577390/logistics-exchange-strengthens-washington-guard-malaysia-military-partnership",
-      "publishedAt": "2026-10-19T20:11:24Z"
-    },
-    {
-      "id": "e6bed6cbc6f4fe76dc020645",
-      "title": "Tracking America’s latest conflict: The Iran war timeline",
-      "summary": "To date, at least 21 American service members have been killed and hundreds more wounded. The post Tracking America’s latest conflict: The Iran war timeline appeared first on Task & Purpose .",
-      "category": "Defense",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/iran-war-timeline/",
-      "publishedAt": "2026-10-19T19:56:42Z"
-    },
-    {
-      "id": "6b86fda199e5a8936f9def7e",
-      "title": "U.S. Army stand-down connects Soldiers with voting assistance in Vicenza, Italy",
-      "summary": "Secretary of War Pete Hegseth's directive of U.S. Army stand-down connects Soldiers with voting assistance in Vicenza, Italy",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577388/us-army-stand-down-connects-soldiers-with-voting-assistance-vicenza-italy",
-      "publishedAt": "2026-10-19T19:39:51Z"
     }
   ],
   "nextPage": "pages/page-2.json"
