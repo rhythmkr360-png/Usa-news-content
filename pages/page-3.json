@@ -1,7 +1,151 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T17:14:11Z",
+  "generatedAt": "2026-10-22T21:39:57Z",
   "articles": [
+    {
+      "id": "549fa1723df8026b4022c513",
+      "title": "Soldiers put Picatinny’s Common Lethality Integration Kit to the test at PC‑C6",
+      "summary": "PICATINNY ARSENAL, N.J. - One of the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center’s proudest accomplishments stood front and center before the warfighter in July, as Soldiers attending Project Convergence-Capstone 6 (PC-C6) tested out the Picatinny Common Lethality Integration Kit (CLIK).",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577435/soldiers-put-picatinnys-common-lethality-integration-kit-test-pc-c6",
+      "publishedAt": "2026-10-20T16:19:12Z"
+    },
+    {
+      "id": "07974fe69cd520b421b29feb",
+      "title": "Chinese Navy Shadows USS Charleston Near Contested Sabina Shoal",
+      "summary": "MANILA, Philippines — USS Charleston (LCS-18) was tracked by Chinese forces on Tuesday after the ship “illegally intruded” into the area surrounding a contested South China Sea maritime feature, according to Beijing. Chinese forces were dispatched to monitor the Independence-class LCS near Sabina Shoal early Tuesday, the PLA said.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/20/chinese-navy-shadows-uss-charleston-near-contested-sabina-shoal",
+      "publishedAt": "2026-10-20T15:55:24Z"
+    },
+    {
+      "id": "0d5941c7e5519c5db4c60c8e",
+      "title": "Utah EOD Airmen adapt dismounted operations to emerging drone threats",
+      "summary": "The battlefield is changing. Drones can turn the sky into a threat, explosive hazards can hide in unfamiliar terrain, and the equipment needed to survive a mission may be limited to what an Airman can carry on their back.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577432/utah-eod-airmen-adapt-dismounted-operations-emerging-drone-threats",
+      "publishedAt": "2026-10-20T15:47:39Z"
+    },
+    {
+      "id": "687f69dbfde02514c114c35c",
+      "title": "US Navy, Gecko Robotics surge AI maintenance contract to $300M",
+      "summary": "Gecko Robotics uses drones, wall-climbing robots and fixed sensors to gather data on components, decks, welds and hulls.",
+      "category": "Navy",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/your-navy/2026/10/20/us-navy-gecko-robotics-surge-ai-maintenance-contract-to-300m/",
+      "publishedAt": "2026-10-20T15:15:32Z"
+    },
+    {
+      "id": "f17ef35ff37e13c27406eabc",
+      "title": "Army Veterinary Officers Complete Specialized Dairy Pasteurizer Audit Training in Denmark",
+      "summary": "Thirteen U.S. Army Veterinary Corps officers recently completed Europe Dairy Pasteurizer Audit Training in Kolding, Denmark by participating in specialized technical instruction and on-site field evaluations across eight Danish dairy manufacturing facilities.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577409/army-veterinary-officers-complete-specialized-dairy-pasteurizer-audit-training-denmark",
+      "publishedAt": "2026-10-20T13:10:42Z"
+    },
+    {
+      "id": "1c3104978ae016d106dbe022",
+      "title": "Army Medical Service Corps Officer Serves as Liaison to German Military Medical Forces",
+      "summary": "The U.S. Army Medical Command recently established its first medical officer liaison position with the German military’s medical service in Bonn, Germany. Col. Kenneth Spicer, a U.S. Army Medical Service Corps officer, assumed the role in August 2025.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577403/army-medical-service-corps-officer-serves-liaison-german-military-medical-forces",
+      "publishedAt": "2026-10-20T11:32:23Z"
+    },
+    {
+      "id": "66be215f1ec3609e1cf0f892",
+      "title": "Tip of the spear, or stranded on beaches? Chinese planners dissect USMC Pacific posture",
+      "summary": "Understanding these dynamics, American leaders should recalibrate and opt to rely less on forward defense, writes analyst Lyle Goldstein.",
+      "category": "Marine Corps",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/opinion/2026/10/20/tip-of-the-spear-or-stranded-on-beaches-chinese-planners-dissect-usmc-pacific-posture/",
+      "publishedAt": "2026-10-20T09:09:33Z"
+    },
+    {
+      "id": "6ba95978f87eac9ebaf99af6",
+      "title": "ROK, U.S. Airmen unite during Korean-American Friendship Day at Kunsan AB",
+      "summary": "KUNSAN AIR BASE, Republic of Korea -- Airmen from the U.S. Air Force’s 8th Fighter Wing and the Republic of Korea Air Force’s 38th Fighter Group united for the tenth annual Korean-American Friendship Day at Kunsan Air Base, ROK., Oct. 16, 2026. Korean-American Friendship Day is the largest annual bilateral event hosted at Kunsan AB. ROKAF and U.S.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577400/rok-us-airmen-unite-during-korean-american-friendship-day-kunsan-ab",
+      "publishedAt": "2026-10-20T07:52:26Z"
+    },
+    {
+      "id": "88aa2d2ee412b91241e09195",
+      "title": "U.S. Navy, Republic of Korea Navy conclude combined Maritime Mine Countermeasures Exercise 2026",
+      "summary": "The U.S. Navy, Republic of Korea (ROK) Navy, and 15 partner nations successfully concluded the ninth Multi-National Mine Warfare Exercise 2026 (MNMIWEX 26) off the southeast coast of Busan, Oct. 16, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577399/us-navy-republic-korea-navy-conclude-combined-maritime-mine-countermeasures-exercise-2026",
+      "publishedAt": "2026-10-20T07:26:34Z"
+    },
+    {
+      "id": "13de261dc7d9616b7fb49757",
+      "title": "Bridging Cultures: Japanese youth, U.S. Soldiers find common ground",
+      "summary": "CAMP ZAMA, Japan – Soldiers here hosted a community outreach event Oct. 3 to strengthen ties and build cross-cultural connections with local Japanese youth through a day of interactive games, a shared meal, and shared fellowship.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577398/bridging-cultures-japanese-youth-us-soldiers-find-common-ground",
+      "publishedAt": "2026-10-20T06:53:00Z"
+    },
+    {
+      "id": "1bd54c849ea50f391342de81",
+      "title": "Arctic experiment explores ways to close air surveillance gaps",
+      "summary": "U.S. military personnel, scientists and international partners conducted live-fly testing Sept. 7–11, 2026, during the final event of a three-year Arctic air domain awareness experiment series, collecting data to assess technology that could help close surveillance gaps across Alaska.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577397/arctic-experiment-explores-ways-close-air-surveillance-gaps",
+      "publishedAt": "2026-10-19T22:52:53Z"
+    },
+    {
+      "id": "7a8de58d5e7ea7565a2aadfb",
+      "title": "Clackamas Fire and Military Responders Conduct Structural Collapse and Air Mobility Joint Training Exercise",
+      "summary": "Members of the Clackamas Fire Department, Oregon Army National Guard, Oregon Air National Guard, Air Force Reserve, U.S. Coast Guard, and CHAIS, which provides professional handlers and working dogs, participated in a simulated tsunami response mission on October 15, 2026, at Camp Rilea Armed Forces Training Center near Warrenton, Oregon.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577396/clackamas-fire-and-military-responders-conduct-structural-collapse-and-air-mobility-joint-training-exercise",
+      "publishedAt": "2026-10-19T21:52:33Z"
+    },
+    {
+      "id": "1a257c7b2bb4be01ea2ceb1d",
+      "title": "San Diego Native Named Motivator of the Month While Serving with Navy Medicine in Cuba",
+      "summary": "Courtesy story by Ashley Craig, Navy Office of Community Outreach MILLINGTON, Tenn. – Hospitalman Kimberly MartinezInfante, a native of San Diego, California, was recently named Motivator of the Month while serving aboard U.S. Navy Medicine Readiness and Training Command (USNMRTC) Guantanamo Bay at U.S. Naval Hospital Guantanamo Bay, Cuba.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577391/san-diego-native-named-motivator-month-while-serving-with-navy-medicine-cuba",
+      "publishedAt": "2026-10-19T20:39:40Z"
+    },
+    {
+      "id": "2593ba1c58fbb4cfdc87444d",
+      "title": "Logistics exchange strengthens Washington Guard, Malaysia military partnership",
+      "summary": "Logistics experts from the Washington National Guard and Royal Malaysian Armed Forces participated in a subject matter expert exchange at Camp Murray, Wash., Sept. 21-25, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577390/logistics-exchange-strengthens-washington-guard-malaysia-military-partnership",
+      "publishedAt": "2026-10-19T20:11:24Z"
+    },
+    {
+      "id": "e6bed6cbc6f4fe76dc020645",
+      "title": "Tracking America’s latest conflict: The Iran war timeline",
+      "summary": "To date, at least 21 American service members have been killed and hundreds more wounded. The post Tracking America’s latest conflict: The Iran war timeline appeared first on Task & Purpose .",
+      "category": "Defense",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/iran-war-timeline/",
+      "publishedAt": "2026-10-19T19:56:42Z"
+    },
+    {
+      "id": "6b86fda199e5a8936f9def7e",
+      "title": "U.S. Army stand-down connects Soldiers with voting assistance in Vicenza, Italy",
+      "summary": "Secretary of War Pete Hegseth's directive of U.S. Army stand-down connects Soldiers with voting assistance in Vicenza, Italy",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577388/us-army-stand-down-connects-soldiers-with-voting-assistance-vicenza-italy",
+      "publishedAt": "2026-10-19T19:39:51Z"
+    },
     {
       "id": "9f332f5d619c5e1967b4f796",
       "title": "Pentagon, BAE sign deal for up to 25,000 precision-guided munition kits a year",
@@ -217,150 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577204/voices-vaang-master-sgt-sabrina-jahner-and-tech-sgt-stephen-kolmer-leader-empowerment-and-development-program-instructors",
       "publishedAt": "2026-10-18T21:56:28Z"
-    },
-    {
-      "id": "893eb3d1ed64a013d9567b63",
-      "title": "Multi-state RED HORSE units fortify Pacific airfields, advance Agile Combat Employment",
-      "summary": "Civil engineers from the Virginia Air National Guard’s 203rd RED HORSE completed a historic deployment across Guam, Japan and Tinian, partnering with Florida Air National Guard and active-duty units under the 513th Expeditionary RED HORSE banner.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577202/multi-state-red-horse-units-fortify-pacific-airfields-advance-agile-combat-employment",
-      "publishedAt": "2026-10-18T21:38:09Z"
-    },
-    {
-      "id": "8a28c5a8c59de63c5809d86d",
-      "title": "Kansas honors 130th Field Artillery Brigade with homecoming from Operation Epic Fury",
-      "summary": "The Kansas Army National Guard's 130th Field Artillery Brigade was recognized at a Yellow Ribbon reintegration event after a deployment that shifted from the deterrence-focused Operation Spartan Shield to the combat operations of Operation Epic Fury.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577199/kansas-honors-130th-field-artillery-brigade-with-homecoming-operation-epic-fury",
-      "publishedAt": "2026-10-18T21:08:28Z"
-    },
-    {
-      "id": "502280d31f64fe104775f544",
-      "title": "Colonel Retires After 27 Years of Making His Mark on History – And Having Fun",
-      "summary": "Col. Tim Newman of Fisher, Ill., retired from the Illinois Army National Guard after 27 years of “standing the watch.” Family, friends and fellow service members celebrated nearly three decades in uniform during an Oct. 10 retirement ceremony at the University of Illinois Urbana-Champaign Library.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577198/colonel-retires-after-27-years-making-his-mark-history-and-having-fun",
-      "publishedAt": "2026-10-18T15:54:30Z"
-    },
-    {
-      "id": "4a83095d86624e35ad3d6936",
-      "title": "US arms firm Anduril could make interceptors in Europe, executive says",
-      "summary": "U.S. defense firm Anduril could eventually manufacture its newly unveiled Steelfin interceptor missiles in Europe, a company executive said.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/18/us-arms-firm-anduril-could-make-interceptors-in-europe-executive-says/",
-      "publishedAt": "2026-10-18T15:40:14Z"
-    },
-    {
-      "id": "9df574f573acd02295d071c0",
-      "title": "Six Soldier-athletes to represent Army WCAP at United World Wrestling Championships in Kazakhstan",
-      "summary": "Six Soldier-athletes from the U.S. Army World Class Athlete Program will carry Army pride and medal ambitions on to wrestling’s biggest international stage.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577196/six-soldier-athletes-represent-army-wcap-united-world-wrestling-championships-kazakhstan",
-      "publishedAt": "2026-10-18T14:32:31Z"
-    },
-    {
-      "id": "e896af83457350bd76b2be2d",
-      "title": "A final flight, a new chapter: 944th Operations Group welcomes new commander",
-      "summary": "An F-16 Fighting Falcon from Holloman Air Force Base stood alongside an F-35 Lightning II inside Hangar 999 at Luke Air Force Base, Ariz.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577193/final-flight-new-chapter-944th-operations-group-welcomes-new-commander",
-      "publishedAt": "2026-10-17T23:05:39Z"
-    },
-    {
-      "id": "348356d76953324dfe49f8bd",
-      "title": "Pentagon’s wireless services left locations, data exposed, watchdog finds",
-      "summary": "Security vulnerabilities meant that malicious groups could “pinpoint sensitive locations like safe houses or command posts, and expose operational vulnerabilities, significantly compromising national security.” The post Pentagon’s wireless services left locations, data exposed, watchdog finds appeared first on Task & Purpose .",
-      "category": "Defense",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/pentagon-wireless-location-services-exposed/",
-      "publishedAt": "2026-10-17T20:19:05Z"
-    },
-    {
-      "id": "8b4f9d63c4ebfa436afa2a56",
-      "title": "Unlocking the War Chest: How a Trip to Belleau Wood Bound Five Generations of Service",
-      "summary": "Thousands of American service members fought with everything they had at the Battle of Belleau Wood. Some returned home, while others took their last breaths in the blood-stained wheat fields. More than a century later, 1st Lt. Nicholaus Adams stood on those same hallowed grounds, walking in the exact footsteps of his great-great-grandfather, U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577188/unlocking-war-chest-trip-belleau-wood-bound-five-generations-service",
-      "publishedAt": "2026-10-17T18:07:50Z"
-    },
-    {
-      "id": "d0af53084b86c661081fc2cb",
-      "title": "Maine National Guard, Coast Guard strengthen search and rescue partnership through joint training",
-      "summary": "The Maine National Guard and U.S. Coast Guard conducted a joint search and rescue training exercise Oct. 7, simulating a search for a missing kayaker at Acadia National Park to strengthen coordination between the two organizations and improve emergency response capabilities.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577185/maine-national-guard-coast-guard-strengthen-search-and-rescue-partnership-through-joint-training",
-      "publishedAt": "2026-10-17T17:20:07Z"
-    },
-    {
-      "id": "15b4cf7e6b4576e3d7458173",
-      "title": "USAG Hawaii DPW releases lead service line inventory public notification",
-      "summary": "The U.S. Army Garrison (USAG) Hawaii has updated the Lead Service Line Inventories. (LSLI) required by U.S. EPA’s Lead and Copper Rule Revisions for its water systems and are now available for review. The deadline for the inventories update is October 16, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577184/usag-hawaii-dpw-releases-lead-service-line-inventory-public-notification",
-      "publishedAt": "2026-10-17T05:12:55Z"
-    },
-    {
-      "id": "9247ad03967f2eb4b2806e30",
-      "title": "USS San Antonio (LPD 17) Returns to Norfolk from Deployment to U.S. 4th Fleet Area of Operations",
-      "summary": "NAVAL STATION NORFOLK, Vir. – The first-in-class amphibious transport dock USS San Antonio (LPD 17) returned to Naval Station Norfolk, Oct. 13, 2026, concluding a dynamic deployment to the U.S. 4th Fleet area of operations.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577178/uss-san-antonio-lpd-17-returns-norfolk-deployment-us-4th-fleet-area-operations",
-      "publishedAt": "2026-10-16T21:25:07Z"
-    },
-    {
-      "id": "c3dcd3a6b529a9264f8ca817",
-      "title": "Navy Establishes Seabee Training and Evaluation Unit (STEU) 1 to Drive Pacific Force Readiness",
-      "summary": "The U.S. Navy officially commissioned Seabee Training and Evaluation Unit (STEU) 1 during a ceremony on board Naval Base Ventura County, Port Hueneme, Calif., Oct. 16, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577169/navy-establishes-seabee-training-and-evaluation-unit-steu-1-drive-pacific-force-readiness",
-      "publishedAt": "2026-10-16T20:29:20Z"
-    },
-    {
-      "id": "0dba011592e25663829b99c7",
-      "title": "“The Commandant’s Own” Marks Transition of Leadership, Drum Major Relief and Appointment",
-      "summary": "WASHINGTON — “The Commandant’s Own” United States Marine Drum & Bugle Corps marked a transition in enlisted leadership as Master Gunnery Sgt. Joshua Dannemiller relinquished his duties as the unit’s 26th drum major to Master Gunnery Sgt. David Cox during a relief and appointment ceremony at Marine Barracks Washington, Oct. 16, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577162/commandants-own-marks-transition-leadership-drum-major-relief-and-appointment",
-      "publishedAt": "2026-10-16T20:13:40Z"
-    },
-    {
-      "id": "97009b7a87aabe1d7bccfc6c",
-      "title": "Construction Battalion Maintenance Unit 303 Disestablished After Decades of Expeditionary Excellence",
-      "summary": "U.S. Navy Sailors, veterans and naval leaders gathered on board Naval Base Ventura County, Port Hueneme, to formally disestablish Construction Battalion Maintenance Unit (CBMU) 303 during a ceremony held in Needham Theater, Oct. 16, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577166/construction-battalion-maintenance-unit-303-disestablished-after-decades-expeditionary-excellence",
-      "publishedAt": "2026-10-16T20:08:11Z"
-    },
-    {
-      "id": "5724ccf9e8ad250213feb8a3",
-      "title": "USNI News Western Pacific Pulse: Oct. 16, 2026",
-      "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In Yokosuka, Japan The Theodore Roosevelt Carrier Strike Group docked Friday at Commander Fleet Activities Yokosuka. This marks the first time in four years that a non-forward deployed carrier has pulled into CFAY.",
-      "category": "Defense",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/16/usni-news-western-pacific-pulse-oct-16-2026",
-      "publishedAt": "2026-10-16T18:39:22Z"
-    },
-    {
-      "id": "ff0d67f13bd62986f6d2a929",
-      "title": "US Army’s 8th Psychological Operations Group inactivated",
-      "summary": "The Army's 8th Psychological Operations Group inactivated as the service reshapes its PSYOP and information warfare forces to counter global adversaries.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/16/us-armys-8th-psychological-operations-group-inactivated/",
-      "publishedAt": "2026-10-16T18:30:00Z"
     }
   ],
   "nextPage": "page-4.json"

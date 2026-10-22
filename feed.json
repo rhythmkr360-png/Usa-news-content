@@ -1,7 +1,151 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T17:14:11Z",
+  "generatedAt": "2026-10-22T21:39:57Z",
   "articles": [
+    {
+      "id": "c76dd6d729660b674c9e38b7",
+      "title": "Naval Hospital Twentynine Palms pediatrician named Navy Pediatrician of the Year by American Academy of Pediatrics",
+      "summary": "Lt. Cmdr. Scott Berkheimer, a pediatrician at Naval Hospital Twentynine Palms, was named Navy Pediatrician of the Year by the American Academy of Pediatrics Section on Uniformed Services in October 2026, recognizing his professional accomplishments and dedication to caring for military-connected children and families.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577673/naval-hospital-twentynine-palms-pediatrician-named-navy-pediatrician-year-american-academy-pediatrics",
+      "publishedAt": "2026-10-22T21:20:47Z"
+    },
+    {
+      "id": "0db83950928985b4fe22b777",
+      "title": "Blount Island team briefs assistant commandant on sustaining Marines ashore",
+      "summary": "On the ramp of USNS Dahl, U.S. Marine Corps Sgt. Jeremiah Murray gave his service’s second-highest-ranking officer a firsthand account of how his team equips Marines overseas.",
+      "category": "Marine Corps",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577671/blount-island-team-briefs-assistant-commandant-sustaining-marines-ashore",
+      "publishedAt": "2026-10-22T21:13:36Z"
+    },
+    {
+      "id": "4278e5079d465e5484babd77",
+      "title": "From runway to reps: Black Hawk pilot soars to the top of Army fitness",
+      "summary": "Warrant Officer Sorenson, a member of the highly competitive U.S. Army Warrior Fitness Team and a UH-60M Black Hawk helicopter pilot, aims to inspire others to pursue fitness by demonstrating that determination and hard work can turn even the most ambitious goals into reality.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577665/runway-reps-black-hawk-pilot-soars-top-army-fitness",
+      "publishedAt": "2026-10-22T21:02:04Z"
+    },
+    {
+      "id": "944f6dfa008e9cabe6d09b66",
+      "title": "From Fort Sill to the world: Red Cross Hero Care Center keeps military families connected",
+      "summary": "When a military family faces an emergency, distance shouldn't stand in the way of getting help. For more than 27 years, the American Red Cross Hero Care Center at Fort Sill has served as a lifeline, connecting service members around the world with loved ones during life's most difficult moments. On Oct.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577659/fort-sill-world-red-cross-hero-care-center-keeps-military-families-connected",
+      "publishedAt": "2026-10-22T20:51:57Z"
+    },
+    {
+      "id": "df40d55a7aeda085ca25c034",
+      "title": "Montana National Guard Connects Educators with Opportunities at Youth Challenge Academy",
+      "summary": "DILLON, Mont. — The Montana National Guard partnered with the Montana Youth Challenge Academy (MYCA) and the University of Montana Western to bring educators from across the state to Dillon, Oct. 21, for a firsthand look at a program helping young Montanans build brighter futures.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577661/montana-national-guard-connects-educators-with-opportunities-youth-challenge-academy",
+      "publishedAt": "2026-10-22T20:28:52Z"
+    },
+    {
+      "id": "c9edb0f56b83948d505ccac0",
+      "title": "The Beast meets the Bats: Iowa Airmen welcome Secret Service",
+      "summary": "Iowa Air National Guard Airmen assigned to the 185th Air Refueling Wing welcomed U.S. Secret Service personnel prior to a presidential visit to Sioux City, Iowa, Oct. 22, 2026.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577658/beast-meets-bats-iowa-airmen-welcome-secret-service",
+      "publishedAt": "2026-10-22T20:23:27Z"
+    },
+    {
+      "id": "54b1a1644799987a752d3366",
+      "title": "Fife & Drum Corps Helps DEVCOM CBC Celebrate America 250",
+      "summary": "Members of the Old Guard Fife and Drum Corps performed at an America 250 Flag Raising Ceremony held at the U.S. Army Combat Capability Development Command Chemical Biological Center (DEVCOM CBC) on Aberdeen Proving Ground, Maryland. Sergeant 1st Class Ryan Koesterer, Staff Sgt.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577660/fife-drum-corps-helps-devcom-cbc-celebrate-america-250",
+      "publishedAt": "2026-10-22T20:17:58Z"
+    },
+    {
+      "id": "73801b232d1403173d78c8b7",
+      "title": "Garrison welcomes new senior enlisted advisor",
+      "summary": "FORT HOOD, Texas — U.S. Army Garrison-Fort Hood held a change of responsibility Friday at III Armored Corps Headquarters, passing responsibility from Command Sgt. Maj. Loyd Rhoades to Command Sgt. Maj. Kristopher Tate.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577655/garrison-welcomes-new-senior-enlisted-advisor",
+      "publishedAt": "2026-10-22T20:06:39Z"
+    },
+    {
+      "id": "5e7a70d065922b333eba3418",
+      "title": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
+      "summary": "The move comes amid Pentagon concerns that the U.S. government’s only plant for manufacturing howitzer barrels can’t keep up with the recent demand.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand/",
+      "publishedAt": "2026-10-22T19:27:22Z"
+    },
+    {
+      "id": "e3713e0d99af7f3ca39c4c89",
+      "title": "Historic Accord: Naval Weapons Station Yorktown and Federally Recognized Native American Tribes Sign Landmark NAGPRA Agreement",
+      "summary": "WPNSTA Yorktown, located in the heart of Virginia's Historic Triangle, recently signed a binding NAGPRA agreement with federally recognized Native American Tribes. The agreement is the first of its kind within any U.S. Navy installation within the Commander, Navy Region Mid-Atlantic Area of Responsibility.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577645/historic-accord-naval-weapons-station-yorktown-and-federally-recognized-native-american-tribes-sign-landmark-nagpra-agreement",
+      "publishedAt": "2026-10-22T19:23:30Z"
+    },
+    {
+      "id": "40c95ad0b76f7fe92ebe6934",
+      "title": "ASC awards top ammo inspectors for munitions safety",
+      "summary": "Three employees from U.S. Army Sustainment Command have been recognized as Quality Assurance Specialist (Ammunition Surveillance) of the Year for their role in munitions safety and quality.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577638/asc-awards-top-ammo-inspectors-munitions-safety",
+      "publishedAt": "2026-10-22T19:11:52Z"
+    },
+    {
+      "id": "66f002664c0bdf00afae233e",
+      "title": "U.S. Air Force Band kicks off Montana fall tour",
+      "summary": "The U.S. Air Force Concert Band and Singing Sergeants launched their autumn tour with a performance at the Alberta Bair Theater in Billings, Montana, Oct. 14.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577640/us-air-force-band-kicks-off-montana-fall-tour",
+      "publishedAt": "2026-10-22T19:11:51Z"
+    },
+    {
+      "id": "e9fee033ec79dcce5ddab75d",
+      "title": "Cleveland Harbor Fall Dredging Starting; Supports Safe Great Lakes Navigation, Strengthens Local and National Economy",
+      "summary": "The U.S. Army Corps of Engineers, Buffalo District, will begin fall dredging this week in Cleveland Harbor to maintain safe and navigable waterways for Great Lakes commercial vessels, recreational boaters and other harbor users on Lake Erie. The Buffalo District awarded an $11.7 million contract in April 2026 to New York-based DMYLES, Inc.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577639/cleveland-harbor-fall-dredging-starting-supports-safe-great-lakes-navigation-strengthens-local-and-national-economy",
+      "publishedAt": "2026-10-22T19:09:29Z"
+    },
+    {
+      "id": "06e26b97d36d8de4189ec73b",
+      "title": "‘Ability to strike back’: Denmark commits to long-range missile orders",
+      "summary": "Copenhagen said it would purchase Joint Strike Missiles for its F-35s and a new ground-launched munition from an American firm.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/10/ability-to-strike-back-denmark-commits-to-long-range-missile-orders/",
+      "publishedAt": "2026-10-22T17:18:00Z"
+    },
+    {
+      "id": "305a3cea905b87c66d20483b",
+      "title": "Trump, Putin negotiate release of US Air Force veteran from Russian prison",
+      "summary": "Stephen Hubbard, a retired teacher and U.S. Air Force veteran, was released from Russian custody on Wednesday after spending over four years in prison.",
+      "category": "Air Force",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/22/trump-putin-negotiate-release-of-us-air-force-veteran-from-russian-prison/",
+      "publishedAt": "2026-10-22T17:17:19Z"
+    },
+    {
+      "id": "07094ceb87f3fbbb7b8a4624",
+      "title": "Pentagon, Lockheed agree to 10-year deal for 850 F-35 jets",
+      "summary": "The decade-long framework guarantees at least 850 F-35 Lightning II fighters for the U.S. military, pending congressional approval and funding.",
+      "category": "Air Force",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/pentagon-lockheed-agree-to-10-year-deal-for-850-f-35-jets/",
+      "publishedAt": "2026-10-22T17:15:33Z"
+    },
     {
       "id": "2f3200c038f90484e4a559ee",
       "title": "Energy Action Month: Modern Technologies Strengthen Army Reserve Readiness and Energy Security",
@@ -217,150 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577552/military-firefighters-host-week-events-vitalize-fire-prevention",
       "publishedAt": "2026-10-21T20:56:50Z"
-    },
-    {
-      "id": "a58e4bd4b1e4d64e81227b4c",
-      "title": "Preparedness takes precedence as a Troop Support working group implements shelter-in-place planning",
-      "summary": "Embodying the Federal Emergency Management Agency’s National Preparedness Month theme, “American’s Stand Ready,” a working group of eight Defense Logistics Agency Troop Support employees are developing a Building 3 Shelter-in-Place & Emergency Action Plan.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577554/preparedness-takes-precedence-troop-support-working-group-implements-shelter-place-planning",
-      "publishedAt": "2026-10-21T20:45:04Z"
-    },
-    {
-      "id": "ef19372ec36e6a77845c3df6",
-      "title": "Sabers, shirts sustainment discussed during West Point logisticians’ visit to Troop Support",
-      "summary": "Maintaining uniform support to cadets at the U.S. Military Academy at West Point informed a visit to Defense Logistics Agency Troop Support by West Point logisticians June 8.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577549/sabers-shirts-sustainment-discussed-during-west-point-logisticians-visit-troop-support",
-      "publishedAt": "2026-10-21T20:18:37Z"
-    },
-    {
-      "id": "00da20123af1c65e6344f567",
-      "title": "Preserving the past, powering the future: USACE brings geothermal technology to historic Hacienda Copy",
-      "summary": "The U.S. Army Corps of Engineers Sacramento District is overseeing an $8.7 million geothermal heating and cooling renovation at the historic Hacienda at Fort Hunter Liggett, California.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577545/preserving-past-powering-future-usace-brings-geothermal-technology-historic-hacienda-copy",
-      "publishedAt": "2026-10-21T19:41:33Z"
-    },
-    {
-      "id": "2949e9348d8c0fa53673b232",
-      "title": "Oregon National Guard opens hangar doors to state workforce leaders",
-      "summary": "The Oregon National Guard hosted the opening reception for the Oregon Workforce Partnership’s WORKing Together Conference at Army Aviation Support Facility #1 in Salem, Ore., Oct. 19, 2026, then supported the conference with recruiters and Soldiers at the Salem Convention Center the next day.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577544/oregon-national-guard-opens-hangar-doors-state-workforce-leaders",
-      "publishedAt": "2026-10-21T19:37:35Z"
-    },
-    {
-      "id": "67fc7895db8976243051e696",
-      "title": "Strong families equal a strong Army – IMCOM DFMWR director discusses family support during AUSA Panel",
-      "summary": "Strong families equal a strong Army was a key message reiterated during the Warfighter and Family Forum I: Empowering Parents and Children at the Association of the United States Army’s 2026 Annual Meeting and Exposition. The panel included input from Josh Gwinn, IMCOM's Director of Family, Morale, Welfare and Recreation.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577542/strong-families-equal-strong-army-imcom-dfmwr-director-discusses-family-support-during-ausa-panel",
-      "publishedAt": "2026-10-21T19:12:49Z"
-    },
-    {
-      "id": "5587a2b39b04361ccd298420",
-      "title": "US Air Force outlines the fighter fleet it needs by 2035",
-      "summary": "A new Air Force report calls for 1,509 combat-coded fighters by 2035, with F-35s making up 40% of the fleet and F-47s replacing F-22s.",
-      "category": "Navy",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/21/us-air-force-outlines-the-fighter-fleet-it-needs-by-2035/",
-      "publishedAt": "2026-10-21T19:01:44Z"
-    },
-    {
-      "id": "20101045f53096f3fc1484e7",
-      "title": "Hydra Brigade Welcomes New Command Sergeant Major",
-      "summary": "The Georgia Army National Guard’s 648th Maneuver Enhancement Brigade welcomed Command Sgt. Maj. Matthew Eubank as its new senior enlisted leader during a change-of-responsibility ceremony at Clay National Guard Center in Marietta, Georgia, Oct. 18, 2026. Eubank succeeded Command Sgt. Maj.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577530/hydra-brigade-welcomes-new-command-sergeant-major",
-      "publishedAt": "2026-10-21T17:05:25Z"
-    },
-    {
-      "id": "57363ae5199745323643de90",
-      "title": "Commander of Air Combat Command tours Luke AFB",
-      "summary": "U.S. Air Force Gen. Adrian Spain, commander of Air Combat Command, recently visited Luke Air Force Base to engage with Airmen and observe how the 56th Fighter Wing develops combat-ready Airmen and fighter pilots.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577528/commander-air-combat-command-tours-luke-afb",
-      "publishedAt": "2026-10-21T16:11:01Z"
-    },
-    {
-      "id": "f57798343cae0af6390fdd17",
-      "title": "Pentagon AI oversight office struggles to keep pace with department’s ambitions, GAO finds",
-      "summary": "The Pentagon office tapped in 2022 to oversee the military’s responsible use of AI had filled just three of 10 authorized positions as of February 2026.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/10/21/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds/",
-      "publishedAt": "2026-10-21T15:55:31Z"
-    },
-    {
-      "id": "0d1f1bffb928bb565253daa6",
-      "title": "Road to NTC: Light support battalion moves mountains (and Humvees)",
-      "summary": "Soldiers assigned to the Washington Army National Guard's 181st Light Support Battalion conducted a two-day deployment readiness exercise at Joint Base Lewis-McChord, Washington, Oct. 15–16, 2026, as part of preparations for an upcoming National Training Center rotation at Fort Irwin, California.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577518/road-ntc-light-support-battalion-moves-mountains-and-humvees",
-      "publishedAt": "2026-10-21T15:41:05Z"
-    },
-    {
-      "id": "688d75b1d83e227038386f87",
-      "title": "Critical Industrial Base Facility Breaks Ground Thanks to Australian Submarine Industrial Base Contribution",
-      "summary": "U.S. Navy leaders joined industry partners, members of the Jackson County Economic Development Foundation, Inc., and representatives from the Australian Embassy to break ground on a new facility in Pascagoula, Miss., that will manufacture critical components for in-service and new-construction submarines.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577523/critical-industrial-base-facility-breaks-ground-thanks-australian-submarine-industrial-base-contribution",
-      "publishedAt": "2026-10-21T15:36:08Z"
-    },
-    {
-      "id": "e8967dbb84e043ba8faf2e90",
-      "title": "Got milk? US Army refines its pasteurization power",
-      "summary": "Thirteen U.S. Army Veterinary Corps officers milked a trip to Denmark last month, completing Europe Dairy Pasteurization Audit Training.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power/",
-      "publishedAt": "2026-10-21T15:18:41Z"
-    },
-    {
-      "id": "5d0e2b28dcf31c0240858982",
-      "title": "ILLINOIS ARMY NATIONAL GUARD OFFICER PROMOTED TO MAJOR",
-      "summary": "Capt. Thaddaeus Carr was promoted to major during a ceremony on Oct. 18 at Cantigny Park in Wheaton, Illinois, recognizing his military service, professional development and contributions to military intelligence.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577515/illinois-army-national-guard-officer-promoted-major",
-      "publishedAt": "2026-10-21T15:07:45Z"
-    },
-    {
-      "id": "bfc2d906e7d5818f3eac67dd",
-      "title": "Colorado Army National Guard hosts first U.S. based Eager Lion exercise",
-      "summary": "The Colorado Army National Guard hosted Eager Lion 2026 at the 168th Regional Training Institute, Fort Carson, Colorado, Sept. 15–25, 2026. Historically held exclusively in the Hashemite Kingdom of Jordan as U.S.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577512/colorado-army-national-guard-hosts-first-us-based-eager-lion-exercise",
-      "publishedAt": "2026-10-21T14:36:59Z"
-    },
-    {
-      "id": "051e848ce6bb34beac264e3a",
-      "title": "Timing to roll out US Army’s NGC2 depends on funds, commander says",
-      "summary": "The head of the Army formation responsible for fielding the Next Generation Command and Control system said the timeline depends on resources available.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/21/timing-to-roll-out-us-armys-ngc2-depends-on-funds-commander-says/",
-      "publishedAt": "2026-10-21T13:59:36Z"
-    },
-    {
-      "id": "f378c9b91996ae09563e54f5",
-      "title": "Report to Congress on Russia’s Arctic Military Posture",
-      "summary": "The following is the Oct. 14, 2026, Congressional Research Service report, Russia’s Arctic Military Posture: Considerations for Congress. From the Report The Arctic is a key strategic region for Russia with significant military and economic implications.",
-      "category": "Defense",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/21/report-to-congress-on-russias-arctic-military-posture",
-      "publishedAt": "2026-10-21T13:56:42Z"
     }
   ],
   "nextPage": "pages/page-2.json"
