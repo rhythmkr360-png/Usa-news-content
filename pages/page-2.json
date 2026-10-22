@@ -1,7 +1,124 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T11:58:23Z",
+  "generatedAt": "2026-10-22T17:14:11Z",
   "articles": [
+    {
+      "id": "6e252609d5cc0804f36a8969",
+      "title": "U.S. Army, Colombian senior military leaders converge at Fort Bragg for bi-annual exchange",
+      "summary": "FORT BRAGG, N.C. — U.S. Army Western Hemisphere Command welcomed a 12-member Colombian senior enlisted delegation Oct.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577482/us-army-colombian-senior-military-leaders-converge-fort-bragg-bi-annual-exchange",
+      "publishedAt": "2026-10-21T11:04:53Z"
+    },
+    {
+      "id": "a6b0ee1e6b3399313deb63ce",
+      "title": "Wolf Pack tests radiological response readiness during exercise Radiant Falcon",
+      "summary": "KUNSAN AIR BASE, Republic of Korea - U.S. Air Force Airmen assigned to the 8th Fighter Wing and 51st Medical Group participated in exercise Radiant Falcon at Kunsan Air Base, Republic of Korea, Oct. 5-8, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577484/wolf-pack-tests-radiological-response-readiness-during-exercise-radiant-falcon",
+      "publishedAt": "2026-10-21T02:48:44Z"
+    },
+    {
+      "id": "28966ec28811ac7e26c40212",
+      "title": "Nevada Guard Transportation Company Deploys for Southern Border Mission",
+      "summary": "The Nevada Army National Guard’s 1859th Light-Medium Transportation Company has deployed 125 soldiers to the U.S. southern border to support the Department of Homeland Security and U.S. Customs and Border Protection, marking the unit’s first mobilization in its 10-year history.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577483/nevada-guard-transportation-company-deploys-southern-border-mission",
+      "publishedAt": "2026-10-21T01:29:07Z"
+    },
+    {
+      "id": "9cbadacf2ddbbce2130fd50f",
+      "title": "Return to the Bay: San Francisco Fleet Week 2026 Recap",
+      "summary": "U.S. Marines and Sailors made a highly anticipated return to Northern California, bringing the vibrant tradition of Fleet Week back to the streets and skies of San Francisco. This benchmark event brought something to the table not only for the city of San Francisco, but also the service members who participated.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577471/return-bay-san-francisco-fleet-week-2026-recap",
+      "publishedAt": "2026-10-20T23:41:04Z"
+    },
+    {
+      "id": "b5872ef66b106852983e6ac7",
+      "title": "3-43 Air Defense Artillery activates in Guam continuing a legacy of U.S. Army Air and Missile Defense",
+      "summary": "ANDERSEN AIR FORCE BASE, Guam — U.S. Soldiers assigned to 3rd Battalion, 43rd Air Defense Artillery Regiment, 38th Air Defense Artillery Brigade, 94th Army Air and Missile Defense Command, participated in an activation ceremony Oct. 16, 2026, at Andersen Air Force Base, Guam.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577480/3-43-air-defense-artillery-activates-guam-continuing-legacy-us-army-air-and-missile-defense",
+      "publishedAt": "2026-10-20T23:40:02Z"
+    },
+    {
+      "id": "3d6a6bace113003d6d764b2d",
+      "title": "Uncasing ceremony marks CSTA transfer to MSCoE",
+      "summary": "Leaders of the U.S. Army Maneuver Support Center of Excellence uncased the guidon for the U.S. Army Civil Support Training Activity during a ceremony at Joint Base San Antonio, Texas, Oct. 20, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577475/uncasing-ceremony-marks-csta-transfer-mscoe",
+      "publishedAt": "2026-10-20T21:29:04Z"
+    },
+    {
+      "id": "317f0ecd28643835780d6abb",
+      "title": "Acting U.S. Navy Surgeon General, Texas-based Sailors honor enduring legacy at 251st birthday ball",
+      "summary": "The acting U.S. Navy surgeon general joined local leadership, Sailors, and community members in the heart of \"Military City, U.S.A.,\" to celebrate the Navy’s 251st birthday at the South Texas Navy Region Ball, Oct. 17, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577473/acting-us-navy-surgeon-general-texas-based-sailors-honor-enduring-legacy-251st-birthday-ball",
+      "publishedAt": "2026-10-20T21:19:00Z"
+    },
+    {
+      "id": "a5b62249c2ea1328ca50bce4",
+      "title": "NEBRASKA GUARD CYBER TEAM HELPS RESTORE ESSENTIAL SERVICES IN NORTH PLATTE",
+      "summary": "NORTH PLATTE, Neb. — An 11-Soldier Nebraska Army National Guard team helped restore essential city and county services and strengthen network defenses during a state active-duty response Oct. 9–13, 2026, following a cyber incident affecting North Platte and Lincoln County.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577474/nebraska-guard-cyber-team-helps-restore-essential-services-north-platte",
+      "publishedAt": "2026-10-20T21:17:36Z"
+    },
+    {
+      "id": "f5c45905ffde979764ecd6b8",
+      "title": "NEWLY PROMOTED COLONEL CELEBRATES MILESTONE AT CANTIGNY PARK IN WHEATON",
+      "summary": "Illinois Army National Guard Col. Justin Kramer, the Illinois National Guard Human Resources Policy Officer, was promoted to the rank of colonel Oct. 18 at the 1st Infantry Division Pavilion, 1st Infantry Division Museum, Cantigny Park in Wheaton.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577466/newly-promoted-colonel-celebrates-milestone-cantigny-park-wheaton",
+      "publishedAt": "2026-10-20T21:13:42Z"
+    },
+    {
+      "id": "edd8ca1a6b5ddb22a6debe8d",
+      "title": "VIDEO: USS San Antonio Returns Home From Split Deployment",
+      "summary": "Amphibious transport dock USS San Antonio (LPD-17) returned from its two-part deployment of 2026 on Friday. Over the past 14 months, the amphibious ship spent all but two months deployed. San Antonio’s underway time spans two periods, during which the ship spent most of its time in U.S.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/20/video-uss-san-antonio-returns-home-from-split-deployment",
+      "publishedAt": "2026-10-20T20:56:35Z"
+    },
+    {
+      "id": "75fe8945779231f579555a65",
+      "title": "Why I Serve- Olena Terzi",
+      "summary": "U.S. Spc. Olena Terzi discusses her military service. A native of Ukraine, Terzi settled in the United States and is currently pursing various passions to give back to the community that welcomed her and her family.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577463/why-serve-olena-terzi",
+      "publishedAt": "2026-10-20T20:53:56Z"
+    },
+    {
+      "id": "acea00adfdab9c3ffd54e458",
+      "title": "Illinois Army National Guard Activates 217th Military Intelligence Battalion",
+      "summary": "The Illinois Army National Guard activated the 217th Military Intelligence Battalion during a ceremony on Oct 18, 2026, in Cantigny Park, Illinois, formally establishing a new organization designed to strengthen military intelligence and electronic warfare capabilities.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577453/illinois-army-national-guard-activates-217th-military-intelligence-battalion",
+      "publishedAt": "2026-10-20T20:06:06Z"
+    },
+    {
+      "id": "8de0d783a5fa74413581a53f",
+      "title": "Oregon National Guard honors Vietnam veteran with Bronze Star Medal with Valor 57 years later",
+      "summary": "Retired Lt. Col. David Gauntlett received the Bronze Star Medal with Valor during an Oregon National Guard ceremony at the Maj. Gen. George White Building in Salem, Ore., Oct. 19, 2026. The award recognizes his actions as a 20-year-old U.S.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577460/oregon-national-guard-honors-vietnam-veteran-with-bronze-star-medal-with-valor-57-years-later",
+      "publishedAt": "2026-10-20T19:53:52Z"
+    },
     {
       "id": "c9bc9f92ba24aeda7a0c7742",
       "title": "Sacramento District puts new USACE governance framework into action",
@@ -244,123 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577388/us-army-stand-down-connects-soldiers-with-voting-assistance-vicenza-italy",
       "publishedAt": "2026-10-19T19:39:51Z"
-    },
-    {
-      "id": "9f332f5d619c5e1967b4f796",
-      "title": "Pentagon, BAE sign deal for up to 25,000 precision-guided munition kits a year",
-      "summary": "The Pentagon and BAE Systems signed a framework agreement for up to 25,000 Advanced Precision Kill Weapon System, or APKWS, guidance kits a year.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year/",
-      "publishedAt": "2026-10-19T18:50:11Z"
-    },
-    {
-      "id": "a60ad131d7b585f5d8bdafff",
-      "title": "Lt. Gen. Hilbert discusses Eighth Army’s role in Northeast Asia",
-      "summary": "Senior leader highlights the command’s support to U.S. Forces Korea and regional deterrence.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577382/lt-gen-hilbert-discusses-eighth-armys-role-northeast-asia",
-      "publishedAt": "2026-10-19T18:49:31Z"
-    },
-    {
-      "id": "240b7a7edc5210b5906a83c0",
-      "title": "U.S. Marine Corps Stands Up First NMESIS Anti-ship Missile Battalion",
-      "summary": "The U.S. Marine Corps stood up its first Medium-range Missile Battalion last week as the service works to integrate longer range and maritime strike capabilities across the force.",
-      "category": "Marine Corps",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/19/u-s-marine-corps-stands-up-first-nmesis-anti-ship-missile-battalion",
-      "publishedAt": "2026-10-19T17:45:08Z"
-    },
-    {
-      "id": "2d75f648d9241ba18c457fb8",
-      "title": "Wilmington District advances $43 million Special Operations barracks project at Fort Bragg",
-      "summary": "The U.S. Army Corps of Engineers, Wilmington District, continues to advance military construction efforts at Fort Bragg, North Carolina, where a $43.1 million Special Operations Forces barracks project is approximately 45% complete and progressing generally ahead of schedule.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577368/wilmington-district-advances-43-million-special-operations-barracks-project-fort-bragg",
-      "publishedAt": "2026-10-19T17:31:18Z"
-    },
-    {
-      "id": "9fedb13fe0e8cff92311ebd2",
-      "title": "Army Medicine Celebrates Army Animal Care Specialists",
-      "summary": "National Veterinary Technician Week is celebrated annually by the National Association of Veterinary Technicians in America and the American Veterinary Medical Association to recognize the work that veterinary technicians provide. For Army Medicine that means recognizing their Army Animal Care Specialists.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577355/army-medicine-celebrates-army-animal-care-specialists",
-      "publishedAt": "2026-10-19T17:22:14Z"
-    },
-    {
-      "id": "54677377f2391d3311dc2f01",
-      "title": "Acting SecArmy: Army drives the success of the joint force",
-      "summary": "The Army’s top civilian leader said the service remains central to the success of the joint force during the opening ceremony of the Association of the United States Army’s annual meeting and exposition on Oct. 12. Under the theme, “America’s Army: The Foundation of the Joint Force,” Acting Secretary of the Army Adam R.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577354/acting-secarmy-army-drives-success-joint-force",
-      "publishedAt": "2026-10-19T17:09:05Z"
-    },
-    {
-      "id": "50fa8cae4804366272f5d81a",
-      "title": "Omaha District, ERDC collaborate to monitor Fort Peck Dam flood gates",
-      "summary": "Engineers from the U.S. Army Corps of Engineers, Omaha District and the Engineer Research and Development Center recently collaborated at the Fort Peck Dam to develop a long-term monitoring approach for the massive gates that help control water flow through the dam’s flood tunnels.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577349/omaha-district-erdc-collaborate-monitor-fort-peck-dam-flood-gates",
-      "publishedAt": "2026-10-19T16:36:27Z"
-    },
-    {
-      "id": "889e815e0f6ac5913c63a397",
-      "title": "USNI News Fleet and Marine Tracker: Oct. 19, 2026",
-      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Oct. 19, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/19/usni-news-fleet-and-marine-tracker-oct-19-2026",
-      "publishedAt": "2026-10-19T16:18:29Z"
-    },
-    {
-      "id": "77ca9981d6d6ab69afd39671",
-      "title": "Groups seek clarity on motive behind Pentagon’s study of women in combat",
-      "summary": "Citing concerns about Hegseth’s views on the topic, the lawsuit asks for records showing the scope, purpose, methodology and anticipated use of the study.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/10/19/groups-seek-clarity-on-motive-behind-pentagons-study-of-women-in-combat/",
-      "publishedAt": "2026-10-19T14:00:00Z"
-    },
-    {
-      "id": "c66d87bd390163014cd4d687",
-      "title": "Navy Medicine Sailors return home from deployment",
-      "summary": "An elite, far-forward Navy Medicine surgical asset returned to U.S. soil on Oct. 17, 2026, touching down at the military air terminal at Naval Air Station Norfolk following a seven-month deployment to the U.S. Central Command (CENTCOM) area of responsibility.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577220/navy-medicine-sailors-return-home-deployment",
-      "publishedAt": "2026-10-19T13:16:53Z"
-    },
-    {
-      "id": "fd77482349749a39968a7877",
-      "title": "US Army Cyber Command charts course for human-AI equilibrium",
-      "summary": "U.S. Army Cyber Command is constantly refining human oversight of artificial intelligence, Lt. Gen. Christopher Eubank said last week.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/19/us-army-cyber-command-charts-course-for-human-ai-equilibrium/",
-      "publishedAt": "2026-10-19T13:00:00Z"
-    },
-    {
-      "id": "05be42e1cbdce12655da0ed7",
-      "title": "SETAF-AF joins G-TEAD, USAREUR-AF at AUSA to explain how operational challenges in Africa drive tactical solutions",
-      "summary": "WASHINGTON – The U.S. Army Southern European Task Force, Africa (SETAF-AF) commander outlined how Africa is where operational problems are defined, solutions are tested in realistic conditions, and results are shared across the Army during the 2026 Association of the United States Army Annual Meeting and Exposition at the Walter E.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577216/setaf-af-joins-g-tead-usareur-af-ausa-explain-operational-challenges-africa-drive-tactical-solutions",
-      "publishedAt": "2026-10-19T12:43:05Z"
-    },
-    {
-      "id": "744665023d4e843acf80994a",
-      "title": "Readout of U.S. Naval Forces Central Command/U.S. 5th Fleet/Combined Maritime Forces Vice Adm. Curt Renshaw's Meeting with Kuwaiti Defense Leaders",
-      "summary": "TAMPA, Fla. (Oct. 19, 2026) U.S. Naval Forces Central Command/U.S. 5th Fleet/Combined Maritime Forces Commander Vice Adm. Curt Renshaw met with key Kuwaiti political and defense leaders during a trip to Kuwait City, Kuwait, Oct. 18-19.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577217/readout-us-naval-forces-central-command-us-5th-fleet-combined-maritime-forces-vice-adm-curt-renshaws-meeting-with-kuwaiti",
-      "publishedAt": "2026-10-19T12:19:21Z"
     }
   ],
   "nextPage": "page-3.json"
