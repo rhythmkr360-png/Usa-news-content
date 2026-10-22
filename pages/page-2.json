@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T04:54:21Z",
+  "generatedAt": "2026-10-22T11:58:23Z",
   "articles": [
+    {
+      "id": "c9bc9f92ba24aeda7a0c7742",
+      "title": "Sacramento District puts new USACE governance framework into action",
+      "summary": "The U.S. Army Corps of Engineers Sacramento District is putting new Headquarters governance requirements into practice through its inaugural District Engineering Review.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577459/sacramento-district-puts-new-usace-governance-framework-into-action",
+      "publishedAt": "2026-10-20T19:46:33Z"
+    },
+    {
+      "id": "0a8c22be7088f3f8f8600bd3",
+      "title": "Pentagon weighs force posture, costs of rebuilding Middle East bases",
+      "summary": "“We’re meeting with CENTCOM and doing the assessments right now from an installation perspective. Part of this is what will the global posture be in the future, and what does that require us to have?” a senior defense official told reporters today.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/10/pentagon-weighs-force-posture-costs-of-rebuilding-middle-east-bases/",
+      "publishedAt": "2026-10-20T18:06:00Z"
+    },
+    {
+      "id": "8baf79ece583f8a086e32432",
+      "title": "Brig. Gen. Richard Cipro, a Massachusetts Guardsman, takes command of the 42nd Infantry Division",
+      "summary": "LATHAM, New York —Army National Guard Brig. Gen. Richard P. Cipro, a Worcester, Massachusetts resident and a veteran of the wars in Iraq and Afghanistan, took command of the National Guard’s 42nd Infantry Division during a ceremony at New York National Guard headquarters in Latham, New York on October 17.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577443/brig-gen-richard-cipro-massachusetts-guardsman-takes-command-42nd-infantry-division",
+      "publishedAt": "2026-10-20T17:43:38Z"
+    },
+    {
+      "id": "edaa98f8c65bef1584a50aa7",
+      "title": "US Army support for Golden Dome missile shield takes shape",
+      "summary": "A U.S. Army air defense unit has been \"earmarked\" for support of the Golden Dome for America project, an Army official confirmed.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/air-warfare/2026/10/20/us-army-support-for-golden-dome-missile-shield-takes-shape/",
+      "publishedAt": "2026-10-20T17:30:40Z"
+    },
     {
       "id": "0de07d0cb96d7a7211ff8dfe",
       "title": "USACAPOC(A) Soldiers earn Jungle Tabs in Panama, build Army Reserve capability",
@@ -325,42 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577217/readout-us-naval-forces-central-command-us-5th-fleet-combined-maritime-forces-vice-adm-curt-renshaws-meeting-with-kuwaiti",
       "publishedAt": "2026-10-19T12:19:21Z"
-    },
-    {
-      "id": "57989bac5806bee3b702c560",
-      "title": "US Army acquisition command awards contracts worth $6.8B in 2026",
-      "summary": "The Mission and Installation Contracting Command awarded 21,450 contracts in fiscal 2026 valued at $6.8 billion in total, a boost from the year prior.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/16/us-army-acquisition-command-awards-contracts-worth-68b-in-2026/",
-      "publishedAt": "2026-10-19T12:00:00Z"
-    },
-    {
-      "id": "29360730e00bd945b982d6d1",
-      "title": "US Army showing interest in G/ATOR missile-killing radar, Northrop says",
-      "summary": "Northrop Grumman’s new multi-mission radar system has earned high marks from Marine Corps leadership. The U.S. Army has taken notice.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-army-showing-interest-in-gator-missile-killing-radar-northrop-says/",
-      "publishedAt": "2026-10-19T11:00:00Z"
-    },
-    {
-      "id": "9b32422322b7525455c135f6",
-      "title": "A shifting landscape: Where the US Army moved in 2026 and what may be on the horizon",
-      "summary": "As seasons signal the waning months of 2026, the U.S. Army’s operational map continues to evolve.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/16/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon/",
-      "publishedAt": "2026-10-19T10:00:00Z"
-    },
-    {
-      "id": "9203812ad1db3ef6ef9b57e3",
-      "title": "US Army fields new system for sweeping munitions planning, management",
-      "summary": "The service expects this first increment of TACTMIS to replace the previously used TAMIS system once it retires on Oct. 30.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/15/us-army-fields-new-system-for-sweeping-munitions-planning-management/",
-      "publishedAt": "2026-10-19T09:00:00Z"
     }
   ],
   "nextPage": "page-3.json"

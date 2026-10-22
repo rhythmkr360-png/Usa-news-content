@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T04:54:21Z",
+  "generatedAt": "2026-10-22T11:58:23Z",
   "articles": [
+    {
+      "id": "b69d08053583f9ddaed6e7e9",
+      "title": "Right time, right place, right Airman",
+      "summary": "AVIANO AIR BASE, Italy— In a moment, an ordinary drive to work became an emergency. On the morning of August 26, 2026, U.S. Air Force Tech. Sgt. Danielle Smith, 31st Operational Medical Readiness Squadron medical technician, witnessed a vehicle accident in her Italian community. The car hit a utility pole and overturned.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577591/right-time-right-place-right-airman",
+      "publishedAt": "2026-10-22T11:33:27Z"
+    },
+    {
+      "id": "43f9ff05e0c432f87377837f",
+      "title": "Ukraine to be able to buy military supplies via NATO agency: report",
+      "summary": "The deal comes amid worsening U.S.-Ukraine relations since U.S. President Trump announced a diesel export deal with Russia this month to lower U.S. prices.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/global/europe/2026/10/22/ukraine-to-be-able-to-buy-military-supplies-via-nato-agency-report/",
+      "publishedAt": "2026-10-22T08:58:25Z"
+    },
+    {
+      "id": "aa1fe6f7c9badfb500faa3ae",
+      "title": "USACE Far East District Hosts First Reverse Industry Day",
+      "summary": "The U.S. Army Corps of Engineers – Far East District (USACE FED) Contracting Division hosted its first Reverse Industry Day (FEDRID), Oct. 6, 2025, in Suwon, South Korea. Over 250 attendees attended the event.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577589/usace-far-east-district-hosts-first-reverse-industry-day",
+      "publishedAt": "2026-10-22T08:18:13Z"
+    },
+    {
+      "id": "d21d4d1f64ffda604d9b23eb",
+      "title": "5th Air Naval Gunfire Liaison Company, Japan Ground Self-Defense Force strengthen partnership through joint fires training",
+      "summary": "U.S. Marines with 5th Air Naval Gunfire Liaison Company, III Marine Expeditionary Force Information Group, evaluated Japan Ground Self-Defense Force joint terminal attack controllers during training at Camp Hansen and the W-174 Joint Okinawa Training Range Complex, Okinawa, Japan, Sept. 14-17, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577587/5th-air-naval-gunfire-liaison-company-japan-ground-self-defense-force-strengthen-partnership-through-joint-fires-training",
+      "publishedAt": "2026-10-22T06:16:45Z"
+    },
     {
       "id": "c18c69e3960821c830488fbe",
       "title": "U.S. Army Yuma Test Center Commander mentors local Army JROTC cadets",
@@ -325,42 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577460/oregon-national-guard-honors-vietnam-veteran-with-bronze-star-medal-with-valor-57-years-later",
       "publishedAt": "2026-10-20T19:53:52Z"
-    },
-    {
-      "id": "c9bc9f92ba24aeda7a0c7742",
-      "title": "Sacramento District puts new USACE governance framework into action",
-      "summary": "The U.S. Army Corps of Engineers Sacramento District is putting new Headquarters governance requirements into practice through its inaugural District Engineering Review.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577459/sacramento-district-puts-new-usace-governance-framework-into-action",
-      "publishedAt": "2026-10-20T19:46:33Z"
-    },
-    {
-      "id": "0a8c22be7088f3f8f8600bd3",
-      "title": "Pentagon weighs force posture, costs of rebuilding Middle East bases",
-      "summary": "“We’re meeting with CENTCOM and doing the assessments right now from an installation perspective. Part of this is what will the global posture be in the future, and what does that require us to have?” a senior defense official told reporters today.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/pentagon-weighs-force-posture-costs-of-rebuilding-middle-east-bases/",
-      "publishedAt": "2026-10-20T18:06:00Z"
-    },
-    {
-      "id": "8baf79ece583f8a086e32432",
-      "title": "Brig. Gen. Richard Cipro, a Massachusetts Guardsman, takes command of the 42nd Infantry Division",
-      "summary": "LATHAM, New York —Army National Guard Brig. Gen. Richard P. Cipro, a Worcester, Massachusetts resident and a veteran of the wars in Iraq and Afghanistan, took command of the National Guard’s 42nd Infantry Division during a ceremony at New York National Guard headquarters in Latham, New York on October 17.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577443/brig-gen-richard-cipro-massachusetts-guardsman-takes-command-42nd-infantry-division",
-      "publishedAt": "2026-10-20T17:43:38Z"
-    },
-    {
-      "id": "edaa98f8c65bef1584a50aa7",
-      "title": "US Army support for Golden Dome missile shield takes shape",
-      "summary": "A U.S. Army air defense unit has been \"earmarked\" for support of the Golden Dome for America project, an Army official confirmed.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/air-warfare/2026/10/20/us-army-support-for-golden-dome-missile-shield-takes-shape/",
-      "publishedAt": "2026-10-20T17:30:40Z"
     }
   ],
   "nextPage": "pages/page-2.json"
