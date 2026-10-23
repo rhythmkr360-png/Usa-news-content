@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-23T11:43:47Z",
+  "articles": [
+    {
+      "id": "8d7c2646e746b944b8e15bb0",
+      "title": "VIDEO: F-35C Lands on New Navy Aircraft Carrier Class for First Time",
+      "summary": "A fifth-generation fighter landed on the Navy’s new class of aircraft carriers for the first time on Tuesday. An F-35C Joint Strike Fighter Lightning II trapped on the future USS John F. Kennedy (CVN-79), according to U.S. Navy video and imagery.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/14/video-f-35c-lands-on-new-navy-aircraft-carrier-class-for-first-time",
+      "publishedAt": "2026-10-14T20:06:45Z"
+    },
+    {
+      "id": "f883d6baaadd7542af82575f",
+      "title": "Navy Contracts Ursa Major to Develop Rocket Motors for Next-gen Missile Programs",
+      "summary": "The U.S. Navy contracted Ursa Major to develop solid rocket motors for the sea service’s future Naval Modular Missile and Compact Air-to-Air Missile, the defense firm announced last week.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/14/navy-contracts-ursa-major-to-develop-rocket-motors-for-next-gen-missile-programs",
+      "publishedAt": "2026-10-14T13:56:30Z"
+    }
+  ]
+}

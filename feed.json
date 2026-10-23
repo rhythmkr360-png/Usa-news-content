@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T04:56:43Z",
+  "generatedAt": "2026-10-23T11:43:47Z",
   "articles": [
+    {
+      "id": "17f6a29ec8e792ed1340dd22",
+      "title": "31 Dental Squadron partners with USS Lewis B. Puller to support Navy readiness",
+      "summary": "U.S. Air Force and U.S. Navy medical personnel partnered to provide examinations, cleanings and routine dental care to more than 40 Sailors aboard USS Lewis B. Puller (ESB 3) in Rijeka, Croatia, Sept. 22-25, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577696/31-dental-squadron-partners-with-uss-lewis-b-puller-support-navy-readiness",
+      "publishedAt": "2026-10-23T09:09:38Z"
+    },
+    {
+      "id": "ca7d589d04eba5ec9e70a50e",
+      "title": "Readiness, Relationships and Resilience: Col. Michael Cookey Marks First 100 Days Leading USAG Ansbach",
+      "summary": "ANSBACH, Germany — When Col. Michael D. Cookey took command of the Army garrison here in July, he assumed leadership of an installation supporting combat readiness and community resilience. Marking his first 100 days in command of U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577695/readiness-relationships-and-resilience-col-michael-cookey-marks-first-100-days-leading-usag-ansbach",
+      "publishedAt": "2026-10-23T08:27:29Z"
+    },
+    {
+      "id": "f51eeb8b485bb31ab1fcb22a",
+      "title": "9th ESB Marine aids Okinawan driver following traffic accident",
+      "summary": "URUMA, Japan — A U.S. Marine assigned to 9th Engineer Support Battalion, Combat Logistics Regiment 37, came to the aid of an Okinawan driver following a two-vehicle traffic accident near a gas station in Uruma, Okinawa, Oct. 15.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577692/9th-esb-marine-aids-okinawan-driver-following-traffic-accident",
+      "publishedAt": "2026-10-23T07:20:41Z"
+    },
+    {
+      "id": "95a11115b6289951770d46b2",
+      "title": "U.S., Japanese forces strengthen bilateral readiness through hot-pit refueling during Keen Sword 27",
+      "summary": "U.S. Air Force Airmen and Japan Air Self-Defense Forces airmen conducted bilateral hot-pit refueling operations at a Japan Maritime Self-Defense Force installation in Hachinohe Air Base, Japan, Oct. 19-21, 2026, during Exercise Keen Sword 27, strengthening their ability to sustain fighter operations through allied cooperation.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577689/us-japanese-forces-strengthen-bilateral-readiness-through-hot-pit-refueling-during-keen-sword-27",
+      "publishedAt": "2026-10-23T06:02:09Z"
+    },
     {
       "id": "b5f6e64c102a6c3fe2f3a2b5",
       "title": "Exercise Beverly Sunrise 27-01",
@@ -325,42 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577591/right-time-right-place-right-airman",
       "publishedAt": "2026-10-22T11:33:27Z"
-    },
-    {
-      "id": "43f9ff05e0c432f87377837f",
-      "title": "Ukraine to be able to buy military supplies via NATO agency: report",
-      "summary": "The deal comes amid worsening U.S.-Ukraine relations since U.S. President Trump announced a diesel export deal with Russia this month to lower U.S. prices.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/global/europe/2026/10/22/ukraine-to-be-able-to-buy-military-supplies-via-nato-agency-report/",
-      "publishedAt": "2026-10-22T08:58:25Z"
-    },
-    {
-      "id": "aa1fe6f7c9badfb500faa3ae",
-      "title": "USACE Far East District Hosts First Reverse Industry Day",
-      "summary": "The U.S. Army Corps of Engineers – Far East District (USACE FED) Contracting Division hosted its first Reverse Industry Day (FEDRID), Oct. 6, 2025, in Suwon, South Korea. Over 250 attendees attended the event.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577589/usace-far-east-district-hosts-first-reverse-industry-day",
-      "publishedAt": "2026-10-22T08:18:13Z"
-    },
-    {
-      "id": "d21d4d1f64ffda604d9b23eb",
-      "title": "5th Air Naval Gunfire Liaison Company, Japan Ground Self-Defense Force strengthen partnership through joint fires training",
-      "summary": "U.S. Marines with 5th Air Naval Gunfire Liaison Company, III Marine Expeditionary Force Information Group, evaluated Japan Ground Self-Defense Force joint terminal attack controllers during training at Camp Hansen and the W-174 Joint Okinawa Training Range Complex, Okinawa, Japan, Sept. 14-17, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577587/5th-air-naval-gunfire-liaison-company-japan-ground-self-defense-force-strengthen-partnership-through-joint-fires-training",
-      "publishedAt": "2026-10-22T06:16:45Z"
-    },
-    {
-      "id": "c18c69e3960821c830488fbe",
-      "title": "U.S. Army Yuma Test Center Commander mentors local Army JROTC cadets",
-      "summary": "U.S. Army Yuma Test Center Commander Lt. Col. Kevin Hicks spoke to a large assembly of Army Junior Reserve Officers’ Training Corps cadets at Yuma High School on October 21, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577574/us-army-yuma-test-center-commander-mentors-local-army-jrotc-cadets",
-      "publishedAt": "2026-10-21T23:21:09Z"
     }
   ],
   "nextPage": "pages/page-2.json"
