@@ -1,7 +1,106 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T17:12:26Z",
+  "generatedAt": "2026-10-23T21:27:33Z",
   "articles": [
+    {
+      "id": "d0af53084b86c661081fc2cb",
+      "title": "Maine National Guard, Coast Guard strengthen search and rescue partnership through joint training",
+      "summary": "The Maine National Guard and U.S. Coast Guard conducted a joint search and rescue training exercise Oct. 7, simulating a search for a missing kayaker at Acadia National Park to strengthen coordination between the two organizations and improve emergency response capabilities.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577185/maine-national-guard-coast-guard-strengthen-search-and-rescue-partnership-through-joint-training",
+      "publishedAt": "2026-10-17T17:20:07Z"
+    },
+    {
+      "id": "15b4cf7e6b4576e3d7458173",
+      "title": "USAG Hawaii DPW releases lead service line inventory public notification",
+      "summary": "The U.S. Army Garrison (USAG) Hawaii has updated the Lead Service Line Inventories. (LSLI) required by U.S. EPA’s Lead and Copper Rule Revisions for its water systems and are now available for review. The deadline for the inventories update is October 16, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577184/usag-hawaii-dpw-releases-lead-service-line-inventory-public-notification",
+      "publishedAt": "2026-10-17T05:12:55Z"
+    },
+    {
+      "id": "9247ad03967f2eb4b2806e30",
+      "title": "USS San Antonio (LPD 17) Returns to Norfolk from Deployment to U.S. 4th Fleet Area of Operations",
+      "summary": "NAVAL STATION NORFOLK, Vir. – The first-in-class amphibious transport dock USS San Antonio (LPD 17) returned to Naval Station Norfolk, Oct. 13, 2026, concluding a dynamic deployment to the U.S. 4th Fleet area of operations.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577178/uss-san-antonio-lpd-17-returns-norfolk-deployment-us-4th-fleet-area-operations",
+      "publishedAt": "2026-10-16T21:25:07Z"
+    },
+    {
+      "id": "c3dcd3a6b529a9264f8ca817",
+      "title": "Navy Establishes Seabee Training and Evaluation Unit (STEU) 1 to Drive Pacific Force Readiness",
+      "summary": "The U.S. Navy officially commissioned Seabee Training and Evaluation Unit (STEU) 1 during a ceremony on board Naval Base Ventura County, Port Hueneme, Calif., Oct. 16, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577169/navy-establishes-seabee-training-and-evaluation-unit-steu-1-drive-pacific-force-readiness",
+      "publishedAt": "2026-10-16T20:29:20Z"
+    },
+    {
+      "id": "0dba011592e25663829b99c7",
+      "title": "“The Commandant’s Own” Marks Transition of Leadership, Drum Major Relief and Appointment",
+      "summary": "WASHINGTON — “The Commandant’s Own” United States Marine Drum & Bugle Corps marked a transition in enlisted leadership as Master Gunnery Sgt. Joshua Dannemiller relinquished his duties as the unit’s 26th drum major to Master Gunnery Sgt. David Cox during a relief and appointment ceremony at Marine Barracks Washington, Oct. 16, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577162/commandants-own-marks-transition-leadership-drum-major-relief-and-appointment",
+      "publishedAt": "2026-10-16T20:13:40Z"
+    },
+    {
+      "id": "97009b7a87aabe1d7bccfc6c",
+      "title": "Construction Battalion Maintenance Unit 303 Disestablished After Decades of Expeditionary Excellence",
+      "summary": "U.S. Navy Sailors, veterans and naval leaders gathered on board Naval Base Ventura County, Port Hueneme, to formally disestablish Construction Battalion Maintenance Unit (CBMU) 303 during a ceremony held in Needham Theater, Oct. 16, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577166/construction-battalion-maintenance-unit-303-disestablished-after-decades-expeditionary-excellence",
+      "publishedAt": "2026-10-16T20:08:11Z"
+    },
+    {
+      "id": "5724ccf9e8ad250213feb8a3",
+      "title": "USNI News Western Pacific Pulse: Oct. 16, 2026",
+      "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In Yokosuka, Japan The Theodore Roosevelt Carrier Strike Group docked Friday at Commander Fleet Activities Yokosuka. This marks the first time in four years that a non-forward deployed carrier has pulled into CFAY.",
+      "category": "Defense",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/16/usni-news-western-pacific-pulse-oct-16-2026",
+      "publishedAt": "2026-10-16T18:39:22Z"
+    },
+    {
+      "id": "ff0d67f13bd62986f6d2a929",
+      "title": "US Army’s 8th Psychological Operations Group inactivated",
+      "summary": "The Army's 8th Psychological Operations Group inactivated as the service reshapes its PSYOP and information warfare forces to counter global adversaries.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/16/us-armys-8th-psychological-operations-group-inactivated/",
+      "publishedAt": "2026-10-16T18:30:00Z"
+    },
+    {
+      "id": "443e3652535b451734d03a0c",
+      "title": "Hundreds of 10th Mountain Division soldiers deploying to Latin America",
+      "summary": "Roughly 500 soldiers will support ongoing exercises with partners as the U.S. expands military operations against cartels. The post Hundreds of 10th Mountain Division soldiers deploying to Latin America appeared first on Task & Purpose .",
+      "category": "Defense",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/army-10th-mountain-division-latin-america/",
+      "publishedAt": "2026-10-16T18:14:46Z"
+    },
+    {
+      "id": "b5c15b0f978b762c2b327382",
+      "title": "Army Lays Out New Plan for Prolonged Fight in First Island Chain",
+      "summary": "The U.S. Army laid out its plans to prepare for a prolonged fight in the Pacific along the First Island Chain in the service’s new warfighting guidance released this month. For decades, the ground branch has oriented troops against insurgent threats and high-intensity combat operations from the Middle East, Europe and the Korean Peninsula.",
+      "category": "Army",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/16/army-lays-out-new-plan-for-prolonged-fight-in-first-island-chain",
+      "publishedAt": "2026-10-16T17:08:15Z"
+    },
+    {
+      "id": "043fcfda1cbd9219f052a189",
+      "title": "‘Weaponized light’: KBR’s new base defense technology pits lasers against drones",
+      "summary": "The Pentagon recently selected KBR's Firefly system for a pilot program to test defending U.S. military installations against adversarial drones.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/15/weaponized-light-kbrs-new-base-defense-technology-pits-lasers-against-drones/",
+      "publishedAt": "2026-10-16T14:00:00Z"
+    },
     {
       "id": "6692023fd7d63de5a84ce0e3",
       "title": "Recap: Autonomy dominates the US Army’s 2026 conference in Washington",
