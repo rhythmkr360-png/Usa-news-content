@@ -1,7 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T21:39:57Z",
+  "generatedAt": "2026-10-23T04:56:43Z",
   "articles": [
+    {
+      "id": "b5f6e64c102a6c3fe2f3a2b5",
+      "title": "Exercise Beverly Sunrise 27-01",
+      "summary": "U.S. Airmen assigned to the 35th Fighter Wing, alongside joint mission partners, participated in Exercise Beverly Sunrise 27-01 at Misawa Air Base, Japan, Oct. 19-23. The exercise tested their ability to respond to simulated threats, sustain operations and project combat power in contested environments.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577686/exercise-beverly-sunrise-27-01",
+      "publishedAt": "2026-10-23T04:04:53Z"
+    },
+    {
+      "id": "7063baeb2c2119892256609c",
+      "title": "U.S., Republic of Korea navies successfully conclude Maritime Counter-Special Operations Exercise",
+      "summary": "Naval forces from the U.S. and Republic of Korea (ROK) successfully concluded the bilateral Maritime Counter-Special Operations Forces Exercise (MCSOFEX) in the waters surrounding the Pyeongtaek, Republic of Korea, Oct 23, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577680/us-republic-korea-navies-successfully-conclude-maritime-counter-special-operations-exercise",
+      "publishedAt": "2026-10-22T23:57:19Z"
+    },
+    {
+      "id": "a62ee47a4ebf8c7d986c9f15",
+      "title": "16 WPS showcases heritage, tactical role during Joint Chiefs Chairman visit",
+      "summary": "For more than 80 years, the 16th Weapons Squadron has shaped the tactics, culture and combat effectiveness of American airpower.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577678/16-wps-showcases-heritage-tactical-role-during-joint-chiefs-chairman-visit",
+      "publishedAt": "2026-10-22T23:35:55Z"
+    },
+    {
+      "id": "b882179d0a10fa47876e9057",
+      "title": "La. Guard begins construction on Lake Charles Field Maintenance Shop",
+      "summary": "LAKE CHARLES, La. – Louisiana National Guard leaders and state officials joined representatives from Chennault International Airport, Porche/May Architects, LLC and Alfred Palma, LLC for a ceremonial groundbreaking for the Lake Charles Field Maintenance Shop at the Lake Charles Readiness Center, Oct. 21, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577679/la-guard-begins-construction-lake-charles-field-maintenance-shop",
+      "publishedAt": "2026-10-22T23:16:19Z"
+    },
+    {
+      "id": "c541904c5db80008e41882be",
+      "title": "Thunderbirds arrive in Wichita ahead of Frontiers in Flight Air Show",
+      "summary": "MCCONNELL AIR FORCE BASE, Kan. — The roar of fighter jets is set to fill the skies over the Air Capital of the World as the U.S. Air Force Thunderbirds arrive at McConnell Air Force Base, Kansas, ahead of the 2026 Frontiers in Flight Air Show and Open House Oct. 24-25.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577677/thunderbirds-arrive-wichita-ahead-frontiers-flight-air-show",
+      "publishedAt": "2026-10-22T22:48:47Z"
+    },
+    {
+      "id": "d3d7ad4df9e9071c6d54cbc8",
+      "title": "OLDCC funding supports water system resiliency planning for West Kauai and PMRF",
+      "summary": "KEKAHA, HAWAII – The Department of Water, County of Kauai (KDOW), in partnership with the U.S. Navy’s Pacific Missile Range Facility (PMRF), is advancing critical water-infrastructure planning for the Kekaha-Waimea water system through support from the Office of Local Defense Community Cooperation (OLDCC).",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577674/oldcc-funding-supports-water-system-resiliency-planning-west-kauai-and-pmrf",
+      "publishedAt": "2026-10-22T22:05:34Z"
+    },
     {
       "id": "c76dd6d729660b674c9e38b7",
       "title": "Naval Hospital Twentynine Palms pediatrician named Navy Pediatrician of the Year by American Academy of Pediatrics",
@@ -307,60 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577574/us-army-yuma-test-center-commander-mentors-local-army-jrotc-cadets",
       "publishedAt": "2026-10-21T23:21:09Z"
-    },
-    {
-      "id": "80d465307036779285c2a413",
-      "title": "129th Rescue Wing conducts first wildfire medevac mission with HH-60W helicopter",
-      "summary": "The California Air National Guard’s 129th Rescue Wing deployed its new HH-60W Jolly Green II helicopter to support wildfire operations in Yosemite National Park, Oct. 9-12, marking the aircraft’s first wildfire mission since the wing began transitioning from the HH-60G Pave Hawk last year.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577570/129th-rescue-wing-conducts-first-wildfire-medevac-mission-with-hh-60w-helicopter",
-      "publishedAt": "2026-10-21T22:36:48Z"
-    },
-    {
-      "id": "38560c17b4b51c998a801dd3",
-      "title": "Brig. Gen. Landers debriefs command climate survey results at town hall",
-      "summary": "U.S. Army Brig. Gen. Andrew L. Landers, director of Defense Health Network Pacific and commanding general of Medical Readiness Command, Pacific, addressed service members and staff during a Defense Organizational Climate Survey town hall meeting at Tripler Army Medical Center, Hawaii, Oct. 19, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577568/brig-gen-landers-debriefs-command-climate-survey-results-town-hall",
-      "publishedAt": "2026-10-21T22:19:27Z"
-    },
-    {
-      "id": "e399db455961eec9c19f5eb3",
-      "title": "U.S. Army Garrison-Fort McCoy chaplain supports 98th ARRTC activation with invocation",
-      "summary": "As the 98th Army Reserve Readiness Training Center (ARRTC) officially activated Oct. 21 at Fort McCoy, Chaplain (Lt. Col.) Walter McCall, garrison chaplain for U.S. Army Garrison-Fort McCoy, provided an invocation recognizing the significance of the occasion and the Soldiers and leaders beginning a new chapter in the organization’s history.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577567/us-army-garrison-fort-mccoy-chaplain-supports-98th-arrtc-activation-with-invocation",
-      "publishedAt": "2026-10-21T22:16:36Z"
-    },
-    {
-      "id": "3dc23c797404f44346cdf7d2",
-      "title": "Coast Guard Cutter Munro completes Arctic patrol, strengthens U.S. presence in high north",
-      "summary": "ALAMEDA, Calif. — The crew of Coast Guard Cutter Munro (WMSL 755) returned to their Base Alameda homeport on Coast Guard Island Oct. 9, 2026, following a 112-day Alaska patrol that covered more than 23,000 nautical miles across the Bering Sea and Arctic Ocean.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577561/coast-guard-cutter-munro-completes-arctic-patrol-strengthens-us-presence-high-north",
-      "publishedAt": "2026-10-21T21:29:09Z"
-    },
-    {
-      "id": "fb18aa44c5511dcf1ab53a34",
-      "title": "NPS Announces Nine Digital Trident II Projects Addressing Pacific Operational Challenges",
-      "summary": "The Naval Postgraduate School Office of Research and Innovation announced nine projects selected for development through the Digital Trident II initiative. Chosen through a competitive process, the projects bring NPS researchers, operational stakeholders and partners together to address consequential challenges facing U.S. forces in the Pacific.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577560/nps-announces-nine-digital-trident-ii-projects-addressing-pacific-operational-challenges",
-      "publishedAt": "2026-10-21T21:13:34Z"
-    },
-    {
-      "id": "4b155d754e9f24a9ccebc111",
-      "title": "Military Firefighters host a week of events to vitalize fire prevention",
-      "summary": "U.S. Air Force Col. Matthew Norton, 17th Training Wing commander, signed a proclamation on Oct. 5, commencing Fire Prevention Week 2026: “Charge into Fire Safety: Lithium-Ion Batteries in Your Home.”",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577552/military-firefighters-host-week-events-vitalize-fire-prevention",
-      "publishedAt": "2026-10-21T20:56:50Z"
     }
   ],
   "nextPage": "pages/page-2.json"

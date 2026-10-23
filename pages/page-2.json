@@ -1,7 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T21:39:57Z",
+  "generatedAt": "2026-10-23T04:56:43Z",
   "articles": [
+    {
+      "id": "80d465307036779285c2a413",
+      "title": "129th Rescue Wing conducts first wildfire medevac mission with HH-60W helicopter",
+      "summary": "The California Air National Guard’s 129th Rescue Wing deployed its new HH-60W Jolly Green II helicopter to support wildfire operations in Yosemite National Park, Oct. 9-12, marking the aircraft’s first wildfire mission since the wing began transitioning from the HH-60G Pave Hawk last year.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577570/129th-rescue-wing-conducts-first-wildfire-medevac-mission-with-hh-60w-helicopter",
+      "publishedAt": "2026-10-21T22:36:48Z"
+    },
+    {
+      "id": "38560c17b4b51c998a801dd3",
+      "title": "Brig. Gen. Landers debriefs command climate survey results at town hall",
+      "summary": "U.S. Army Brig. Gen. Andrew L. Landers, director of Defense Health Network Pacific and commanding general of Medical Readiness Command, Pacific, addressed service members and staff during a Defense Organizational Climate Survey town hall meeting at Tripler Army Medical Center, Hawaii, Oct. 19, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577568/brig-gen-landers-debriefs-command-climate-survey-results-town-hall",
+      "publishedAt": "2026-10-21T22:19:27Z"
+    },
+    {
+      "id": "e399db455961eec9c19f5eb3",
+      "title": "U.S. Army Garrison-Fort McCoy chaplain supports 98th ARRTC activation with invocation",
+      "summary": "As the 98th Army Reserve Readiness Training Center (ARRTC) officially activated Oct. 21 at Fort McCoy, Chaplain (Lt. Col.) Walter McCall, garrison chaplain for U.S. Army Garrison-Fort McCoy, provided an invocation recognizing the significance of the occasion and the Soldiers and leaders beginning a new chapter in the organization’s history.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577567/us-army-garrison-fort-mccoy-chaplain-supports-98th-arrtc-activation-with-invocation",
+      "publishedAt": "2026-10-21T22:16:36Z"
+    },
+    {
+      "id": "3dc23c797404f44346cdf7d2",
+      "title": "Coast Guard Cutter Munro completes Arctic patrol, strengthens U.S. presence in high north",
+      "summary": "ALAMEDA, Calif. — The crew of Coast Guard Cutter Munro (WMSL 755) returned to their Base Alameda homeport on Coast Guard Island Oct. 9, 2026, following a 112-day Alaska patrol that covered more than 23,000 nautical miles across the Bering Sea and Arctic Ocean.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577561/coast-guard-cutter-munro-completes-arctic-patrol-strengthens-us-presence-high-north",
+      "publishedAt": "2026-10-21T21:29:09Z"
+    },
+    {
+      "id": "fb18aa44c5511dcf1ab53a34",
+      "title": "NPS Announces Nine Digital Trident II Projects Addressing Pacific Operational Challenges",
+      "summary": "The Naval Postgraduate School Office of Research and Innovation announced nine projects selected for development through the Digital Trident II initiative. Chosen through a competitive process, the projects bring NPS researchers, operational stakeholders and partners together to address consequential challenges facing U.S. forces in the Pacific.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577560/nps-announces-nine-digital-trident-ii-projects-addressing-pacific-operational-challenges",
+      "publishedAt": "2026-10-21T21:13:34Z"
+    },
+    {
+      "id": "4b155d754e9f24a9ccebc111",
+      "title": "Military Firefighters host a week of events to vitalize fire prevention",
+      "summary": "U.S. Air Force Col. Matthew Norton, 17th Training Wing commander, signed a proclamation on Oct. 5, commencing Fire Prevention Week 2026: “Charge into Fire Safety: Lithium-Ion Batteries in Your Home.”",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577552/military-firefighters-host-week-events-vitalize-fire-prevention",
+      "publishedAt": "2026-10-21T20:56:50Z"
+    },
     {
       "id": "a58e4bd4b1e4d64e81227b4c",
       "title": "Preparedness takes precedence as a Troop Support working group implements shelter-in-place planning",
@@ -307,60 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577441/usacapoca-soldiers-earn-jungle-tabs-panama-build-army-reserve-capability",
       "publishedAt": "2026-10-20T17:29:39Z"
-    },
-    {
-      "id": "66a1511f116bca19c22ae07d",
-      "title": "Cadets Explore Human-Machine Teaming Through Hands-on Research",
-      "summary": "U.S. Air Force Academy cadets are exploring how emerging technologies influence human behavior and decision-making through hands-on research with humanoid robots and robotic dogs.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577440/cadets-explore-human-machine-teaming-through-hands-research",
-      "publishedAt": "2026-10-20T17:14:38Z"
-    },
-    {
-      "id": "bf010a1989e20abd6e39af0c",
-      "title": "Blair: Serving her country through patient care",
-      "summary": "U.S. Army Staff Sgt. Autumn Blair is carving her own path as a dedicated flight medic while also serving her country like her parents and grandfather.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577439/blair-serving-her-country-through-patient-care",
-      "publishedAt": "2026-10-20T17:14:36Z"
-    },
-    {
-      "id": "137ef4ba47c39c0e382648ed",
-      "title": "US Air Force F-22 pilot controls unmanned FQ-44 in flight",
-      "summary": "The fighter jet’s pilot served as an airborne “quarterback” and gave high-level directives to an Anduril-made Collaborative Combat Aircraft.",
-      "category": "Air Force",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/20/us-air-force-f-22-pilot-controls-unmanned-fq-44-in-flight/",
-      "publishedAt": "2026-10-20T17:00:21Z"
-    },
-    {
-      "id": "7b6098cc15eb61ce5297fb2c",
-      "title": "China built more than twice naval tonnage of US in 2024-25: Euronaval",
-      "summary": "China built more than twice the naval tonnage of the U.S. in the 2024-25 period, narrowing the gap between the two countries’ navies, a new report says.",
-      "category": "Navy",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/naval/2026/10/20/china-built-more-than-twice-naval-tonnage-of-us-in-2024-25-euronaval/",
-      "publishedAt": "2026-10-20T16:57:56Z"
-    },
-    {
-      "id": "42dd37d69debcb66e0c300b4",
-      "title": "Washington Guard commanders focus on readiness, soldier care ahead of NTC",
-      "summary": "Washington Army National Guard battalion command teams gathered at Camp Murray, Wash., Oct. 19, 2026, for the Fall Battalion Commanders’ Professional Development Symposium.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577438/washington-guard-commanders-focus-readiness-soldier-care-ahead-ntc",
-      "publishedAt": "2026-10-20T16:49:59Z"
-    },
-    {
-      "id": "bd303ee06173109e2f530ec0",
-      "title": "MICC - Fort Eustis delivers joint quality-of-life solution, advances 2026–2027 campaign plan",
-      "summary": "U.S. Army Mission and Installation Contracting Command Fort Eustis recently executed a task order supporting the installation of an interim BeaverFit fitness facility at Tinker Air Force Base, Oklahoma, demonstrating how responsive interservice collaboration can deliver timely quality-of-life improvements for service members.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577436/micc-fort-eustis-delivers-joint-quality-life-solution-advances-2026-2027-campaign-plan",
-      "publishedAt": "2026-10-20T16:21:41Z"
     }
   ],
   "nextPage": "page-3.json"
