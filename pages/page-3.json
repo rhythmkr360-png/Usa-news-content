@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T20:53:17Z",
+  "generatedAt": "2026-10-24T23:18:16Z",
   "articles": [
+    {
+      "id": "ef19372ec36e6a77845c3df6",
+      "title": "Sabers, shirts sustainment discussed during West Point logisticians’ visit to Troop Support",
+      "summary": "Maintaining uniform support to cadets at the U.S. Military Academy at West Point informed a visit to Defense Logistics Agency Troop Support by West Point logisticians June 8.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577549/sabers-shirts-sustainment-discussed-during-west-point-logisticians-visit-troop-support",
+      "publishedAt": "2026-10-21T20:18:37Z"
+    },
     {
       "id": "00da20123af1c65e6344f567",
       "title": "Preserving the past, powering the future: USACE brings geothermal technology to historic Hacienda Copy",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577435/soldiers-put-picatinnys-common-lethality-integration-kit-test-pc-c6",
       "publishedAt": "2026-10-20T16:19:12Z"
-    },
-    {
-      "id": "07974fe69cd520b421b29feb",
-      "title": "Chinese Navy Shadows USS Charleston Near Contested Sabina Shoal",
-      "summary": "MANILA, Philippines — USS Charleston (LCS-18) was tracked by Chinese forces on Tuesday after the ship “illegally intruded” into the area surrounding a contested South China Sea maritime feature, according to Beijing. Chinese forces were dispatched to monitor the Independence-class LCS near Sabina Shoal early Tuesday, the PLA said.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/20/chinese-navy-shadows-uss-charleston-near-contested-sabina-shoal",
-      "publishedAt": "2026-10-20T15:55:24Z"
     }
   ],
   "nextPage": "page-4.json"

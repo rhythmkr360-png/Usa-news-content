@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T20:53:17Z",
+  "generatedAt": "2026-10-24T23:18:16Z",
   "articles": [
+    {
+      "id": "4278e5079d465e5484babd77",
+      "title": "From runway to reps: Black Hawk pilot soars to the top of Army fitness",
+      "summary": "Warrant Officer Sorenson, a member of the highly competitive U.S. Army Warrior Fitness Team and a UH-60M Black Hawk helicopter pilot, aims to inspire others to pursue fitness by demonstrating that determination and hard work can turn even the most ambitious goals into reality.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577665/runway-reps-black-hawk-pilot-soars-top-army-fitness",
+      "publishedAt": "2026-10-22T21:02:04Z"
+    },
     {
       "id": "944f6dfa008e9cabe6d09b66",
       "title": "From Fort Sill to the world: Red Cross Hero Care Center keeps military families connected",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577554/preparedness-takes-precedence-troop-support-working-group-implements-shelter-place-planning",
       "publishedAt": "2026-10-21T20:45:04Z"
-    },
-    {
-      "id": "ef19372ec36e6a77845c3df6",
-      "title": "Sabers, shirts sustainment discussed during West Point logisticians’ visit to Troop Support",
-      "summary": "Maintaining uniform support to cadets at the U.S. Military Academy at West Point informed a visit to Defense Logistics Agency Troop Support by West Point logisticians June 8.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577549/sabers-shirts-sustainment-discussed-during-west-point-logisticians-visit-troop-support",
-      "publishedAt": "2026-10-21T20:18:37Z"
     }
   ],
   "nextPage": "page-3.json"
