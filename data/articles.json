@@ -1,5 +1,14 @@
 [
   {
+    "id": "0719fc31bf75f26fed0f14a0",
+    "title": "Pentagon bans troops from betting using insider information",
+    "summary": "The new prohibition bars Defense Department personnel from using classified and unclassified info to gamble on prediction markets. The post Pentagon bans troops from betting using insider information appeared first on Task & Purpose .",
+    "category": "Defense",
+    "sourceName": "Task & Purpose",
+    "sourceUrl": "https://taskandpurpose.com/news/pentagon-hegseth-ban-prediction-markets/",
+    "publishedAt": "2026-10-24T15:42:42Z"
+  },
+  {
     "id": "5397779d87a7dcd3a981b5fc",
     "title": "Japanese and U.S. Partners Conduct Airfield Damage Repair Training at Keen Sword 27",
     "summary": "As part of the Keen Sword 27 exercise, Japanese and U.S. military forces are conducting airfield damage repair training at four Japanese and U.S. air bases across Japan.",
@@ -1690,14 +1699,5 @@
     "sourceName": "USNI News",
     "sourceUrl": "https://news.usni.org/2026/10/14/video-f-35c-lands-on-new-navy-aircraft-carrier-class-for-first-time",
     "publishedAt": "2026-10-14T20:06:45Z"
-  },
-  {
-    "id": "f883d6baaadd7542af82575f",
-    "title": "Navy Contracts Ursa Major to Develop Rocket Motors for Next-gen Missile Programs",
-    "summary": "The U.S. Navy contracted Ursa Major to develop solid rocket motors for the sea service’s future Naval Modular Missile and Compact Air-to-Air Missile, the defense firm announced last week.",
-    "category": "Navy",
-    "sourceName": "USNI News",
-    "sourceUrl": "https://news.usni.org/2026/10/14/navy-contracts-ursa-major-to-develop-rocket-motors-for-next-gen-missile-programs",
-    "publishedAt": "2026-10-14T13:56:30Z"
   }
 ]

@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T11:07:02Z",
+  "generatedAt": "2026-10-24T15:59:44Z",
   "articles": [
+    {
+      "id": "0d5941c7e5519c5db4c60c8e",
+      "title": "Utah EOD Airmen adapt dismounted operations to emerging drone threats",
+      "summary": "The battlefield is changing. Drones can turn the sky into a threat, explosive hazards can hide in unfamiliar terrain, and the equipment needed to survive a mission may be limited to what an Airman can carry on their back.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577432/utah-eod-airmen-adapt-dismounted-operations-emerging-drone-threats",
+      "publishedAt": "2026-10-20T15:47:39Z"
+    },
     {
       "id": "687f69dbfde02514c114c35c",
       "title": "US Navy, Gecko Robotics surge AI maintenance contract to $300M",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577199/kansas-honors-130th-field-artillery-brigade-with-homecoming-operation-epic-fury",
       "publishedAt": "2026-10-18T21:08:28Z"
-    },
-    {
-      "id": "502280d31f64fe104775f544",
-      "title": "Colonel Retires After 27 Years of Making His Mark on History – And Having Fun",
-      "summary": "Col. Tim Newman of Fisher, Ill., retired from the Illinois Army National Guard after 27 years of “standing the watch.” Family, friends and fellow service members celebrated nearly three decades in uniform during an Oct. 10 retirement ceremony at the University of Illinois Urbana-Champaign Library.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577198/colonel-retires-after-27-years-making-his-mark-history-and-having-fun",
-      "publishedAt": "2026-10-18T15:54:30Z"
     }
   ],
   "nextPage": "page-5.json"

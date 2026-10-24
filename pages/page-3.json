@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T11:07:02Z",
+  "generatedAt": "2026-10-24T15:59:44Z",
   "articles": [
+    {
+      "id": "00da20123af1c65e6344f567",
+      "title": "Preserving the past, powering the future: USACE brings geothermal technology to historic Hacienda Copy",
+      "summary": "The U.S. Army Corps of Engineers Sacramento District is overseeing an $8.7 million geothermal heating and cooling renovation at the historic Hacienda at Fort Hunter Liggett, California.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577545/preserving-past-powering-future-usace-brings-geothermal-technology-historic-hacienda-copy",
+      "publishedAt": "2026-10-21T19:41:33Z"
+    },
     {
       "id": "2949e9348d8c0fa53673b232",
       "title": "Oregon National Guard opens hangar doors to state workforce leaders",
@@ -352,15 +361,6 @@
       "sourceName": "USNI News",
       "sourceUrl": "https://news.usni.org/2026/10/20/chinese-navy-shadows-uss-charleston-near-contested-sabina-shoal",
       "publishedAt": "2026-10-20T15:55:24Z"
-    },
-    {
-      "id": "0d5941c7e5519c5db4c60c8e",
-      "title": "Utah EOD Airmen adapt dismounted operations to emerging drone threats",
-      "summary": "The battlefield is changing. Drones can turn the sky into a threat, explosive hazards can hide in unfamiliar terrain, and the equipment needed to survive a mission may be limited to what an Airman can carry on their back.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577432/utah-eod-airmen-adapt-dismounted-operations-emerging-drone-threats",
-      "publishedAt": "2026-10-20T15:47:39Z"
     }
   ],
   "nextPage": "page-4.json"

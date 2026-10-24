@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T11:07:02Z",
+  "generatedAt": "2026-10-24T15:59:44Z",
   "articles": [
+    {
+      "id": "944f6dfa008e9cabe6d09b66",
+      "title": "From Fort Sill to the world: Red Cross Hero Care Center keeps military families connected",
+      "summary": "When a military family faces an emergency, distance shouldn't stand in the way of getting help. For more than 27 years, the American Red Cross Hero Care Center at Fort Sill has served as a lifeline, connecting service members around the world with loved ones during life's most difficult moments. On Oct.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577659/fort-sill-world-red-cross-hero-care-center-keeps-military-families-connected",
+      "publishedAt": "2026-10-22T20:51:57Z"
+    },
     {
       "id": "df40d55a7aeda085ca25c034",
       "title": "Montana National Guard Connects Educators with Opportunities at Youth Challenge Academy",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577549/sabers-shirts-sustainment-discussed-during-west-point-logisticians-visit-troop-support",
       "publishedAt": "2026-10-21T20:18:37Z"
-    },
-    {
-      "id": "00da20123af1c65e6344f567",
-      "title": "Preserving the past, powering the future: USACE brings geothermal technology to historic Hacienda Copy",
-      "summary": "The U.S. Army Corps of Engineers Sacramento District is overseeing an $8.7 million geothermal heating and cooling renovation at the historic Hacienda at Fort Hunter Liggett, California.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577545/preserving-past-powering-future-usace-brings-geothermal-technology-historic-hacienda-copy",
-      "publishedAt": "2026-10-21T19:41:33Z"
     }
   ],
   "nextPage": "page-3.json"
