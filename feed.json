@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T21:27:33Z",
+  "generatedAt": "2026-10-24T04:41:33Z",
   "articles": [
+    {
+      "id": "d732ce487db57628c9191a06",
+      "title": "Acting Army Secretary highlights Anniston Army Depot, 'Pit Crew of the American Warfighter'",
+      "summary": "Acting Secretary of the Army Adam Telle visited Anniston Army Depot, Alabama, Oct. 23, 2026, to engage with depot leaders and workforce, alongside U.S. Rep. Mike Rogers of Alabama, Chairman of the House Armed Services Committee.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577776/acting-army-secretary-highlights-anniston-army-depot-pit-crew-american-warfighter",
+      "publishedAt": "2026-10-24T02:23:04Z"
+    },
+    {
+      "id": "8932b86f7111bdc1ee6e74b3",
+      "title": "Division commander tours military construction projects in Southern Arizona",
+      "summary": "PHOENIX — U.S. Army Corps of Engineers South Pacific Division and Los Angeles District senior leaders toured several military construction project sites Oct. 1 in Southern Arizona.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577768/division-commander-tours-military-construction-projects-southern-arizona",
+      "publishedAt": "2026-10-23T22:40:59Z"
+    },
+    {
+      "id": "198b152f02db8f8a3cec129b",
+      "title": "Building the Force: Recruiting at the 163d Attack Wing",
+      "summary": "Recruiters are often the first point of contact for those considering military service. Through community outreach and school visits, California Air National Guard recruiters introduce prospective applicants to military career opportunities and the benefits of serving in the Guard.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577767/building-force-recruiting-163d-attack-wing",
+      "publishedAt": "2026-10-23T21:33:10Z"
+    },
+    {
+      "id": "3fb59f8473d4bea5ac825aa4",
+      "title": "US Army launches Project Gatekeeper to accelerate commercial software adoption, streamline cybersecurity accreditation",
+      "summary": "New DevSecOps sandbox slashes accreditation timelines, lowers barriers for industry and delivers secure software to warfighters at mission speed.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577765/us-army-launches-project-gatekeeper-accelerate-commercial-software-adoption-streamline-cybersecurity-accreditation",
+      "publishedAt": "2026-10-23T21:28:28Z"
+    },
     {
       "id": "372e2e7bc3df619b9f81ef29",
       "title": "Kentucky adjutant general briefs legislative committee on state of the Guard",
@@ -325,42 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577661/montana-national-guard-connects-educators-with-opportunities-youth-challenge-academy",
       "publishedAt": "2026-10-22T20:28:52Z"
-    },
-    {
-      "id": "c9edb0f56b83948d505ccac0",
-      "title": "The Beast meets the Bats: Iowa Airmen welcome Secret Service",
-      "summary": "Iowa Air National Guard Airmen assigned to the 185th Air Refueling Wing welcomed U.S. Secret Service personnel prior to a presidential visit to Sioux City, Iowa, Oct. 22, 2026.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577658/beast-meets-bats-iowa-airmen-welcome-secret-service",
-      "publishedAt": "2026-10-22T20:23:27Z"
-    },
-    {
-      "id": "54b1a1644799987a752d3366",
-      "title": "Fife & Drum Corps Helps DEVCOM CBC Celebrate America 250",
-      "summary": "Members of the Old Guard Fife and Drum Corps performed at an America 250 Flag Raising Ceremony held at the U.S. Army Combat Capability Development Command Chemical Biological Center (DEVCOM CBC) on Aberdeen Proving Ground, Maryland. Sergeant 1st Class Ryan Koesterer, Staff Sgt.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577660/fife-drum-corps-helps-devcom-cbc-celebrate-america-250",
-      "publishedAt": "2026-10-22T20:17:58Z"
-    },
-    {
-      "id": "73801b232d1403173d78c8b7",
-      "title": "Garrison welcomes new senior enlisted advisor",
-      "summary": "FORT HOOD, Texas — U.S. Army Garrison-Fort Hood held a change of responsibility Friday at III Armored Corps Headquarters, passing responsibility from Command Sgt. Maj. Loyd Rhoades to Command Sgt. Maj. Kristopher Tate.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577655/garrison-welcomes-new-senior-enlisted-advisor",
-      "publishedAt": "2026-10-22T20:06:39Z"
-    },
-    {
-      "id": "c66a6ada04a01a324ec71082",
-      "title": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
-      "summary": "The move comes amid Pentagon concerns that the U.S. government’s only plant for manufacturing howitzer barrels can’t keep up with the recent demand.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/land/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand/",
-      "publishedAt": "2026-10-22T19:27:22Z"
     }
   ],
   "nextPage": "pages/page-2.json"

@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T21:27:33Z",
+  "generatedAt": "2026-10-24T04:41:33Z",
   "articles": [
+    {
+      "id": "c9edb0f56b83948d505ccac0",
+      "title": "The Beast meets the Bats: Iowa Airmen welcome Secret Service",
+      "summary": "Iowa Air National Guard Airmen assigned to the 185th Air Refueling Wing welcomed U.S. Secret Service personnel prior to a presidential visit to Sioux City, Iowa, Oct. 22, 2026.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577658/beast-meets-bats-iowa-airmen-welcome-secret-service",
+      "publishedAt": "2026-10-22T20:23:27Z"
+    },
+    {
+      "id": "54b1a1644799987a752d3366",
+      "title": "Fife & Drum Corps Helps DEVCOM CBC Celebrate America 250",
+      "summary": "Members of the Old Guard Fife and Drum Corps performed at an America 250 Flag Raising Ceremony held at the U.S. Army Combat Capability Development Command Chemical Biological Center (DEVCOM CBC) on Aberdeen Proving Ground, Maryland. Sergeant 1st Class Ryan Koesterer, Staff Sgt.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577660/fife-drum-corps-helps-devcom-cbc-celebrate-america-250",
+      "publishedAt": "2026-10-22T20:17:58Z"
+    },
+    {
+      "id": "73801b232d1403173d78c8b7",
+      "title": "Garrison welcomes new senior enlisted advisor",
+      "summary": "FORT HOOD, Texas — U.S. Army Garrison-Fort Hood held a change of responsibility Friday at III Armored Corps Headquarters, passing responsibility from Command Sgt. Maj. Loyd Rhoades to Command Sgt. Maj. Kristopher Tate.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577655/garrison-welcomes-new-senior-enlisted-advisor",
+      "publishedAt": "2026-10-22T20:06:39Z"
+    },
+    {
+      "id": "c66a6ada04a01a324ec71082",
+      "title": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
+      "summary": "The move comes amid Pentagon concerns that the U.S. government’s only plant for manufacturing howitzer barrels can’t keep up with the recent demand.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/land/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand/",
+      "publishedAt": "2026-10-22T19:27:22Z"
+    },
     {
       "id": "5e7a70d065922b333eba3418",
       "title": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
@@ -325,42 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577544/oregon-national-guard-opens-hangar-doors-state-workforce-leaders",
       "publishedAt": "2026-10-21T19:37:35Z"
-    },
-    {
-      "id": "67fc7895db8976243051e696",
-      "title": "Strong families equal a strong Army – IMCOM DFMWR director discusses family support during AUSA Panel",
-      "summary": "Strong families equal a strong Army was a key message reiterated during the Warfighter and Family Forum I: Empowering Parents and Children at the Association of the United States Army’s 2026 Annual Meeting and Exposition. The panel included input from Josh Gwinn, IMCOM's Director of Family, Morale, Welfare and Recreation.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577542/strong-families-equal-strong-army-imcom-dfmwr-director-discusses-family-support-during-ausa-panel",
-      "publishedAt": "2026-10-21T19:12:49Z"
-    },
-    {
-      "id": "5587a2b39b04361ccd298420",
-      "title": "US Air Force outlines the fighter fleet it needs by 2035",
-      "summary": "A new Air Force report calls for 1,509 combat-coded fighters by 2035, with F-35s making up 40% of the fleet and F-47s replacing F-22s.",
-      "category": "Navy",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/21/us-air-force-outlines-the-fighter-fleet-it-needs-by-2035/",
-      "publishedAt": "2026-10-21T19:01:44Z"
-    },
-    {
-      "id": "20101045f53096f3fc1484e7",
-      "title": "Hydra Brigade Welcomes New Command Sergeant Major",
-      "summary": "The Georgia Army National Guard’s 648th Maneuver Enhancement Brigade welcomed Command Sgt. Maj. Matthew Eubank as its new senior enlisted leader during a change-of-responsibility ceremony at Clay National Guard Center in Marietta, Georgia, Oct. 18, 2026. Eubank succeeded Command Sgt. Maj.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577530/hydra-brigade-welcomes-new-command-sergeant-major",
-      "publishedAt": "2026-10-21T17:05:25Z"
-    },
-    {
-      "id": "57363ae5199745323643de90",
-      "title": "Commander of Air Combat Command tours Luke AFB",
-      "summary": "U.S. Air Force Gen. Adrian Spain, commander of Air Combat Command, recently visited Luke Air Force Base to engage with Airmen and observe how the 56th Fighter Wing develops combat-ready Airmen and fighter pilots.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577528/commander-air-combat-command-tours-luke-afb",
-      "publishedAt": "2026-10-21T16:11:01Z"
     }
   ],
   "nextPage": "page-3.json"
