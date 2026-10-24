@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T04:41:33Z",
+  "generatedAt": "2026-10-24T11:07:02Z",
   "articles": [
+    {
+      "id": "5397779d87a7dcd3a981b5fc",
+      "title": "Japanese and U.S. Partners Conduct Airfield Damage Repair Training at Keen Sword 27",
+      "summary": "As part of the Keen Sword 27 exercise, Japanese and U.S. military forces are conducting airfield damage repair training at four Japanese and U.S. air bases across Japan.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577782/japanese-and-us-partners-conduct-airfield-damage-repair-training-keen-sword-27",
+      "publishedAt": "2026-10-24T04:57:15Z"
+    },
     {
       "id": "d732ce487db57628c9191a06",
       "title": "Acting Army Secretary highlights Anniston Army Depot, 'Pit Crew of the American Warfighter'",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577659/fort-sill-world-red-cross-hero-care-center-keeps-military-families-connected",
       "publishedAt": "2026-10-22T20:51:57Z"
-    },
-    {
-      "id": "df40d55a7aeda085ca25c034",
-      "title": "Montana National Guard Connects Educators with Opportunities at Youth Challenge Academy",
-      "summary": "DILLON, Mont. — The Montana National Guard partnered with the Montana Youth Challenge Academy (MYCA) and the University of Montana Western to bring educators from across the state to Dillon, Oct. 21, for a firsthand look at a program helping young Montanans build brighter futures.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577661/montana-national-guard-connects-educators-with-opportunities-youth-challenge-academy",
-      "publishedAt": "2026-10-22T20:28:52Z"
     }
   ],
   "nextPage": "pages/page-2.json"

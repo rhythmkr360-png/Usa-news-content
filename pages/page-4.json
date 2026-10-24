@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T04:41:33Z",
+  "generatedAt": "2026-10-24T11:07:02Z",
   "articles": [
+    {
+      "id": "687f69dbfde02514c114c35c",
+      "title": "US Navy, Gecko Robotics surge AI maintenance contract to $300M",
+      "summary": "Gecko Robotics uses drones, wall-climbing robots and fixed sensors to gather data on components, decks, welds and hulls.",
+      "category": "Navy",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/your-navy/2026/10/20/us-navy-gecko-robotics-surge-ai-maintenance-contract-to-300m/",
+      "publishedAt": "2026-10-20T15:15:32Z"
+    },
     {
       "id": "f17ef35ff37e13c27406eabc",
       "title": "Army Veterinary Officers Complete Specialized Dairy Pasteurizer Audit Training in Denmark",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577198/colonel-retires-after-27-years-making-his-mark-history-and-having-fun",
       "publishedAt": "2026-10-18T15:54:30Z"
-    },
-    {
-      "id": "4a83095d86624e35ad3d6936",
-      "title": "US arms firm Anduril could make interceptors in Europe, executive says",
-      "summary": "U.S. defense firm Anduril could eventually manufacture its newly unveiled Steelfin interceptor missiles in Europe, a company executive said.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/18/us-arms-firm-anduril-could-make-interceptors-in-europe-executive-says/",
-      "publishedAt": "2026-10-18T15:40:14Z"
     }
   ],
   "nextPage": "page-5.json"

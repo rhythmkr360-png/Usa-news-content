@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T04:41:33Z",
+  "generatedAt": "2026-10-24T11:07:02Z",
   "articles": [
+    {
+      "id": "2949e9348d8c0fa53673b232",
+      "title": "Oregon National Guard opens hangar doors to state workforce leaders",
+      "summary": "The Oregon National Guard hosted the opening reception for the Oregon Workforce Partnership’s WORKing Together Conference at Army Aviation Support Facility #1 in Salem, Ore., Oct. 19, 2026, then supported the conference with recruiters and Soldiers at the Salem Convention Center the next day.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577544/oregon-national-guard-opens-hangar-doors-state-workforce-leaders",
+      "publishedAt": "2026-10-21T19:37:35Z"
+    },
     {
       "id": "67fc7895db8976243051e696",
       "title": "Strong families equal a strong Army – IMCOM DFMWR director discusses family support during AUSA Panel",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577432/utah-eod-airmen-adapt-dismounted-operations-emerging-drone-threats",
       "publishedAt": "2026-10-20T15:47:39Z"
-    },
-    {
-      "id": "687f69dbfde02514c114c35c",
-      "title": "US Navy, Gecko Robotics surge AI maintenance contract to $300M",
-      "summary": "Gecko Robotics uses drones, wall-climbing robots and fixed sensors to gather data on components, decks, welds and hulls.",
-      "category": "Navy",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-navy/2026/10/20/us-navy-gecko-robotics-surge-ai-maintenance-contract-to-300m/",
-      "publishedAt": "2026-10-20T15:15:32Z"
     }
   ],
   "nextPage": "page-4.json"
