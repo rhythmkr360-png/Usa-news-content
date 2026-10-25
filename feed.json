@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-25T16:27:28Z",
+  "generatedAt": "2026-10-25T20:54:19Z",
   "articles": [
+    {
+      "id": "e71bb1712f6ebab4954d2950",
+      "title": "FOX SPORTS TO HONOR U.S. MILITARY AND VETERANS DURING SPECIAL BROADCASTS AT THE U.S. NAVAL ACADEMY AND WEST POINT",
+      "summary": "In honor of Veterans Day, FOX Sports, in coordination with the U.S. Military Academy and the U.S. Naval Academy, will broadcast two of its flagship sports programs live from West Point and the U.S. Naval Academy over the weekend of Nov. 7–8.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577806/fox-sports-honor-us-military-and-veterans-during-special-broadcasts-us-naval-academy-and-west-point",
+      "publishedAt": "2026-10-25T20:34:50Z"
+    },
+    {
+      "id": "2aa1b09a8f65d596cc4da46b",
+      "title": "JROTC National Raider Challenge | Fall 2026",
+      "summary": "Fort Knox, Ky. – U.S. Army Cadet Command hosted the JROTC National Raider Challenge bringing approximately 4,000 cadets from across the country to Fort Knox, Oct. 22-25 to test their grit as they attempt to bring home the National Raider Champion title.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577803/jrotc-national-raider-challenge-fall-2026",
+      "publishedAt": "2026-10-25T19:38:00Z"
+    },
+    {
+      "id": "750f68cb46b54e5b2a67d874",
+      "title": "121 ARW runs the ramp",
+      "summary": "RICKENBACKER AIR NATIONAL GUARD BASE, Ohio – Airmen with the 121st Air Refueling Wing participated in the Run the Ramp fitness exercise hosted by the 121 ARW Refuel and Recharge Fitness and Wellness Club at Rickenbacker Air National Guard Base, Columbus, Ohio, on October 23, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577796/121-arw-runs-ramp",
+      "publishedAt": "2026-10-25T17:09:08Z"
+    },
+    {
+      "id": "22f0a3a8c98bd4d3b4403603",
+      "title": "West Point to Host Veterans Day Broadcasts and Army-Air Force Weekend Events",
+      "summary": "The U.S. Military Academy at West Point is proud to host a series of athletic competitions and national sports broadcasts Nov. 7–8, including FOX Sports Veterans Day Salute to Service programming and the annual Army–Air Force football game at Michie Stadium.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577800/west-point-host-veterans-day-broadcasts-and-army-air-force-weekend-events",
+      "publishedAt": "2026-10-25T16:47:48Z"
+    },
     {
       "id": "9ef4f28a9646776e4bb92bdf",
       "title": "Japan, Philippine and U.S. forces conduct multilateral Maritime Cooperative Activity",
@@ -325,42 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577678/16-wps-showcases-heritage-tactical-role-during-joint-chiefs-chairman-visit",
       "publishedAt": "2026-10-22T23:35:55Z"
-    },
-    {
-      "id": "b882179d0a10fa47876e9057",
-      "title": "La. Guard begins construction on Lake Charles Field Maintenance Shop",
-      "summary": "LAKE CHARLES, La. – Louisiana National Guard leaders and state officials joined representatives from Chennault International Airport, Porche/May Architects, LLC and Alfred Palma, LLC for a ceremonial groundbreaking for the Lake Charles Field Maintenance Shop at the Lake Charles Readiness Center, Oct. 21, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577679/la-guard-begins-construction-lake-charles-field-maintenance-shop",
-      "publishedAt": "2026-10-22T23:16:19Z"
-    },
-    {
-      "id": "c541904c5db80008e41882be",
-      "title": "Thunderbirds arrive in Wichita ahead of Frontiers in Flight Air Show",
-      "summary": "MCCONNELL AIR FORCE BASE, Kan. — The roar of fighter jets is set to fill the skies over the Air Capital of the World as the U.S. Air Force Thunderbirds arrive at McConnell Air Force Base, Kansas, ahead of the 2026 Frontiers in Flight Air Show and Open House Oct. 24-25.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577677/thunderbirds-arrive-wichita-ahead-frontiers-flight-air-show",
-      "publishedAt": "2026-10-22T22:48:47Z"
-    },
-    {
-      "id": "d3d7ad4df9e9071c6d54cbc8",
-      "title": "OLDCC funding supports water system resiliency planning for West Kauai and PMRF",
-      "summary": "KEKAHA, HAWAII – The Department of Water, County of Kauai (KDOW), in partnership with the U.S. Navy’s Pacific Missile Range Facility (PMRF), is advancing critical water-infrastructure planning for the Kekaha-Waimea water system through support from the Office of Local Defense Community Cooperation (OLDCC).",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577674/oldcc-funding-supports-water-system-resiliency-planning-west-kauai-and-pmrf",
-      "publishedAt": "2026-10-22T22:05:34Z"
-    },
-    {
-      "id": "c76dd6d729660b674c9e38b7",
-      "title": "Naval Hospital Twentynine Palms pediatrician named Navy Pediatrician of the Year by American Academy of Pediatrics",
-      "summary": "Lt. Cmdr. Scott Berkheimer, a pediatrician at Naval Hospital Twentynine Palms, was named Navy Pediatrician of the Year by the American Academy of Pediatrics Section on Uniformed Services in October 2026, recognizing his professional accomplishments and dedication to caring for military-connected children and families.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577673/naval-hospital-twentynine-palms-pediatrician-named-navy-pediatrician-year-american-academy-pediatrics",
-      "publishedAt": "2026-10-22T21:20:47Z"
     }
   ],
   "nextPage": "pages/page-2.json"

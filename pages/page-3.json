@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-25T16:27:28Z",
+  "generatedAt": "2026-10-25T20:54:19Z",
   "articles": [
+    {
+      "id": "e399db455961eec9c19f5eb3",
+      "title": "U.S. Army Garrison-Fort McCoy chaplain supports 98th ARRTC activation with invocation",
+      "summary": "As the 98th Army Reserve Readiness Training Center (ARRTC) officially activated Oct. 21 at Fort McCoy, Chaplain (Lt. Col.) Walter McCall, garrison chaplain for U.S. Army Garrison-Fort McCoy, provided an invocation recognizing the significance of the occasion and the Soldiers and leaders beginning a new chapter in the organization’s history.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577567/us-army-garrison-fort-mccoy-chaplain-supports-98th-arrtc-activation-with-invocation",
+      "publishedAt": "2026-10-21T22:16:36Z"
+    },
+    {
+      "id": "3dc23c797404f44346cdf7d2",
+      "title": "Coast Guard Cutter Munro completes Arctic patrol, strengthens U.S. presence in high north",
+      "summary": "ALAMEDA, Calif. — The crew of Coast Guard Cutter Munro (WMSL 755) returned to their Base Alameda homeport on Coast Guard Island Oct. 9, 2026, following a 112-day Alaska patrol that covered more than 23,000 nautical miles across the Bering Sea and Arctic Ocean.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577561/coast-guard-cutter-munro-completes-arctic-patrol-strengthens-us-presence-high-north",
+      "publishedAt": "2026-10-21T21:29:09Z"
+    },
+    {
+      "id": "fb18aa44c5511dcf1ab53a34",
+      "title": "NPS Announces Nine Digital Trident II Projects Addressing Pacific Operational Challenges",
+      "summary": "The Naval Postgraduate School Office of Research and Innovation announced nine projects selected for development through the Digital Trident II initiative. Chosen through a competitive process, the projects bring NPS researchers, operational stakeholders and partners together to address consequential challenges facing U.S. forces in the Pacific.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577560/nps-announces-nine-digital-trident-ii-projects-addressing-pacific-operational-challenges",
+      "publishedAt": "2026-10-21T21:13:34Z"
+    },
+    {
+      "id": "4b155d754e9f24a9ccebc111",
+      "title": "Military Firefighters host a week of events to vitalize fire prevention",
+      "summary": "U.S. Air Force Col. Matthew Norton, 17th Training Wing commander, signed a proclamation on Oct. 5, commencing Fire Prevention Week 2026: “Charge into Fire Safety: Lithium-Ion Batteries in Your Home.”",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577552/military-firefighters-host-week-events-vitalize-fire-prevention",
+      "publishedAt": "2026-10-21T20:56:50Z"
+    },
     {
       "id": "a58e4bd4b1e4d64e81227b4c",
       "title": "Preparedness takes precedence as a Troop Support working group implements shelter-in-place planning",
@@ -325,42 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577439/blair-serving-her-country-through-patient-care",
       "publishedAt": "2026-10-20T17:14:36Z"
-    },
-    {
-      "id": "137ef4ba47c39c0e382648ed",
-      "title": "US Air Force F-22 pilot controls unmanned FQ-44 in flight",
-      "summary": "The fighter jet’s pilot served as an airborne “quarterback” and gave high-level directives to an Anduril-made Collaborative Combat Aircraft.",
-      "category": "Air Force",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/20/us-air-force-f-22-pilot-controls-unmanned-fq-44-in-flight/",
-      "publishedAt": "2026-10-20T17:00:21Z"
-    },
-    {
-      "id": "7b6098cc15eb61ce5297fb2c",
-      "title": "China built more than twice naval tonnage of US in 2024-25: Euronaval",
-      "summary": "China built more than twice the naval tonnage of the U.S. in the 2024-25 period, narrowing the gap between the two countries’ navies, a new report says.",
-      "category": "Navy",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/naval/2026/10/20/china-built-more-than-twice-naval-tonnage-of-us-in-2024-25-euronaval/",
-      "publishedAt": "2026-10-20T16:57:56Z"
-    },
-    {
-      "id": "42dd37d69debcb66e0c300b4",
-      "title": "Washington Guard commanders focus on readiness, soldier care ahead of NTC",
-      "summary": "Washington Army National Guard battalion command teams gathered at Camp Murray, Wash., Oct. 19, 2026, for the Fall Battalion Commanders’ Professional Development Symposium.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577438/washington-guard-commanders-focus-readiness-soldier-care-ahead-ntc",
-      "publishedAt": "2026-10-20T16:49:59Z"
-    },
-    {
-      "id": "bd303ee06173109e2f530ec0",
-      "title": "MICC - Fort Eustis delivers joint quality-of-life solution, advances 2026–2027 campaign plan",
-      "summary": "U.S. Army Mission and Installation Contracting Command Fort Eustis recently executed a task order supporting the installation of an interim BeaverFit fitness facility at Tinker Air Force Base, Oklahoma, demonstrating how responsive interservice collaboration can deliver timely quality-of-life improvements for service members.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577436/micc-fort-eustis-delivers-joint-quality-life-solution-advances-2026-2027-campaign-plan",
-      "publishedAt": "2026-10-20T16:21:41Z"
     }
   ],
   "nextPage": "page-4.json"

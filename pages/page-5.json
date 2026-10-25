@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-25T16:27:28Z",
+  "generatedAt": "2026-10-25T20:54:19Z",
   "articles": [
+    {
+      "id": "b1410476a20c6bbd07f06c67",
+      "title": "Connecticut National Guard hosts welcome home ceremony for 1-102nd Infantry",
+      "summary": "The Connecticut National Guard hosted a welcome home ceremony and Yellow Ribbon reintegration event for 1st Battalion, 102nd Infantry at the Gov. William A. O’Neill armory Oct. 17, 2026.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577189/connecticut-national-guard-hosts-welcome-home-ceremony-1-102nd-infantry",
+      "publishedAt": "2026-10-19T01:56:54Z"
+    },
+    {
+      "id": "ecb736d5f338715018069901",
+      "title": "Forging Agile Leaders: 192nd Wing officers sharpen leadership skills during inaugural exercise",
+      "summary": "On October 17, 2026, junior officers from the Virginia Air National Guard's 192nd Wing participated in an inaugural development exercise at Joint Base Langley-Eustis to strengthen their leadership and decision making skills for Agile Combat Employment operations.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577207/forging-agile-leaders-192nd-wing-officers-sharpen-leadership-skills-during-inaugural-exercise",
+      "publishedAt": "2026-10-18T23:37:14Z"
+    },
+    {
+      "id": "99f481d62d702dc9f581868e",
+      "title": "‘Join the National Guard’ for family, says Oregon’s newest general",
+      "summary": "Col. Russell Gibson, assistant adjutant general for the Oregon Army National Guard, was promoted to brigadier general during a ceremony at the 41st Infantry Division Armed Forces Reserve Center in Clackamas, Ore., Oct. 17, 2026. Brig. Gen.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577203/join-national-guard-family-says-oregons-newest-general",
+      "publishedAt": "2026-10-18T22:12:14Z"
+    },
+    {
+      "id": "ee8d6da03e0d689c4801d471",
+      "title": "Voices of the VaANG: Master Sgt. Sabrina Jahner and Tech. Sgt. Stephen Kolmer, Leader Empowerment and Development program instructors",
+      "summary": "Master Sgt. Sabrina Jahner and Tech. Sgt. Stephen Kolmer have been selected as the new instructors to spearhead the Virginia Air National Guard's reignited Leader Empowerment and Development program.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577204/voices-vaang-master-sgt-sabrina-jahner-and-tech-sgt-stephen-kolmer-leader-empowerment-and-development-program-instructors",
+      "publishedAt": "2026-10-18T21:56:28Z"
+    },
     {
       "id": "893eb3d1ed64a013d9567b63",
       "title": "Multi-state RED HORSE units fortify Pacific airfields, advance Agile Combat Employment",
@@ -226,24 +262,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/15/expanded-dining-options-popular-among-soldiers-us-army-officials-say/",
       "publishedAt": "2026-10-15T21:30:00Z"
-    },
-    {
-      "id": "2a9ecb2279976650ff0a757d",
-      "title": "US Army eyes developing soldier-worn drone detection gear",
-      "summary": "The Army is in the early stages of developing and testing a wearable or lightweight device that could alert soldiers to the presence of hostile drones.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-army-eyes-developing-soldier-worn-drone-detection-gear/",
-      "publishedAt": "2026-10-15T20:00:00Z"
-    },
-    {
-      "id": "a1fd623a923a9d6718e1ca49",
-      "title": "US Army to stand up second expeditionary cyber battalion in coming months",
-      "summary": "The head of U.S. Army Cyber Command said this week that the service would be building an exact replica of the 11th Cyber Battalion in the next few months.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/14/us-army-to-stand-up-second-expeditionary-cyber-battalion-in-coming-months/",
-      "publishedAt": "2026-10-15T17:00:00Z"
     }
   ]
 }
