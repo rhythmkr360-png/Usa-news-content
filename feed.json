@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-25T20:54:19Z",
+  "generatedAt": "2026-10-25T23:18:21Z",
   "articles": [
+    {
+      "id": "2cf33fed6ae93c610684de8f",
+      "title": "U.S. Army and NATO Partners Rehearse War Strategies",
+      "summary": "In Wiesbaden, the U.S. Army and its NATO partners are rehearsing a real-world emergency scenario. A simulated attack on NATO’s eastern flank is designed to test the alliance’s defensive capabilities.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577804/us-army-and-nato-partners-rehearse-war-strategies",
+      "publishedAt": "2026-10-25T23:08:08Z"
+    },
+    {
+      "id": "f82674c257c68727930e7681",
+      "title": "Ballenger Honored, Deal Introduced as Newest Georgia Army National Guard State Command Sgt. Maj.",
+      "summary": "U.S. Army Command Sergeant Major John Ballenger transitions into retirement and passes the torch to U.S. Army Command Sergeant Major Lafayette Deal as the incoming Georgia Army National Guard Command Sergeant Major.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577807/ballenger-honored-deal-introduced-newest-georgia-army-national-guard-state-command-sgt-maj",
+      "publishedAt": "2026-10-25T22:19:11Z"
+    },
+    {
+      "id": "d30e1f8ffb6b9976ea65ac82",
+      "title": "NATO FLF Battle Group-Poland celebrates Romanian Armed Forces Day with sports competition",
+      "summary": "Romanian soldiers deployed with NATO’s Battle Group-Poland marked Romania’s Armed Forces Day with allied U.S., Croatian and British troops at Bemowo Piskie Training Area. A Romanian-led competition featured volleyball, indoor soccer and table tennis, giving soldiers a chance to build camaraderie beyond their regular duties.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577805/nato-flf-battle-group-poland-celebrates-romanian-armed-forces-day-with-sports-competition",
+      "publishedAt": "2026-10-25T21:19:00Z"
+    },
     {
       "id": "e71bb1712f6ebab4954d2950",
       "title": "FOX SPORTS TO HONOR U.S. MILITARY AND VETERANS DURING SPECIAL BROADCASTS AT THE U.S. NAVAL ACADEMY AND WEST POINT",
@@ -334,33 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577689/us-japanese-forces-strengthen-bilateral-readiness-through-hot-pit-refueling-during-keen-sword-27",
       "publishedAt": "2026-10-23T06:02:09Z"
-    },
-    {
-      "id": "b5f6e64c102a6c3fe2f3a2b5",
-      "title": "Exercise Beverly Sunrise 27-01",
-      "summary": "U.S. Airmen assigned to the 35th Fighter Wing, alongside joint mission partners, participated in Exercise Beverly Sunrise 27-01 at Misawa Air Base, Japan, Oct. 19-23. The exercise tested their ability to respond to simulated threats, sustain operations and project combat power in contested environments.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577686/exercise-beverly-sunrise-27-01",
-      "publishedAt": "2026-10-23T04:04:53Z"
-    },
-    {
-      "id": "7063baeb2c2119892256609c",
-      "title": "U.S., Republic of Korea navies successfully conclude Maritime Counter-Special Operations Exercise",
-      "summary": "Naval forces from the U.S. and Republic of Korea (ROK) successfully concluded the bilateral Maritime Counter-Special Operations Forces Exercise (MCSOFEX) in the waters surrounding the Pyeongtaek, Republic of Korea, Oct 23, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577680/us-republic-korea-navies-successfully-conclude-maritime-counter-special-operations-exercise",
-      "publishedAt": "2026-10-22T23:57:19Z"
-    },
-    {
-      "id": "a62ee47a4ebf8c7d986c9f15",
-      "title": "16 WPS showcases heritage, tactical role during Joint Chiefs Chairman visit",
-      "summary": "For more than 80 years, the 16th Weapons Squadron has shaped the tactics, culture and combat effectiveness of American airpower.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577678/16-wps-showcases-heritage-tactical-role-during-joint-chiefs-chairman-visit",
-      "publishedAt": "2026-10-22T23:35:55Z"
     }
   ],
   "nextPage": "pages/page-2.json"

@@ -1,5 +1,32 @@
 [
   {
+    "id": "2cf33fed6ae93c610684de8f",
+    "title": "U.S. Army and NATO Partners Rehearse War Strategies",
+    "summary": "In Wiesbaden, the U.S. Army and its NATO partners are rehearsing a real-world emergency scenario. A simulated attack on NATO’s eastern flank is designed to test the alliance’s defensive capabilities.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/577804/us-army-and-nato-partners-rehearse-war-strategies",
+    "publishedAt": "2026-10-25T23:08:08Z"
+  },
+  {
+    "id": "f82674c257c68727930e7681",
+    "title": "Ballenger Honored, Deal Introduced as Newest Georgia Army National Guard State Command Sgt. Maj.",
+    "summary": "U.S. Army Command Sergeant Major John Ballenger transitions into retirement and passes the torch to U.S. Army Command Sergeant Major Lafayette Deal as the incoming Georgia Army National Guard Command Sergeant Major.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/577807/ballenger-honored-deal-introduced-newest-georgia-army-national-guard-state-command-sgt-maj",
+    "publishedAt": "2026-10-25T22:19:11Z"
+  },
+  {
+    "id": "d30e1f8ffb6b9976ea65ac82",
+    "title": "NATO FLF Battle Group-Poland celebrates Romanian Armed Forces Day with sports competition",
+    "summary": "Romanian soldiers deployed with NATO’s Battle Group-Poland marked Romania’s Armed Forces Day with allied U.S., Croatian and British troops at Bemowo Piskie Training Area. A Romanian-led competition featured volleyball, indoor soccer and table tennis, giving soldiers a chance to build camaraderie beyond their regular duties.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/577805/nato-flf-battle-group-poland-celebrates-romanian-armed-forces-day-with-sports-competition",
+    "publishedAt": "2026-10-25T21:19:00Z"
+  },
+  {
     "id": "e71bb1712f6ebab4954d2950",
     "title": "FOX SPORTS TO HONOR U.S. MILITARY AND VETERANS DURING SPECIAL BROADCASTS AT THE U.S. NAVAL ACADEMY AND WEST POINT",
     "summary": "In honor of Veterans Day, FOX Sports, in coordination with the U.S. Military Academy and the U.S. Naval Academy, will broadcast two of its flagship sports programs live from West Point and the U.S. Naval Academy over the weekend of Nov. 7–8.",
@@ -1672,32 +1699,5 @@
     "sourceName": "Defense News",
     "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/14/what-is-the-us-army-doing-in-panama-a-bit-of-everything/",
     "publishedAt": "2026-10-16T10:00:00Z"
-  },
-  {
-    "id": "47101c95f851d1a8bf273558",
-    "title": "Killer balloons an option as US Army seeks to ‘exploit the stratosphere’",
-    "summary": "While using balloons as shooters likely presents more challenges than using them for sensing, nothing is off the table, an Army official said.",
-    "category": "Army",
-    "sourceName": "Defense News",
-    "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/15/killer-balloons-an-option-as-us-army-seeks-to-exploit-the-stratosphere/",
-    "publishedAt": "2026-10-15T23:00:00Z"
-  },
-  {
-    "id": "291c8e75dcd5989b70d89579",
-    "title": "Ukrainian officials blame Pentagon for withholding life-saving intel from Kyiv",
-    "summary": "The U.S. appears to have stopped sharing some forms of key intelligence with Kyiv, Ukrainian officials said Wednesday.",
-    "category": "Defense",
-    "sourceName": "Defense News",
-    "sourceUrl": "https://www.defensenews.com/global/2026/10/15/ukrainian-officials-blame-pentagon-for-withholding-life-saving-intel-from-kyiv/",
-    "publishedAt": "2026-10-15T22:00:48Z"
-  },
-  {
-    "id": "137be50514663882325ffda2",
-    "title": "Expanded dining options popular among soldiers, US Army officials say",
-    "summary": "“Chow halls operated on decades-old schedules that clashed with modern soldier work shifts,” one U.S. Army official said.",
-    "category": "Army",
-    "sourceName": "Defense News",
-    "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/15/expanded-dining-options-popular-among-soldiers-us-army-officials-say/",
-    "publishedAt": "2026-10-15T21:30:00Z"
   }
 ]

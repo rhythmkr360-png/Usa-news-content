@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-25T20:54:19Z",
+  "generatedAt": "2026-10-25T23:18:21Z",
   "articles": [
+    {
+      "id": "0de07d0cb96d7a7211ff8dfe",
+      "title": "USACAPOC(A) Soldiers earn Jungle Tabs in Panama, build Army Reserve capability",
+      "summary": "COLÓN, Panama — Eleven U.S. Army Reserve Soldiers assigned to U.S. Army Civil Affairs and Psychological Operations Command (Airborne) earned the Jungle Tab after completing the Jungle Operations Training Course-Panama Aug. 2, adding jungle expertise to the command’s Civil Affairs and Psychological Operations formations.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577441/usacapoca-soldiers-earn-jungle-tabs-panama-build-army-reserve-capability",
+      "publishedAt": "2026-10-20T17:29:39Z"
+    },
+    {
+      "id": "66a1511f116bca19c22ae07d",
+      "title": "Cadets Explore Human-Machine Teaming Through Hands-on Research",
+      "summary": "U.S. Air Force Academy cadets are exploring how emerging technologies influence human behavior and decision-making through hands-on research with humanoid robots and robotic dogs.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577440/cadets-explore-human-machine-teaming-through-hands-research",
+      "publishedAt": "2026-10-20T17:14:38Z"
+    },
+    {
+      "id": "bf010a1989e20abd6e39af0c",
+      "title": "Blair: Serving her country through patient care",
+      "summary": "U.S. Army Staff Sgt. Autumn Blair is carving her own path as a dedicated flight medic while also serving her country like her parents and grandfather.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577439/blair-serving-her-country-through-patient-care",
+      "publishedAt": "2026-10-20T17:14:36Z"
+    },
     {
       "id": "137ef4ba47c39c0e382648ed",
       "title": "US Air Force F-22 pilot controls unmanned FQ-44 in flight",
@@ -334,33 +361,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/15/us-army-fields-new-system-for-sweeping-munitions-planning-management/",
       "publishedAt": "2026-10-19T09:00:00Z"
-    },
-    {
-      "id": "c395b722a86382d222c6cecc",
-      "title": "86th IBCT (MTN) Relinquishes Command of JMTG-U",
-      "summary": "The Joint Multinational Training Group-Ukraine held a colors casing ceremony at the 7th Army Training Command headquarters on Oct. 15, 2026. Task Force Luzon, composed of the 86th Infantry Brigade Combat Team (Mountain) from the Vermont National Guard, cased its colors, relinquishing command responsibility for the mission.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577212/86th-ibct-mtn-relinquishes-command-jmtg-u",
-      "publishedAt": "2026-10-19T06:40:16Z"
-    },
-    {
-      "id": "5b97b7051598e4d5ee10bb91",
-      "title": "Passing the colors: Inigo gives final salute to 103rd Troop Command Soldiers",
-      "summary": "Col. Phoebe P. Inigo relinquished command of the 103rd Troop Command to Col. Byron Cadiz during a ceremony presided over by Brig. Gen. Ronald D. Hogsten, commander of the Hawaii Army National Guard. Inigo’s 22 months in command included responses to natural disasters, federal mobilizations and training with international partners.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577210/passing-colors-inigo-gives-final-salute-103rd-troop-command-soldiers",
-      "publishedAt": "2026-10-19T05:13:29Z"
-    },
-    {
-      "id": "0b29ea7ad42547c00b4e8859",
-      "title": "JMSDF Fleet Submarine Force Commander visits CTF-74",
-      "summary": "YOKOSUKA, Japan — Japan Maritime Self-Defense Force (JMSDF) Vice Adm. Noaya Hoshi, commander, Fleet Submarine Force, met with U.S. Navy Rear Adm. Gary Montalvo Jr., commander, Submarine Group 7 (CSG 7)/Task Force 74 (CTF 74) at Commander, Fleet Activities Yokosuka on Oct. 13, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577209/jmsdf-fleet-submarine-force-commander-visits-ctf-74",
-      "publishedAt": "2026-10-19T04:09:51Z"
     }
   ],
   "nextPage": "page-5.json"

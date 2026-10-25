@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-25T20:54:19Z",
+  "generatedAt": "2026-10-25T23:18:21Z",
   "articles": [
+    {
+      "id": "b5f6e64c102a6c3fe2f3a2b5",
+      "title": "Exercise Beverly Sunrise 27-01",
+      "summary": "U.S. Airmen assigned to the 35th Fighter Wing, alongside joint mission partners, participated in Exercise Beverly Sunrise 27-01 at Misawa Air Base, Japan, Oct. 19-23. The exercise tested their ability to respond to simulated threats, sustain operations and project combat power in contested environments.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577686/exercise-beverly-sunrise-27-01",
+      "publishedAt": "2026-10-23T04:04:53Z"
+    },
+    {
+      "id": "7063baeb2c2119892256609c",
+      "title": "U.S., Republic of Korea navies successfully conclude Maritime Counter-Special Operations Exercise",
+      "summary": "Naval forces from the U.S. and Republic of Korea (ROK) successfully concluded the bilateral Maritime Counter-Special Operations Forces Exercise (MCSOFEX) in the waters surrounding the Pyeongtaek, Republic of Korea, Oct 23, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577680/us-republic-korea-navies-successfully-conclude-maritime-counter-special-operations-exercise",
+      "publishedAt": "2026-10-22T23:57:19Z"
+    },
+    {
+      "id": "a62ee47a4ebf8c7d986c9f15",
+      "title": "16 WPS showcases heritage, tactical role during Joint Chiefs Chairman visit",
+      "summary": "For more than 80 years, the 16th Weapons Squadron has shaped the tactics, culture and combat effectiveness of American airpower.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577678/16-wps-showcases-heritage-tactical-role-during-joint-chiefs-chairman-visit",
+      "publishedAt": "2026-10-22T23:35:55Z"
+    },
     {
       "id": "b882179d0a10fa47876e9057",
       "title": "La. Guard begins construction on Lake Charles Field Maintenance Shop",
@@ -334,33 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577587/5th-air-naval-gunfire-liaison-company-japan-ground-self-defense-force-strengthen-partnership-through-joint-fires-training",
       "publishedAt": "2026-10-22T06:16:45Z"
-    },
-    {
-      "id": "c18c69e3960821c830488fbe",
-      "title": "U.S. Army Yuma Test Center Commander mentors local Army JROTC cadets",
-      "summary": "U.S. Army Yuma Test Center Commander Lt. Col. Kevin Hicks spoke to a large assembly of Army Junior Reserve Officers’ Training Corps cadets at Yuma High School on October 21, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577574/us-army-yuma-test-center-commander-mentors-local-army-jrotc-cadets",
-      "publishedAt": "2026-10-21T23:21:09Z"
-    },
-    {
-      "id": "80d465307036779285c2a413",
-      "title": "129th Rescue Wing conducts first wildfire medevac mission with HH-60W helicopter",
-      "summary": "The California Air National Guard’s 129th Rescue Wing deployed its new HH-60W Jolly Green II helicopter to support wildfire operations in Yosemite National Park, Oct. 9-12, marking the aircraft’s first wildfire mission since the wing began transitioning from the HH-60G Pave Hawk last year.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577570/129th-rescue-wing-conducts-first-wildfire-medevac-mission-with-hh-60w-helicopter",
-      "publishedAt": "2026-10-21T22:36:48Z"
-    },
-    {
-      "id": "38560c17b4b51c998a801dd3",
-      "title": "Brig. Gen. Landers debriefs command climate survey results at town hall",
-      "summary": "U.S. Army Brig. Gen. Andrew L. Landers, director of Defense Health Network Pacific and commanding general of Medical Readiness Command, Pacific, addressed service members and staff during a Defense Organizational Climate Survey town hall meeting at Tripler Army Medical Center, Hawaii, Oct. 19, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577568/brig-gen-landers-debriefs-command-climate-survey-results-town-hall",
-      "publishedAt": "2026-10-21T22:19:27Z"
     }
   ],
   "nextPage": "page-3.json"
