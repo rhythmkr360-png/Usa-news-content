@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T23:18:16Z",
+  "generatedAt": "2026-10-25T04:47:10Z",
   "articles": [
+    {
+      "id": "9ef4f28a9646776e4bb92bdf",
+      "title": "Japan, Philippine and U.S. forces conduct multilateral Maritime Cooperative Activity",
+      "summary": "The Armed Forces of the Philippines, Japan Maritime Self-Defense Force, and U.S. Coast Guard conducted a multilateral Maritime Cooperative Activity (MCA) within the Philippine Exclusive Economic Zone, Oct. 24, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577794/japan-philippine-and-us-forces-conduct-multilateral-maritime-cooperative-activity",
+      "publishedAt": "2026-10-25T02:06:07Z"
+    },
     {
       "id": "2ee1d1c6b77fd0e8c155972f",
       "title": "USACE Completes Temporary Power Mission on Rota, Supports Recovery After Super Typhoon Bavi",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577673/naval-hospital-twentynine-palms-pediatrician-named-navy-pediatrician-year-american-academy-pediatrics",
       "publishedAt": "2026-10-22T21:20:47Z"
-    },
-    {
-      "id": "0db83950928985b4fe22b777",
-      "title": "Blount Island team briefs assistant commandant on sustaining Marines ashore",
-      "summary": "On the ramp of USNS Dahl, U.S. Marine Corps Sgt. Jeremiah Murray gave his service’s second-highest-ranking officer a firsthand account of how his team equips Marines overseas.",
-      "category": "Marine Corps",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577671/blount-island-team-briefs-assistant-commandant-sustaining-marines-ashore",
-      "publishedAt": "2026-10-22T21:13:36Z"
     }
   ],
   "nextPage": "pages/page-2.json"

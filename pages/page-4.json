@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T23:18:16Z",
+  "generatedAt": "2026-10-25T04:47:10Z",
   "articles": [
+    {
+      "id": "549fa1723df8026b4022c513",
+      "title": "Soldiers put Picatinny’s Common Lethality Integration Kit to the test at PC‑C6",
+      "summary": "PICATINNY ARSENAL, N.J. - One of the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center’s proudest accomplishments stood front and center before the warfighter in July, as Soldiers attending Project Convergence-Capstone 6 (PC-C6) tested out the Picatinny Common Lethality Integration Kit (CLIK).",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577435/soldiers-put-picatinnys-common-lethality-integration-kit-test-pc-c6",
+      "publishedAt": "2026-10-20T16:19:12Z"
+    },
     {
       "id": "07974fe69cd520b421b29feb",
       "title": "Chinese Navy Shadows USS Charleston Near Contested Sabina Shoal",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577204/voices-vaang-master-sgt-sabrina-jahner-and-tech-sgt-stephen-kolmer-leader-empowerment-and-development-program-instructors",
       "publishedAt": "2026-10-18T21:56:28Z"
-    },
-    {
-      "id": "893eb3d1ed64a013d9567b63",
-      "title": "Multi-state RED HORSE units fortify Pacific airfields, advance Agile Combat Employment",
-      "summary": "Civil engineers from the Virginia Air National Guard’s 203rd RED HORSE completed a historic deployment across Guam, Japan and Tinian, partnering with Florida Air National Guard and active-duty units under the 513th Expeditionary RED HORSE banner.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577202/multi-state-red-horse-units-fortify-pacific-airfields-advance-agile-combat-employment",
-      "publishedAt": "2026-10-18T21:38:09Z"
     }
   ],
   "nextPage": "page-5.json"

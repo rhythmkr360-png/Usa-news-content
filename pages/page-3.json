@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T23:18:16Z",
+  "generatedAt": "2026-10-25T04:47:10Z",
   "articles": [
+    {
+      "id": "a58e4bd4b1e4d64e81227b4c",
+      "title": "Preparedness takes precedence as a Troop Support working group implements shelter-in-place planning",
+      "summary": "Embodying the Federal Emergency Management Agency’s National Preparedness Month theme, “American’s Stand Ready,” a working group of eight Defense Logistics Agency Troop Support employees are developing a Building 3 Shelter-in-Place & Emergency Action Plan.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577554/preparedness-takes-precedence-troop-support-working-group-implements-shelter-place-planning",
+      "publishedAt": "2026-10-21T20:45:04Z"
+    },
     {
       "id": "ef19372ec36e6a77845c3df6",
       "title": "Sabers, shirts sustainment discussed during West Point logisticians’ visit to Troop Support",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577436/micc-fort-eustis-delivers-joint-quality-life-solution-advances-2026-2027-campaign-plan",
       "publishedAt": "2026-10-20T16:21:41Z"
-    },
-    {
-      "id": "549fa1723df8026b4022c513",
-      "title": "Soldiers put Picatinny’s Common Lethality Integration Kit to the test at PC‑C6",
-      "summary": "PICATINNY ARSENAL, N.J. - One of the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center’s proudest accomplishments stood front and center before the warfighter in July, as Soldiers attending Project Convergence-Capstone 6 (PC-C6) tested out the Picatinny Common Lethality Integration Kit (CLIK).",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577435/soldiers-put-picatinnys-common-lethality-integration-kit-test-pc-c6",
-      "publishedAt": "2026-10-20T16:19:12Z"
     }
   ],
   "nextPage": "page-4.json"

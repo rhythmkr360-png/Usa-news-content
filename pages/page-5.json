@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T23:18:16Z",
+  "generatedAt": "2026-10-25T04:47:10Z",
   "articles": [
+    {
+      "id": "893eb3d1ed64a013d9567b63",
+      "title": "Multi-state RED HORSE units fortify Pacific airfields, advance Agile Combat Employment",
+      "summary": "Civil engineers from the Virginia Air National Guard’s 203rd RED HORSE completed a historic deployment across Guam, Japan and Tinian, partnering with Florida Air National Guard and active-duty units under the 513th Expeditionary RED HORSE banner.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577202/multi-state-red-horse-units-fortify-pacific-airfields-advance-agile-combat-employment",
+      "publishedAt": "2026-10-18T21:38:09Z"
+    },
     {
       "id": "8a28c5a8c59de63c5809d86d",
       "title": "Kansas honors 130th Field Artillery Brigade with homecoming from Operation Epic Fury",

@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T23:18:16Z",
+  "generatedAt": "2026-10-25T04:47:10Z",
   "articles": [
+    {
+      "id": "0db83950928985b4fe22b777",
+      "title": "Blount Island team briefs assistant commandant on sustaining Marines ashore",
+      "summary": "On the ramp of USNS Dahl, U.S. Marine Corps Sgt. Jeremiah Murray gave his service’s second-highest-ranking officer a firsthand account of how his team equips Marines overseas.",
+      "category": "Marine Corps",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577671/blount-island-team-briefs-assistant-commandant-sustaining-marines-ashore",
+      "publishedAt": "2026-10-22T21:13:36Z"
+    },
     {
       "id": "4278e5079d465e5484babd77",
       "title": "From runway to reps: Black Hawk pilot soars to the top of Army fitness",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577552/military-firefighters-host-week-events-vitalize-fire-prevention",
       "publishedAt": "2026-10-21T20:56:50Z"
-    },
-    {
-      "id": "a58e4bd4b1e4d64e81227b4c",
-      "title": "Preparedness takes precedence as a Troop Support working group implements shelter-in-place planning",
-      "summary": "Embodying the Federal Emergency Management Agency’s National Preparedness Month theme, “American’s Stand Ready,” a working group of eight Defense Logistics Agency Troop Support employees are developing a Building 3 Shelter-in-Place & Emergency Action Plan.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577554/preparedness-takes-precedence-troop-support-working-group-implements-shelter-place-planning",
-      "publishedAt": "2026-10-21T20:45:04Z"
     }
   ],
   "nextPage": "page-3.json"
