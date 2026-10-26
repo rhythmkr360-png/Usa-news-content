@@ -1,7 +1,133 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T13:09:38Z",
+  "generatedAt": "2026-10-26T20:32:23Z",
   "articles": [
+    {
+      "id": "7a8de58d5e7ea7565a2aadfb",
+      "title": "Clackamas Fire and Military Responders Conduct Structural Collapse and Air Mobility Joint Training Exercise",
+      "summary": "Members of the Clackamas Fire Department, Oregon Army National Guard, Oregon Air National Guard, Air Force Reserve, U.S. Coast Guard, and CHAIS, which provides professional handlers and working dogs, participated in a simulated tsunami response mission on October 15, 2026, at Camp Rilea Armed Forces Training Center near Warrenton, Oregon.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577396/clackamas-fire-and-military-responders-conduct-structural-collapse-and-air-mobility-joint-training-exercise",
+      "publishedAt": "2026-10-19T21:52:33Z"
+    },
+    {
+      "id": "1a257c7b2bb4be01ea2ceb1d",
+      "title": "San Diego Native Named Motivator of the Month While Serving with Navy Medicine in Cuba",
+      "summary": "Courtesy story by Ashley Craig, Navy Office of Community Outreach MILLINGTON, Tenn. – Hospitalman Kimberly MartinezInfante, a native of San Diego, California, was recently named Motivator of the Month while serving aboard U.S. Navy Medicine Readiness and Training Command (USNMRTC) Guantanamo Bay at U.S. Naval Hospital Guantanamo Bay, Cuba.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577391/san-diego-native-named-motivator-month-while-serving-with-navy-medicine-cuba",
+      "publishedAt": "2026-10-19T20:39:40Z"
+    },
+    {
+      "id": "2593ba1c58fbb4cfdc87444d",
+      "title": "Logistics exchange strengthens Washington Guard, Malaysia military partnership",
+      "summary": "Logistics experts from the Washington National Guard and Royal Malaysian Armed Forces participated in a subject matter expert exchange at Camp Murray, Wash., Sept. 21-25, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577390/logistics-exchange-strengthens-washington-guard-malaysia-military-partnership",
+      "publishedAt": "2026-10-19T20:11:24Z"
+    },
+    {
+      "id": "e6bed6cbc6f4fe76dc020645",
+      "title": "Tracking America’s latest conflict: The Iran war timeline",
+      "summary": "To date, at least 21 American service members have been killed and hundreds more wounded. The post Tracking America’s latest conflict: The Iran war timeline appeared first on Task & Purpose .",
+      "category": "Defense",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/iran-war-timeline/",
+      "publishedAt": "2026-10-19T19:56:42Z"
+    },
+    {
+      "id": "6b86fda199e5a8936f9def7e",
+      "title": "U.S. Army stand-down connects Soldiers with voting assistance in Vicenza, Italy",
+      "summary": "Secretary of War Pete Hegseth's directive of U.S. Army stand-down connects Soldiers with voting assistance in Vicenza, Italy",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577388/us-army-stand-down-connects-soldiers-with-voting-assistance-vicenza-italy",
+      "publishedAt": "2026-10-19T19:39:51Z"
+    },
+    {
+      "id": "9f332f5d619c5e1967b4f796",
+      "title": "Pentagon, BAE sign deal for up to 25,000 precision-guided munition kits a year",
+      "summary": "The Pentagon and BAE Systems signed a framework agreement for up to 25,000 Advanced Precision Kill Weapon System, or APKWS, guidance kits a year.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year/",
+      "publishedAt": "2026-10-19T18:50:11Z"
+    },
+    {
+      "id": "a60ad131d7b585f5d8bdafff",
+      "title": "Lt. Gen. Hilbert discusses Eighth Army’s role in Northeast Asia",
+      "summary": "Senior leader highlights the command’s support to U.S. Forces Korea and regional deterrence.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577382/lt-gen-hilbert-discusses-eighth-armys-role-northeast-asia",
+      "publishedAt": "2026-10-19T18:49:31Z"
+    },
+    {
+      "id": "240b7a7edc5210b5906a83c0",
+      "title": "U.S. Marine Corps Stands Up First NMESIS Anti-ship Missile Battalion",
+      "summary": "The U.S. Marine Corps stood up its first Medium-range Missile Battalion last week as the service works to integrate longer range and maritime strike capabilities across the force.",
+      "category": "Marine Corps",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/19/u-s-marine-corps-stands-up-first-nmesis-anti-ship-missile-battalion",
+      "publishedAt": "2026-10-19T17:45:08Z"
+    },
+    {
+      "id": "2d75f648d9241ba18c457fb8",
+      "title": "Wilmington District advances $43 million Special Operations barracks project at Fort Bragg",
+      "summary": "The U.S. Army Corps of Engineers, Wilmington District, continues to advance military construction efforts at Fort Bragg, North Carolina, where a $43.1 million Special Operations Forces barracks project is approximately 45% complete and progressing generally ahead of schedule.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577368/wilmington-district-advances-43-million-special-operations-barracks-project-fort-bragg",
+      "publishedAt": "2026-10-19T17:31:18Z"
+    },
+    {
+      "id": "9fedb13fe0e8cff92311ebd2",
+      "title": "Army Medicine Celebrates Army Animal Care Specialists",
+      "summary": "National Veterinary Technician Week is celebrated annually by the National Association of Veterinary Technicians in America and the American Veterinary Medical Association to recognize the work that veterinary technicians provide. For Army Medicine that means recognizing their Army Animal Care Specialists.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577355/army-medicine-celebrates-army-animal-care-specialists",
+      "publishedAt": "2026-10-19T17:22:14Z"
+    },
+    {
+      "id": "54677377f2391d3311dc2f01",
+      "title": "Acting SecArmy: Army drives the success of the joint force",
+      "summary": "The Army’s top civilian leader said the service remains central to the success of the joint force during the opening ceremony of the Association of the United States Army’s annual meeting and exposition on Oct. 12. Under the theme, “America’s Army: The Foundation of the Joint Force,” Acting Secretary of the Army Adam R.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577354/acting-secarmy-army-drives-success-joint-force",
+      "publishedAt": "2026-10-19T17:09:05Z"
+    },
+    {
+      "id": "50fa8cae4804366272f5d81a",
+      "title": "Omaha District, ERDC collaborate to monitor Fort Peck Dam flood gates",
+      "summary": "Engineers from the U.S. Army Corps of Engineers, Omaha District and the Engineer Research and Development Center recently collaborated at the Fort Peck Dam to develop a long-term monitoring approach for the massive gates that help control water flow through the dam’s flood tunnels.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577349/omaha-district-erdc-collaborate-monitor-fort-peck-dam-flood-gates",
+      "publishedAt": "2026-10-19T16:36:27Z"
+    },
+    {
+      "id": "889e815e0f6ac5913c63a397",
+      "title": "USNI News Fleet and Marine Tracker: Oct. 19, 2026",
+      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Oct. 19, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/19/usni-news-fleet-and-marine-tracker-oct-19-2026",
+      "publishedAt": "2026-10-19T16:18:29Z"
+    },
+    {
+      "id": "77ca9981d6d6ab69afd39671",
+      "title": "Groups seek clarity on motive behind Pentagon’s study of women in combat",
+      "summary": "Citing concerns about Hegseth’s views on the topic, the lawsuit asks for records showing the scope, purpose, methodology and anticipated use of the study.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/10/19/groups-seek-clarity-on-motive-behind-pentagons-study-of-women-in-combat/",
+      "publishedAt": "2026-10-19T14:00:00Z"
+    },
     {
       "id": "c66d87bd390163014cd4d687",
       "title": "Navy Medicine Sailors return home from deployment",
@@ -235,78 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577178/uss-san-antonio-lpd-17-returns-norfolk-deployment-us-4th-fleet-area-operations",
       "publishedAt": "2026-10-16T21:25:07Z"
-    },
-    {
-      "id": "c3dcd3a6b529a9264f8ca817",
-      "title": "Navy Establishes Seabee Training and Evaluation Unit (STEU) 1 to Drive Pacific Force Readiness",
-      "summary": "The U.S. Navy officially commissioned Seabee Training and Evaluation Unit (STEU) 1 during a ceremony on board Naval Base Ventura County, Port Hueneme, Calif., Oct. 16, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577169/navy-establishes-seabee-training-and-evaluation-unit-steu-1-drive-pacific-force-readiness",
-      "publishedAt": "2026-10-16T20:29:20Z"
-    },
-    {
-      "id": "0dba011592e25663829b99c7",
-      "title": "“The Commandant’s Own” Marks Transition of Leadership, Drum Major Relief and Appointment",
-      "summary": "WASHINGTON — “The Commandant’s Own” United States Marine Drum & Bugle Corps marked a transition in enlisted leadership as Master Gunnery Sgt. Joshua Dannemiller relinquished his duties as the unit’s 26th drum major to Master Gunnery Sgt. David Cox during a relief and appointment ceremony at Marine Barracks Washington, Oct. 16, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577162/commandants-own-marks-transition-leadership-drum-major-relief-and-appointment",
-      "publishedAt": "2026-10-16T20:13:40Z"
-    },
-    {
-      "id": "97009b7a87aabe1d7bccfc6c",
-      "title": "Construction Battalion Maintenance Unit 303 Disestablished After Decades of Expeditionary Excellence",
-      "summary": "U.S. Navy Sailors, veterans and naval leaders gathered on board Naval Base Ventura County, Port Hueneme, to formally disestablish Construction Battalion Maintenance Unit (CBMU) 303 during a ceremony held in Needham Theater, Oct. 16, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577166/construction-battalion-maintenance-unit-303-disestablished-after-decades-expeditionary-excellence",
-      "publishedAt": "2026-10-16T20:08:11Z"
-    },
-    {
-      "id": "5724ccf9e8ad250213feb8a3",
-      "title": "USNI News Western Pacific Pulse: Oct. 16, 2026",
-      "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In Yokosuka, Japan The Theodore Roosevelt Carrier Strike Group docked Friday at Commander Fleet Activities Yokosuka. This marks the first time in four years that a non-forward deployed carrier has pulled into CFAY.",
-      "category": "Defense",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/16/usni-news-western-pacific-pulse-oct-16-2026",
-      "publishedAt": "2026-10-16T18:39:22Z"
-    },
-    {
-      "id": "ff0d67f13bd62986f6d2a929",
-      "title": "US Army’s 8th Psychological Operations Group inactivated",
-      "summary": "The Army's 8th Psychological Operations Group inactivated as the service reshapes its PSYOP and information warfare forces to counter global adversaries.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/16/us-armys-8th-psychological-operations-group-inactivated/",
-      "publishedAt": "2026-10-16T18:30:00Z"
-    },
-    {
-      "id": "443e3652535b451734d03a0c",
-      "title": "Hundreds of 10th Mountain Division soldiers deploying to Latin America",
-      "summary": "Roughly 500 soldiers will support ongoing exercises with partners as the U.S. expands military operations against cartels. The post Hundreds of 10th Mountain Division soldiers deploying to Latin America appeared first on Task & Purpose .",
-      "category": "Defense",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/army-10th-mountain-division-latin-america/",
-      "publishedAt": "2026-10-16T18:14:46Z"
-    },
-    {
-      "id": "b5c15b0f978b762c2b327382",
-      "title": "Army Lays Out New Plan for Prolonged Fight in First Island Chain",
-      "summary": "The U.S. Army laid out its plans to prepare for a prolonged fight in the Pacific along the First Island Chain in the service’s new warfighting guidance released this month. For decades, the ground branch has oriented troops against insurgent threats and high-intensity combat operations from the Middle East, Europe and the Korean Peninsula.",
-      "category": "Army",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/16/army-lays-out-new-plan-for-prolonged-fight-in-first-island-chain",
-      "publishedAt": "2026-10-16T17:08:15Z"
-    },
-    {
-      "id": "043fcfda1cbd9219f052a189",
-      "title": "‘Weaponized light’: KBR’s new base defense technology pits lasers against drones",
-      "summary": "The Pentagon recently selected KBR's Firefly system for a pilot program to test defending U.S. military installations against adversarial drones.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/15/weaponized-light-kbrs-new-base-defense-technology-pits-lasers-against-drones/",
-      "publishedAt": "2026-10-16T14:00:00Z"
     }
   ]
 }

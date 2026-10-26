@@ -1,7 +1,133 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T13:09:38Z",
+  "generatedAt": "2026-10-26T20:32:23Z",
   "articles": [
+    {
+      "id": "66f002664c0bdf00afae233e",
+      "title": "U.S. Air Force Band kicks off Montana fall tour",
+      "summary": "The U.S. Air Force Concert Band and Singing Sergeants launched their autumn tour with a performance at the Alberta Bair Theater in Billings, Montana, Oct. 14.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577640/us-air-force-band-kicks-off-montana-fall-tour",
+      "publishedAt": "2026-10-22T19:11:51Z"
+    },
+    {
+      "id": "e9fee033ec79dcce5ddab75d",
+      "title": "Cleveland Harbor Fall Dredging Starting; Supports Safe Great Lakes Navigation, Strengthens Local and National Economy",
+      "summary": "The U.S. Army Corps of Engineers, Buffalo District, will begin fall dredging this week in Cleveland Harbor to maintain safe and navigable waterways for Great Lakes commercial vessels, recreational boaters and other harbor users on Lake Erie. The Buffalo District awarded an $11.7 million contract in April 2026 to New York-based DMYLES, Inc.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577639/cleveland-harbor-fall-dredging-starting-supports-safe-great-lakes-navigation-strengthens-local-and-national-economy",
+      "publishedAt": "2026-10-22T19:09:29Z"
+    },
+    {
+      "id": "06e26b97d36d8de4189ec73b",
+      "title": "‘Ability to strike back’: Denmark commits to long-range missile orders",
+      "summary": "Copenhagen said it would purchase Joint Strike Missiles for its F-35s and a new ground-launched munition from an American firm.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/10/ability-to-strike-back-denmark-commits-to-long-range-missile-orders/",
+      "publishedAt": "2026-10-22T17:18:00Z"
+    },
+    {
+      "id": "305a3cea905b87c66d20483b",
+      "title": "Trump, Putin negotiate release of US Air Force veteran from Russian prison",
+      "summary": "Stephen Hubbard, a retired teacher and U.S. Air Force veteran, was released from Russian custody on Wednesday after spending over four years in prison.",
+      "category": "Air Force",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/22/trump-putin-negotiate-release-of-us-air-force-veteran-from-russian-prison/",
+      "publishedAt": "2026-10-22T17:17:19Z"
+    },
+    {
+      "id": "07094ceb87f3fbbb7b8a4624",
+      "title": "Pentagon, Lockheed agree to 10-year deal for 850 F-35 jets",
+      "summary": "The decade-long framework guarantees at least 850 F-35 Lightning II fighters for the U.S. military, pending congressional approval and funding.",
+      "category": "Air Force",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/pentagon-lockheed-agree-to-10-year-deal-for-850-f-35-jets/",
+      "publishedAt": "2026-10-22T17:15:33Z"
+    },
+    {
+      "id": "2f3200c038f90484e4a559ee",
+      "title": "Energy Action Month: Modern Technologies Strengthen Army Reserve Readiness and Energy Security",
+      "summary": "During Energy Action Month, the U.S. Army Reserve highlights significant advancements in energy efficiency, resilience, and cybersecurity that directly support this year’s theme: Secure Energy. Ready Forces. American Dominance.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577613/energy-action-month-modern-technologies-strengthen-army-reserve-readiness-and-energy-security",
+      "publishedAt": "2026-10-22T17:04:47Z"
+    },
+    {
+      "id": "568ad20fd9cf48911a5b65be",
+      "title": "South Dakota Guard's 155th Engineer Company honored before southern border deployment",
+      "summary": "More than 120 Soldiers of the South Dakota Army National Guard's 155th Engineer Company were honored at an activation ceremony Oct. 22 at Wagner Community School. The Soldiers are deploying to the southern border in support of Operation Ardent Vanguard. The Wagner-based unit will deploy under the direction of U.S. Northern Command.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577619/south-dakota-guards-155th-engineer-company-honored-before-southern-border-deployment",
+      "publishedAt": "2026-10-22T17:01:22Z"
+    },
+    {
+      "id": "92ebcd563e5bfc8166650bbe",
+      "title": "The Pentagon has gone too far in using the Other Transaction Authority. Congress should act.",
+      "summary": "Created in 1958 for NASA, the obscure fiscal tool has since become the predominant approach to military contracting – at great risk to taxpayers, one researcher warns.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/10/the-pentagon-has-gone-too-far-in-using-the-other-transaction-authority-congress-should-act/",
+      "publishedAt": "2026-10-22T16:58:00Z"
+    },
+    {
+      "id": "d8a4b05279418dc280e3d5ab",
+      "title": "Army Corps sorts things out and saves tax-payer money, Atomic Cleanup Program",
+      "summary": "Soon, the U.S. Army Corps of Engineers, New York District will be cleaning up the Middlesex Municipal Landfill FUSRAP site in Middlesex, New Jersey and applying an innovative soil sorting system that will save tax-payer money, reduce air pollution, and most importantly return the land back to the community.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577614/army-corps-sorts-things-out-and-saves-tax-payer-money-atomic-cleanup-program",
+      "publishedAt": "2026-10-22T16:04:26Z"
+    },
+    {
+      "id": "73b720b1473e0ef4e5809d34",
+      "title": "Theodore Roosevelt Carrier Strike Group Sails in the Philippine Sea for Keen Sword Drills",
+      "summary": "The Theodore Roosevelt Carrier Strike Group, as well as Japanese, Australian, Canadian and French warships, have gathered in the Philippine Sea to participate in exercise Keen Sword 27.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/22/theodore-roosevelt-carrier-strike-group-sails-in-the-philippine-sea-for-keen-sword-drills",
+      "publishedAt": "2026-10-22T16:02:08Z"
+    },
+    {
+      "id": "4fe341b4e184606d550b24f8",
+      "title": "US Army long-range fires make a splash on the frontline with China",
+      "summary": "The U.S. Army has been upgrading its missiles and rocket artillery, largely in response to China's missile arsenal.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/22/us-army-long-range-fires-make-a-splash-on-the-frontline-with-china/",
+      "publishedAt": "2026-10-22T14:55:35Z"
+    },
+    {
+      "id": "1a33f694661574e3e4c9590b",
+      "title": "Multi-century U.S.-Dutch history focal point of latest CGSC International Hall of Fame induction",
+      "summary": "Dutch Lt. Gen. Jan-Willem Maas, commanding general of Joint Forces Command, Netherlands, was inducted into the U.S. Army Command and General Staff College International Hall of Fame during a ceremony Oct. 16, 2026, at the Lewis and Clark Center, Fort Leavenworth, Kansas.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577605/multi-century-us-dutch-history-focal-point-latest-cgsc-international-hall-fame-induction",
+      "publishedAt": "2026-10-22T14:30:39Z"
+    },
+    {
+      "id": "997d90eb10c16387e37e61b1",
+      "title": "U.S. Navy, Marine Corps, and Mexican Navy Conclude 10th Annual Maritime Staff Talks",
+      "summary": "MEXICO CITY – Senior leaders from the U.S. Navy, U.S. Marine Corps, and the Mexican Navy (Marina) concluded the 10th Annual Maritime Staff Talks (MST) in Mexico City, Oct. 20-21, 2026, reinforcing a decade of sustained partnership and deepening security cooperation.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577602/us-navy-marine-corps-and-mexican-navy-conclude-10th-annual-maritime-staff-talks",
+      "publishedAt": "2026-10-22T14:12:27Z"
+    },
+    {
+      "id": "0027d339b1210d507412188b",
+      "title": "The Pentagon wants ketamine wafers as a battlefield medicine option",
+      "summary": "The Pentagon awarded a multi-million-dollar contract to the Singapore-based iX Biopharma to develop a small, ketamine-packed wafer.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/the-pentagon-wants-ketamine-wafers-as-a-battlefield-medicine-option/",
+      "publishedAt": "2026-10-22T13:45:04Z"
+    },
     {
       "id": "1e381de3cbf0ad63a1155e77",
       "title": "Jackson, USACE breaks ground on new child center",
@@ -235,132 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577523/critical-industrial-base-facility-breaks-ground-thanks-australian-submarine-industrial-base-contribution",
       "publishedAt": "2026-10-21T15:36:08Z"
-    },
-    {
-      "id": "e8967dbb84e043ba8faf2e90",
-      "title": "Got milk? US Army refines its pasteurization power",
-      "summary": "Thirteen U.S. Army Veterinary Corps officers milked a trip to Denmark last month, completing Europe Dairy Pasteurization Audit Training.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power/",
-      "publishedAt": "2026-10-21T15:18:41Z"
-    },
-    {
-      "id": "5d0e2b28dcf31c0240858982",
-      "title": "ILLINOIS ARMY NATIONAL GUARD OFFICER PROMOTED TO MAJOR",
-      "summary": "Capt. Thaddaeus Carr was promoted to major during a ceremony on Oct. 18 at Cantigny Park in Wheaton, Illinois, recognizing his military service, professional development and contributions to military intelligence.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577515/illinois-army-national-guard-officer-promoted-major",
-      "publishedAt": "2026-10-21T15:07:45Z"
-    },
-    {
-      "id": "bfc2d906e7d5818f3eac67dd",
-      "title": "Colorado Army National Guard hosts first U.S. based Eager Lion exercise",
-      "summary": "The Colorado Army National Guard hosted Eager Lion 2026 at the 168th Regional Training Institute, Fort Carson, Colorado, Sept. 15–25, 2026. Historically held exclusively in the Hashemite Kingdom of Jordan as U.S.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577512/colorado-army-national-guard-hosts-first-us-based-eager-lion-exercise",
-      "publishedAt": "2026-10-21T14:36:59Z"
-    },
-    {
-      "id": "051e848ce6bb34beac264e3a",
-      "title": "Timing to roll out US Army’s NGC2 depends on funds, commander says",
-      "summary": "The head of the Army formation responsible for fielding the Next Generation Command and Control system said the timeline depends on resources available.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/21/timing-to-roll-out-us-armys-ngc2-depends-on-funds-commander-says/",
-      "publishedAt": "2026-10-21T13:59:36Z"
-    },
-    {
-      "id": "f378c9b91996ae09563e54f5",
-      "title": "Report to Congress on Russia’s Arctic Military Posture",
-      "summary": "The following is the Oct. 14, 2026, Congressional Research Service report, Russia’s Arctic Military Posture: Considerations for Congress. From the Report The Arctic is a key strategic region for Russia with significant military and economic implications.",
-      "category": "Defense",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/21/report-to-congress-on-russias-arctic-military-posture",
-      "publishedAt": "2026-10-21T13:56:42Z"
-    },
-    {
-      "id": "6e252609d5cc0804f36a8969",
-      "title": "U.S. Army, Colombian senior military leaders converge at Fort Bragg for bi-annual exchange",
-      "summary": "FORT BRAGG, N.C. — U.S. Army Western Hemisphere Command welcomed a 12-member Colombian senior enlisted delegation Oct.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577482/us-army-colombian-senior-military-leaders-converge-fort-bragg-bi-annual-exchange",
-      "publishedAt": "2026-10-21T11:04:53Z"
-    },
-    {
-      "id": "a6b0ee1e6b3399313deb63ce",
-      "title": "Wolf Pack tests radiological response readiness during exercise Radiant Falcon",
-      "summary": "KUNSAN AIR BASE, Republic of Korea - U.S. Air Force Airmen assigned to the 8th Fighter Wing and 51st Medical Group participated in exercise Radiant Falcon at Kunsan Air Base, Republic of Korea, Oct. 5-8, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577484/wolf-pack-tests-radiological-response-readiness-during-exercise-radiant-falcon",
-      "publishedAt": "2026-10-21T02:48:44Z"
-    },
-    {
-      "id": "28966ec28811ac7e26c40212",
-      "title": "Nevada Guard Transportation Company Deploys for Southern Border Mission",
-      "summary": "The Nevada Army National Guard’s 1859th Light-Medium Transportation Company has deployed 125 soldiers to the U.S. southern border to support the Department of Homeland Security and U.S. Customs and Border Protection, marking the unit’s first mobilization in its 10-year history.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577483/nevada-guard-transportation-company-deploys-southern-border-mission",
-      "publishedAt": "2026-10-21T01:29:07Z"
-    },
-    {
-      "id": "9cbadacf2ddbbce2130fd50f",
-      "title": "Return to the Bay: San Francisco Fleet Week 2026 Recap",
-      "summary": "U.S. Marines and Sailors made a highly anticipated return to Northern California, bringing the vibrant tradition of Fleet Week back to the streets and skies of San Francisco. This benchmark event brought something to the table not only for the city of San Francisco, but also the service members who participated.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577471/return-bay-san-francisco-fleet-week-2026-recap",
-      "publishedAt": "2026-10-20T23:41:04Z"
-    },
-    {
-      "id": "b5872ef66b106852983e6ac7",
-      "title": "3-43 Air Defense Artillery activates in Guam continuing a legacy of U.S. Army Air and Missile Defense",
-      "summary": "ANDERSEN AIR FORCE BASE, Guam — U.S. Soldiers assigned to 3rd Battalion, 43rd Air Defense Artillery Regiment, 38th Air Defense Artillery Brigade, 94th Army Air and Missile Defense Command, participated in an activation ceremony Oct. 16, 2026, at Andersen Air Force Base, Guam.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577480/3-43-air-defense-artillery-activates-guam-continuing-legacy-us-army-air-and-missile-defense",
-      "publishedAt": "2026-10-20T23:40:02Z"
-    },
-    {
-      "id": "3d6a6bace113003d6d764b2d",
-      "title": "Uncasing ceremony marks CSTA transfer to MSCoE",
-      "summary": "Leaders of the U.S. Army Maneuver Support Center of Excellence uncased the guidon for the U.S. Army Civil Support Training Activity during a ceremony at Joint Base San Antonio, Texas, Oct. 20, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577475/uncasing-ceremony-marks-csta-transfer-mscoe",
-      "publishedAt": "2026-10-20T21:29:04Z"
-    },
-    {
-      "id": "317f0ecd28643835780d6abb",
-      "title": "Acting U.S. Navy Surgeon General, Texas-based Sailors honor enduring legacy at 251st birthday ball",
-      "summary": "The acting U.S. Navy surgeon general joined local leadership, Sailors, and community members in the heart of \"Military City, U.S.A.,\" to celebrate the Navy’s 251st birthday at the South Texas Navy Region Ball, Oct. 17, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577473/acting-us-navy-surgeon-general-texas-based-sailors-honor-enduring-legacy-251st-birthday-ball",
-      "publishedAt": "2026-10-20T21:19:00Z"
-    },
-    {
-      "id": "a5b62249c2ea1328ca50bce4",
-      "title": "NEBRASKA GUARD CYBER TEAM HELPS RESTORE ESSENTIAL SERVICES IN NORTH PLATTE",
-      "summary": "NORTH PLATTE, Neb. — An 11-Soldier Nebraska Army National Guard team helped restore essential city and county services and strengthen network defenses during a state active-duty response Oct. 9–13, 2026, following a cyber incident affecting North Platte and Lincoln County.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577474/nebraska-guard-cyber-team-helps-restore-essential-services-north-platte",
-      "publishedAt": "2026-10-20T21:17:36Z"
-    },
-    {
-      "id": "f5c45905ffde979764ecd6b8",
-      "title": "NEWLY PROMOTED COLONEL CELEBRATES MILESTONE AT CANTIGNY PARK IN WHEATON",
-      "summary": "Illinois Army National Guard Col. Justin Kramer, the Illinois National Guard Human Resources Policy Officer, was promoted to the rank of colonel Oct. 18 at the 1st Infantry Division Pavilion, 1st Infantry Division Museum, Cantigny Park in Wheaton.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577466/newly-promoted-colonel-celebrates-milestone-cantigny-park-wheaton",
-      "publishedAt": "2026-10-20T21:13:42Z"
     }
   ],
   "nextPage": "page-4.json"
