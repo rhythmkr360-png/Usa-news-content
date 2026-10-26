@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-25T23:18:21Z",
+  "generatedAt": "2026-10-26T04:52:37Z",
   "articles": [
+    {
+      "id": "d21d4d1f64ffda604d9b23eb",
+      "title": "5th Air Naval Gunfire Liaison Company, Japan Ground Self-Defense Force strengthen partnership through joint fires training",
+      "summary": "U.S. Marines with 5th Air Naval Gunfire Liaison Company, III Marine Expeditionary Force Information Group, evaluated Japan Ground Self-Defense Force joint terminal attack controllers during training at Camp Hansen and the W-174 Joint Okinawa Training Range Complex, Okinawa, Japan, Sept. 14-17, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577587/5th-air-naval-gunfire-liaison-company-japan-ground-self-defense-force-strengthen-partnership-through-joint-fires-training",
+      "publishedAt": "2026-10-22T06:16:45Z"
+    },
     {
       "id": "c18c69e3960821c830488fbe",
       "title": "U.S. Army Yuma Test Center Commander mentors local Army JROTC cadets",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577443/brig-gen-richard-cipro-massachusetts-guardsman-takes-command-42nd-infantry-division",
       "publishedAt": "2026-10-20T17:43:38Z"
-    },
-    {
-      "id": "edaa98f8c65bef1584a50aa7",
-      "title": "US Army support for Golden Dome missile shield takes shape",
-      "summary": "A U.S. Army air defense unit has been \"earmarked\" for support of the Golden Dome for America project, an Army official confirmed.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/air-warfare/2026/10/20/us-army-support-for-golden-dome-missile-shield-takes-shape/",
-      "publishedAt": "2026-10-20T17:30:40Z"
     }
   ],
   "nextPage": "page-4.json"

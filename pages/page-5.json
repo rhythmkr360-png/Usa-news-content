@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-25T23:18:21Z",
+  "generatedAt": "2026-10-26T04:52:37Z",
   "articles": [
+    {
+      "id": "9203812ad1db3ef6ef9b57e3",
+      "title": "US Army fields new system for sweeping munitions planning, management",
+      "summary": "The service expects this first increment of TACTMIS to replace the previously used TAMIS system once it retires on Oct. 30.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/15/us-army-fields-new-system-for-sweeping-munitions-planning-management/",
+      "publishedAt": "2026-10-19T09:00:00Z"
+    },
     {
       "id": "c395b722a86382d222c6cecc",
       "title": "86th IBCT (MTN) Relinquishes Command of JMTG-U",

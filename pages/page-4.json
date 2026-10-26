@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-25T23:18:21Z",
+  "generatedAt": "2026-10-26T04:52:37Z",
   "articles": [
+    {
+      "id": "edaa98f8c65bef1584a50aa7",
+      "title": "US Army support for Golden Dome missile shield takes shape",
+      "summary": "A U.S. Army air defense unit has been \"earmarked\" for support of the Golden Dome for America project, an Army official confirmed.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/air-warfare/2026/10/20/us-army-support-for-golden-dome-missile-shield-takes-shape/",
+      "publishedAt": "2026-10-20T17:30:40Z"
+    },
     {
       "id": "0de07d0cb96d7a7211ff8dfe",
       "title": "USACAPOC(A) Soldiers earn Jungle Tabs in Panama, build Army Reserve capability",
@@ -352,15 +361,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/16/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon/",
       "publishedAt": "2026-10-19T10:00:00Z"
-    },
-    {
-      "id": "9203812ad1db3ef6ef9b57e3",
-      "title": "US Army fields new system for sweeping munitions planning, management",
-      "summary": "The service expects this first increment of TACTMIS to replace the previously used TAMIS system once it retires on Oct. 30.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/15/us-army-fields-new-system-for-sweeping-munitions-planning-management/",
-      "publishedAt": "2026-10-19T09:00:00Z"
     }
   ],
   "nextPage": "page-5.json"

@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-25T23:18:21Z",
+  "generatedAt": "2026-10-26T04:52:37Z",
   "articles": [
+    {
+      "id": "95a11115b6289951770d46b2",
+      "title": "U.S., Japanese forces strengthen bilateral readiness through hot-pit refueling during Keen Sword 27",
+      "summary": "U.S. Air Force Airmen and Japan Air Self-Defense Forces airmen conducted bilateral hot-pit refueling operations at a Japan Maritime Self-Defense Force installation in Hachinohe Air Base, Japan, Oct. 19-21, 2026, during Exercise Keen Sword 27, strengthening their ability to sustain fighter operations through allied cooperation.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577689/us-japanese-forces-strengthen-bilateral-readiness-through-hot-pit-refueling-during-keen-sword-27",
+      "publishedAt": "2026-10-23T06:02:09Z"
+    },
     {
       "id": "b5f6e64c102a6c3fe2f3a2b5",
       "title": "Exercise Beverly Sunrise 27-01",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577589/usace-far-east-district-hosts-first-reverse-industry-day",
       "publishedAt": "2026-10-22T08:18:13Z"
-    },
-    {
-      "id": "d21d4d1f64ffda604d9b23eb",
-      "title": "5th Air Naval Gunfire Liaison Company, Japan Ground Self-Defense Force strengthen partnership through joint fires training",
-      "summary": "U.S. Marines with 5th Air Naval Gunfire Liaison Company, III Marine Expeditionary Force Information Group, evaluated Japan Ground Self-Defense Force joint terminal attack controllers during training at Camp Hansen and the W-174 Joint Okinawa Training Range Complex, Okinawa, Japan, Sept. 14-17, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577587/5th-air-naval-gunfire-liaison-company-japan-ground-self-defense-force-strengthen-partnership-through-joint-fires-training",
-      "publishedAt": "2026-10-22T06:16:45Z"
     }
   ],
   "nextPage": "page-3.json"

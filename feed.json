@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-25T23:18:21Z",
+  "generatedAt": "2026-10-26T04:52:37Z",
   "articles": [
+    {
+      "id": "8a5d6fcffd6aefb2a7166c5f",
+      "title": "U.S., Japan merge real and virtual skies during KS27",
+      "summary": "High above the Japanese coastline, a Japan Air Self-Defense Force F-35 Lightning II carves through the clouds, its pilot scanning the radar for simulated adversary aircraft. Miles away at Misawa Air Base, Japan, U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577811/us-japan-merge-real-and-virtual-skies-during-ks27",
+      "publishedAt": "2026-10-26T00:10:56Z"
+    },
     {
       "id": "2cf33fed6ae93c610684de8f",
       "title": "U.S. Army and NATO Partners Rehearse War Strategies",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577692/9th-esb-marine-aids-okinawan-driver-following-traffic-accident",
       "publishedAt": "2026-10-23T07:20:41Z"
-    },
-    {
-      "id": "95a11115b6289951770d46b2",
-      "title": "U.S., Japanese forces strengthen bilateral readiness through hot-pit refueling during Keen Sword 27",
-      "summary": "U.S. Air Force Airmen and Japan Air Self-Defense Forces airmen conducted bilateral hot-pit refueling operations at a Japan Maritime Self-Defense Force installation in Hachinohe Air Base, Japan, Oct. 19-21, 2026, during Exercise Keen Sword 27, strengthening their ability to sustain fighter operations through allied cooperation.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577689/us-japanese-forces-strengthen-bilateral-readiness-through-hot-pit-refueling-during-keen-sword-27",
-      "publishedAt": "2026-10-23T06:02:09Z"
     }
   ],
   "nextPage": "pages/page-2.json"
