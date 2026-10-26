@@ -1,7 +1,70 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T04:52:37Z",
+  "generatedAt": "2026-10-26T13:09:38Z",
   "articles": [
+    {
+      "id": "c66d87bd390163014cd4d687",
+      "title": "Navy Medicine Sailors return home from deployment",
+      "summary": "An elite, far-forward Navy Medicine surgical asset returned to U.S. soil on Oct. 17, 2026, touching down at the military air terminal at Naval Air Station Norfolk following a seven-month deployment to the U.S. Central Command (CENTCOM) area of responsibility.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577220/navy-medicine-sailors-return-home-deployment",
+      "publishedAt": "2026-10-19T13:16:53Z"
+    },
+    {
+      "id": "fd77482349749a39968a7877",
+      "title": "US Army Cyber Command charts course for human-AI equilibrium",
+      "summary": "U.S. Army Cyber Command is constantly refining human oversight of artificial intelligence, Lt. Gen. Christopher Eubank said last week.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/19/us-army-cyber-command-charts-course-for-human-ai-equilibrium/",
+      "publishedAt": "2026-10-19T13:00:00Z"
+    },
+    {
+      "id": "05be42e1cbdce12655da0ed7",
+      "title": "SETAF-AF joins G-TEAD, USAREUR-AF at AUSA to explain how operational challenges in Africa drive tactical solutions",
+      "summary": "WASHINGTON – The U.S. Army Southern European Task Force, Africa (SETAF-AF) commander outlined how Africa is where operational problems are defined, solutions are tested in realistic conditions, and results are shared across the Army during the 2026 Association of the United States Army Annual Meeting and Exposition at the Walter E.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577216/setaf-af-joins-g-tead-usareur-af-ausa-explain-operational-challenges-africa-drive-tactical-solutions",
+      "publishedAt": "2026-10-19T12:43:05Z"
+    },
+    {
+      "id": "744665023d4e843acf80994a",
+      "title": "Readout of U.S. Naval Forces Central Command/U.S. 5th Fleet/Combined Maritime Forces Vice Adm. Curt Renshaw's Meeting with Kuwaiti Defense Leaders",
+      "summary": "TAMPA, Fla. (Oct. 19, 2026) U.S. Naval Forces Central Command/U.S. 5th Fleet/Combined Maritime Forces Commander Vice Adm. Curt Renshaw met with key Kuwaiti political and defense leaders during a trip to Kuwait City, Kuwait, Oct. 18-19.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577217/readout-us-naval-forces-central-command-us-5th-fleet-combined-maritime-forces-vice-adm-curt-renshaws-meeting-with-kuwaiti",
+      "publishedAt": "2026-10-19T12:19:21Z"
+    },
+    {
+      "id": "57989bac5806bee3b702c560",
+      "title": "US Army acquisition command awards contracts worth $6.8B in 2026",
+      "summary": "The Mission and Installation Contracting Command awarded 21,450 contracts in fiscal 2026 valued at $6.8 billion in total, a boost from the year prior.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/16/us-army-acquisition-command-awards-contracts-worth-68b-in-2026/",
+      "publishedAt": "2026-10-19T12:00:00Z"
+    },
+    {
+      "id": "29360730e00bd945b982d6d1",
+      "title": "US Army showing interest in G/ATOR missile-killing radar, Northrop says",
+      "summary": "Northrop Grumman’s new multi-mission radar system has earned high marks from Marine Corps leadership. The U.S. Army has taken notice.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-army-showing-interest-in-gator-missile-killing-radar-northrop-says/",
+      "publishedAt": "2026-10-19T11:00:00Z"
+    },
+    {
+      "id": "9b32422322b7525455c135f6",
+      "title": "A shifting landscape: Where the US Army moved in 2026 and what may be on the horizon",
+      "summary": "As seasons signal the waning months of 2026, the U.S. Army’s operational map continues to evolve.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/16/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon/",
+      "publishedAt": "2026-10-19T10:00:00Z"
+    },
     {
       "id": "9203812ad1db3ef6ef9b57e3",
       "title": "US Army fields new system for sweeping munitions planning, management",
@@ -244,33 +307,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/15/weaponized-light-kbrs-new-base-defense-technology-pits-lasers-against-drones/",
       "publishedAt": "2026-10-16T14:00:00Z"
-    },
-    {
-      "id": "6692023fd7d63de5a84ce0e3",
-      "title": "Recap: Autonomy dominates the US Army’s 2026 conference in Washington",
-      "summary": "Dominating displays at this year’s show was an unmistakable surge in automation and unmanned systems, as well as weaponry and vehicle capabilities.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/recap/ausa/2026/10/16/recap-autonomy-dominates-the-us-armys-2026-conference-in-washington/",
-      "publishedAt": "2026-10-16T12:17:46Z"
-    },
-    {
-      "id": "66c230e35a349253a12e9f17",
-      "title": "Blood supplies, autonomous systems shape US Army’s Indo-Pacific combat care plans",
-      "summary": "18th Theater Medical Command leaders are experimenting with ways to prolong care in a theater where the \"Golden Hour\" standard is difficult to maintain.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/14/blood-supplies-autonomous-systems-shape-us-armys-indo-pacific-combat-care-plans/",
-      "publishedAt": "2026-10-16T12:00:00Z"
-    },
-    {
-      "id": "6ec1b04a44940fb06c4a04ca",
-      "title": "What is the US Army doing in Panama? A bit of everything.",
-      "summary": "As Washington shifts its attention toward the Western Hemisphere, a reinvigorated jungle school is just one part of the evolving U.S. presence in Panama.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/14/what-is-the-us-army-doing-in-panama-a-bit-of-everything/",
-      "publishedAt": "2026-10-16T10:00:00Z"
     }
   ]
 }

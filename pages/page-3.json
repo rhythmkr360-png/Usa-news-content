@@ -1,7 +1,70 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T04:52:37Z",
+  "generatedAt": "2026-10-26T13:09:38Z",
   "articles": [
+    {
+      "id": "1e381de3cbf0ad63a1155e77",
+      "title": "Jackson, USACE breaks ground on new child center",
+      "summary": "Fort Jackson and the U.S. Army Corps of Engineers broke ground Oct. 20 on a new child development center that is a sign of the commitment to its families and to Army readiness.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577598/jackson-usace-breaks-ground-new-child-center",
+      "publishedAt": "2026-10-22T13:38:44Z"
+    },
+    {
+      "id": "4d430678127b21cdec309c29",
+      "title": "Pentagon ignored cybersecurity flaws before data breach, Marines’ lawsuit says",
+      "summary": "A pair of Marines filed a class-action lawsuit Tuesday against the Pentagon over a data breach at the Defense Manpower Data Center.",
+      "category": "Marine Corps",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/pentagon-ignored-cybersecurity-flaws-before-data-breach-marines-lawsuit-says/",
+      "publishedAt": "2026-10-22T13:03:46Z"
+    },
+    {
+      "id": "56a4e3a814447d3770b0ea47",
+      "title": "Pentagon, Lockheed agree to decade-long F-35 framework deal for hundreds of jets",
+      "summary": "The tentative agreement, which still needs lawmakers’ blessing, covers production and sustainment over the 10 years.",
+      "category": "Air Force",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/10/pentagon-lockheed-agree-to-decade-long-f-35-framework-deal-for-hundreds-of-jets/",
+      "publishedAt": "2026-10-22T12:57:21Z"
+    },
+    {
+      "id": "1b0f8d40d24387c3ee62ed1f",
+      "title": "156th Wing optometrist bridges healthcare gaps, earns national award",
+      "summary": "LAS VEGAS, Nevada — U.S. Air Force Lt. Col. Alex Garcia, an optometrist assigned to the 156th Medical Group, Puerto Rico Air National Guard, was named the Reserve/Guard Optometrist of the Year by the Armed Forces Optometric Society during the 2026 AFOS Convention in Las Vegas, Nevada, Sept. 15–20, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577592/156th-wing-optometrist-bridges-healthcare-gaps-earns-national-award",
+      "publishedAt": "2026-10-22T12:15:47Z"
+    },
+    {
+      "id": "b69d08053583f9ddaed6e7e9",
+      "title": "Right time, right place, right Airman",
+      "summary": "AVIANO AIR BASE, Italy— In a moment, an ordinary drive to work became an emergency. On the morning of August 26, 2026, U.S. Air Force Tech. Sgt. Danielle Smith, 31st Operational Medical Readiness Squadron medical technician, witnessed a vehicle accident in her Italian community. The car hit a utility pole and overturned.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577591/right-time-right-place-right-airman",
+      "publishedAt": "2026-10-22T11:33:27Z"
+    },
+    {
+      "id": "43f9ff05e0c432f87377837f",
+      "title": "Ukraine to be able to buy military supplies via NATO agency: report",
+      "summary": "The deal comes amid worsening U.S.-Ukraine relations since U.S. President Trump announced a diesel export deal with Russia this month to lower U.S. prices.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/global/europe/2026/10/22/ukraine-to-be-able-to-buy-military-supplies-via-nato-agency-report/",
+      "publishedAt": "2026-10-22T08:58:25Z"
+    },
+    {
+      "id": "aa1fe6f7c9badfb500faa3ae",
+      "title": "USACE Far East District Hosts First Reverse Industry Day",
+      "summary": "The U.S. Army Corps of Engineers – Far East District (USACE FED) Contracting Division hosted its first Reverse Industry Day (FEDRID), Oct. 6, 2025, in Suwon, South Korea. Over 250 attendees attended the event.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577589/usace-far-east-district-hosts-first-reverse-industry-day",
+      "publishedAt": "2026-10-22T08:18:13Z"
+    },
     {
       "id": "d21d4d1f64ffda604d9b23eb",
       "title": "5th Air Naval Gunfire Liaison Company, Japan Ground Self-Defense Force strengthen partnership through joint fires training",
@@ -298,69 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577466/newly-promoted-colonel-celebrates-milestone-cantigny-park-wheaton",
       "publishedAt": "2026-10-20T21:13:42Z"
-    },
-    {
-      "id": "edd8ca1a6b5ddb22a6debe8d",
-      "title": "VIDEO: USS San Antonio Returns Home From Split Deployment",
-      "summary": "Amphibious transport dock USS San Antonio (LPD-17) returned from its two-part deployment of 2026 on Friday. Over the past 14 months, the amphibious ship spent all but two months deployed. San Antonio’s underway time spans two periods, during which the ship spent most of its time in U.S.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/20/video-uss-san-antonio-returns-home-from-split-deployment",
-      "publishedAt": "2026-10-20T20:56:35Z"
-    },
-    {
-      "id": "75fe8945779231f579555a65",
-      "title": "Why I Serve- Olena Terzi",
-      "summary": "U.S. Spc. Olena Terzi discusses her military service. A native of Ukraine, Terzi settled in the United States and is currently pursing various passions to give back to the community that welcomed her and her family.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577463/why-serve-olena-terzi",
-      "publishedAt": "2026-10-20T20:53:56Z"
-    },
-    {
-      "id": "acea00adfdab9c3ffd54e458",
-      "title": "Illinois Army National Guard Activates 217th Military Intelligence Battalion",
-      "summary": "The Illinois Army National Guard activated the 217th Military Intelligence Battalion during a ceremony on Oct 18, 2026, in Cantigny Park, Illinois, formally establishing a new organization designed to strengthen military intelligence and electronic warfare capabilities.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577453/illinois-army-national-guard-activates-217th-military-intelligence-battalion",
-      "publishedAt": "2026-10-20T20:06:06Z"
-    },
-    {
-      "id": "8de0d783a5fa74413581a53f",
-      "title": "Oregon National Guard honors Vietnam veteran with Bronze Star Medal with Valor 57 years later",
-      "summary": "Retired Lt. Col. David Gauntlett received the Bronze Star Medal with Valor during an Oregon National Guard ceremony at the Maj. Gen. George White Building in Salem, Ore., Oct. 19, 2026. The award recognizes his actions as a 20-year-old U.S.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577460/oregon-national-guard-honors-vietnam-veteran-with-bronze-star-medal-with-valor-57-years-later",
-      "publishedAt": "2026-10-20T19:53:52Z"
-    },
-    {
-      "id": "c9bc9f92ba24aeda7a0c7742",
-      "title": "Sacramento District puts new USACE governance framework into action",
-      "summary": "The U.S. Army Corps of Engineers Sacramento District is putting new Headquarters governance requirements into practice through its inaugural District Engineering Review.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577459/sacramento-district-puts-new-usace-governance-framework-into-action",
-      "publishedAt": "2026-10-20T19:46:33Z"
-    },
-    {
-      "id": "0a8c22be7088f3f8f8600bd3",
-      "title": "Pentagon weighs force posture, costs of rebuilding Middle East bases",
-      "summary": "“We’re meeting with CENTCOM and doing the assessments right now from an installation perspective. Part of this is what will the global posture be in the future, and what does that require us to have?” a senior defense official told reporters today.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/pentagon-weighs-force-posture-costs-of-rebuilding-middle-east-bases/",
-      "publishedAt": "2026-10-20T18:06:00Z"
-    },
-    {
-      "id": "8baf79ece583f8a086e32432",
-      "title": "Brig. Gen. Richard Cipro, a Massachusetts Guardsman, takes command of the 42nd Infantry Division",
-      "summary": "LATHAM, New York —Army National Guard Brig. Gen. Richard P. Cipro, a Worcester, Massachusetts resident and a veteran of the wars in Iraq and Afghanistan, took command of the National Guard’s 42nd Infantry Division during a ceremony at New York National Guard headquarters in Latham, New York on October 17.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577443/brig-gen-richard-cipro-massachusetts-guardsman-takes-command-42nd-infantry-division",
-      "publishedAt": "2026-10-20T17:43:38Z"
     }
   ],
   "nextPage": "page-4.json"

@@ -1,5 +1,68 @@
 [
   {
+    "id": "bfb37cf7f3011ef1f09b2331",
+    "title": "U.S. Civil Affairs Soldiers build NATO partnerships at Estonian shooting competition",
+    "summary": "Two U.S. Army Civil Affairs Soldiers competed alongside service members from Estonia, the United Kingdom and France during the Estonian Defence Forces Shooting Competition 2026 in Harju County, Estonia, from Oct. 21-22.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/577863/us-civil-affairs-soldiers-build-nato-partnerships-estonian-shooting-competition",
+    "publishedAt": "2026-10-26T10:12:31Z"
+  },
+  {
+    "id": "f157355313b04586ec41fb2e",
+    "title": "BS27-1: MAD for Military Assisted Departure",
+    "summary": "U.S. Air Force Airmen assigned to the 718th Force Support Squadron worked in conjunction with various units across the 18th Wing and joint services to coordinate a military assisted departure during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 26, 2026.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/577858/bs27-1-mad-military-assisted-departure",
+    "publishedAt": "2026-10-26T09:25:13Z"
+  },
+  {
+    "id": "82692208ac588ba707da3e43",
+    "title": "BS27-1: Ready to defend",
+    "summary": "KADENA AIR BASE, Japan – U.S. Air Force Airmen assigned to the 18th Logistics Readiness Squadron issued weapons to personnel participating in Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 26, 2026. The weapons issue prepares Airmen to respond to simulated threats and operate in a contingency environment.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/577861/bs27-1-ready-defend",
+    "publishedAt": "2026-10-26T09:23:48Z"
+  },
+  {
+    "id": "293d130526636e5169abb676",
+    "title": "BS27-1: 18th SFS neutralizes the threat",
+    "summary": "When shots are fired, 18th Security Forces Squadron rushes toward the source. U.S. Air Force Airmen assigned to the 18th SFS responded to a simulated ground attack during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 26, 2026, neutralizing two simulated attackers and testing their ability to respond to evolving threats.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/577857/bs27-1-18th-sfs-neutralizes-threat",
+    "publishedAt": "2026-10-26T08:21:54Z"
+  },
+  {
+    "id": "154955082f9de8db7fd738dd",
+    "title": "U.S., Japanese forces exercise rapid airfield damage repair during Keen Sword 27",
+    "summary": "During Exercise Keen Sword 27, U.S. Air Force Airmen, Japan Air Self-Defense Force airmen, and Japan Ground Self-Defense Force soldiers conducted bilateral rapid airfield damage repair training at Misawa Air Base, Japan, Oct.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/577854/us-japanese-forces-exercise-rapid-airfield-damage-repair-during-keen-sword-27",
+    "publishedAt": "2026-10-26T07:21:25Z"
+  },
+  {
+    "id": "8831989b6676151fa769de50",
+    "title": "Faces of Keen Sword 27 - Cpt. Yuki Sato",
+    "summary": "Japan Air Self-Defense Force Cpt. Yuki Sato, a Kawasaki C-2 Pilot assigned to the 402nd Tactical Airlift Squadron at Iruma Air Base, Japan poses for a feature photo for a Faces of Keen Sword feature story.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/577853/faces-keen-sword-27-cpt-yuki-sato",
+    "publishedAt": "2026-10-26T06:50:04Z"
+  },
+  {
+    "id": "601640872811009fc5d0283b",
+    "title": "Faces of Keen Sword 27 - Joshua Dilone",
+    "summary": "U.S. Navy Petty Officer 2nd Class Joshua Dilone, an operational specialist, shares information on his job duties and his experiences in Keen Sword 27. Keen Sword is a multilateral exercise dedicated to preserving peace and stability in the region, and strengthening the ironclad alliance between the U.S. and Japan.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/577852/faces-keen-sword-27-joshua-dilone",
+    "publishedAt": "2026-10-26T06:49:25Z"
+  },
+  {
     "id": "8a5d6fcffd6aefb2a7166c5f",
     "title": "U.S., Japan merge real and virtual skies during KS27",
     "summary": "High above the Japanese coastline, a Japan Air Self-Defense Force F-35 Lightning II carves through the clouds, its pilot scanning the radar for simulated adversary aircraft. Miles away at Misawa Air Base, Japan, U.S.",
@@ -1681,32 +1744,5 @@
     "sourceName": "Defense News",
     "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/15/weaponized-light-kbrs-new-base-defense-technology-pits-lasers-against-drones/",
     "publishedAt": "2026-10-16T14:00:00Z"
-  },
-  {
-    "id": "6692023fd7d63de5a84ce0e3",
-    "title": "Recap: Autonomy dominates the US Army’s 2026 conference in Washington",
-    "summary": "Dominating displays at this year’s show was an unmistakable surge in automation and unmanned systems, as well as weaponry and vehicle capabilities.",
-    "category": "Army",
-    "sourceName": "Defense News",
-    "sourceUrl": "https://www.defensenews.com/recap/ausa/2026/10/16/recap-autonomy-dominates-the-us-armys-2026-conference-in-washington/",
-    "publishedAt": "2026-10-16T12:17:46Z"
-  },
-  {
-    "id": "66c230e35a349253a12e9f17",
-    "title": "Blood supplies, autonomous systems shape US Army’s Indo-Pacific combat care plans",
-    "summary": "18th Theater Medical Command leaders are experimenting with ways to prolong care in a theater where the \"Golden Hour\" standard is difficult to maintain.",
-    "category": "Army",
-    "sourceName": "Defense News",
-    "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/14/blood-supplies-autonomous-systems-shape-us-armys-indo-pacific-combat-care-plans/",
-    "publishedAt": "2026-10-16T12:00:00Z"
-  },
-  {
-    "id": "6ec1b04a44940fb06c4a04ca",
-    "title": "What is the US Army doing in Panama? A bit of everything.",
-    "summary": "As Washington shifts its attention toward the Western Hemisphere, a reinvigorated jungle school is just one part of the evolving U.S. presence in Panama.",
-    "category": "Army",
-    "sourceName": "Defense News",
-    "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/14/what-is-the-us-army-doing-in-panama-a-bit-of-everything/",
-    "publishedAt": "2026-10-16T10:00:00Z"
   }
 ]

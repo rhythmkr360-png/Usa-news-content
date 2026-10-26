@@ -1,7 +1,70 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T04:52:37Z",
+  "generatedAt": "2026-10-26T13:09:38Z",
   "articles": [
+    {
+      "id": "edd8ca1a6b5ddb22a6debe8d",
+      "title": "VIDEO: USS San Antonio Returns Home From Split Deployment",
+      "summary": "Amphibious transport dock USS San Antonio (LPD-17) returned from its two-part deployment of 2026 on Friday. Over the past 14 months, the amphibious ship spent all but two months deployed. San Antonio’s underway time spans two periods, during which the ship spent most of its time in U.S.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/20/video-uss-san-antonio-returns-home-from-split-deployment",
+      "publishedAt": "2026-10-20T20:56:35Z"
+    },
+    {
+      "id": "75fe8945779231f579555a65",
+      "title": "Why I Serve- Olena Terzi",
+      "summary": "U.S. Spc. Olena Terzi discusses her military service. A native of Ukraine, Terzi settled in the United States and is currently pursing various passions to give back to the community that welcomed her and her family.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577463/why-serve-olena-terzi",
+      "publishedAt": "2026-10-20T20:53:56Z"
+    },
+    {
+      "id": "acea00adfdab9c3ffd54e458",
+      "title": "Illinois Army National Guard Activates 217th Military Intelligence Battalion",
+      "summary": "The Illinois Army National Guard activated the 217th Military Intelligence Battalion during a ceremony on Oct 18, 2026, in Cantigny Park, Illinois, formally establishing a new organization designed to strengthen military intelligence and electronic warfare capabilities.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577453/illinois-army-national-guard-activates-217th-military-intelligence-battalion",
+      "publishedAt": "2026-10-20T20:06:06Z"
+    },
+    {
+      "id": "8de0d783a5fa74413581a53f",
+      "title": "Oregon National Guard honors Vietnam veteran with Bronze Star Medal with Valor 57 years later",
+      "summary": "Retired Lt. Col. David Gauntlett received the Bronze Star Medal with Valor during an Oregon National Guard ceremony at the Maj. Gen. George White Building in Salem, Ore., Oct. 19, 2026. The award recognizes his actions as a 20-year-old U.S.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577460/oregon-national-guard-honors-vietnam-veteran-with-bronze-star-medal-with-valor-57-years-later",
+      "publishedAt": "2026-10-20T19:53:52Z"
+    },
+    {
+      "id": "c9bc9f92ba24aeda7a0c7742",
+      "title": "Sacramento District puts new USACE governance framework into action",
+      "summary": "The U.S. Army Corps of Engineers Sacramento District is putting new Headquarters governance requirements into practice through its inaugural District Engineering Review.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577459/sacramento-district-puts-new-usace-governance-framework-into-action",
+      "publishedAt": "2026-10-20T19:46:33Z"
+    },
+    {
+      "id": "0a8c22be7088f3f8f8600bd3",
+      "title": "Pentagon weighs force posture, costs of rebuilding Middle East bases",
+      "summary": "“We’re meeting with CENTCOM and doing the assessments right now from an installation perspective. Part of this is what will the global posture be in the future, and what does that require us to have?” a senior defense official told reporters today.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/10/pentagon-weighs-force-posture-costs-of-rebuilding-middle-east-bases/",
+      "publishedAt": "2026-10-20T18:06:00Z"
+    },
+    {
+      "id": "8baf79ece583f8a086e32432",
+      "title": "Brig. Gen. Richard Cipro, a Massachusetts Guardsman, takes command of the 42nd Infantry Division",
+      "summary": "LATHAM, New York —Army National Guard Brig. Gen. Richard P. Cipro, a Worcester, Massachusetts resident and a veteran of the wars in Iraq and Afghanistan, took command of the National Guard’s 42nd Infantry Division during a ceremony at New York National Guard headquarters in Latham, New York on October 17.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577443/brig-gen-richard-cipro-massachusetts-guardsman-takes-command-42nd-infantry-division",
+      "publishedAt": "2026-10-20T17:43:38Z"
+    },
     {
       "id": "edaa98f8c65bef1584a50aa7",
       "title": "US Army support for Golden Dome missile shield takes shape",
@@ -298,69 +361,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/10/19/groups-seek-clarity-on-motive-behind-pentagons-study-of-women-in-combat/",
       "publishedAt": "2026-10-19T14:00:00Z"
-    },
-    {
-      "id": "c66d87bd390163014cd4d687",
-      "title": "Navy Medicine Sailors return home from deployment",
-      "summary": "An elite, far-forward Navy Medicine surgical asset returned to U.S. soil on Oct. 17, 2026, touching down at the military air terminal at Naval Air Station Norfolk following a seven-month deployment to the U.S. Central Command (CENTCOM) area of responsibility.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577220/navy-medicine-sailors-return-home-deployment",
-      "publishedAt": "2026-10-19T13:16:53Z"
-    },
-    {
-      "id": "fd77482349749a39968a7877",
-      "title": "US Army Cyber Command charts course for human-AI equilibrium",
-      "summary": "U.S. Army Cyber Command is constantly refining human oversight of artificial intelligence, Lt. Gen. Christopher Eubank said last week.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/19/us-army-cyber-command-charts-course-for-human-ai-equilibrium/",
-      "publishedAt": "2026-10-19T13:00:00Z"
-    },
-    {
-      "id": "05be42e1cbdce12655da0ed7",
-      "title": "SETAF-AF joins G-TEAD, USAREUR-AF at AUSA to explain how operational challenges in Africa drive tactical solutions",
-      "summary": "WASHINGTON – The U.S. Army Southern European Task Force, Africa (SETAF-AF) commander outlined how Africa is where operational problems are defined, solutions are tested in realistic conditions, and results are shared across the Army during the 2026 Association of the United States Army Annual Meeting and Exposition at the Walter E.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577216/setaf-af-joins-g-tead-usareur-af-ausa-explain-operational-challenges-africa-drive-tactical-solutions",
-      "publishedAt": "2026-10-19T12:43:05Z"
-    },
-    {
-      "id": "744665023d4e843acf80994a",
-      "title": "Readout of U.S. Naval Forces Central Command/U.S. 5th Fleet/Combined Maritime Forces Vice Adm. Curt Renshaw's Meeting with Kuwaiti Defense Leaders",
-      "summary": "TAMPA, Fla. (Oct. 19, 2026) U.S. Naval Forces Central Command/U.S. 5th Fleet/Combined Maritime Forces Commander Vice Adm. Curt Renshaw met with key Kuwaiti political and defense leaders during a trip to Kuwait City, Kuwait, Oct. 18-19.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577217/readout-us-naval-forces-central-command-us-5th-fleet-combined-maritime-forces-vice-adm-curt-renshaws-meeting-with-kuwaiti",
-      "publishedAt": "2026-10-19T12:19:21Z"
-    },
-    {
-      "id": "57989bac5806bee3b702c560",
-      "title": "US Army acquisition command awards contracts worth $6.8B in 2026",
-      "summary": "The Mission and Installation Contracting Command awarded 21,450 contracts in fiscal 2026 valued at $6.8 billion in total, a boost from the year prior.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/16/us-army-acquisition-command-awards-contracts-worth-68b-in-2026/",
-      "publishedAt": "2026-10-19T12:00:00Z"
-    },
-    {
-      "id": "29360730e00bd945b982d6d1",
-      "title": "US Army showing interest in G/ATOR missile-killing radar, Northrop says",
-      "summary": "Northrop Grumman’s new multi-mission radar system has earned high marks from Marine Corps leadership. The U.S. Army has taken notice.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-army-showing-interest-in-gator-missile-killing-radar-northrop-says/",
-      "publishedAt": "2026-10-19T11:00:00Z"
-    },
-    {
-      "id": "9b32422322b7525455c135f6",
-      "title": "A shifting landscape: Where the US Army moved in 2026 and what may be on the horizon",
-      "summary": "As seasons signal the waning months of 2026, the U.S. Army’s operational map continues to evolve.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/16/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon/",
-      "publishedAt": "2026-10-19T10:00:00Z"
     }
   ],
   "nextPage": "page-5.json"
