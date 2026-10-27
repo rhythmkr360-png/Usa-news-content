@@ -1,7 +1,124 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T15:23:27Z",
+  "generatedAt": "2026-10-27T22:18:43Z",
   "articles": [
+    {
+      "id": "a64c4682868bb519f6104f9b",
+      "title": "Guardsmen Push Through the Exhaustion in the 2027 Best Warrior Competition",
+      "summary": "The 2027 Utah Best Warrior Competition brought together 21 Utah Army and Air National Guardsmen at Camp Williams Oct. 19-21, 2026, for three days of challenges testing physical endurance, tactical proficiency and mental resilience.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578009/guardsmen-push-through-exhaustion-2027-best-warrior-competition",
+      "publishedAt": "2026-10-27T21:44:16Z"
+    },
+    {
+      "id": "f26a1b53885c3b3f16d53627",
+      "title": "When the Roads Rumble: U.S. and Panamanian Partner Forces provide Humanitarian Assistance and Disaster Relief",
+      "summary": "On Oct. 9, 2026, the streets of Panama shook as a 7.7-magnitude earthquake hit the country; the epicenter was located at Pitaloza Arria in the Azuero Peninsula. In response, U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578008/roads-rumble-us-and-panamanian-partner-forces-provide-humanitarian-assistance-and-disaster-relief",
+      "publishedAt": "2026-10-27T21:38:33Z"
+    },
+    {
+      "id": "4b31b6136fe421e5434cefc0",
+      "title": "US military’s drug boat strikes have now killed at least 240 people",
+      "summary": "The attack was at least the third deadly strike carried out by U.S. Southern Command this month. The post US military’s drug boat strikes have now killed at least 240 people appeared first on Task & Purpose .",
+      "category": "Defense",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/military-drug-boat-240-killed/",
+      "publishedAt": "2026-10-27T20:31:01Z"
+    },
+    {
+      "id": "d6ae5bb420e8c68343c2b9bc",
+      "title": "US Air Force awards Lockheed Martin $694M hypersonic missile production contract",
+      "summary": "The Air Force granted Lockheed Martin a $694 million contract in late September for the production and fielding of the AGM-183A Air-Launched Rapid Response Weapon, or ARRW.",
+      "category": "Air Force",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-air-force-awards-lockheed-martin-694m-hypersonic-missile-production-contract/",
+      "publishedAt": "2026-10-27T19:53:42Z"
+    },
+    {
+      "id": "6a84ae957adba8dc1ba33f09",
+      "title": "La. Guard leaders address readiness, transformation at annual conference",
+      "summary": "NEW ORLEANS – The Louisiana National Guard held its annual Command and Staff Conference at Jackson Barracks in New Orleans, Oct. 17-18, bringing together brigade and battalion command teams and senior headquarters leaders from across the organization.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578001/la-guard-leaders-address-readiness-transformation-annual-conference",
+      "publishedAt": "2026-10-27T19:53:32Z"
+    },
+    {
+      "id": "059542e421afe3d9032925c4",
+      "title": "Pentagon creates advisory council on human performance, health",
+      "summary": "After creating a new directorate on warfighter optimization within the Department of Defense, the Pentagon announced it will form a federal advisory committee to weigh in on issues affecting troop performance and health.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health/",
+      "publishedAt": "2026-10-27T19:24:01Z"
+    },
+    {
+      "id": "d29324c847211b18ef7d2475",
+      "title": "US Army queries industry’s ability to build 21,000 Infantry Squad Vehicles",
+      "summary": "The U.S. Army published a market survey Monday in an effort to learn whether the defense industrial base could deliver 9,000 ISV-9s and about 12,000 ISV-Us.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles/",
+      "publishedAt": "2026-10-27T19:22:31Z"
+    },
+    {
+      "id": "a9bf30001ff0f749240c167a",
+      "title": "Corps of Engineers, city of Wabasha, Minnesota, reach milestone with river sand management",
+      "summary": "ST. PAUL, Minn. – The U.S. Army Corps of Engineers, St. Paul District, and the city of Wabasha, Minnesota, reached a major milestone last week in the management of Mississippi River sand removed from the navigation channel.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577994/corps-engineers-city-wabasha-minnesota-reach-milestone-with-river-sand-management",
+      "publishedAt": "2026-10-27T18:58:35Z"
+    },
+    {
+      "id": "8e3cb23fbc13cb4fdd69f3e3",
+      "title": "MV-75 Cheyenne gains Soldier insights during sixth Special User Evaluation",
+      "summary": "Aviators from the Operational Development Team (ODT) and Soldiers representing the National Guard State Army Aviation Office (SAAO) Advisory Council Working Group participated in the sixth MV-75 Cheyenne Special User Evaluation (SUE) Aug. 24–28, 2026.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577991/mv-75-cheyenne-gains-soldier-insights-during-sixth-special-user-evaluation",
+      "publishedAt": "2026-10-27T18:47:26Z"
+    },
+    {
+      "id": "335120dcbc8fe5dbe4a7cb3e",
+      "title": "Col. Brewer assumes command of Fort Buchanan, emphasizes readiness and community partnership",
+      "summary": "Service members, civilians and families gathered at the installation's community club Oct. 27 to witness Col. David L. Brewer assume command of U.S. Army Garrison Fort Buchanan, marking a leadership transition focused on sustaining military readiness and strengthening the installation's strategic role in the Caribbean.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577987/col-brewer-assumes-command-fort-buchanan-emphasizes-readiness-and-community-partnership",
+      "publishedAt": "2026-10-27T18:15:53Z"
+    },
+    {
+      "id": "0ac8f2c51c66dadbe4c85750",
+      "title": "What’s haunting the Pentagon this Halloween?",
+      "summary": "Three special guests, and Mark, share a few frightening mysteries from their beats — from the dangers of war in space to the intricacies of upgrading America’s nuclear weapons.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/10/whats-haunting-the-pentagon-this-halloween/",
+      "publishedAt": "2026-10-27T17:45:00Z"
+    },
+    {
+      "id": "23cd59404116909ab42205e5",
+      "title": "US Army looks to high-flying balloons to help see, strike along front lines with China",
+      "summary": "Amid renewed interest in high-altitude balloons, soldiers are looking to them to extend their reach along the first island chain.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-army-looks-to-high-flying-balloons-to-help-see-strike-along-front-lines-with-china/",
+      "publishedAt": "2026-10-27T17:22:47Z"
+    },
+    {
+      "id": "5279881ab9c9a562d74198bc",
+      "title": "US taps Poland to host European PAC-3 missile maintenance facility",
+      "summary": "The United States government has selected Poland to host a new European maintenance facility for Patriot Advanced Capability-3 (PAC-3) interceptors.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/global/europe/2026/10/27/us-taps-poland-to-host-european-pac-3-missile-maintenance-facility/",
+      "publishedAt": "2026-10-27T16:42:28Z"
+    },
     {
       "id": "8c377194c13534d2cb1c2ad3",
       "title": "Lost in 1942, WWII Soldier Returns Home to Albuquerque for Final Rest",
@@ -244,123 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577905/lyster-launches-annual-flu-campaign",
       "publishedAt": "2026-10-26T18:04:12Z"
-    },
-    {
-      "id": "00c68d5a5350c750f5012558",
-      "title": "U.S., Colombia Launch Exercise Southern Vanguard 2027",
-      "summary": "The 41st iteration of SOUTHERN VANGUARD 2027 (SV27) is scheduled to begin in Colombia on Nov. 2, 2026. The exercise, which is scheduled to run until mid-November, will bring together approximately 800 participants, including about 350 U.S. military personnel and over 400 soldiers from the Colombian Army.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577902/us-colombia-launch-exercise-southern-vanguard-2027",
-      "publishedAt": "2026-10-26T17:56:57Z"
-    },
-    {
-      "id": "f3d26fb1939a0a0e6abfd097",
-      "title": "Corps of Engineers and the city of La Crosse, Wisconsin, partner on flood risk management project",
-      "summary": "The U.S. Army Corps of Engineers, St. Paul District, signed a feasibility cost-sharing agreement with the city of La Crosse, Wisconsin, to begin a joint flood risk management feasibility study on Oct. 13.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577901/corps-engineers-and-city-la-crosse-wisconsin-partner-flood-risk-management-project",
-      "publishedAt": "2026-10-26T17:41:07Z"
-    },
-    {
-      "id": "00e46915255248744245a24d",
-      "title": "‘Now is the time’ for Cubans to ‘act’ says top US military commander in South America",
-      "summary": "The commander of U.S. Southern Command, Gen. Francis Donovan, called on Cubans to work with U.S. intelligence agencies. The post ‘Now is the time’ for Cubans to ‘act’ says top US military commander in South America appeared first on Task & Purpose .",
-      "category": "Defense",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/southcom-donovan-cuba-cia-action/",
-      "publishedAt": "2026-10-26T17:32:35Z"
-    },
-    {
-      "id": "edeb3025d2fe38978a6f20c8",
-      "title": "USNI News Fleet and Marine Tracker: Oct. 26, 2026",
-      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Oct. 26, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/26/usni-news-fleet-and-marine-tracker-oct-26-2026",
-      "publishedAt": "2026-10-26T17:13:04Z"
-    },
-    {
-      "id": "dcfb87f1b5998c11da436e76",
-      "title": "New Hampshire Army National Guard names 2027 Best Warrior winners",
-      "summary": "PEMBROKE, N.H. — Sgt. Johnathin Bailey and Pfc. Samuel Gosselin earned the New Hampshire Army National Guard's 2027 Noncommissioned Officer and Soldier of the Year titles after three days of marksmanship, land navigation and physical challenges Oct. 23-25.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577900/new-hampshire-army-national-guard-names-2027-best-warrior-winners",
-      "publishedAt": "2026-10-26T17:09:17Z"
-    },
-    {
-      "id": "24128c4b7980e54f22047384",
-      "title": "BCE Consulting outlines the critical elements of layered air defense architecture",
-      "summary": "What does the future of layered air defense look like? BCE Consulting lays out what it will take to protect American forces.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/video/2026/10/26/bce-consulting-outlines-the-critical-elements-of-layered-air-defense-architecture/",
-      "publishedAt": "2026-10-26T16:41:59Z"
-    },
-    {
-      "id": "3562d393638b59e3b9260677",
-      "title": "Is the Pentagon’s demand signal for drones working? It depends on who you ask.",
-      "summary": "“There’s a lot of positive signaling, but we need to see the whites of the eyes: We need to see sustained, normalized demand,” said James Slider, CEO of Performance Drone Works.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/is-the-pentagons-demand-signal-for-drones-working-it-depends-on-who-you-ask/",
-      "publishedAt": "2026-10-26T14:28:38Z"
-    },
-    {
-      "id": "bfb37cf7f3011ef1f09b2331",
-      "title": "U.S. Civil Affairs Soldiers build NATO partnerships at Estonian shooting competition",
-      "summary": "Two U.S. Army Civil Affairs Soldiers competed alongside service members from Estonia, the United Kingdom and France during the Estonian Defence Forces Shooting Competition 2026 in Harju County, Estonia, from Oct. 21-22.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577863/us-civil-affairs-soldiers-build-nato-partnerships-estonian-shooting-competition",
-      "publishedAt": "2026-10-26T10:12:31Z"
-    },
-    {
-      "id": "f157355313b04586ec41fb2e",
-      "title": "BS27-1: MAD for Military Assisted Departure",
-      "summary": "U.S. Air Force Airmen assigned to the 718th Force Support Squadron worked in conjunction with various units across the 18th Wing and joint services to coordinate a military assisted departure during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 26, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577858/bs27-1-mad-military-assisted-departure",
-      "publishedAt": "2026-10-26T09:25:13Z"
-    },
-    {
-      "id": "82692208ac588ba707da3e43",
-      "title": "BS27-1: Ready to defend",
-      "summary": "KADENA AIR BASE, Japan – U.S. Air Force Airmen assigned to the 18th Logistics Readiness Squadron issued weapons to personnel participating in Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 26, 2026. The weapons issue prepares Airmen to respond to simulated threats and operate in a contingency environment.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577861/bs27-1-ready-defend",
-      "publishedAt": "2026-10-26T09:23:48Z"
-    },
-    {
-      "id": "293d130526636e5169abb676",
-      "title": "BS27-1: 18th SFS neutralizes the threat",
-      "summary": "When shots are fired, 18th Security Forces Squadron rushes toward the source. U.S. Air Force Airmen assigned to the 18th SFS responded to a simulated ground attack during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 26, 2026, neutralizing two simulated attackers and testing their ability to respond to evolving threats.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577857/bs27-1-18th-sfs-neutralizes-threat",
-      "publishedAt": "2026-10-26T08:21:54Z"
-    },
-    {
-      "id": "154955082f9de8db7fd738dd",
-      "title": "U.S., Japanese forces exercise rapid airfield damage repair during Keen Sword 27",
-      "summary": "During Exercise Keen Sword 27, U.S. Air Force Airmen, Japan Air Self-Defense Force airmen, and Japan Ground Self-Defense Force soldiers conducted bilateral rapid airfield damage repair training at Misawa Air Base, Japan, Oct.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577854/us-japanese-forces-exercise-rapid-airfield-damage-repair-during-keen-sword-27",
-      "publishedAt": "2026-10-26T07:21:25Z"
-    },
-    {
-      "id": "8831989b6676151fa769de50",
-      "title": "Faces of Keen Sword 27 - Cpt. Yuki Sato",
-      "summary": "Japan Air Self-Defense Force Cpt. Yuki Sato, a Kawasaki C-2 Pilot assigned to the 402nd Tactical Airlift Squadron at Iruma Air Base, Japan poses for a feature photo for a Faces of Keen Sword feature story.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577853/faces-keen-sword-27-cpt-yuki-sato",
-      "publishedAt": "2026-10-26T06:50:04Z"
     }
   ],
   "nextPage": "pages/page-2.json"

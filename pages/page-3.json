@@ -1,7 +1,124 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T15:23:27Z",
+  "generatedAt": "2026-10-27T22:18:43Z",
   "articles": [
+    {
+      "id": "12656059f1b2cc2510d30a9a",
+      "title": "La. Guard appoints ninth command chief warrant officer",
+      "summary": "NEW ORLEANS – Chief Warrant Officer 5 Dale Poe became the Louisiana National Guard’s ninth command chief warrant officer during a change of responsibility ceremony at Jackson Barracks in New Orleans, Oct. 18.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577720/la-guard-appoints-ninth-command-chief-warrant-officer",
+      "publishedAt": "2026-10-23T16:25:47Z"
+    },
+    {
+      "id": "32b2fed9cd6ee3b8a2861df9",
+      "title": "‘The West can’t stop me’: Space wars heat up as Russia tails a Ukraine-linked US satellite",
+      "summary": "Washington blamed Moscow for deliberately moving a Russian military satellite with an undisclosed mission close last week to a U.S.-registered satellite.",
+      "category": "Space Force",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/space/2026/10/23/the-west-cant-stop-me-space-wars-heat-up-as-russia-tails-a-ukraine-linked-us-satellite/",
+      "publishedAt": "2026-10-23T15:48:02Z"
+    },
+    {
+      "id": "bebe4c940f51df9e2ce781a7",
+      "title": "Peterson Space Force Base Airman receives Department of War Spirit of Hope Award",
+      "summary": "– Established in honor of legendary entertainer Bob Hope, the Spirit of Hope Award is one of the military's most prestigious honors. This award is presented to individuals and organizations who epitomize the core values of service, standing as a testament to the bond between the American public and its service members. Tech. Sgt. Michael D.",
+      "category": "Space Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577715/peterson-space-force-base-airman-receives-department-war-spirit-hope-award",
+      "publishedAt": "2026-10-23T15:46:11Z"
+    },
+    {
+      "id": "e50d6b6e9bf87657af12a86c",
+      "title": "Lost in 1950, Korean War Soldier to be Laid to Rest in Illinois",
+      "summary": "The remains of U.S. Army Pfc. John R. Stovall, 22, who was killed during the Korean War, will be interred at Mount Hope Cemetery in Belleville, Illinois. Services and interment are being coordinated by Kassly Funeral Home.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577710/lost-1950-korean-war-soldier-laid-rest-illinois",
+      "publishedAt": "2026-10-23T15:32:15Z"
+    },
+    {
+      "id": "515863d15af3c5d9928a348d",
+      "title": "Army Activates Air Defense Guam Battalion Focused on Chinese, North Korean Threats",
+      "summary": "The U.S. Army’s recently activated a Guam-based air defense battalion meant to protect the island from increasingly advanced air and missile threats fielded by China and North Korea. The 3rd Battalion, 43rd Air Defense Artillery Regiment, activated on Oct. 16, will inherit the defense of Guam responsibilities of Task Force Talon.",
+      "category": "Army",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/23/army-activates-air-defense-guam-battalion-focused-on-chinese-north-korean-threats",
+      "publishedAt": "2026-10-23T15:13:35Z"
+    },
+    {
+      "id": "a90315915c55076fb60e5d81",
+      "title": "US Air Force wants AI to assist aerial refueling",
+      "summary": "The goal is for AI to automatically analyze refueling operations from cameras mounted on the tankers and provide “hot wash” feedback to the tanker crews.",
+      "category": "Air Force",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling/",
+      "publishedAt": "2026-10-23T14:29:17Z"
+    },
+    {
+      "id": "e27d4e7fcab59c57761f0397",
+      "title": "AMC honors 10 civilian and military personnel driving workplace excellence",
+      "summary": "The U.S. Army Materiel Command has announced its third quarter, fiscal year 2026 Employees of the Quarter, honoring 10 exceptional civilian and military personnel. These awards recognize outstanding individual contributions that directly drive workplace productivity, employee retention, and overall mission readiness across the enterprise.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577703/amc-honors-10-civilian-and-military-personnel-driving-workplace-excellence",
+      "publishedAt": "2026-10-23T14:26:59Z"
+    },
+    {
+      "id": "f186fca8c135483984170154",
+      "title": "From Arrest to Advocacy: Aberdeen Proving Ground Employee Shares Journey to Recovery",
+      "summary": "For Michelle Twist, a U.S. Army Garrison Aberdeen Proving Ground employee, that moment came in 2015. As the Army observes Substance Abuse Awareness Month, Twist is sharing her personal story of overcoming opioid addiction to inspire others to seek the help they need before a crisis.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577704/arrest-advocacy-aberdeen-proving-ground-employee-shares-journey-recovery",
+      "publishedAt": "2026-10-23T14:21:15Z"
+    },
+    {
+      "id": "63a3c128cd923495c1875adc",
+      "title": "White House military spouse council floats toll cuts for troops commuting to base",
+      "summary": "The council said recent toll cuts at MacDill Air Force Base in Tampa, Florida, should be used as a “template” for other bases across the U.S. The post White House military spouse council floats toll cuts for troops commuting to base appeared first on Task & Purpose .",
+      "category": "Defense",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/military-spouse-toll-cuts-troops/",
+      "publishedAt": "2026-10-23T14:08:22Z"
+    },
+    {
+      "id": "4d60b5a1f48504716548071e",
+      "title": "U.S. Pacific Command deputy commander visits Japan, highlights combined readiness",
+      "summary": "The deputy commander of U.S. Pacific Command visited Japan to commence Exercise Keen Sword 2027 and meet with senior military and government leaders, Oct. 18-21.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577698/us-pacific-command-deputy-commander-visits-japan-highlights-combined-readiness",
+      "publishedAt": "2026-10-23T12:58:27Z"
+    },
+    {
+      "id": "ec062f45d064d7e601f31860",
+      "title": "NCNG 2-120th Infantry Regiment Re-activates",
+      "summary": "LENOIR, N.C. — For the first time in two decades, the North Carolina National Guard 2nd Battalion, 120th Infantry Regiment, 30th Mobile Brigade Combat Team unraveled their colors as the unit was officially re-activated during a ceremony, here on Oct. 18th, 2026.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577694/ncng-2-120th-infantry-regiment-re-activates",
+      "publishedAt": "2026-10-23T12:58:19Z"
+    },
+    {
+      "id": "17f6a29ec8e792ed1340dd22",
+      "title": "31 Dental Squadron partners with USS Lewis B. Puller to support Navy readiness",
+      "summary": "U.S. Air Force and U.S. Navy medical personnel partnered to provide examinations, cleanings and routine dental care to more than 40 Sailors aboard USS Lewis B. Puller (ESB 3) in Rijeka, Croatia, Sept. 22-25, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577696/31-dental-squadron-partners-with-uss-lewis-b-puller-support-navy-readiness",
+      "publishedAt": "2026-10-23T09:09:38Z"
+    },
+    {
+      "id": "ca7d589d04eba5ec9e70a50e",
+      "title": "Readiness, Relationships and Resilience: Col. Michael Cookey Marks First 100 Days Leading USAG Ansbach",
+      "summary": "ANSBACH, Germany — When Col. Michael D. Cookey took command of the Army garrison here in July, he assumed leadership of an installation supporting combat readiness and community resilience. Marking his first 100 days in command of U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577695/readiness-relationships-and-resilience-col-michael-cookey-marks-first-100-days-leading-usag-ansbach",
+      "publishedAt": "2026-10-23T08:27:29Z"
+    },
     {
       "id": "f51eeb8b485bb31ab1fcb22a",
       "title": "9th ESB Marine aids Okinawan driver following traffic accident",
@@ -244,123 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577619/south-dakota-guards-155th-engineer-company-honored-before-southern-border-deployment",
       "publishedAt": "2026-10-22T17:01:22Z"
-    },
-    {
-      "id": "92ebcd563e5bfc8166650bbe",
-      "title": "The Pentagon has gone too far in using the Other Transaction Authority. Congress should act.",
-      "summary": "Created in 1958 for NASA, the obscure fiscal tool has since become the predominant approach to military contracting – at great risk to taxpayers, one researcher warns.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/the-pentagon-has-gone-too-far-in-using-the-other-transaction-authority-congress-should-act/",
-      "publishedAt": "2026-10-22T16:58:00Z"
-    },
-    {
-      "id": "d8a4b05279418dc280e3d5ab",
-      "title": "Army Corps sorts things out and saves tax-payer money, Atomic Cleanup Program",
-      "summary": "Soon, the U.S. Army Corps of Engineers, New York District will be cleaning up the Middlesex Municipal Landfill FUSRAP site in Middlesex, New Jersey and applying an innovative soil sorting system that will save tax-payer money, reduce air pollution, and most importantly return the land back to the community.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577614/army-corps-sorts-things-out-and-saves-tax-payer-money-atomic-cleanup-program",
-      "publishedAt": "2026-10-22T16:04:26Z"
-    },
-    {
-      "id": "73b720b1473e0ef4e5809d34",
-      "title": "Theodore Roosevelt Carrier Strike Group Sails in the Philippine Sea for Keen Sword Drills",
-      "summary": "The Theodore Roosevelt Carrier Strike Group, as well as Japanese, Australian, Canadian and French warships, have gathered in the Philippine Sea to participate in exercise Keen Sword 27.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/22/theodore-roosevelt-carrier-strike-group-sails-in-the-philippine-sea-for-keen-sword-drills",
-      "publishedAt": "2026-10-22T16:02:08Z"
-    },
-    {
-      "id": "4fe341b4e184606d550b24f8",
-      "title": "US Army long-range fires make a splash on the frontline with China",
-      "summary": "The U.S. Army has been upgrading its missiles and rocket artillery, largely in response to China's missile arsenal.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/22/us-army-long-range-fires-make-a-splash-on-the-frontline-with-china/",
-      "publishedAt": "2026-10-22T14:55:35Z"
-    },
-    {
-      "id": "1a33f694661574e3e4c9590b",
-      "title": "Multi-century U.S.-Dutch history focal point of latest CGSC International Hall of Fame induction",
-      "summary": "Dutch Lt. Gen. Jan-Willem Maas, commanding general of Joint Forces Command, Netherlands, was inducted into the U.S. Army Command and General Staff College International Hall of Fame during a ceremony Oct. 16, 2026, at the Lewis and Clark Center, Fort Leavenworth, Kansas.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577605/multi-century-us-dutch-history-focal-point-latest-cgsc-international-hall-fame-induction",
-      "publishedAt": "2026-10-22T14:30:39Z"
-    },
-    {
-      "id": "997d90eb10c16387e37e61b1",
-      "title": "U.S. Navy, Marine Corps, and Mexican Navy Conclude 10th Annual Maritime Staff Talks",
-      "summary": "MEXICO CITY – Senior leaders from the U.S. Navy, U.S. Marine Corps, and the Mexican Navy (Marina) concluded the 10th Annual Maritime Staff Talks (MST) in Mexico City, Oct. 20-21, 2026, reinforcing a decade of sustained partnership and deepening security cooperation.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577602/us-navy-marine-corps-and-mexican-navy-conclude-10th-annual-maritime-staff-talks",
-      "publishedAt": "2026-10-22T14:12:27Z"
-    },
-    {
-      "id": "0027d339b1210d507412188b",
-      "title": "The Pentagon wants ketamine wafers as a battlefield medicine option",
-      "summary": "The Pentagon awarded a multi-million-dollar contract to the Singapore-based iX Biopharma to develop a small, ketamine-packed wafer.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/the-pentagon-wants-ketamine-wafers-as-a-battlefield-medicine-option/",
-      "publishedAt": "2026-10-22T13:45:04Z"
-    },
-    {
-      "id": "1e381de3cbf0ad63a1155e77",
-      "title": "Jackson, USACE breaks ground on new child center",
-      "summary": "Fort Jackson and the U.S. Army Corps of Engineers broke ground Oct. 20 on a new child development center that is a sign of the commitment to its families and to Army readiness.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577598/jackson-usace-breaks-ground-new-child-center",
-      "publishedAt": "2026-10-22T13:38:44Z"
-    },
-    {
-      "id": "4d430678127b21cdec309c29",
-      "title": "Pentagon ignored cybersecurity flaws before data breach, Marines’ lawsuit says",
-      "summary": "A pair of Marines filed a class-action lawsuit Tuesday against the Pentagon over a data breach at the Defense Manpower Data Center.",
-      "category": "Marine Corps",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/pentagon-ignored-cybersecurity-flaws-before-data-breach-marines-lawsuit-says/",
-      "publishedAt": "2026-10-22T13:03:46Z"
-    },
-    {
-      "id": "56a4e3a814447d3770b0ea47",
-      "title": "Pentagon, Lockheed agree to decade-long F-35 framework deal for hundreds of jets",
-      "summary": "The tentative agreement, which still needs lawmakers’ blessing, covers production and sustainment over the 10 years.",
-      "category": "Air Force",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/pentagon-lockheed-agree-to-decade-long-f-35-framework-deal-for-hundreds-of-jets/",
-      "publishedAt": "2026-10-22T12:57:21Z"
-    },
-    {
-      "id": "1b0f8d40d24387c3ee62ed1f",
-      "title": "156th Wing optometrist bridges healthcare gaps, earns national award",
-      "summary": "LAS VEGAS, Nevada — U.S. Air Force Lt. Col. Alex Garcia, an optometrist assigned to the 156th Medical Group, Puerto Rico Air National Guard, was named the Reserve/Guard Optometrist of the Year by the Armed Forces Optometric Society during the 2026 AFOS Convention in Las Vegas, Nevada, Sept. 15–20, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577592/156th-wing-optometrist-bridges-healthcare-gaps-earns-national-award",
-      "publishedAt": "2026-10-22T12:15:47Z"
-    },
-    {
-      "id": "b69d08053583f9ddaed6e7e9",
-      "title": "Right time, right place, right Airman",
-      "summary": "AVIANO AIR BASE, Italy— In a moment, an ordinary drive to work became an emergency. On the morning of August 26, 2026, U.S. Air Force Tech. Sgt. Danielle Smith, 31st Operational Medical Readiness Squadron medical technician, witnessed a vehicle accident in her Italian community. The car hit a utility pole and overturned.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577591/right-time-right-place-right-airman",
-      "publishedAt": "2026-10-22T11:33:27Z"
-    },
-    {
-      "id": "43f9ff05e0c432f87377837f",
-      "title": "Ukraine to be able to buy military supplies via NATO agency: report",
-      "summary": "The deal comes amid worsening U.S.-Ukraine relations since U.S. President Trump announced a diesel export deal with Russia this month to lower U.S. prices.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/global/europe/2026/10/22/ukraine-to-be-able-to-buy-military-supplies-via-nato-agency-report/",
-      "publishedAt": "2026-10-22T08:58:25Z"
     }
   ],
   "nextPage": "page-4.json"
