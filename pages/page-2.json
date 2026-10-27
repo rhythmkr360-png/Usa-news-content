@@ -1,7 +1,70 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T09:04:12Z",
+  "generatedAt": "2026-10-27T15:23:27Z",
   "articles": [
+    {
+      "id": "601640872811009fc5d0283b",
+      "title": "Faces of Keen Sword 27 - Joshua Dilone",
+      "summary": "U.S. Navy Petty Officer 2nd Class Joshua Dilone, an operational specialist, shares information on his job duties and his experiences in Keen Sword 27. Keen Sword is a multilateral exercise dedicated to preserving peace and stability in the region, and strengthening the ironclad alliance between the U.S. and Japan.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577852/faces-keen-sword-27-joshua-dilone",
+      "publishedAt": "2026-10-26T06:49:25Z"
+    },
+    {
+      "id": "8a5d6fcffd6aefb2a7166c5f",
+      "title": "U.S., Japan merge real and virtual skies during KS27",
+      "summary": "High above the Japanese coastline, a Japan Air Self-Defense Force F-35 Lightning II carves through the clouds, its pilot scanning the radar for simulated adversary aircraft. Miles away at Misawa Air Base, Japan, U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577811/us-japan-merge-real-and-virtual-skies-during-ks27",
+      "publishedAt": "2026-10-26T00:10:56Z"
+    },
+    {
+      "id": "2cf33fed6ae93c610684de8f",
+      "title": "U.S. Army and NATO Partners Rehearse War Strategies",
+      "summary": "In Wiesbaden, the U.S. Army and its NATO partners are rehearsing a real-world emergency scenario. A simulated attack on NATO’s eastern flank is designed to test the alliance’s defensive capabilities.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577804/us-army-and-nato-partners-rehearse-war-strategies",
+      "publishedAt": "2026-10-25T23:08:08Z"
+    },
+    {
+      "id": "f82674c257c68727930e7681",
+      "title": "Ballenger Honored, Deal Introduced as Newest Georgia Army National Guard State Command Sgt. Maj.",
+      "summary": "U.S. Army Command Sergeant Major John Ballenger transitions into retirement and passes the torch to U.S. Army Command Sergeant Major Lafayette Deal as the incoming Georgia Army National Guard Command Sergeant Major.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577807/ballenger-honored-deal-introduced-newest-georgia-army-national-guard-state-command-sgt-maj",
+      "publishedAt": "2026-10-25T22:19:11Z"
+    },
+    {
+      "id": "d30e1f8ffb6b9976ea65ac82",
+      "title": "NATO FLF Battle Group-Poland celebrates Romanian Armed Forces Day with sports competition",
+      "summary": "Romanian soldiers deployed with NATO’s Battle Group-Poland marked Romania’s Armed Forces Day with allied U.S., Croatian and British troops at Bemowo Piskie Training Area. A Romanian-led competition featured volleyball, indoor soccer and table tennis, giving soldiers a chance to build camaraderie beyond their regular duties.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577805/nato-flf-battle-group-poland-celebrates-romanian-armed-forces-day-with-sports-competition",
+      "publishedAt": "2026-10-25T21:19:00Z"
+    },
+    {
+      "id": "e71bb1712f6ebab4954d2950",
+      "title": "FOX SPORTS TO HONOR U.S. MILITARY AND VETERANS DURING SPECIAL BROADCASTS AT THE U.S. NAVAL ACADEMY AND WEST POINT",
+      "summary": "In honor of Veterans Day, FOX Sports, in coordination with the U.S. Military Academy and the U.S. Naval Academy, will broadcast two of its flagship sports programs live from West Point and the U.S. Naval Academy over the weekend of Nov. 7–8.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577806/fox-sports-honor-us-military-and-veterans-during-special-broadcasts-us-naval-academy-and-west-point",
+      "publishedAt": "2026-10-25T20:34:50Z"
+    },
+    {
+      "id": "2aa1b09a8f65d596cc4da46b",
+      "title": "JROTC National Raider Challenge | Fall 2026",
+      "summary": "Fort Knox, Ky. – U.S. Army Cadet Command hosted the JROTC National Raider Challenge bringing approximately 4,000 cadets from across the country to Fort Knox, Oct. 22-25 to test their grit as they attempt to bring home the National Raider Champion title.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577803/jrotc-national-raider-challenge-fall-2026",
+      "publishedAt": "2026-10-25T19:38:00Z"
+    },
     {
       "id": "750f68cb46b54e5b2a67d874",
       "title": "121 ARW runs the ramp",
@@ -298,69 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577695/readiness-relationships-and-resilience-col-michael-cookey-marks-first-100-days-leading-usag-ansbach",
       "publishedAt": "2026-10-23T08:27:29Z"
-    },
-    {
-      "id": "f51eeb8b485bb31ab1fcb22a",
-      "title": "9th ESB Marine aids Okinawan driver following traffic accident",
-      "summary": "URUMA, Japan — A U.S. Marine assigned to 9th Engineer Support Battalion, Combat Logistics Regiment 37, came to the aid of an Okinawan driver following a two-vehicle traffic accident near a gas station in Uruma, Okinawa, Oct. 15.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577692/9th-esb-marine-aids-okinawan-driver-following-traffic-accident",
-      "publishedAt": "2026-10-23T07:20:41Z"
-    },
-    {
-      "id": "95a11115b6289951770d46b2",
-      "title": "U.S., Japanese forces strengthen bilateral readiness through hot-pit refueling during Keen Sword 27",
-      "summary": "U.S. Air Force Airmen and Japan Air Self-Defense Forces airmen conducted bilateral hot-pit refueling operations at a Japan Maritime Self-Defense Force installation in Hachinohe Air Base, Japan, Oct. 19-21, 2026, during Exercise Keen Sword 27, strengthening their ability to sustain fighter operations through allied cooperation.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577689/us-japanese-forces-strengthen-bilateral-readiness-through-hot-pit-refueling-during-keen-sword-27",
-      "publishedAt": "2026-10-23T06:02:09Z"
-    },
-    {
-      "id": "b5f6e64c102a6c3fe2f3a2b5",
-      "title": "Exercise Beverly Sunrise 27-01",
-      "summary": "U.S. Airmen assigned to the 35th Fighter Wing, alongside joint mission partners, participated in Exercise Beverly Sunrise 27-01 at Misawa Air Base, Japan, Oct. 19-23. The exercise tested their ability to respond to simulated threats, sustain operations and project combat power in contested environments.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577686/exercise-beverly-sunrise-27-01",
-      "publishedAt": "2026-10-23T04:04:53Z"
-    },
-    {
-      "id": "7063baeb2c2119892256609c",
-      "title": "U.S., Republic of Korea navies successfully conclude Maritime Counter-Special Operations Exercise",
-      "summary": "Naval forces from the U.S. and Republic of Korea (ROK) successfully concluded the bilateral Maritime Counter-Special Operations Forces Exercise (MCSOFEX) in the waters surrounding the Pyeongtaek, Republic of Korea, Oct 23, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577680/us-republic-korea-navies-successfully-conclude-maritime-counter-special-operations-exercise",
-      "publishedAt": "2026-10-22T23:57:19Z"
-    },
-    {
-      "id": "a62ee47a4ebf8c7d986c9f15",
-      "title": "16 WPS showcases heritage, tactical role during Joint Chiefs Chairman visit",
-      "summary": "For more than 80 years, the 16th Weapons Squadron has shaped the tactics, culture and combat effectiveness of American airpower.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577678/16-wps-showcases-heritage-tactical-role-during-joint-chiefs-chairman-visit",
-      "publishedAt": "2026-10-22T23:35:55Z"
-    },
-    {
-      "id": "b882179d0a10fa47876e9057",
-      "title": "La. Guard begins construction on Lake Charles Field Maintenance Shop",
-      "summary": "LAKE CHARLES, La. – Louisiana National Guard leaders and state officials joined representatives from Chennault International Airport, Porche/May Architects, LLC and Alfred Palma, LLC for a ceremonial groundbreaking for the Lake Charles Field Maintenance Shop at the Lake Charles Readiness Center, Oct. 21, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577679/la-guard-begins-construction-lake-charles-field-maintenance-shop",
-      "publishedAt": "2026-10-22T23:16:19Z"
-    },
-    {
-      "id": "c541904c5db80008e41882be",
-      "title": "Thunderbirds arrive in Wichita ahead of Frontiers in Flight Air Show",
-      "summary": "MCCONNELL AIR FORCE BASE, Kan. — The roar of fighter jets is set to fill the skies over the Air Capital of the World as the U.S. Air Force Thunderbirds arrive at McConnell Air Force Base, Kansas, ahead of the 2026 Frontiers in Flight Air Show and Open House Oct. 24-25.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577677/thunderbirds-arrive-wichita-ahead-frontiers-flight-air-show",
-      "publishedAt": "2026-10-22T22:48:47Z"
     }
   ],
   "nextPage": "page-3.json"

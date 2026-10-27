@@ -1,7 +1,70 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T09:04:12Z",
+  "generatedAt": "2026-10-27T15:23:27Z",
   "articles": [
+    {
+      "id": "f51eeb8b485bb31ab1fcb22a",
+      "title": "9th ESB Marine aids Okinawan driver following traffic accident",
+      "summary": "URUMA, Japan — A U.S. Marine assigned to 9th Engineer Support Battalion, Combat Logistics Regiment 37, came to the aid of an Okinawan driver following a two-vehicle traffic accident near a gas station in Uruma, Okinawa, Oct. 15.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577692/9th-esb-marine-aids-okinawan-driver-following-traffic-accident",
+      "publishedAt": "2026-10-23T07:20:41Z"
+    },
+    {
+      "id": "95a11115b6289951770d46b2",
+      "title": "U.S., Japanese forces strengthen bilateral readiness through hot-pit refueling during Keen Sword 27",
+      "summary": "U.S. Air Force Airmen and Japan Air Self-Defense Forces airmen conducted bilateral hot-pit refueling operations at a Japan Maritime Self-Defense Force installation in Hachinohe Air Base, Japan, Oct. 19-21, 2026, during Exercise Keen Sword 27, strengthening their ability to sustain fighter operations through allied cooperation.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577689/us-japanese-forces-strengthen-bilateral-readiness-through-hot-pit-refueling-during-keen-sword-27",
+      "publishedAt": "2026-10-23T06:02:09Z"
+    },
+    {
+      "id": "b5f6e64c102a6c3fe2f3a2b5",
+      "title": "Exercise Beverly Sunrise 27-01",
+      "summary": "U.S. Airmen assigned to the 35th Fighter Wing, alongside joint mission partners, participated in Exercise Beverly Sunrise 27-01 at Misawa Air Base, Japan, Oct. 19-23. The exercise tested their ability to respond to simulated threats, sustain operations and project combat power in contested environments.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577686/exercise-beverly-sunrise-27-01",
+      "publishedAt": "2026-10-23T04:04:53Z"
+    },
+    {
+      "id": "7063baeb2c2119892256609c",
+      "title": "U.S., Republic of Korea navies successfully conclude Maritime Counter-Special Operations Exercise",
+      "summary": "Naval forces from the U.S. and Republic of Korea (ROK) successfully concluded the bilateral Maritime Counter-Special Operations Forces Exercise (MCSOFEX) in the waters surrounding the Pyeongtaek, Republic of Korea, Oct 23, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577680/us-republic-korea-navies-successfully-conclude-maritime-counter-special-operations-exercise",
+      "publishedAt": "2026-10-22T23:57:19Z"
+    },
+    {
+      "id": "a62ee47a4ebf8c7d986c9f15",
+      "title": "16 WPS showcases heritage, tactical role during Joint Chiefs Chairman visit",
+      "summary": "For more than 80 years, the 16th Weapons Squadron has shaped the tactics, culture and combat effectiveness of American airpower.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577678/16-wps-showcases-heritage-tactical-role-during-joint-chiefs-chairman-visit",
+      "publishedAt": "2026-10-22T23:35:55Z"
+    },
+    {
+      "id": "b882179d0a10fa47876e9057",
+      "title": "La. Guard begins construction on Lake Charles Field Maintenance Shop",
+      "summary": "LAKE CHARLES, La. – Louisiana National Guard leaders and state officials joined representatives from Chennault International Airport, Porche/May Architects, LLC and Alfred Palma, LLC for a ceremonial groundbreaking for the Lake Charles Field Maintenance Shop at the Lake Charles Readiness Center, Oct. 21, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577679/la-guard-begins-construction-lake-charles-field-maintenance-shop",
+      "publishedAt": "2026-10-22T23:16:19Z"
+    },
+    {
+      "id": "c541904c5db80008e41882be",
+      "title": "Thunderbirds arrive in Wichita ahead of Frontiers in Flight Air Show",
+      "summary": "MCCONNELL AIR FORCE BASE, Kan. — The roar of fighter jets is set to fill the skies over the Air Capital of the World as the U.S. Air Force Thunderbirds arrive at McConnell Air Force Base, Kansas, ahead of the 2026 Frontiers in Flight Air Show and Open House Oct. 24-25.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577677/thunderbirds-arrive-wichita-ahead-frontiers-flight-air-show",
+      "publishedAt": "2026-10-22T22:48:47Z"
+    },
     {
       "id": "d3d7ad4df9e9071c6d54cbc8",
       "title": "OLDCC funding supports water system resiliency planning for West Kauai and PMRF",
@@ -298,69 +361,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/global/europe/2026/10/22/ukraine-to-be-able-to-buy-military-supplies-via-nato-agency-report/",
       "publishedAt": "2026-10-22T08:58:25Z"
-    },
-    {
-      "id": "aa1fe6f7c9badfb500faa3ae",
-      "title": "USACE Far East District Hosts First Reverse Industry Day",
-      "summary": "The U.S. Army Corps of Engineers – Far East District (USACE FED) Contracting Division hosted its first Reverse Industry Day (FEDRID), Oct. 6, 2025, in Suwon, South Korea. Over 250 attendees attended the event.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577589/usace-far-east-district-hosts-first-reverse-industry-day",
-      "publishedAt": "2026-10-22T08:18:13Z"
-    },
-    {
-      "id": "d21d4d1f64ffda604d9b23eb",
-      "title": "5th Air Naval Gunfire Liaison Company, Japan Ground Self-Defense Force strengthen partnership through joint fires training",
-      "summary": "U.S. Marines with 5th Air Naval Gunfire Liaison Company, III Marine Expeditionary Force Information Group, evaluated Japan Ground Self-Defense Force joint terminal attack controllers during training at Camp Hansen and the W-174 Joint Okinawa Training Range Complex, Okinawa, Japan, Sept. 14-17, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577587/5th-air-naval-gunfire-liaison-company-japan-ground-self-defense-force-strengthen-partnership-through-joint-fires-training",
-      "publishedAt": "2026-10-22T06:16:45Z"
-    },
-    {
-      "id": "c18c69e3960821c830488fbe",
-      "title": "U.S. Army Yuma Test Center Commander mentors local Army JROTC cadets",
-      "summary": "U.S. Army Yuma Test Center Commander Lt. Col. Kevin Hicks spoke to a large assembly of Army Junior Reserve Officers’ Training Corps cadets at Yuma High School on October 21, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577574/us-army-yuma-test-center-commander-mentors-local-army-jrotc-cadets",
-      "publishedAt": "2026-10-21T23:21:09Z"
-    },
-    {
-      "id": "80d465307036779285c2a413",
-      "title": "129th Rescue Wing conducts first wildfire medevac mission with HH-60W helicopter",
-      "summary": "The California Air National Guard’s 129th Rescue Wing deployed its new HH-60W Jolly Green II helicopter to support wildfire operations in Yosemite National Park, Oct. 9-12, marking the aircraft’s first wildfire mission since the wing began transitioning from the HH-60G Pave Hawk last year.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577570/129th-rescue-wing-conducts-first-wildfire-medevac-mission-with-hh-60w-helicopter",
-      "publishedAt": "2026-10-21T22:36:48Z"
-    },
-    {
-      "id": "38560c17b4b51c998a801dd3",
-      "title": "Brig. Gen. Landers debriefs command climate survey results at town hall",
-      "summary": "U.S. Army Brig. Gen. Andrew L. Landers, director of Defense Health Network Pacific and commanding general of Medical Readiness Command, Pacific, addressed service members and staff during a Defense Organizational Climate Survey town hall meeting at Tripler Army Medical Center, Hawaii, Oct. 19, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577568/brig-gen-landers-debriefs-command-climate-survey-results-town-hall",
-      "publishedAt": "2026-10-21T22:19:27Z"
-    },
-    {
-      "id": "e399db455961eec9c19f5eb3",
-      "title": "U.S. Army Garrison-Fort McCoy chaplain supports 98th ARRTC activation with invocation",
-      "summary": "As the 98th Army Reserve Readiness Training Center (ARRTC) officially activated Oct. 21 at Fort McCoy, Chaplain (Lt. Col.) Walter McCall, garrison chaplain for U.S. Army Garrison-Fort McCoy, provided an invocation recognizing the significance of the occasion and the Soldiers and leaders beginning a new chapter in the organization’s history.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577567/us-army-garrison-fort-mccoy-chaplain-supports-98th-arrtc-activation-with-invocation",
-      "publishedAt": "2026-10-21T22:16:36Z"
-    },
-    {
-      "id": "3dc23c797404f44346cdf7d2",
-      "title": "Coast Guard Cutter Munro completes Arctic patrol, strengthens U.S. presence in high north",
-      "summary": "ALAMEDA, Calif. — The crew of Coast Guard Cutter Munro (WMSL 755) returned to their Base Alameda homeport on Coast Guard Island Oct. 9, 2026, following a 112-day Alaska patrol that covered more than 23,000 nautical miles across the Bering Sea and Arctic Ocean.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577561/coast-guard-cutter-munro-completes-arctic-patrol-strengthens-us-presence-high-north",
-      "publishedAt": "2026-10-21T21:29:09Z"
     }
   ],
   "nextPage": "page-4.json"

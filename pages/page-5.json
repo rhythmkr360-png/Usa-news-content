@@ -1,7 +1,70 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T09:04:12Z",
+  "generatedAt": "2026-10-27T15:23:27Z",
   "articles": [
+    {
+      "id": "8baf79ece583f8a086e32432",
+      "title": "Brig. Gen. Richard Cipro, a Massachusetts Guardsman, takes command of the 42nd Infantry Division",
+      "summary": "LATHAM, New York —Army National Guard Brig. Gen. Richard P. Cipro, a Worcester, Massachusetts resident and a veteran of the wars in Iraq and Afghanistan, took command of the National Guard’s 42nd Infantry Division during a ceremony at New York National Guard headquarters in Latham, New York on October 17.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577443/brig-gen-richard-cipro-massachusetts-guardsman-takes-command-42nd-infantry-division",
+      "publishedAt": "2026-10-20T17:43:38Z"
+    },
+    {
+      "id": "edaa98f8c65bef1584a50aa7",
+      "title": "US Army support for Golden Dome missile shield takes shape",
+      "summary": "A U.S. Army air defense unit has been \"earmarked\" for support of the Golden Dome for America project, an Army official confirmed.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/air-warfare/2026/10/20/us-army-support-for-golden-dome-missile-shield-takes-shape/",
+      "publishedAt": "2026-10-20T17:30:40Z"
+    },
+    {
+      "id": "0de07d0cb96d7a7211ff8dfe",
+      "title": "USACAPOC(A) Soldiers earn Jungle Tabs in Panama, build Army Reserve capability",
+      "summary": "COLÓN, Panama — Eleven U.S. Army Reserve Soldiers assigned to U.S. Army Civil Affairs and Psychological Operations Command (Airborne) earned the Jungle Tab after completing the Jungle Operations Training Course-Panama Aug. 2, adding jungle expertise to the command’s Civil Affairs and Psychological Operations formations.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577441/usacapoca-soldiers-earn-jungle-tabs-panama-build-army-reserve-capability",
+      "publishedAt": "2026-10-20T17:29:39Z"
+    },
+    {
+      "id": "66a1511f116bca19c22ae07d",
+      "title": "Cadets Explore Human-Machine Teaming Through Hands-on Research",
+      "summary": "U.S. Air Force Academy cadets are exploring how emerging technologies influence human behavior and decision-making through hands-on research with humanoid robots and robotic dogs.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577440/cadets-explore-human-machine-teaming-through-hands-research",
+      "publishedAt": "2026-10-20T17:14:38Z"
+    },
+    {
+      "id": "bf010a1989e20abd6e39af0c",
+      "title": "Blair: Serving her country through patient care",
+      "summary": "U.S. Army Staff Sgt. Autumn Blair is carving her own path as a dedicated flight medic while also serving her country like her parents and grandfather.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577439/blair-serving-her-country-through-patient-care",
+      "publishedAt": "2026-10-20T17:14:36Z"
+    },
+    {
+      "id": "137ef4ba47c39c0e382648ed",
+      "title": "US Air Force F-22 pilot controls unmanned FQ-44 in flight",
+      "summary": "The fighter jet’s pilot served as an airborne “quarterback” and gave high-level directives to an Anduril-made Collaborative Combat Aircraft.",
+      "category": "Air Force",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/20/us-air-force-f-22-pilot-controls-unmanned-fq-44-in-flight/",
+      "publishedAt": "2026-10-20T17:00:21Z"
+    },
+    {
+      "id": "7b6098cc15eb61ce5297fb2c",
+      "title": "China built more than twice naval tonnage of US in 2024-25: Euronaval",
+      "summary": "China built more than twice the naval tonnage of the U.S. in the 2024-25 period, narrowing the gap between the two countries’ navies, a new report says.",
+      "category": "Navy",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/naval/2026/10/20/china-built-more-than-twice-naval-tonnage-of-us-in-2024-25-euronaval/",
+      "publishedAt": "2026-10-20T16:57:56Z"
+    },
     {
       "id": "42dd37d69debcb66e0c300b4",
       "title": "Washington Guard commanders focus on readiness, soldier care ahead of NTC",
@@ -298,69 +361,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-army-showing-interest-in-gator-missile-killing-radar-northrop-says/",
       "publishedAt": "2026-10-19T11:00:00Z"
-    },
-    {
-      "id": "9b32422322b7525455c135f6",
-      "title": "A shifting landscape: Where the US Army moved in 2026 and what may be on the horizon",
-      "summary": "As seasons signal the waning months of 2026, the U.S. Army’s operational map continues to evolve.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/16/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon/",
-      "publishedAt": "2026-10-19T10:00:00Z"
-    },
-    {
-      "id": "9203812ad1db3ef6ef9b57e3",
-      "title": "US Army fields new system for sweeping munitions planning, management",
-      "summary": "The service expects this first increment of TACTMIS to replace the previously used TAMIS system once it retires on Oct. 30.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/15/us-army-fields-new-system-for-sweeping-munitions-planning-management/",
-      "publishedAt": "2026-10-19T09:00:00Z"
-    },
-    {
-      "id": "c395b722a86382d222c6cecc",
-      "title": "86th IBCT (MTN) Relinquishes Command of JMTG-U",
-      "summary": "The Joint Multinational Training Group-Ukraine held a colors casing ceremony at the 7th Army Training Command headquarters on Oct. 15, 2026. Task Force Luzon, composed of the 86th Infantry Brigade Combat Team (Mountain) from the Vermont National Guard, cased its colors, relinquishing command responsibility for the mission.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577212/86th-ibct-mtn-relinquishes-command-jmtg-u",
-      "publishedAt": "2026-10-19T06:40:16Z"
-    },
-    {
-      "id": "5b97b7051598e4d5ee10bb91",
-      "title": "Passing the colors: Inigo gives final salute to 103rd Troop Command Soldiers",
-      "summary": "Col. Phoebe P. Inigo relinquished command of the 103rd Troop Command to Col. Byron Cadiz during a ceremony presided over by Brig. Gen. Ronald D. Hogsten, commander of the Hawaii Army National Guard. Inigo’s 22 months in command included responses to natural disasters, federal mobilizations and training with international partners.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577210/passing-colors-inigo-gives-final-salute-103rd-troop-command-soldiers",
-      "publishedAt": "2026-10-19T05:13:29Z"
-    },
-    {
-      "id": "0b29ea7ad42547c00b4e8859",
-      "title": "JMSDF Fleet Submarine Force Commander visits CTF-74",
-      "summary": "YOKOSUKA, Japan — Japan Maritime Self-Defense Force (JMSDF) Vice Adm. Noaya Hoshi, commander, Fleet Submarine Force, met with U.S. Navy Rear Adm. Gary Montalvo Jr., commander, Submarine Group 7 (CSG 7)/Task Force 74 (CTF 74) at Commander, Fleet Activities Yokosuka on Oct. 13, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577209/jmsdf-fleet-submarine-force-commander-visits-ctf-74",
-      "publishedAt": "2026-10-19T04:09:51Z"
-    },
-    {
-      "id": "b1410476a20c6bbd07f06c67",
-      "title": "Connecticut National Guard hosts welcome home ceremony for 1-102nd Infantry",
-      "summary": "The Connecticut National Guard hosted a welcome home ceremony and Yellow Ribbon reintegration event for 1st Battalion, 102nd Infantry at the Gov. William A. O’Neill armory Oct. 17, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577189/connecticut-national-guard-hosts-welcome-home-ceremony-1-102nd-infantry",
-      "publishedAt": "2026-10-19T01:56:54Z"
-    },
-    {
-      "id": "ecb736d5f338715018069901",
-      "title": "Forging Agile Leaders: 192nd Wing officers sharpen leadership skills during inaugural exercise",
-      "summary": "On October 17, 2026, junior officers from the Virginia Air National Guard's 192nd Wing participated in an inaugural development exercise at Joint Base Langley-Eustis to strengthen their leadership and decision making skills for Agile Combat Employment operations.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577207/forging-agile-leaders-192nd-wing-officers-sharpen-leadership-skills-during-inaugural-exercise",
-      "publishedAt": "2026-10-18T23:37:14Z"
     }
   ],
   "nextPage": "page-6.json"
