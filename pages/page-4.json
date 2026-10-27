@@ -1,7 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T20:32:23Z",
+  "generatedAt": "2026-10-27T00:28:52Z",
   "articles": [
+    {
+      "id": "5587a2b39b04361ccd298420",
+      "title": "US Air Force outlines the fighter fleet it needs by 2035",
+      "summary": "A new Air Force report calls for 1,509 combat-coded fighters by 2035, with F-35s making up 40% of the fleet and F-47s replacing F-22s.",
+      "category": "Navy",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/21/us-air-force-outlines-the-fighter-fleet-it-needs-by-2035/",
+      "publishedAt": "2026-10-21T19:01:44Z"
+    },
+    {
+      "id": "20101045f53096f3fc1484e7",
+      "title": "Hydra Brigade Welcomes New Command Sergeant Major",
+      "summary": "The Georgia Army National Guard’s 648th Maneuver Enhancement Brigade welcomed Command Sgt. Maj. Matthew Eubank as its new senior enlisted leader during a change-of-responsibility ceremony at Clay National Guard Center in Marietta, Georgia, Oct. 18, 2026. Eubank succeeded Command Sgt. Maj.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577530/hydra-brigade-welcomes-new-command-sergeant-major",
+      "publishedAt": "2026-10-21T17:05:25Z"
+    },
+    {
+      "id": "57363ae5199745323643de90",
+      "title": "Commander of Air Combat Command tours Luke AFB",
+      "summary": "U.S. Air Force Gen. Adrian Spain, commander of Air Combat Command, recently visited Luke Air Force Base to engage with Airmen and observe how the 56th Fighter Wing develops combat-ready Airmen and fighter pilots.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577528/commander-air-combat-command-tours-luke-afb",
+      "publishedAt": "2026-10-21T16:11:01Z"
+    },
+    {
+      "id": "f57798343cae0af6390fdd17",
+      "title": "Pentagon AI oversight office struggles to keep pace with department’s ambitions, GAO finds",
+      "summary": "The Pentagon office tapped in 2022 to oversee the military’s responsible use of AI had filled just three of 10 authorized positions as of February 2026.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/10/21/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds/",
+      "publishedAt": "2026-10-21T15:55:31Z"
+    },
+    {
+      "id": "0d1f1bffb928bb565253daa6",
+      "title": "Road to NTC: Light support battalion moves mountains (and Humvees)",
+      "summary": "Soldiers assigned to the Washington Army National Guard's 181st Light Support Battalion conducted a two-day deployment readiness exercise at Joint Base Lewis-McChord, Washington, Oct. 15–16, 2026, as part of preparations for an upcoming National Training Center rotation at Fort Irwin, California.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577518/road-ntc-light-support-battalion-moves-mountains-and-humvees",
+      "publishedAt": "2026-10-21T15:41:05Z"
+    },
+    {
+      "id": "688d75b1d83e227038386f87",
+      "title": "Critical Industrial Base Facility Breaks Ground Thanks to Australian Submarine Industrial Base Contribution",
+      "summary": "U.S. Navy leaders joined industry partners, members of the Jackson County Economic Development Foundation, Inc., and representatives from the Australian Embassy to break ground on a new facility in Pascagoula, Miss., that will manufacture critical components for in-service and new-construction submarines.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577523/critical-industrial-base-facility-breaks-ground-thanks-australian-submarine-industrial-base-contribution",
+      "publishedAt": "2026-10-21T15:36:08Z"
+    },
     {
       "id": "e8967dbb84e043ba8faf2e90",
       "title": "Got milk? US Army refines its pasteurization power",
@@ -307,60 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577409/army-veterinary-officers-complete-specialized-dairy-pasteurizer-audit-training-denmark",
       "publishedAt": "2026-10-20T13:10:42Z"
-    },
-    {
-      "id": "1c3104978ae016d106dbe022",
-      "title": "Army Medical Service Corps Officer Serves as Liaison to German Military Medical Forces",
-      "summary": "The U.S. Army Medical Command recently established its first medical officer liaison position with the German military’s medical service in Bonn, Germany. Col. Kenneth Spicer, a U.S. Army Medical Service Corps officer, assumed the role in August 2025.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577403/army-medical-service-corps-officer-serves-liaison-german-military-medical-forces",
-      "publishedAt": "2026-10-20T11:32:23Z"
-    },
-    {
-      "id": "66be215f1ec3609e1cf0f892",
-      "title": "Tip of the spear, or stranded on beaches? Chinese planners dissect USMC Pacific posture",
-      "summary": "Understanding these dynamics, American leaders should recalibrate and opt to rely less on forward defense, writes analyst Lyle Goldstein.",
-      "category": "Marine Corps",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/opinion/2026/10/20/tip-of-the-spear-or-stranded-on-beaches-chinese-planners-dissect-usmc-pacific-posture/",
-      "publishedAt": "2026-10-20T09:09:33Z"
-    },
-    {
-      "id": "6ba95978f87eac9ebaf99af6",
-      "title": "ROK, U.S. Airmen unite during Korean-American Friendship Day at Kunsan AB",
-      "summary": "KUNSAN AIR BASE, Republic of Korea -- Airmen from the U.S. Air Force’s 8th Fighter Wing and the Republic of Korea Air Force’s 38th Fighter Group united for the tenth annual Korean-American Friendship Day at Kunsan Air Base, ROK., Oct. 16, 2026. Korean-American Friendship Day is the largest annual bilateral event hosted at Kunsan AB. ROKAF and U.S.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577400/rok-us-airmen-unite-during-korean-american-friendship-day-kunsan-ab",
-      "publishedAt": "2026-10-20T07:52:26Z"
-    },
-    {
-      "id": "88aa2d2ee412b91241e09195",
-      "title": "U.S. Navy, Republic of Korea Navy conclude combined Maritime Mine Countermeasures Exercise 2026",
-      "summary": "The U.S. Navy, Republic of Korea (ROK) Navy, and 15 partner nations successfully concluded the ninth Multi-National Mine Warfare Exercise 2026 (MNMIWEX 26) off the southeast coast of Busan, Oct. 16, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577399/us-navy-republic-korea-navy-conclude-combined-maritime-mine-countermeasures-exercise-2026",
-      "publishedAt": "2026-10-20T07:26:34Z"
-    },
-    {
-      "id": "13de261dc7d9616b7fb49757",
-      "title": "Bridging Cultures: Japanese youth, U.S. Soldiers find common ground",
-      "summary": "CAMP ZAMA, Japan – Soldiers here hosted a community outreach event Oct. 3 to strengthen ties and build cross-cultural connections with local Japanese youth through a day of interactive games, a shared meal, and shared fellowship.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577398/bridging-cultures-japanese-youth-us-soldiers-find-common-ground",
-      "publishedAt": "2026-10-20T06:53:00Z"
-    },
-    {
-      "id": "1bd54c849ea50f391342de81",
-      "title": "Arctic experiment explores ways to close air surveillance gaps",
-      "summary": "U.S. military personnel, scientists and international partners conducted live-fly testing Sept. 7–11, 2026, during the final event of a three-year Arctic air domain awareness experiment series, collecting data to assess technology that could help close surveillance gaps across Alaska.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577397/arctic-experiment-explores-ways-close-air-surveillance-gaps",
-      "publishedAt": "2026-10-19T22:52:53Z"
     }
   ],
   "nextPage": "page-5.json"

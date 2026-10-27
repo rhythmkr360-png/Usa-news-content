@@ -1,7 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T20:32:23Z",
+  "generatedAt": "2026-10-27T00:28:52Z",
   "articles": [
+    {
+      "id": "1c3104978ae016d106dbe022",
+      "title": "Army Medical Service Corps Officer Serves as Liaison to German Military Medical Forces",
+      "summary": "The U.S. Army Medical Command recently established its first medical officer liaison position with the German military’s medical service in Bonn, Germany. Col. Kenneth Spicer, a U.S. Army Medical Service Corps officer, assumed the role in August 2025.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577403/army-medical-service-corps-officer-serves-liaison-german-military-medical-forces",
+      "publishedAt": "2026-10-20T11:32:23Z"
+    },
+    {
+      "id": "66be215f1ec3609e1cf0f892",
+      "title": "Tip of the spear, or stranded on beaches? Chinese planners dissect USMC Pacific posture",
+      "summary": "Understanding these dynamics, American leaders should recalibrate and opt to rely less on forward defense, writes analyst Lyle Goldstein.",
+      "category": "Marine Corps",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/opinion/2026/10/20/tip-of-the-spear-or-stranded-on-beaches-chinese-planners-dissect-usmc-pacific-posture/",
+      "publishedAt": "2026-10-20T09:09:33Z"
+    },
+    {
+      "id": "6ba95978f87eac9ebaf99af6",
+      "title": "ROK, U.S. Airmen unite during Korean-American Friendship Day at Kunsan AB",
+      "summary": "KUNSAN AIR BASE, Republic of Korea -- Airmen from the U.S. Air Force’s 8th Fighter Wing and the Republic of Korea Air Force’s 38th Fighter Group united for the tenth annual Korean-American Friendship Day at Kunsan Air Base, ROK., Oct. 16, 2026. Korean-American Friendship Day is the largest annual bilateral event hosted at Kunsan AB. ROKAF and U.S.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577400/rok-us-airmen-unite-during-korean-american-friendship-day-kunsan-ab",
+      "publishedAt": "2026-10-20T07:52:26Z"
+    },
+    {
+      "id": "88aa2d2ee412b91241e09195",
+      "title": "U.S. Navy, Republic of Korea Navy conclude combined Maritime Mine Countermeasures Exercise 2026",
+      "summary": "The U.S. Navy, Republic of Korea (ROK) Navy, and 15 partner nations successfully concluded the ninth Multi-National Mine Warfare Exercise 2026 (MNMIWEX 26) off the southeast coast of Busan, Oct. 16, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577399/us-navy-republic-korea-navy-conclude-combined-maritime-mine-countermeasures-exercise-2026",
+      "publishedAt": "2026-10-20T07:26:34Z"
+    },
+    {
+      "id": "13de261dc7d9616b7fb49757",
+      "title": "Bridging Cultures: Japanese youth, U.S. Soldiers find common ground",
+      "summary": "CAMP ZAMA, Japan – Soldiers here hosted a community outreach event Oct. 3 to strengthen ties and build cross-cultural connections with local Japanese youth through a day of interactive games, a shared meal, and shared fellowship.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577398/bridging-cultures-japanese-youth-us-soldiers-find-common-ground",
+      "publishedAt": "2026-10-20T06:53:00Z"
+    },
+    {
+      "id": "1bd54c849ea50f391342de81",
+      "title": "Arctic experiment explores ways to close air surveillance gaps",
+      "summary": "U.S. military personnel, scientists and international partners conducted live-fly testing Sept. 7–11, 2026, during the final event of a three-year Arctic air domain awareness experiment series, collecting data to assess technology that could help close surveillance gaps across Alaska.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577397/arctic-experiment-explores-ways-close-air-surveillance-gaps",
+      "publishedAt": "2026-10-19T22:52:53Z"
+    },
     {
       "id": "7a8de58d5e7ea7565a2aadfb",
       "title": "Clackamas Fire and Military Responders Conduct Structural Collapse and Air Mobility Joint Training Exercise",
@@ -307,60 +361,7 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577196/six-soldier-athletes-represent-army-wcap-united-world-wrestling-championships-kazakhstan",
       "publishedAt": "2026-10-18T14:32:31Z"
-    },
-    {
-      "id": "e896af83457350bd76b2be2d",
-      "title": "A final flight, a new chapter: 944th Operations Group welcomes new commander",
-      "summary": "An F-16 Fighting Falcon from Holloman Air Force Base stood alongside an F-35 Lightning II inside Hangar 999 at Luke Air Force Base, Ariz.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577193/final-flight-new-chapter-944th-operations-group-welcomes-new-commander",
-      "publishedAt": "2026-10-17T23:05:39Z"
-    },
-    {
-      "id": "348356d76953324dfe49f8bd",
-      "title": "Pentagon’s wireless services left locations, data exposed, watchdog finds",
-      "summary": "Security vulnerabilities meant that malicious groups could “pinpoint sensitive locations like safe houses or command posts, and expose operational vulnerabilities, significantly compromising national security.” The post Pentagon’s wireless services left locations, data exposed, watchdog finds appeared first on Task & Purpose .",
-      "category": "Defense",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/pentagon-wireless-location-services-exposed/",
-      "publishedAt": "2026-10-17T20:19:05Z"
-    },
-    {
-      "id": "8b4f9d63c4ebfa436afa2a56",
-      "title": "Unlocking the War Chest: How a Trip to Belleau Wood Bound Five Generations of Service",
-      "summary": "Thousands of American service members fought with everything they had at the Battle of Belleau Wood. Some returned home, while others took their last breaths in the blood-stained wheat fields. More than a century later, 1st Lt. Nicholaus Adams stood on those same hallowed grounds, walking in the exact footsteps of his great-great-grandfather, U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577188/unlocking-war-chest-trip-belleau-wood-bound-five-generations-service",
-      "publishedAt": "2026-10-17T18:07:50Z"
-    },
-    {
-      "id": "d0af53084b86c661081fc2cb",
-      "title": "Maine National Guard, Coast Guard strengthen search and rescue partnership through joint training",
-      "summary": "The Maine National Guard and U.S. Coast Guard conducted a joint search and rescue training exercise Oct. 7, simulating a search for a missing kayaker at Acadia National Park to strengthen coordination between the two organizations and improve emergency response capabilities.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577185/maine-national-guard-coast-guard-strengthen-search-and-rescue-partnership-through-joint-training",
-      "publishedAt": "2026-10-17T17:20:07Z"
-    },
-    {
-      "id": "15b4cf7e6b4576e3d7458173",
-      "title": "USAG Hawaii DPW releases lead service line inventory public notification",
-      "summary": "The U.S. Army Garrison (USAG) Hawaii has updated the Lead Service Line Inventories. (LSLI) required by U.S. EPA’s Lead and Copper Rule Revisions for its water systems and are now available for review. The deadline for the inventories update is October 16, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577184/usag-hawaii-dpw-releases-lead-service-line-inventory-public-notification",
-      "publishedAt": "2026-10-17T05:12:55Z"
-    },
-    {
-      "id": "9247ad03967f2eb4b2806e30",
-      "title": "USS San Antonio (LPD 17) Returns to Norfolk from Deployment to U.S. 4th Fleet Area of Operations",
-      "summary": "NAVAL STATION NORFOLK, Vir. – The first-in-class amphibious transport dock USS San Antonio (LPD 17) returned to Naval Station Norfolk, Oct. 13, 2026, concluding a dynamic deployment to the U.S. 4th Fleet area of operations.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577178/uss-san-antonio-lpd-17-returns-norfolk-deployment-us-4th-fleet-area-operations",
-      "publishedAt": "2026-10-16T21:25:07Z"
     }
-  ]
+  ],
+  "nextPage": "page-6.json"
 }

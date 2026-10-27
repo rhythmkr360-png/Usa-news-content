@@ -1,5 +1,59 @@
 [
   {
+    "id": "e6f58146ba6ef42164b48686",
+    "title": "First-of-its-kind women's clinic in the Air Force established at JBER",
+    "summary": "Under the Pacific Air Forces, the 673d Medical Group at Joint Base Elmendorf-Richardson provides healthcare for more than 34,000 women. At this epicenter of medical services is a first-of-its-kind clinic specifically designed to educate, treat and improve the lives of these women.",
+    "category": "Air Force",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/577934/first-its-kind-womens-clinic-air-force-established-jber",
+    "publishedAt": "2026-10-26T23:13:58Z"
+  },
+  {
+    "id": "47bca68c57b26e786c5433ea",
+    "title": "Moffett Fielders turn softball into mission-ready connections",
+    "summary": "Airmen from the California Air National Guard's 129th Rescue Wing forge connection on the softball diamond and across the wing.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/577932/moffett-fielders-turn-softball-into-mission-ready-connections",
+    "publishedAt": "2026-10-26T21:56:57Z"
+  },
+  {
+    "id": "39a79aa5c4bb2d4ee2c5db03",
+    "title": "BS27-1: Day or Night, Locked and Loaded",
+    "summary": "KADENA AIR BASE, Japan - U.S. Air Force Airmen assigned to the 18th Logistics Readiness Squadron recently issued simulated weapons to Airmen as part of Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 27, 2026.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/577930/bs27-1-day-night-locked-and-loaded",
+    "publishedAt": "2026-10-26T21:27:35Z"
+  },
+  {
+    "id": "bd58ccb21eb5ae07d7b45a35",
+    "title": "Wichita firefighter named Hometown Hero, takes flight with Thunderbirds",
+    "summary": "Joe Bauer, a firefighter with the Wichita Fire Department, was recognized as a Wichita Hometown Hero at the Frontiers in Flight Air Show and Open House with an incentive flight alongside the U.S. Air Force Air Demonstration Squadron, known as the Thunderbirds Oct. 23.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/577929/wichita-firefighter-named-hometown-hero-takes-flight-with-thunderbirds",
+    "publishedAt": "2026-10-26T21:21:45Z"
+  },
+  {
+    "id": "d5fbe3a1d334ff4c0a149078",
+    "title": "Navy Recruiter Attends Boot Camp Graduation for Four Sailors She Recruited",
+    "summary": "Cryptologic Technician Technical 1st Class Samantha Campbell, a recruiter assigned to Navy Recruiting Station Schaumburg, attended Recruit Training Command’s graduation ceremony Oct. 22, 2026, to celebrate the accomplishments of four Sailors she recruited, witnessing firsthand the culmination of their journey to becoming Sailors in the U.S. Navy.",
+    "category": "Navy",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/577927/navy-recruiter-attends-boot-camp-graduation-four-sailors-she-recruited",
+    "publishedAt": "2026-10-26T21:04:33Z"
+  },
+  {
+    "id": "98a3c3b2db287650e79695f6",
+    "title": "U.S. Navy Taps Attack Boat for 2027 Australian AUKUS Assignment",
+    "summary": "The Pentagon announced Monday the Virginia-class submarine that will be the lead nuclear attack boat in western Australia. USS Colorado (SSN-788) will be assigned to Submarine Rotational Force-West, which will be based HMAS Stirling outside of Perth starting in 2027.",
+    "category": "Navy",
+    "sourceName": "USNI News",
+    "sourceUrl": "https://news.usni.org/2026/10/26/u-s-navy-taps-attack-boat-for-2027-australian-aukus-assignment",
+    "publishedAt": "2026-10-26T20:46:28Z"
+  },
+  {
     "id": "1a196e8dc3a144ca95710530",
     "title": "Marines Sharpen Small-Unit Drone Tactics at Drone Crucible 26.3",
     "summary": "U.S. Marines with the 2nd Marine Division train with emerging small unmanned aircraft systems at the United States National Drone Association Drone Crucible 26.3, in Starke, Florida Sept. 27-Oct. 2, 2026.",
@@ -1789,14 +1843,5 @@
     "sourceName": "DVIDS U.S. Military News",
     "sourceUrl": "https://www.dvidshub.net/news/577184/usag-hawaii-dpw-releases-lead-service-line-inventory-public-notification",
     "publishedAt": "2026-10-17T05:12:55Z"
-  },
-  {
-    "id": "9247ad03967f2eb4b2806e30",
-    "title": "USS San Antonio (LPD 17) Returns to Norfolk from Deployment to U.S. 4th Fleet Area of Operations",
-    "summary": "NAVAL STATION NORFOLK, Vir. – The first-in-class amphibious transport dock USS San Antonio (LPD 17) returned to Naval Station Norfolk, Oct. 13, 2026, concluding a dynamic deployment to the U.S. 4th Fleet area of operations.",
-    "category": "Navy",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577178/uss-san-antonio-lpd-17-returns-norfolk-deployment-us-4th-fleet-area-operations",
-    "publishedAt": "2026-10-16T21:25:07Z"
   }
 ]

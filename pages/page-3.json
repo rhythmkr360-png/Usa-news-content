@@ -1,7 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T20:32:23Z",
+  "generatedAt": "2026-10-27T00:28:52Z",
   "articles": [
+    {
+      "id": "54b1a1644799987a752d3366",
+      "title": "Fife & Drum Corps Helps DEVCOM CBC Celebrate America 250",
+      "summary": "Members of the Old Guard Fife and Drum Corps performed at an America 250 Flag Raising Ceremony held at the U.S. Army Combat Capability Development Command Chemical Biological Center (DEVCOM CBC) on Aberdeen Proving Ground, Maryland. Sergeant 1st Class Ryan Koesterer, Staff Sgt.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577660/fife-drum-corps-helps-devcom-cbc-celebrate-america-250",
+      "publishedAt": "2026-10-22T20:17:58Z"
+    },
+    {
+      "id": "73801b232d1403173d78c8b7",
+      "title": "Garrison welcomes new senior enlisted advisor",
+      "summary": "FORT HOOD, Texas — U.S. Army Garrison-Fort Hood held a change of responsibility Friday at III Armored Corps Headquarters, passing responsibility from Command Sgt. Maj. Loyd Rhoades to Command Sgt. Maj. Kristopher Tate.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577655/garrison-welcomes-new-senior-enlisted-advisor",
+      "publishedAt": "2026-10-22T20:06:39Z"
+    },
+    {
+      "id": "c66a6ada04a01a324ec71082",
+      "title": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
+      "summary": "The move comes amid Pentagon concerns that the U.S. government’s only plant for manufacturing howitzer barrels can’t keep up with the recent demand.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/land/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand/",
+      "publishedAt": "2026-10-22T19:27:22Z"
+    },
+    {
+      "id": "5e7a70d065922b333eba3418",
+      "title": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
+      "summary": "The move comes amid Pentagon concerns that the U.S. government’s only plant for manufacturing howitzer barrels can’t keep up with the recent demand.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand/",
+      "publishedAt": "2026-10-22T19:27:22Z"
+    },
+    {
+      "id": "e3713e0d99af7f3ca39c4c89",
+      "title": "Historic Accord: Naval Weapons Station Yorktown and Federally Recognized Native American Tribes Sign Landmark NAGPRA Agreement",
+      "summary": "WPNSTA Yorktown, located in the heart of Virginia's Historic Triangle, recently signed a binding NAGPRA agreement with federally recognized Native American Tribes. The agreement is the first of its kind within any U.S. Navy installation within the Commander, Navy Region Mid-Atlantic Area of Responsibility.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577645/historic-accord-naval-weapons-station-yorktown-and-federally-recognized-native-american-tribes-sign-landmark-nagpra-agreement",
+      "publishedAt": "2026-10-22T19:23:30Z"
+    },
+    {
+      "id": "40c95ad0b76f7fe92ebe6934",
+      "title": "ASC awards top ammo inspectors for munitions safety",
+      "summary": "Three employees from U.S. Army Sustainment Command have been recognized as Quality Assurance Specialist (Ammunition Surveillance) of the Year for their role in munitions safety and quality.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577638/asc-awards-top-ammo-inspectors-munitions-safety",
+      "publishedAt": "2026-10-22T19:11:52Z"
+    },
     {
       "id": "66f002664c0bdf00afae233e",
       "title": "U.S. Air Force Band kicks off Montana fall tour",
@@ -307,60 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577542/strong-families-equal-strong-army-imcom-dfmwr-director-discusses-family-support-during-ausa-panel",
       "publishedAt": "2026-10-21T19:12:49Z"
-    },
-    {
-      "id": "5587a2b39b04361ccd298420",
-      "title": "US Air Force outlines the fighter fleet it needs by 2035",
-      "summary": "A new Air Force report calls for 1,509 combat-coded fighters by 2035, with F-35s making up 40% of the fleet and F-47s replacing F-22s.",
-      "category": "Navy",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/21/us-air-force-outlines-the-fighter-fleet-it-needs-by-2035/",
-      "publishedAt": "2026-10-21T19:01:44Z"
-    },
-    {
-      "id": "20101045f53096f3fc1484e7",
-      "title": "Hydra Brigade Welcomes New Command Sergeant Major",
-      "summary": "The Georgia Army National Guard’s 648th Maneuver Enhancement Brigade welcomed Command Sgt. Maj. Matthew Eubank as its new senior enlisted leader during a change-of-responsibility ceremony at Clay National Guard Center in Marietta, Georgia, Oct. 18, 2026. Eubank succeeded Command Sgt. Maj.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577530/hydra-brigade-welcomes-new-command-sergeant-major",
-      "publishedAt": "2026-10-21T17:05:25Z"
-    },
-    {
-      "id": "57363ae5199745323643de90",
-      "title": "Commander of Air Combat Command tours Luke AFB",
-      "summary": "U.S. Air Force Gen. Adrian Spain, commander of Air Combat Command, recently visited Luke Air Force Base to engage with Airmen and observe how the 56th Fighter Wing develops combat-ready Airmen and fighter pilots.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577528/commander-air-combat-command-tours-luke-afb",
-      "publishedAt": "2026-10-21T16:11:01Z"
-    },
-    {
-      "id": "f57798343cae0af6390fdd17",
-      "title": "Pentagon AI oversight office struggles to keep pace with department’s ambitions, GAO finds",
-      "summary": "The Pentagon office tapped in 2022 to oversee the military’s responsible use of AI had filled just three of 10 authorized positions as of February 2026.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/10/21/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds/",
-      "publishedAt": "2026-10-21T15:55:31Z"
-    },
-    {
-      "id": "0d1f1bffb928bb565253daa6",
-      "title": "Road to NTC: Light support battalion moves mountains (and Humvees)",
-      "summary": "Soldiers assigned to the Washington Army National Guard's 181st Light Support Battalion conducted a two-day deployment readiness exercise at Joint Base Lewis-McChord, Washington, Oct. 15–16, 2026, as part of preparations for an upcoming National Training Center rotation at Fort Irwin, California.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577518/road-ntc-light-support-battalion-moves-mountains-and-humvees",
-      "publishedAt": "2026-10-21T15:41:05Z"
-    },
-    {
-      "id": "688d75b1d83e227038386f87",
-      "title": "Critical Industrial Base Facility Breaks Ground Thanks to Australian Submarine Industrial Base Contribution",
-      "summary": "U.S. Navy leaders joined industry partners, members of the Jackson County Economic Development Foundation, Inc., and representatives from the Australian Embassy to break ground on a new facility in Pascagoula, Miss., that will manufacture critical components for in-service and new-construction submarines.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577523/critical-industrial-base-facility-breaks-ground-thanks-australian-submarine-industrial-base-contribution",
-      "publishedAt": "2026-10-21T15:36:08Z"
     }
   ],
   "nextPage": "page-4.json"

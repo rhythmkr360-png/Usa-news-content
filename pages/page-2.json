@@ -1,7 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T20:32:23Z",
+  "generatedAt": "2026-10-27T00:28:52Z",
   "articles": [
+    {
+      "id": "8932b86f7111bdc1ee6e74b3",
+      "title": "Division commander tours military construction projects in Southern Arizona",
+      "summary": "PHOENIX — U.S. Army Corps of Engineers South Pacific Division and Los Angeles District senior leaders toured several military construction project sites Oct. 1 in Southern Arizona.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577768/division-commander-tours-military-construction-projects-southern-arizona",
+      "publishedAt": "2026-10-23T22:40:59Z"
+    },
+    {
+      "id": "198b152f02db8f8a3cec129b",
+      "title": "Building the Force: Recruiting at the 163d Attack Wing",
+      "summary": "Recruiters are often the first point of contact for those considering military service. Through community outreach and school visits, California Air National Guard recruiters introduce prospective applicants to military career opportunities and the benefits of serving in the Guard.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577767/building-force-recruiting-163d-attack-wing",
+      "publishedAt": "2026-10-23T21:33:10Z"
+    },
+    {
+      "id": "3fb59f8473d4bea5ac825aa4",
+      "title": "US Army launches Project Gatekeeper to accelerate commercial software adoption, streamline cybersecurity accreditation",
+      "summary": "New DevSecOps sandbox slashes accreditation timelines, lowers barriers for industry and delivers secure software to warfighters at mission speed.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577765/us-army-launches-project-gatekeeper-accelerate-commercial-software-adoption-streamline-cybersecurity-accreditation",
+      "publishedAt": "2026-10-23T21:28:28Z"
+    },
+    {
+      "id": "372e2e7bc3df619b9f81ef29",
+      "title": "Kentucky adjutant general briefs legislative committee on state of the Guard",
+      "summary": "Maj. Gen. Haldane B. Lamberton, Kentucky’s adjutant general, briefed the Interim Joint Committee on Veterans, Military Affairs, and Public Protection (VMAPP) on the state of the Kentucky National Guard during a session at the Capitol Annex in Frankfort, Oct. 21, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577752/kentucky-adjutant-general-briefs-legislative-committee-state-guard",
+      "publishedAt": "2026-10-23T21:00:39Z"
+    },
+    {
+      "id": "2b85ac64ef5c03b87a1b4887",
+      "title": "Army Corps-Galveston hosts Orange Co Project public open house, seeks community input on Draft SEIS",
+      "summary": "The U.S. Army Corps of Engineers Galveston District hosted a public open house Oct. 20, 2026, in Bridge City, Texas, to present proposed modifications to the Sabine Pass to Galveston Bay Orange County Project and its Draft Supplemental Environmental Impact Statement (SEIS).",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577754/army-corps-galveston-hosts-orange-co-project-public-open-house-seeks-community-input-draft-seis",
+      "publishedAt": "2026-10-23T20:02:24Z"
+    },
+    {
+      "id": "25b56cbd40e2b4943cc182c2",
+      "title": "USS McFaul (DDG 74) Returns to Norfolk Following Deployment",
+      "summary": "NAVAL STATION NORFOLK, Va. – The Arleigh Burke-class guided-missile destroyer USS McFaul (DDG 74) returned to Naval Station Norfolk, Oct. 23, 2026, concluding an 11-month deployment to the U.S. 5th and 6th Fleet areas of operation.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577757/uss-mcfaul-ddg-74-returns-norfolk-following-deployment",
+      "publishedAt": "2026-10-23T19:53:29Z"
+    },
     {
       "id": "cd54d4efa8d3cdbe9c182059",
       "title": "US military needs ‘urgent revolutionary institutional change’ to prepare for modern war, Petraeus says",
@@ -307,60 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577658/beast-meets-bats-iowa-airmen-welcome-secret-service",
       "publishedAt": "2026-10-22T20:23:27Z"
-    },
-    {
-      "id": "54b1a1644799987a752d3366",
-      "title": "Fife & Drum Corps Helps DEVCOM CBC Celebrate America 250",
-      "summary": "Members of the Old Guard Fife and Drum Corps performed at an America 250 Flag Raising Ceremony held at the U.S. Army Combat Capability Development Command Chemical Biological Center (DEVCOM CBC) on Aberdeen Proving Ground, Maryland. Sergeant 1st Class Ryan Koesterer, Staff Sgt.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577660/fife-drum-corps-helps-devcom-cbc-celebrate-america-250",
-      "publishedAt": "2026-10-22T20:17:58Z"
-    },
-    {
-      "id": "73801b232d1403173d78c8b7",
-      "title": "Garrison welcomes new senior enlisted advisor",
-      "summary": "FORT HOOD, Texas — U.S. Army Garrison-Fort Hood held a change of responsibility Friday at III Armored Corps Headquarters, passing responsibility from Command Sgt. Maj. Loyd Rhoades to Command Sgt. Maj. Kristopher Tate.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577655/garrison-welcomes-new-senior-enlisted-advisor",
-      "publishedAt": "2026-10-22T20:06:39Z"
-    },
-    {
-      "id": "c66a6ada04a01a324ec71082",
-      "title": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
-      "summary": "The move comes amid Pentagon concerns that the U.S. government’s only plant for manufacturing howitzer barrels can’t keep up with the recent demand.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/land/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand/",
-      "publishedAt": "2026-10-22T19:27:22Z"
-    },
-    {
-      "id": "5e7a70d065922b333eba3418",
-      "title": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
-      "summary": "The move comes amid Pentagon concerns that the U.S. government’s only plant for manufacturing howitzer barrels can’t keep up with the recent demand.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand/",
-      "publishedAt": "2026-10-22T19:27:22Z"
-    },
-    {
-      "id": "e3713e0d99af7f3ca39c4c89",
-      "title": "Historic Accord: Naval Weapons Station Yorktown and Federally Recognized Native American Tribes Sign Landmark NAGPRA Agreement",
-      "summary": "WPNSTA Yorktown, located in the heart of Virginia's Historic Triangle, recently signed a binding NAGPRA agreement with federally recognized Native American Tribes. The agreement is the first of its kind within any U.S. Navy installation within the Commander, Navy Region Mid-Atlantic Area of Responsibility.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577645/historic-accord-naval-weapons-station-yorktown-and-federally-recognized-native-american-tribes-sign-landmark-nagpra-agreement",
-      "publishedAt": "2026-10-22T19:23:30Z"
-    },
-    {
-      "id": "40c95ad0b76f7fe92ebe6934",
-      "title": "ASC awards top ammo inspectors for munitions safety",
-      "summary": "Three employees from U.S. Army Sustainment Command have been recognized as Quality Assurance Specialist (Ammunition Surveillance) of the Year for their role in munitions safety and quality.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577638/asc-awards-top-ammo-inspectors-munitions-safety",
-      "publishedAt": "2026-10-22T19:11:52Z"
     }
   ],
   "nextPage": "page-3.json"
