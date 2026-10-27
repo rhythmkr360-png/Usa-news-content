@@ -1,7 +1,70 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T00:28:52Z",
+  "generatedAt": "2026-10-27T09:04:12Z",
   "articles": [
+    {
+      "id": "3e6c4a2c81634d9f4da78181",
+      "title": "BS27-1: 18th SFS neutralizes the threat",
+      "summary": "When shots are fired, 18th Security Forces Squadron rushes toward the source. U.S. Air Force Airmen assigned to the 18th SFS responded to a simulated ground attack during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 26, 2026, neutralizing two simulated attackers and testing their ability to respond to evolving threats.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577943/bs27-1-18th-sfs-neutralizes-threat",
+      "publishedAt": "2026-10-27T08:12:33Z"
+    },
+    {
+      "id": "2e65b5b409b44e4e0acd5b1b",
+      "title": "KS27: U.S. and Japanese Airmen build readiness through combined training",
+      "summary": "The 909th Air Refueling Squadron and 718th Expeditionary Aircraft Maintenance Squadron arrived at Komaki Air Base, Japan, for exercise Keen Sword 27, Oct. 16, 2026.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577942/ks27-us-and-japanese-airmen-build-readiness-through-combined-training",
+      "publishedAt": "2026-10-27T07:18:23Z"
+    },
+    {
+      "id": "992c0ec414e9e92bd0d2acbe",
+      "title": "U.S. Navy submarine arrives in Western Australia for Scheduled Maintenance Period in support of AUKUS",
+      "summary": "HMAS STIRLING, Australia — The Virginia-class fast-attack submarine USS Colorado (SSN 788) arrived at HMAS Stirling today to begin a scheduled, monthlong maintenance period.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577941/us-navy-submarine-arrives-western-australia-scheduled-maintenance-period-support-aukus",
+      "publishedAt": "2026-10-27T06:39:06Z"
+    },
+    {
+      "id": "ea916f2cbd46525a222cdbd3",
+      "title": "Keen Sword 27 Week One: Japanese, U.S., and Partners Train on Anti-Ship Operations, Aircraft Maintenance, Drones, Mass Casualty Care, and Airfield Damage Repair",
+      "summary": "Security forces from Japan, the United States, Australia, Canada, France, Germany, the Philippines, and New Zealand have been participating in the Keen Sword 27 in Japan for the past week.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577936/keen-sword-27-week-one-japanese-us-and-partners-train-anti-ship-operations-aircraft-maintenance-drones-mass-casualty-care",
+      "publishedAt": "2026-10-27T06:09:05Z"
+    },
+    {
+      "id": "e7a9da44d09dbaa60084bc89",
+      "title": "Faces of Keen Sword 27 - Head of German DMBV",
+      "summary": "The head of the German Defence Force’s Department of Medical Bioconnaissance and Verification, from the Institute of Microbiology of the German Armed Forces in Munich participates in joint training with U.S. and Japan at Iruma Air Base, Japan on Oct. 23, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577939/faces-keen-sword-27-head-german-dmbv",
+      "publishedAt": "2026-10-27T04:37:14Z"
+    },
+    {
+      "id": "2f330dc56b684ff854cad69c",
+      "title": "USNH Yokosuka Leadership Builds Partnerships With Host-Nation Medical Partners",
+      "summary": "YOKOSUKA, Japan — During a series of orientation visits in September, Capt. Joshua A. Miller, commanding officer, U.S. Navy Medicine Readiness and Training Command Yokosuka (USNMRTC Yokosuka), and director, U.S. Naval Hospital Yokosuka (USNH Yokosuka), met with leaders from Japanese medical facilities that support the U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577940/usnh-yokosuka-leadership-builds-partnerships-with-host-nation-medical-partners",
+      "publishedAt": "2026-10-27T04:31:26Z"
+    },
+    {
+      "id": "92929125d0ae92f9bad5691f",
+      "title": "DINFOS, 1st TIAD workshop strengthens public affairs integration across Information Forces",
+      "summary": "The Defense Information School, supported by the 1st Theater Information Advantage Detachment, hosted a four-day workshop Oct. 20–23, 2026, in Honolulu for 30 U.S. and allied personnel.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577931/dinfos-1st-tiad-workshop-strengthens-public-affairs-integration-across-information-forces",
+      "publishedAt": "2026-10-27T00:56:36Z"
+    },
     {
       "id": "e6f58146ba6ef42164b48686",
       "title": "First-of-its-kind women's clinic in the Air Force established at JBER",
@@ -298,69 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577803/jrotc-national-raider-challenge-fall-2026",
       "publishedAt": "2026-10-25T19:38:00Z"
-    },
-    {
-      "id": "750f68cb46b54e5b2a67d874",
-      "title": "121 ARW runs the ramp",
-      "summary": "RICKENBACKER AIR NATIONAL GUARD BASE, Ohio – Airmen with the 121st Air Refueling Wing participated in the Run the Ramp fitness exercise hosted by the 121 ARW Refuel and Recharge Fitness and Wellness Club at Rickenbacker Air National Guard Base, Columbus, Ohio, on October 23, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577796/121-arw-runs-ramp",
-      "publishedAt": "2026-10-25T17:09:08Z"
-    },
-    {
-      "id": "22f0a3a8c98bd4d3b4403603",
-      "title": "West Point to Host Veterans Day Broadcasts and Army-Air Force Weekend Events",
-      "summary": "The U.S. Military Academy at West Point is proud to host a series of athletic competitions and national sports broadcasts Nov. 7–8, including FOX Sports Veterans Day Salute to Service programming and the annual Army–Air Force football game at Michie Stadium.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577800/west-point-host-veterans-day-broadcasts-and-army-air-force-weekend-events",
-      "publishedAt": "2026-10-25T16:47:48Z"
-    },
-    {
-      "id": "9ef4f28a9646776e4bb92bdf",
-      "title": "Japan, Philippine and U.S. forces conduct multilateral Maritime Cooperative Activity",
-      "summary": "The Armed Forces of the Philippines, Japan Maritime Self-Defense Force, and U.S. Coast Guard conducted a multilateral Maritime Cooperative Activity (MCA) within the Philippine Exclusive Economic Zone, Oct. 24, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577794/japan-philippine-and-us-forces-conduct-multilateral-maritime-cooperative-activity",
-      "publishedAt": "2026-10-25T02:06:07Z"
-    },
-    {
-      "id": "2ee1d1c6b77fd0e8c155972f",
-      "title": "USACE Completes Temporary Power Mission on Rota, Supports Recovery After Super Typhoon Bavi",
-      "summary": "The U.S. Army Corps of Engineers completed its temporary emergency power mission on Rota following Super Typhoon Bavi. Through a FEMA mission assignment, USACE completed 54 generator assessments, installed 43 generators and finished deinstalling temporary equipment as it was no longer needed.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577792/usace-completes-temporary-power-mission-rota-supports-recovery-after-super-typhoon-bavi",
-      "publishedAt": "2026-10-24T22:49:46Z"
-    },
-    {
-      "id": "0719fc31bf75f26fed0f14a0",
-      "title": "Pentagon bans troops from betting using insider information",
-      "summary": "The new prohibition bars Defense Department personnel from using classified and unclassified info to gamble on prediction markets. The post Pentagon bans troops from betting using insider information appeared first on Task & Purpose .",
-      "category": "Defense",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/pentagon-hegseth-ban-prediction-markets/",
-      "publishedAt": "2026-10-24T15:42:42Z"
-    },
-    {
-      "id": "5397779d87a7dcd3a981b5fc",
-      "title": "Japanese and U.S. Partners Conduct Airfield Damage Repair Training at Keen Sword 27",
-      "summary": "As part of the Keen Sword 27 exercise, Japanese and U.S. military forces are conducting airfield damage repair training at four Japanese and U.S. air bases across Japan.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577782/japanese-and-us-partners-conduct-airfield-damage-repair-training-keen-sword-27",
-      "publishedAt": "2026-10-24T04:57:15Z"
-    },
-    {
-      "id": "d732ce487db57628c9191a06",
-      "title": "Acting Army Secretary highlights Anniston Army Depot, 'Pit Crew of the American Warfighter'",
-      "summary": "Acting Secretary of the Army Adam Telle visited Anniston Army Depot, Alabama, Oct. 23, 2026, to engage with depot leaders and workforce, alongside U.S. Rep. Mike Rogers of Alabama, Chairman of the House Armed Services Committee.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577776/acting-army-secretary-highlights-anniston-army-depot-pit-crew-american-warfighter",
-      "publishedAt": "2026-10-24T02:23:04Z"
     }
   ],
   "nextPage": "pages/page-2.json"

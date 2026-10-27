@@ -1,7 +1,70 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T00:28:52Z",
+  "generatedAt": "2026-10-27T09:04:12Z",
   "articles": [
+    {
+      "id": "fb18aa44c5511dcf1ab53a34",
+      "title": "NPS Announces Nine Digital Trident II Projects Addressing Pacific Operational Challenges",
+      "summary": "The Naval Postgraduate School Office of Research and Innovation announced nine projects selected for development through the Digital Trident II initiative. Chosen through a competitive process, the projects bring NPS researchers, operational stakeholders and partners together to address consequential challenges facing U.S. forces in the Pacific.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577560/nps-announces-nine-digital-trident-ii-projects-addressing-pacific-operational-challenges",
+      "publishedAt": "2026-10-21T21:13:34Z"
+    },
+    {
+      "id": "4b155d754e9f24a9ccebc111",
+      "title": "Military Firefighters host a week of events to vitalize fire prevention",
+      "summary": "U.S. Air Force Col. Matthew Norton, 17th Training Wing commander, signed a proclamation on Oct. 5, commencing Fire Prevention Week 2026: “Charge into Fire Safety: Lithium-Ion Batteries in Your Home.”",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577552/military-firefighters-host-week-events-vitalize-fire-prevention",
+      "publishedAt": "2026-10-21T20:56:50Z"
+    },
+    {
+      "id": "a58e4bd4b1e4d64e81227b4c",
+      "title": "Preparedness takes precedence as a Troop Support working group implements shelter-in-place planning",
+      "summary": "Embodying the Federal Emergency Management Agency’s National Preparedness Month theme, “American’s Stand Ready,” a working group of eight Defense Logistics Agency Troop Support employees are developing a Building 3 Shelter-in-Place & Emergency Action Plan.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577554/preparedness-takes-precedence-troop-support-working-group-implements-shelter-place-planning",
+      "publishedAt": "2026-10-21T20:45:04Z"
+    },
+    {
+      "id": "ef19372ec36e6a77845c3df6",
+      "title": "Sabers, shirts sustainment discussed during West Point logisticians’ visit to Troop Support",
+      "summary": "Maintaining uniform support to cadets at the U.S. Military Academy at West Point informed a visit to Defense Logistics Agency Troop Support by West Point logisticians June 8.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577549/sabers-shirts-sustainment-discussed-during-west-point-logisticians-visit-troop-support",
+      "publishedAt": "2026-10-21T20:18:37Z"
+    },
+    {
+      "id": "00da20123af1c65e6344f567",
+      "title": "Preserving the past, powering the future: USACE brings geothermal technology to historic Hacienda Copy",
+      "summary": "The U.S. Army Corps of Engineers Sacramento District is overseeing an $8.7 million geothermal heating and cooling renovation at the historic Hacienda at Fort Hunter Liggett, California.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577545/preserving-past-powering-future-usace-brings-geothermal-technology-historic-hacienda-copy",
+      "publishedAt": "2026-10-21T19:41:33Z"
+    },
+    {
+      "id": "2949e9348d8c0fa53673b232",
+      "title": "Oregon National Guard opens hangar doors to state workforce leaders",
+      "summary": "The Oregon National Guard hosted the opening reception for the Oregon Workforce Partnership’s WORKing Together Conference at Army Aviation Support Facility #1 in Salem, Ore., Oct. 19, 2026, then supported the conference with recruiters and Soldiers at the Salem Convention Center the next day.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577544/oregon-national-guard-opens-hangar-doors-state-workforce-leaders",
+      "publishedAt": "2026-10-21T19:37:35Z"
+    },
+    {
+      "id": "67fc7895db8976243051e696",
+      "title": "Strong families equal a strong Army – IMCOM DFMWR director discusses family support during AUSA Panel",
+      "summary": "Strong families equal a strong Army was a key message reiterated during the Warfighter and Family Forum I: Empowering Parents and Children at the Association of the United States Army’s 2026 Annual Meeting and Exposition. The panel included input from Josh Gwinn, IMCOM's Director of Family, Morale, Welfare and Recreation.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577542/strong-families-equal-strong-army-imcom-dfmwr-director-discusses-family-support-during-ausa-panel",
+      "publishedAt": "2026-10-21T19:12:49Z"
+    },
     {
       "id": "5587a2b39b04361ccd298420",
       "title": "US Air Force outlines the fighter fleet it needs by 2035",
@@ -298,69 +361,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/naval/2026/10/20/china-built-more-than-twice-naval-tonnage-of-us-in-2024-25-euronaval/",
       "publishedAt": "2026-10-20T16:57:56Z"
-    },
-    {
-      "id": "42dd37d69debcb66e0c300b4",
-      "title": "Washington Guard commanders focus on readiness, soldier care ahead of NTC",
-      "summary": "Washington Army National Guard battalion command teams gathered at Camp Murray, Wash., Oct. 19, 2026, for the Fall Battalion Commanders’ Professional Development Symposium.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577438/washington-guard-commanders-focus-readiness-soldier-care-ahead-ntc",
-      "publishedAt": "2026-10-20T16:49:59Z"
-    },
-    {
-      "id": "bd303ee06173109e2f530ec0",
-      "title": "MICC - Fort Eustis delivers joint quality-of-life solution, advances 2026–2027 campaign plan",
-      "summary": "U.S. Army Mission and Installation Contracting Command Fort Eustis recently executed a task order supporting the installation of an interim BeaverFit fitness facility at Tinker Air Force Base, Oklahoma, demonstrating how responsive interservice collaboration can deliver timely quality-of-life improvements for service members.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577436/micc-fort-eustis-delivers-joint-quality-life-solution-advances-2026-2027-campaign-plan",
-      "publishedAt": "2026-10-20T16:21:41Z"
-    },
-    {
-      "id": "549fa1723df8026b4022c513",
-      "title": "Soldiers put Picatinny’s Common Lethality Integration Kit to the test at PC‑C6",
-      "summary": "PICATINNY ARSENAL, N.J. - One of the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center’s proudest accomplishments stood front and center before the warfighter in July, as Soldiers attending Project Convergence-Capstone 6 (PC-C6) tested out the Picatinny Common Lethality Integration Kit (CLIK).",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577435/soldiers-put-picatinnys-common-lethality-integration-kit-test-pc-c6",
-      "publishedAt": "2026-10-20T16:19:12Z"
-    },
-    {
-      "id": "07974fe69cd520b421b29feb",
-      "title": "Chinese Navy Shadows USS Charleston Near Contested Sabina Shoal",
-      "summary": "MANILA, Philippines — USS Charleston (LCS-18) was tracked by Chinese forces on Tuesday after the ship “illegally intruded” into the area surrounding a contested South China Sea maritime feature, according to Beijing. Chinese forces were dispatched to monitor the Independence-class LCS near Sabina Shoal early Tuesday, the PLA said.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/20/chinese-navy-shadows-uss-charleston-near-contested-sabina-shoal",
-      "publishedAt": "2026-10-20T15:55:24Z"
-    },
-    {
-      "id": "0d5941c7e5519c5db4c60c8e",
-      "title": "Utah EOD Airmen adapt dismounted operations to emerging drone threats",
-      "summary": "The battlefield is changing. Drones can turn the sky into a threat, explosive hazards can hide in unfamiliar terrain, and the equipment needed to survive a mission may be limited to what an Airman can carry on their back.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577432/utah-eod-airmen-adapt-dismounted-operations-emerging-drone-threats",
-      "publishedAt": "2026-10-20T15:47:39Z"
-    },
-    {
-      "id": "687f69dbfde02514c114c35c",
-      "title": "US Navy, Gecko Robotics surge AI maintenance contract to $300M",
-      "summary": "Gecko Robotics uses drones, wall-climbing robots and fixed sensors to gather data on components, decks, welds and hulls.",
-      "category": "Navy",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-navy/2026/10/20/us-navy-gecko-robotics-surge-ai-maintenance-contract-to-300m/",
-      "publishedAt": "2026-10-20T15:15:32Z"
-    },
-    {
-      "id": "f17ef35ff37e13c27406eabc",
-      "title": "Army Veterinary Officers Complete Specialized Dairy Pasteurizer Audit Training in Denmark",
-      "summary": "Thirteen U.S. Army Veterinary Corps officers recently completed Europe Dairy Pasteurizer Audit Training in Kolding, Denmark by participating in specialized technical instruction and on-site field evaluations across eight Danish dairy manufacturing facilities.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577409/army-veterinary-officers-complete-specialized-dairy-pasteurizer-audit-training-denmark",
-      "publishedAt": "2026-10-20T13:10:42Z"
     }
   ],
   "nextPage": "page-5.json"
