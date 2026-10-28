@@ -1,7 +1,70 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T05:46:45Z",
+  "generatedAt": "2026-10-28T13:00:04Z",
   "articles": [
+    {
+      "id": "687f69dbfde02514c114c35c",
+      "title": "US Navy, Gecko Robotics surge AI maintenance contract to $300M",
+      "summary": "Gecko Robotics uses drones, wall-climbing robots and fixed sensors to gather data on components, decks, welds and hulls.",
+      "category": "Navy",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/your-navy/2026/10/20/us-navy-gecko-robotics-surge-ai-maintenance-contract-to-300m/",
+      "publishedAt": "2026-10-20T15:15:32Z"
+    },
+    {
+      "id": "f17ef35ff37e13c27406eabc",
+      "title": "Army Veterinary Officers Complete Specialized Dairy Pasteurizer Audit Training in Denmark",
+      "summary": "Thirteen U.S. Army Veterinary Corps officers recently completed Europe Dairy Pasteurizer Audit Training in Kolding, Denmark by participating in specialized technical instruction and on-site field evaluations across eight Danish dairy manufacturing facilities.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577409/army-veterinary-officers-complete-specialized-dairy-pasteurizer-audit-training-denmark",
+      "publishedAt": "2026-10-20T13:10:42Z"
+    },
+    {
+      "id": "1c3104978ae016d106dbe022",
+      "title": "Army Medical Service Corps Officer Serves as Liaison to German Military Medical Forces",
+      "summary": "The U.S. Army Medical Command recently established its first medical officer liaison position with the German military’s medical service in Bonn, Germany. Col. Kenneth Spicer, a U.S. Army Medical Service Corps officer, assumed the role in August 2025.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577403/army-medical-service-corps-officer-serves-liaison-german-military-medical-forces",
+      "publishedAt": "2026-10-20T11:32:23Z"
+    },
+    {
+      "id": "66be215f1ec3609e1cf0f892",
+      "title": "Tip of the spear, or stranded on beaches? Chinese planners dissect USMC Pacific posture",
+      "summary": "Understanding these dynamics, American leaders should recalibrate and opt to rely less on forward defense, writes analyst Lyle Goldstein.",
+      "category": "Marine Corps",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/opinion/2026/10/20/tip-of-the-spear-or-stranded-on-beaches-chinese-planners-dissect-usmc-pacific-posture/",
+      "publishedAt": "2026-10-20T09:09:33Z"
+    },
+    {
+      "id": "6ba95978f87eac9ebaf99af6",
+      "title": "ROK, U.S. Airmen unite during Korean-American Friendship Day at Kunsan AB",
+      "summary": "KUNSAN AIR BASE, Republic of Korea -- Airmen from the U.S. Air Force’s 8th Fighter Wing and the Republic of Korea Air Force’s 38th Fighter Group united for the tenth annual Korean-American Friendship Day at Kunsan Air Base, ROK., Oct. 16, 2026. Korean-American Friendship Day is the largest annual bilateral event hosted at Kunsan AB. ROKAF and U.S.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577400/rok-us-airmen-unite-during-korean-american-friendship-day-kunsan-ab",
+      "publishedAt": "2026-10-20T07:52:26Z"
+    },
+    {
+      "id": "88aa2d2ee412b91241e09195",
+      "title": "U.S. Navy, Republic of Korea Navy conclude combined Maritime Mine Countermeasures Exercise 2026",
+      "summary": "The U.S. Navy, Republic of Korea (ROK) Navy, and 15 partner nations successfully concluded the ninth Multi-National Mine Warfare Exercise 2026 (MNMIWEX 26) off the southeast coast of Busan, Oct. 16, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577399/us-navy-republic-korea-navy-conclude-combined-maritime-mine-countermeasures-exercise-2026",
+      "publishedAt": "2026-10-20T07:26:34Z"
+    },
+    {
+      "id": "13de261dc7d9616b7fb49757",
+      "title": "Bridging Cultures: Japanese youth, U.S. Soldiers find common ground",
+      "summary": "CAMP ZAMA, Japan – Soldiers here hosted a community outreach event Oct. 3 to strengthen ties and build cross-cultural connections with local Japanese youth through a day of interactive games, a shared meal, and shared fellowship.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577398/bridging-cultures-japanese-youth-us-soldiers-find-common-ground",
+      "publishedAt": "2026-10-20T06:53:00Z"
+    },
     {
       "id": "1bd54c849ea50f391342de81",
       "title": "Arctic experiment explores ways to close air surveillance gaps",
@@ -298,24 +361,7 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577198/colonel-retires-after-27-years-making-his-mark-history-and-having-fun",
       "publishedAt": "2026-10-18T15:54:30Z"
-    },
-    {
-      "id": "4a83095d86624e35ad3d6936",
-      "title": "US arms firm Anduril could make interceptors in Europe, executive says",
-      "summary": "U.S. defense firm Anduril could eventually manufacture its newly unveiled Steelfin interceptor missiles in Europe, a company executive said.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/18/us-arms-firm-anduril-could-make-interceptors-in-europe-executive-says/",
-      "publishedAt": "2026-10-18T15:40:14Z"
-    },
-    {
-      "id": "9df574f573acd02295d071c0",
-      "title": "Six Soldier-athletes to represent Army WCAP at United World Wrestling Championships in Kazakhstan",
-      "summary": "Six Soldier-athletes from the U.S. Army World Class Athlete Program will carry Army pride and medal ambitions on to wrestling’s biggest international stage.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577196/six-soldier-athletes-represent-army-wcap-united-world-wrestling-championships-kazakhstan",
-      "publishedAt": "2026-10-18T14:32:31Z"
     }
-  ]
+  ],
+  "nextPage": "page-7.json"
 }
