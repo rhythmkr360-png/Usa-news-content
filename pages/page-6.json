@@ -1,7 +1,133 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T13:00:04Z",
+  "generatedAt": "2026-10-28T20:19:03Z",
   "articles": [
+    {
+      "id": "c9bc9f92ba24aeda7a0c7742",
+      "title": "Sacramento District puts new USACE governance framework into action",
+      "summary": "The U.S. Army Corps of Engineers Sacramento District is putting new Headquarters governance requirements into practice through its inaugural District Engineering Review.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577459/sacramento-district-puts-new-usace-governance-framework-into-action",
+      "publishedAt": "2026-10-20T19:46:33Z"
+    },
+    {
+      "id": "0a8c22be7088f3f8f8600bd3",
+      "title": "Pentagon weighs force posture, costs of rebuilding Middle East bases",
+      "summary": "“We’re meeting with CENTCOM and doing the assessments right now from an installation perspective. Part of this is what will the global posture be in the future, and what does that require us to have?” a senior defense official told reporters today.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/10/pentagon-weighs-force-posture-costs-of-rebuilding-middle-east-bases/",
+      "publishedAt": "2026-10-20T18:06:00Z"
+    },
+    {
+      "id": "8baf79ece583f8a086e32432",
+      "title": "Brig. Gen. Richard Cipro, a Massachusetts Guardsman, takes command of the 42nd Infantry Division",
+      "summary": "LATHAM, New York —Army National Guard Brig. Gen. Richard P. Cipro, a Worcester, Massachusetts resident and a veteran of the wars in Iraq and Afghanistan, took command of the National Guard’s 42nd Infantry Division during a ceremony at New York National Guard headquarters in Latham, New York on October 17.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577443/brig-gen-richard-cipro-massachusetts-guardsman-takes-command-42nd-infantry-division",
+      "publishedAt": "2026-10-20T17:43:38Z"
+    },
+    {
+      "id": "edaa98f8c65bef1584a50aa7",
+      "title": "US Army support for Golden Dome missile shield takes shape",
+      "summary": "A U.S. Army air defense unit has been \"earmarked\" for support of the Golden Dome for America project, an Army official confirmed.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/air-warfare/2026/10/20/us-army-support-for-golden-dome-missile-shield-takes-shape/",
+      "publishedAt": "2026-10-20T17:30:40Z"
+    },
+    {
+      "id": "0de07d0cb96d7a7211ff8dfe",
+      "title": "USACAPOC(A) Soldiers earn Jungle Tabs in Panama, build Army Reserve capability",
+      "summary": "COLÓN, Panama — Eleven U.S. Army Reserve Soldiers assigned to U.S. Army Civil Affairs and Psychological Operations Command (Airborne) earned the Jungle Tab after completing the Jungle Operations Training Course-Panama Aug. 2, adding jungle expertise to the command’s Civil Affairs and Psychological Operations formations.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577441/usacapoca-soldiers-earn-jungle-tabs-panama-build-army-reserve-capability",
+      "publishedAt": "2026-10-20T17:29:39Z"
+    },
+    {
+      "id": "66a1511f116bca19c22ae07d",
+      "title": "Cadets Explore Human-Machine Teaming Through Hands-on Research",
+      "summary": "U.S. Air Force Academy cadets are exploring how emerging technologies influence human behavior and decision-making through hands-on research with humanoid robots and robotic dogs.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577440/cadets-explore-human-machine-teaming-through-hands-research",
+      "publishedAt": "2026-10-20T17:14:38Z"
+    },
+    {
+      "id": "bf010a1989e20abd6e39af0c",
+      "title": "Blair: Serving her country through patient care",
+      "summary": "U.S. Army Staff Sgt. Autumn Blair is carving her own path as a dedicated flight medic while also serving her country like her parents and grandfather.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577439/blair-serving-her-country-through-patient-care",
+      "publishedAt": "2026-10-20T17:14:36Z"
+    },
+    {
+      "id": "137ef4ba47c39c0e382648ed",
+      "title": "US Air Force F-22 pilot controls unmanned FQ-44 in flight",
+      "summary": "The fighter jet’s pilot served as an airborne “quarterback” and gave high-level directives to an Anduril-made Collaborative Combat Aircraft.",
+      "category": "Air Force",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/20/us-air-force-f-22-pilot-controls-unmanned-fq-44-in-flight/",
+      "publishedAt": "2026-10-20T17:00:21Z"
+    },
+    {
+      "id": "7b6098cc15eb61ce5297fb2c",
+      "title": "China built more than twice naval tonnage of US in 2024-25: Euronaval",
+      "summary": "China built more than twice the naval tonnage of the U.S. in the 2024-25 period, narrowing the gap between the two countries’ navies, a new report says.",
+      "category": "Navy",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/naval/2026/10/20/china-built-more-than-twice-naval-tonnage-of-us-in-2024-25-euronaval/",
+      "publishedAt": "2026-10-20T16:57:56Z"
+    },
+    {
+      "id": "42dd37d69debcb66e0c300b4",
+      "title": "Washington Guard commanders focus on readiness, soldier care ahead of NTC",
+      "summary": "Washington Army National Guard battalion command teams gathered at Camp Murray, Wash., Oct. 19, 2026, for the Fall Battalion Commanders’ Professional Development Symposium.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577438/washington-guard-commanders-focus-readiness-soldier-care-ahead-ntc",
+      "publishedAt": "2026-10-20T16:49:59Z"
+    },
+    {
+      "id": "bd303ee06173109e2f530ec0",
+      "title": "MICC - Fort Eustis delivers joint quality-of-life solution, advances 2026–2027 campaign plan",
+      "summary": "U.S. Army Mission and Installation Contracting Command Fort Eustis recently executed a task order supporting the installation of an interim BeaverFit fitness facility at Tinker Air Force Base, Oklahoma, demonstrating how responsive interservice collaboration can deliver timely quality-of-life improvements for service members.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577436/micc-fort-eustis-delivers-joint-quality-life-solution-advances-2026-2027-campaign-plan",
+      "publishedAt": "2026-10-20T16:21:41Z"
+    },
+    {
+      "id": "549fa1723df8026b4022c513",
+      "title": "Soldiers put Picatinny’s Common Lethality Integration Kit to the test at PC‑C6",
+      "summary": "PICATINNY ARSENAL, N.J. - One of the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center’s proudest accomplishments stood front and center before the warfighter in July, as Soldiers attending Project Convergence-Capstone 6 (PC-C6) tested out the Picatinny Common Lethality Integration Kit (CLIK).",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577435/soldiers-put-picatinnys-common-lethality-integration-kit-test-pc-c6",
+      "publishedAt": "2026-10-20T16:19:12Z"
+    },
+    {
+      "id": "07974fe69cd520b421b29feb",
+      "title": "Chinese Navy Shadows USS Charleston Near Contested Sabina Shoal",
+      "summary": "MANILA, Philippines — USS Charleston (LCS-18) was tracked by Chinese forces on Tuesday after the ship “illegally intruded” into the area surrounding a contested South China Sea maritime feature, according to Beijing. Chinese forces were dispatched to monitor the Independence-class LCS near Sabina Shoal early Tuesday, the PLA said.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/20/chinese-navy-shadows-uss-charleston-near-contested-sabina-shoal",
+      "publishedAt": "2026-10-20T15:55:24Z"
+    },
+    {
+      "id": "0d5941c7e5519c5db4c60c8e",
+      "title": "Utah EOD Airmen adapt dismounted operations to emerging drone threats",
+      "summary": "The battlefield is changing. Drones can turn the sky into a threat, explosive hazards can hide in unfamiliar terrain, and the equipment needed to survive a mission may be limited to what an Airman can carry on their back.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577432/utah-eod-airmen-adapt-dismounted-operations-emerging-drone-threats",
+      "publishedAt": "2026-10-20T15:47:39Z"
+    },
     {
       "id": "687f69dbfde02514c114c35c",
       "title": "US Navy, Gecko Robotics surge AI maintenance contract to $300M",
@@ -235,132 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577217/readout-us-naval-forces-central-command-us-5th-fleet-combined-maritime-forces-vice-adm-curt-renshaws-meeting-with-kuwaiti",
       "publishedAt": "2026-10-19T12:19:21Z"
-    },
-    {
-      "id": "57989bac5806bee3b702c560",
-      "title": "US Army acquisition command awards contracts worth $6.8B in 2026",
-      "summary": "The Mission and Installation Contracting Command awarded 21,450 contracts in fiscal 2026 valued at $6.8 billion in total, a boost from the year prior.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/16/us-army-acquisition-command-awards-contracts-worth-68b-in-2026/",
-      "publishedAt": "2026-10-19T12:00:00Z"
-    },
-    {
-      "id": "29360730e00bd945b982d6d1",
-      "title": "US Army showing interest in G/ATOR missile-killing radar, Northrop says",
-      "summary": "Northrop Grumman’s new multi-mission radar system has earned high marks from Marine Corps leadership. The U.S. Army has taken notice.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-army-showing-interest-in-gator-missile-killing-radar-northrop-says/",
-      "publishedAt": "2026-10-19T11:00:00Z"
-    },
-    {
-      "id": "9b32422322b7525455c135f6",
-      "title": "A shifting landscape: Where the US Army moved in 2026 and what may be on the horizon",
-      "summary": "As seasons signal the waning months of 2026, the U.S. Army’s operational map continues to evolve.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/16/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon/",
-      "publishedAt": "2026-10-19T10:00:00Z"
-    },
-    {
-      "id": "9203812ad1db3ef6ef9b57e3",
-      "title": "US Army fields new system for sweeping munitions planning, management",
-      "summary": "The service expects this first increment of TACTMIS to replace the previously used TAMIS system once it retires on Oct. 30.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/15/us-army-fields-new-system-for-sweeping-munitions-planning-management/",
-      "publishedAt": "2026-10-19T09:00:00Z"
-    },
-    {
-      "id": "c395b722a86382d222c6cecc",
-      "title": "86th IBCT (MTN) Relinquishes Command of JMTG-U",
-      "summary": "The Joint Multinational Training Group-Ukraine held a colors casing ceremony at the 7th Army Training Command headquarters on Oct. 15, 2026. Task Force Luzon, composed of the 86th Infantry Brigade Combat Team (Mountain) from the Vermont National Guard, cased its colors, relinquishing command responsibility for the mission.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577212/86th-ibct-mtn-relinquishes-command-jmtg-u",
-      "publishedAt": "2026-10-19T06:40:16Z"
-    },
-    {
-      "id": "5b97b7051598e4d5ee10bb91",
-      "title": "Passing the colors: Inigo gives final salute to 103rd Troop Command Soldiers",
-      "summary": "Col. Phoebe P. Inigo relinquished command of the 103rd Troop Command to Col. Byron Cadiz during a ceremony presided over by Brig. Gen. Ronald D. Hogsten, commander of the Hawaii Army National Guard. Inigo’s 22 months in command included responses to natural disasters, federal mobilizations and training with international partners.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577210/passing-colors-inigo-gives-final-salute-103rd-troop-command-soldiers",
-      "publishedAt": "2026-10-19T05:13:29Z"
-    },
-    {
-      "id": "0b29ea7ad42547c00b4e8859",
-      "title": "JMSDF Fleet Submarine Force Commander visits CTF-74",
-      "summary": "YOKOSUKA, Japan — Japan Maritime Self-Defense Force (JMSDF) Vice Adm. Noaya Hoshi, commander, Fleet Submarine Force, met with U.S. Navy Rear Adm. Gary Montalvo Jr., commander, Submarine Group 7 (CSG 7)/Task Force 74 (CTF 74) at Commander, Fleet Activities Yokosuka on Oct. 13, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577209/jmsdf-fleet-submarine-force-commander-visits-ctf-74",
-      "publishedAt": "2026-10-19T04:09:51Z"
-    },
-    {
-      "id": "b1410476a20c6bbd07f06c67",
-      "title": "Connecticut National Guard hosts welcome home ceremony for 1-102nd Infantry",
-      "summary": "The Connecticut National Guard hosted a welcome home ceremony and Yellow Ribbon reintegration event for 1st Battalion, 102nd Infantry at the Gov. William A. O’Neill armory Oct. 17, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577189/connecticut-national-guard-hosts-welcome-home-ceremony-1-102nd-infantry",
-      "publishedAt": "2026-10-19T01:56:54Z"
-    },
-    {
-      "id": "ecb736d5f338715018069901",
-      "title": "Forging Agile Leaders: 192nd Wing officers sharpen leadership skills during inaugural exercise",
-      "summary": "On October 17, 2026, junior officers from the Virginia Air National Guard's 192nd Wing participated in an inaugural development exercise at Joint Base Langley-Eustis to strengthen their leadership and decision making skills for Agile Combat Employment operations.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577207/forging-agile-leaders-192nd-wing-officers-sharpen-leadership-skills-during-inaugural-exercise",
-      "publishedAt": "2026-10-18T23:37:14Z"
-    },
-    {
-      "id": "99f481d62d702dc9f581868e",
-      "title": "‘Join the National Guard’ for family, says Oregon’s newest general",
-      "summary": "Col. Russell Gibson, assistant adjutant general for the Oregon Army National Guard, was promoted to brigadier general during a ceremony at the 41st Infantry Division Armed Forces Reserve Center in Clackamas, Ore., Oct. 17, 2026. Brig. Gen.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577203/join-national-guard-family-says-oregons-newest-general",
-      "publishedAt": "2026-10-18T22:12:14Z"
-    },
-    {
-      "id": "ee8d6da03e0d689c4801d471",
-      "title": "Voices of the VaANG: Master Sgt. Sabrina Jahner and Tech. Sgt. Stephen Kolmer, Leader Empowerment and Development program instructors",
-      "summary": "Master Sgt. Sabrina Jahner and Tech. Sgt. Stephen Kolmer have been selected as the new instructors to spearhead the Virginia Air National Guard's reignited Leader Empowerment and Development program.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577204/voices-vaang-master-sgt-sabrina-jahner-and-tech-sgt-stephen-kolmer-leader-empowerment-and-development-program-instructors",
-      "publishedAt": "2026-10-18T21:56:28Z"
-    },
-    {
-      "id": "893eb3d1ed64a013d9567b63",
-      "title": "Multi-state RED HORSE units fortify Pacific airfields, advance Agile Combat Employment",
-      "summary": "Civil engineers from the Virginia Air National Guard’s 203rd RED HORSE completed a historic deployment across Guam, Japan and Tinian, partnering with Florida Air National Guard and active-duty units under the 513th Expeditionary RED HORSE banner.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577202/multi-state-red-horse-units-fortify-pacific-airfields-advance-agile-combat-employment",
-      "publishedAt": "2026-10-18T21:38:09Z"
-    },
-    {
-      "id": "8a28c5a8c59de63c5809d86d",
-      "title": "Kansas honors 130th Field Artillery Brigade with homecoming from Operation Epic Fury",
-      "summary": "The Kansas Army National Guard's 130th Field Artillery Brigade was recognized at a Yellow Ribbon reintegration event after a deployment that shifted from the deterrence-focused Operation Spartan Shield to the combat operations of Operation Epic Fury.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577199/kansas-honors-130th-field-artillery-brigade-with-homecoming-operation-epic-fury",
-      "publishedAt": "2026-10-18T21:08:28Z"
-    },
-    {
-      "id": "502280d31f64fe104775f544",
-      "title": "Colonel Retires After 27 Years of Making His Mark on History – And Having Fun",
-      "summary": "Col. Tim Newman of Fisher, Ill., retired from the Illinois Army National Guard after 27 years of “standing the watch.” Family, friends and fellow service members celebrated nearly three decades in uniform during an Oct. 10 retirement ceremony at the University of Illinois Urbana-Champaign Library.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577198/colonel-retires-after-27-years-making-his-mark-history-and-having-fun",
-      "publishedAt": "2026-10-18T15:54:30Z"
     }
   ],
   "nextPage": "page-7.json"

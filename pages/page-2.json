@@ -1,7 +1,133 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T13:00:04Z",
+  "generatedAt": "2026-10-28T20:19:03Z",
   "articles": [
+    {
+      "id": "23cd59404116909ab42205e5",
+      "title": "US Army looks to high-flying balloons to help see, strike along front lines with China",
+      "summary": "Amid renewed interest in high-altitude balloons, soldiers are looking to them to extend their reach along the first island chain.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-army-looks-to-high-flying-balloons-to-help-see-strike-along-front-lines-with-china/",
+      "publishedAt": "2026-10-27T17:22:47Z"
+    },
+    {
+      "id": "5279881ab9c9a562d74198bc",
+      "title": "US taps Poland to host European PAC-3 missile maintenance facility",
+      "summary": "The United States government has selected Poland to host a new European maintenance facility for Patriot Advanced Capability-3 (PAC-3) interceptors.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/global/europe/2026/10/27/us-taps-poland-to-host-european-pac-3-missile-maintenance-facility/",
+      "publishedAt": "2026-10-27T16:42:28Z"
+    },
+    {
+      "id": "8c377194c13534d2cb1c2ad3",
+      "title": "Lost in 1942, WWII Soldier Returns Home to Albuquerque for Final Rest",
+      "summary": "FORT KNOX, Ky. – The remains of U.S. Army Pvt. Robert E. Dubois, missing from World War II, will be interred Nov. 7 at Mount Cavalry Cemetery in Albuquerque, New Mexico. Services and interment are being coordinated by French Funerals & Cremations.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577967/lost-1942-wwii-soldier-returns-home-albuquerque-final-rest",
+      "publishedAt": "2026-10-27T15:08:38Z"
+    },
+    {
+      "id": "af927d60f6f14f958047b285",
+      "title": "U.S. Army, Colombian senior military leaders conclude Fort Bragg engagements",
+      "summary": "FORT BRAGG, N.C. — A Colombian joint-service senior enlisted delegation concluded a series of professional engagements here Oct. 20-23, gaining firsthand exposure to U.S. Army approaches to noncommissioned officer development, airborne readiness, Soldier fitness and innovation.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577965/us-army-colombian-senior-military-leaders-conclude-fort-bragg-engagements",
+      "publishedAt": "2026-10-27T15:04:31Z"
+    },
+    {
+      "id": "be9f0f0abf2ae25c0374a2f2",
+      "title": "USAG Stuttgart Housing Division Chief digs into new role with enthusiasm",
+      "summary": "U.S. Army Garrison Stuttgart is excited to welcome Charmoneaux “Charm” Sutton as the new Housing Division Chief, responsible for the quality and administration of one of the command’s most essential services.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577966/usag-stuttgart-housing-division-chief-digs-into-new-role-with-enthusiasm",
+      "publishedAt": "2026-10-27T14:55:10Z"
+    },
+    {
+      "id": "414c6c7eec878cf9a2650029",
+      "title": "How the Pentagon wants to buy cyber outcomes, not equipment",
+      "summary": "The Pentagon has been exploring a new paradigm dubbed Cyber Effects-as-a-Service, aiming to purchase specific outcomes as opposed to bespoke capabilities.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/10/how-the-pentagon-wants-to-buy-cyber-outcomes-not-equipment/",
+      "publishedAt": "2026-10-27T14:00:00Z"
+    },
+    {
+      "id": "3947a35b1bd96c215e4a6d9c",
+      "title": "U.S. Naval War College commemorates 80th anniversary of USS Missouri battleship visit to Istanbul",
+      "summary": "A delegation from the U.S. Naval War College visited Istanbul, Turkiye, to commemorate the 80th anniversary of the landmark 1946 visit by the battleship USS Missouri - a visit that was held to repatriate the body of the late Turkish ambassador, and would go on to be seen as the launch of a new era of U.S.-Turkiye bilateral relations.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577954/us-naval-war-college-commemorates-80th-anniversary-uss-missouri-battleship-visit-istanbul",
+      "publishedAt": "2026-10-27T13:50:45Z"
+    },
+    {
+      "id": "ff6f41aa32fdc0b831cd4087",
+      "title": "USAF should buy newly designed air refuelers to meet China threat: Report",
+      "summary": "Although there’s a “temptation” to keep buying KC-46s, a plan to procure 75 more of the Boeing-made tankers should be an “upper limit” followed by a new, longer range tanker, the Hudson Institute’s Timothy Walton told Breaking Defense.",
+      "category": "Air Force",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/10/usaf-should-buy-newly-designed-air-refuelers-to-meet-china-threat-report/",
+      "publishedAt": "2026-10-27T12:00:00Z"
+    },
+    {
+      "id": "d5a81d52e5687a3586159a64",
+      "title": "BS27-1: Rapid repairs, ready runways",
+      "summary": "KADENA AIR BASE, Japan -- U.S. Air Force Airmen assigned to the 18th Civil Engineer Squadron and 718th Civil Engineer Squadron practiced repairing simulated airfield damage during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 27, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577945/bs27-1-rapid-repairs-ready-runways",
+      "publishedAt": "2026-10-27T09:49:23Z"
+    },
+    {
+      "id": "3e6c4a2c81634d9f4da78181",
+      "title": "BS27-1: 18th SFS neutralizes the threat",
+      "summary": "When shots are fired, 18th Security Forces Squadron rushes toward the source. U.S. Air Force Airmen assigned to the 18th SFS responded to a simulated ground attack during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 26, 2026, neutralizing two simulated attackers and testing their ability to respond to evolving threats.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577943/bs27-1-18th-sfs-neutralizes-threat",
+      "publishedAt": "2026-10-27T08:12:33Z"
+    },
+    {
+      "id": "2e65b5b409b44e4e0acd5b1b",
+      "title": "KS27: U.S. and Japanese Airmen build readiness through combined training",
+      "summary": "The 909th Air Refueling Squadron and 718th Expeditionary Aircraft Maintenance Squadron arrived at Komaki Air Base, Japan, for exercise Keen Sword 27, Oct. 16, 2026.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577942/ks27-us-and-japanese-airmen-build-readiness-through-combined-training",
+      "publishedAt": "2026-10-27T07:18:23Z"
+    },
+    {
+      "id": "992c0ec414e9e92bd0d2acbe",
+      "title": "U.S. Navy submarine arrives in Western Australia for Scheduled Maintenance Period in support of AUKUS",
+      "summary": "HMAS STIRLING, Australia — The Virginia-class fast-attack submarine USS Colorado (SSN 788) arrived at HMAS Stirling today to begin a scheduled, monthlong maintenance period.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577941/us-navy-submarine-arrives-western-australia-scheduled-maintenance-period-support-aukus",
+      "publishedAt": "2026-10-27T06:39:06Z"
+    },
+    {
+      "id": "ea916f2cbd46525a222cdbd3",
+      "title": "Keen Sword 27 Week One: Japanese, U.S., and Partners Train on Anti-Ship Operations, Aircraft Maintenance, Drones, Mass Casualty Care, and Airfield Damage Repair",
+      "summary": "Security forces from Japan, the United States, Australia, Canada, France, Germany, the Philippines, and New Zealand have been participating in the Keen Sword 27 in Japan for the past week.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577936/keen-sword-27-week-one-japanese-us-and-partners-train-anti-ship-operations-aircraft-maintenance-drones-mass-casualty-care",
+      "publishedAt": "2026-10-27T06:09:05Z"
+    },
+    {
+      "id": "e7a9da44d09dbaa60084bc89",
+      "title": "Faces of Keen Sword 27 - Head of German DMBV",
+      "summary": "The head of the German Defence Force’s Department of Medical Bioconnaissance and Verification, from the Institute of Microbiology of the German Armed Forces in Munich participates in joint training with U.S. and Japan at Iruma Air Base, Japan on Oct. 23, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577939/faces-keen-sword-27-head-german-dmbv",
+      "publishedAt": "2026-10-27T04:37:14Z"
+    },
     {
       "id": "2f330dc56b684ff854cad69c",
       "title": "USNH Yokosuka Leadership Builds Partnerships With Host-Nation Medical Partners",
@@ -235,132 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577857/bs27-1-18th-sfs-neutralizes-threat",
       "publishedAt": "2026-10-26T08:21:54Z"
-    },
-    {
-      "id": "154955082f9de8db7fd738dd",
-      "title": "U.S., Japanese forces exercise rapid airfield damage repair during Keen Sword 27",
-      "summary": "During Exercise Keen Sword 27, U.S. Air Force Airmen, Japan Air Self-Defense Force airmen, and Japan Ground Self-Defense Force soldiers conducted bilateral rapid airfield damage repair training at Misawa Air Base, Japan, Oct.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577854/us-japanese-forces-exercise-rapid-airfield-damage-repair-during-keen-sword-27",
-      "publishedAt": "2026-10-26T07:21:25Z"
-    },
-    {
-      "id": "8831989b6676151fa769de50",
-      "title": "Faces of Keen Sword 27 - Cpt. Yuki Sato",
-      "summary": "Japan Air Self-Defense Force Cpt. Yuki Sato, a Kawasaki C-2 Pilot assigned to the 402nd Tactical Airlift Squadron at Iruma Air Base, Japan poses for a feature photo for a Faces of Keen Sword feature story.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577853/faces-keen-sword-27-cpt-yuki-sato",
-      "publishedAt": "2026-10-26T06:50:04Z"
-    },
-    {
-      "id": "601640872811009fc5d0283b",
-      "title": "Faces of Keen Sword 27 - Joshua Dilone",
-      "summary": "U.S. Navy Petty Officer 2nd Class Joshua Dilone, an operational specialist, shares information on his job duties and his experiences in Keen Sword 27. Keen Sword is a multilateral exercise dedicated to preserving peace and stability in the region, and strengthening the ironclad alliance between the U.S. and Japan.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577852/faces-keen-sword-27-joshua-dilone",
-      "publishedAt": "2026-10-26T06:49:25Z"
-    },
-    {
-      "id": "8a5d6fcffd6aefb2a7166c5f",
-      "title": "U.S., Japan merge real and virtual skies during KS27",
-      "summary": "High above the Japanese coastline, a Japan Air Self-Defense Force F-35 Lightning II carves through the clouds, its pilot scanning the radar for simulated adversary aircraft. Miles away at Misawa Air Base, Japan, U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577811/us-japan-merge-real-and-virtual-skies-during-ks27",
-      "publishedAt": "2026-10-26T00:10:56Z"
-    },
-    {
-      "id": "2cf33fed6ae93c610684de8f",
-      "title": "U.S. Army and NATO Partners Rehearse War Strategies",
-      "summary": "In Wiesbaden, the U.S. Army and its NATO partners are rehearsing a real-world emergency scenario. A simulated attack on NATO’s eastern flank is designed to test the alliance’s defensive capabilities.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577804/us-army-and-nato-partners-rehearse-war-strategies",
-      "publishedAt": "2026-10-25T23:08:08Z"
-    },
-    {
-      "id": "f82674c257c68727930e7681",
-      "title": "Ballenger Honored, Deal Introduced as Newest Georgia Army National Guard State Command Sgt. Maj.",
-      "summary": "U.S. Army Command Sergeant Major John Ballenger transitions into retirement and passes the torch to U.S. Army Command Sergeant Major Lafayette Deal as the incoming Georgia Army National Guard Command Sergeant Major.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577807/ballenger-honored-deal-introduced-newest-georgia-army-national-guard-state-command-sgt-maj",
-      "publishedAt": "2026-10-25T22:19:11Z"
-    },
-    {
-      "id": "d30e1f8ffb6b9976ea65ac82",
-      "title": "NATO FLF Battle Group-Poland celebrates Romanian Armed Forces Day with sports competition",
-      "summary": "Romanian soldiers deployed with NATO’s Battle Group-Poland marked Romania’s Armed Forces Day with allied U.S., Croatian and British troops at Bemowo Piskie Training Area. A Romanian-led competition featured volleyball, indoor soccer and table tennis, giving soldiers a chance to build camaraderie beyond their regular duties.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577805/nato-flf-battle-group-poland-celebrates-romanian-armed-forces-day-with-sports-competition",
-      "publishedAt": "2026-10-25T21:19:00Z"
-    },
-    {
-      "id": "e71bb1712f6ebab4954d2950",
-      "title": "FOX SPORTS TO HONOR U.S. MILITARY AND VETERANS DURING SPECIAL BROADCASTS AT THE U.S. NAVAL ACADEMY AND WEST POINT",
-      "summary": "In honor of Veterans Day, FOX Sports, in coordination with the U.S. Military Academy and the U.S. Naval Academy, will broadcast two of its flagship sports programs live from West Point and the U.S. Naval Academy over the weekend of Nov. 7–8.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577806/fox-sports-honor-us-military-and-veterans-during-special-broadcasts-us-naval-academy-and-west-point",
-      "publishedAt": "2026-10-25T20:34:50Z"
-    },
-    {
-      "id": "2aa1b09a8f65d596cc4da46b",
-      "title": "JROTC National Raider Challenge | Fall 2026",
-      "summary": "Fort Knox, Ky. – U.S. Army Cadet Command hosted the JROTC National Raider Challenge bringing approximately 4,000 cadets from across the country to Fort Knox, Oct. 22-25 to test their grit as they attempt to bring home the National Raider Champion title.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577803/jrotc-national-raider-challenge-fall-2026",
-      "publishedAt": "2026-10-25T19:38:00Z"
-    },
-    {
-      "id": "750f68cb46b54e5b2a67d874",
-      "title": "121 ARW runs the ramp",
-      "summary": "RICKENBACKER AIR NATIONAL GUARD BASE, Ohio – Airmen with the 121st Air Refueling Wing participated in the Run the Ramp fitness exercise hosted by the 121 ARW Refuel and Recharge Fitness and Wellness Club at Rickenbacker Air National Guard Base, Columbus, Ohio, on October 23, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577796/121-arw-runs-ramp",
-      "publishedAt": "2026-10-25T17:09:08Z"
-    },
-    {
-      "id": "22f0a3a8c98bd4d3b4403603",
-      "title": "West Point to Host Veterans Day Broadcasts and Army-Air Force Weekend Events",
-      "summary": "The U.S. Military Academy at West Point is proud to host a series of athletic competitions and national sports broadcasts Nov. 7–8, including FOX Sports Veterans Day Salute to Service programming and the annual Army–Air Force football game at Michie Stadium.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577800/west-point-host-veterans-day-broadcasts-and-army-air-force-weekend-events",
-      "publishedAt": "2026-10-25T16:47:48Z"
-    },
-    {
-      "id": "9ef4f28a9646776e4bb92bdf",
-      "title": "Japan, Philippine and U.S. forces conduct multilateral Maritime Cooperative Activity",
-      "summary": "The Armed Forces of the Philippines, Japan Maritime Self-Defense Force, and U.S. Coast Guard conducted a multilateral Maritime Cooperative Activity (MCA) within the Philippine Exclusive Economic Zone, Oct. 24, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577794/japan-philippine-and-us-forces-conduct-multilateral-maritime-cooperative-activity",
-      "publishedAt": "2026-10-25T02:06:07Z"
-    },
-    {
-      "id": "2ee1d1c6b77fd0e8c155972f",
-      "title": "USACE Completes Temporary Power Mission on Rota, Supports Recovery After Super Typhoon Bavi",
-      "summary": "The U.S. Army Corps of Engineers completed its temporary emergency power mission on Rota following Super Typhoon Bavi. Through a FEMA mission assignment, USACE completed 54 generator assessments, installed 43 generators and finished deinstalling temporary equipment as it was no longer needed.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577792/usace-completes-temporary-power-mission-rota-supports-recovery-after-super-typhoon-bavi",
-      "publishedAt": "2026-10-24T22:49:46Z"
-    },
-    {
-      "id": "0719fc31bf75f26fed0f14a0",
-      "title": "Pentagon bans troops from betting using insider information",
-      "summary": "The new prohibition bars Defense Department personnel from using classified and unclassified info to gamble on prediction markets. The post Pentagon bans troops from betting using insider information appeared first on Task & Purpose .",
-      "category": "Defense",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/pentagon-hegseth-ban-prediction-markets/",
-      "publishedAt": "2026-10-24T15:42:42Z"
     }
   ],
   "nextPage": "page-3.json"

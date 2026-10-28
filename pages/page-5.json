@@ -1,7 +1,133 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T13:00:04Z",
+  "generatedAt": "2026-10-28T20:19:03Z",
   "articles": [
+    {
+      "id": "b69d08053583f9ddaed6e7e9",
+      "title": "Right time, right place, right Airman",
+      "summary": "AVIANO AIR BASE, Italy— In a moment, an ordinary drive to work became an emergency. On the morning of August 26, 2026, U.S. Air Force Tech. Sgt. Danielle Smith, 31st Operational Medical Readiness Squadron medical technician, witnessed a vehicle accident in her Italian community. The car hit a utility pole and overturned.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577591/right-time-right-place-right-airman",
+      "publishedAt": "2026-10-22T11:33:27Z"
+    },
+    {
+      "id": "43f9ff05e0c432f87377837f",
+      "title": "Ukraine to be able to buy military supplies via NATO agency: report",
+      "summary": "The deal comes amid worsening U.S.-Ukraine relations since U.S. President Trump announced a diesel export deal with Russia this month to lower U.S. prices.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/global/europe/2026/10/22/ukraine-to-be-able-to-buy-military-supplies-via-nato-agency-report/",
+      "publishedAt": "2026-10-22T08:58:25Z"
+    },
+    {
+      "id": "aa1fe6f7c9badfb500faa3ae",
+      "title": "USACE Far East District Hosts First Reverse Industry Day",
+      "summary": "The U.S. Army Corps of Engineers – Far East District (USACE FED) Contracting Division hosted its first Reverse Industry Day (FEDRID), Oct. 6, 2025, in Suwon, South Korea. Over 250 attendees attended the event.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577589/usace-far-east-district-hosts-first-reverse-industry-day",
+      "publishedAt": "2026-10-22T08:18:13Z"
+    },
+    {
+      "id": "d21d4d1f64ffda604d9b23eb",
+      "title": "5th Air Naval Gunfire Liaison Company, Japan Ground Self-Defense Force strengthen partnership through joint fires training",
+      "summary": "U.S. Marines with 5th Air Naval Gunfire Liaison Company, III Marine Expeditionary Force Information Group, evaluated Japan Ground Self-Defense Force joint terminal attack controllers during training at Camp Hansen and the W-174 Joint Okinawa Training Range Complex, Okinawa, Japan, Sept. 14-17, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577587/5th-air-naval-gunfire-liaison-company-japan-ground-self-defense-force-strengthen-partnership-through-joint-fires-training",
+      "publishedAt": "2026-10-22T06:16:45Z"
+    },
+    {
+      "id": "c18c69e3960821c830488fbe",
+      "title": "U.S. Army Yuma Test Center Commander mentors local Army JROTC cadets",
+      "summary": "U.S. Army Yuma Test Center Commander Lt. Col. Kevin Hicks spoke to a large assembly of Army Junior Reserve Officers’ Training Corps cadets at Yuma High School on October 21, 2026.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577574/us-army-yuma-test-center-commander-mentors-local-army-jrotc-cadets",
+      "publishedAt": "2026-10-21T23:21:09Z"
+    },
+    {
+      "id": "80d465307036779285c2a413",
+      "title": "129th Rescue Wing conducts first wildfire medevac mission with HH-60W helicopter",
+      "summary": "The California Air National Guard’s 129th Rescue Wing deployed its new HH-60W Jolly Green II helicopter to support wildfire operations in Yosemite National Park, Oct. 9-12, marking the aircraft’s first wildfire mission since the wing began transitioning from the HH-60G Pave Hawk last year.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577570/129th-rescue-wing-conducts-first-wildfire-medevac-mission-with-hh-60w-helicopter",
+      "publishedAt": "2026-10-21T22:36:48Z"
+    },
+    {
+      "id": "38560c17b4b51c998a801dd3",
+      "title": "Brig. Gen. Landers debriefs command climate survey results at town hall",
+      "summary": "U.S. Army Brig. Gen. Andrew L. Landers, director of Defense Health Network Pacific and commanding general of Medical Readiness Command, Pacific, addressed service members and staff during a Defense Organizational Climate Survey town hall meeting at Tripler Army Medical Center, Hawaii, Oct. 19, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577568/brig-gen-landers-debriefs-command-climate-survey-results-town-hall",
+      "publishedAt": "2026-10-21T22:19:27Z"
+    },
+    {
+      "id": "e399db455961eec9c19f5eb3",
+      "title": "U.S. Army Garrison-Fort McCoy chaplain supports 98th ARRTC activation with invocation",
+      "summary": "As the 98th Army Reserve Readiness Training Center (ARRTC) officially activated Oct. 21 at Fort McCoy, Chaplain (Lt. Col.) Walter McCall, garrison chaplain for U.S. Army Garrison-Fort McCoy, provided an invocation recognizing the significance of the occasion and the Soldiers and leaders beginning a new chapter in the organization’s history.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577567/us-army-garrison-fort-mccoy-chaplain-supports-98th-arrtc-activation-with-invocation",
+      "publishedAt": "2026-10-21T22:16:36Z"
+    },
+    {
+      "id": "3dc23c797404f44346cdf7d2",
+      "title": "Coast Guard Cutter Munro completes Arctic patrol, strengthens U.S. presence in high north",
+      "summary": "ALAMEDA, Calif. — The crew of Coast Guard Cutter Munro (WMSL 755) returned to their Base Alameda homeport on Coast Guard Island Oct. 9, 2026, following a 112-day Alaska patrol that covered more than 23,000 nautical miles across the Bering Sea and Arctic Ocean.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577561/coast-guard-cutter-munro-completes-arctic-patrol-strengthens-us-presence-high-north",
+      "publishedAt": "2026-10-21T21:29:09Z"
+    },
+    {
+      "id": "fb18aa44c5511dcf1ab53a34",
+      "title": "NPS Announces Nine Digital Trident II Projects Addressing Pacific Operational Challenges",
+      "summary": "The Naval Postgraduate School Office of Research and Innovation announced nine projects selected for development through the Digital Trident II initiative. Chosen through a competitive process, the projects bring NPS researchers, operational stakeholders and partners together to address consequential challenges facing U.S. forces in the Pacific.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577560/nps-announces-nine-digital-trident-ii-projects-addressing-pacific-operational-challenges",
+      "publishedAt": "2026-10-21T21:13:34Z"
+    },
+    {
+      "id": "4b155d754e9f24a9ccebc111",
+      "title": "Military Firefighters host a week of events to vitalize fire prevention",
+      "summary": "U.S. Air Force Col. Matthew Norton, 17th Training Wing commander, signed a proclamation on Oct. 5, commencing Fire Prevention Week 2026: “Charge into Fire Safety: Lithium-Ion Batteries in Your Home.”",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577552/military-firefighters-host-week-events-vitalize-fire-prevention",
+      "publishedAt": "2026-10-21T20:56:50Z"
+    },
+    {
+      "id": "a58e4bd4b1e4d64e81227b4c",
+      "title": "Preparedness takes precedence as a Troop Support working group implements shelter-in-place planning",
+      "summary": "Embodying the Federal Emergency Management Agency’s National Preparedness Month theme, “American’s Stand Ready,” a working group of eight Defense Logistics Agency Troop Support employees are developing a Building 3 Shelter-in-Place & Emergency Action Plan.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577554/preparedness-takes-precedence-troop-support-working-group-implements-shelter-place-planning",
+      "publishedAt": "2026-10-21T20:45:04Z"
+    },
+    {
+      "id": "ef19372ec36e6a77845c3df6",
+      "title": "Sabers, shirts sustainment discussed during West Point logisticians’ visit to Troop Support",
+      "summary": "Maintaining uniform support to cadets at the U.S. Military Academy at West Point informed a visit to Defense Logistics Agency Troop Support by West Point logisticians June 8.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577549/sabers-shirts-sustainment-discussed-during-west-point-logisticians-visit-troop-support",
+      "publishedAt": "2026-10-21T20:18:37Z"
+    },
+    {
+      "id": "00da20123af1c65e6344f567",
+      "title": "Preserving the past, powering the future: USACE brings geothermal technology to historic Hacienda Copy",
+      "summary": "The U.S. Army Corps of Engineers Sacramento District is overseeing an $8.7 million geothermal heating and cooling renovation at the historic Hacienda at Fort Hunter Liggett, California.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577545/preserving-past-powering-future-usace-brings-geothermal-technology-historic-hacienda-copy",
+      "publishedAt": "2026-10-21T19:41:33Z"
+    },
     {
       "id": "2949e9348d8c0fa53673b232",
       "title": "Oregon National Guard opens hangar doors to state workforce leaders",
@@ -235,132 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577460/oregon-national-guard-honors-vietnam-veteran-with-bronze-star-medal-with-valor-57-years-later",
       "publishedAt": "2026-10-20T19:53:52Z"
-    },
-    {
-      "id": "c9bc9f92ba24aeda7a0c7742",
-      "title": "Sacramento District puts new USACE governance framework into action",
-      "summary": "The U.S. Army Corps of Engineers Sacramento District is putting new Headquarters governance requirements into practice through its inaugural District Engineering Review.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577459/sacramento-district-puts-new-usace-governance-framework-into-action",
-      "publishedAt": "2026-10-20T19:46:33Z"
-    },
-    {
-      "id": "0a8c22be7088f3f8f8600bd3",
-      "title": "Pentagon weighs force posture, costs of rebuilding Middle East bases",
-      "summary": "“We’re meeting with CENTCOM and doing the assessments right now from an installation perspective. Part of this is what will the global posture be in the future, and what does that require us to have?” a senior defense official told reporters today.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/pentagon-weighs-force-posture-costs-of-rebuilding-middle-east-bases/",
-      "publishedAt": "2026-10-20T18:06:00Z"
-    },
-    {
-      "id": "8baf79ece583f8a086e32432",
-      "title": "Brig. Gen. Richard Cipro, a Massachusetts Guardsman, takes command of the 42nd Infantry Division",
-      "summary": "LATHAM, New York —Army National Guard Brig. Gen. Richard P. Cipro, a Worcester, Massachusetts resident and a veteran of the wars in Iraq and Afghanistan, took command of the National Guard’s 42nd Infantry Division during a ceremony at New York National Guard headquarters in Latham, New York on October 17.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577443/brig-gen-richard-cipro-massachusetts-guardsman-takes-command-42nd-infantry-division",
-      "publishedAt": "2026-10-20T17:43:38Z"
-    },
-    {
-      "id": "edaa98f8c65bef1584a50aa7",
-      "title": "US Army support for Golden Dome missile shield takes shape",
-      "summary": "A U.S. Army air defense unit has been \"earmarked\" for support of the Golden Dome for America project, an Army official confirmed.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/air-warfare/2026/10/20/us-army-support-for-golden-dome-missile-shield-takes-shape/",
-      "publishedAt": "2026-10-20T17:30:40Z"
-    },
-    {
-      "id": "0de07d0cb96d7a7211ff8dfe",
-      "title": "USACAPOC(A) Soldiers earn Jungle Tabs in Panama, build Army Reserve capability",
-      "summary": "COLÓN, Panama — Eleven U.S. Army Reserve Soldiers assigned to U.S. Army Civil Affairs and Psychological Operations Command (Airborne) earned the Jungle Tab after completing the Jungle Operations Training Course-Panama Aug. 2, adding jungle expertise to the command’s Civil Affairs and Psychological Operations formations.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577441/usacapoca-soldiers-earn-jungle-tabs-panama-build-army-reserve-capability",
-      "publishedAt": "2026-10-20T17:29:39Z"
-    },
-    {
-      "id": "66a1511f116bca19c22ae07d",
-      "title": "Cadets Explore Human-Machine Teaming Through Hands-on Research",
-      "summary": "U.S. Air Force Academy cadets are exploring how emerging technologies influence human behavior and decision-making through hands-on research with humanoid robots and robotic dogs.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577440/cadets-explore-human-machine-teaming-through-hands-research",
-      "publishedAt": "2026-10-20T17:14:38Z"
-    },
-    {
-      "id": "bf010a1989e20abd6e39af0c",
-      "title": "Blair: Serving her country through patient care",
-      "summary": "U.S. Army Staff Sgt. Autumn Blair is carving her own path as a dedicated flight medic while also serving her country like her parents and grandfather.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577439/blair-serving-her-country-through-patient-care",
-      "publishedAt": "2026-10-20T17:14:36Z"
-    },
-    {
-      "id": "137ef4ba47c39c0e382648ed",
-      "title": "US Air Force F-22 pilot controls unmanned FQ-44 in flight",
-      "summary": "The fighter jet’s pilot served as an airborne “quarterback” and gave high-level directives to an Anduril-made Collaborative Combat Aircraft.",
-      "category": "Air Force",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/20/us-air-force-f-22-pilot-controls-unmanned-fq-44-in-flight/",
-      "publishedAt": "2026-10-20T17:00:21Z"
-    },
-    {
-      "id": "7b6098cc15eb61ce5297fb2c",
-      "title": "China built more than twice naval tonnage of US in 2024-25: Euronaval",
-      "summary": "China built more than twice the naval tonnage of the U.S. in the 2024-25 period, narrowing the gap between the two countries’ navies, a new report says.",
-      "category": "Navy",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/naval/2026/10/20/china-built-more-than-twice-naval-tonnage-of-us-in-2024-25-euronaval/",
-      "publishedAt": "2026-10-20T16:57:56Z"
-    },
-    {
-      "id": "42dd37d69debcb66e0c300b4",
-      "title": "Washington Guard commanders focus on readiness, soldier care ahead of NTC",
-      "summary": "Washington Army National Guard battalion command teams gathered at Camp Murray, Wash., Oct. 19, 2026, for the Fall Battalion Commanders’ Professional Development Symposium.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577438/washington-guard-commanders-focus-readiness-soldier-care-ahead-ntc",
-      "publishedAt": "2026-10-20T16:49:59Z"
-    },
-    {
-      "id": "bd303ee06173109e2f530ec0",
-      "title": "MICC - Fort Eustis delivers joint quality-of-life solution, advances 2026–2027 campaign plan",
-      "summary": "U.S. Army Mission and Installation Contracting Command Fort Eustis recently executed a task order supporting the installation of an interim BeaverFit fitness facility at Tinker Air Force Base, Oklahoma, demonstrating how responsive interservice collaboration can deliver timely quality-of-life improvements for service members.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577436/micc-fort-eustis-delivers-joint-quality-life-solution-advances-2026-2027-campaign-plan",
-      "publishedAt": "2026-10-20T16:21:41Z"
-    },
-    {
-      "id": "549fa1723df8026b4022c513",
-      "title": "Soldiers put Picatinny’s Common Lethality Integration Kit to the test at PC‑C6",
-      "summary": "PICATINNY ARSENAL, N.J. - One of the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center’s proudest accomplishments stood front and center before the warfighter in July, as Soldiers attending Project Convergence-Capstone 6 (PC-C6) tested out the Picatinny Common Lethality Integration Kit (CLIK).",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577435/soldiers-put-picatinnys-common-lethality-integration-kit-test-pc-c6",
-      "publishedAt": "2026-10-20T16:19:12Z"
-    },
-    {
-      "id": "07974fe69cd520b421b29feb",
-      "title": "Chinese Navy Shadows USS Charleston Near Contested Sabina Shoal",
-      "summary": "MANILA, Philippines — USS Charleston (LCS-18) was tracked by Chinese forces on Tuesday after the ship “illegally intruded” into the area surrounding a contested South China Sea maritime feature, according to Beijing. Chinese forces were dispatched to monitor the Independence-class LCS near Sabina Shoal early Tuesday, the PLA said.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/20/chinese-navy-shadows-uss-charleston-near-contested-sabina-shoal",
-      "publishedAt": "2026-10-20T15:55:24Z"
-    },
-    {
-      "id": "0d5941c7e5519c5db4c60c8e",
-      "title": "Utah EOD Airmen adapt dismounted operations to emerging drone threats",
-      "summary": "The battlefield is changing. Drones can turn the sky into a threat, explosive hazards can hide in unfamiliar terrain, and the equipment needed to survive a mission may be limited to what an Airman can carry on their back.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577432/utah-eod-airmen-adapt-dismounted-operations-emerging-drone-threats",
-      "publishedAt": "2026-10-20T15:47:39Z"
     }
   ],
   "nextPage": "page-6.json"

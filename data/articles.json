@@ -1,5 +1,131 @@
 [
   {
+    "id": "0cf740a91f271ed60a04eb8e",
+    "title": "Cost estimate for Iran war rises to more than $47 billion",
+    "summary": "The U.S. military has spent about 25% more on the war in Iran than estimates projected in July, according to Pentagon data obtained by Reuters.",
+    "category": "Defense",
+    "sourceName": "Defense News",
+    "sourceUrl": "https://www.defensenews.com/video/2026/10/28/cost-estimate-for-iran-war-rises-to-more-than-47-billion/",
+    "publishedAt": "2026-10-28T20:16:50Z"
+  },
+  {
+    "id": "ee495d94fbbb8ecfc088c423",
+    "title": "U.S. and Mexican Forces Conclude Successful AMALGAM EAGLE 2026 Exercise",
+    "summary": "U.S. and Mexican military forces have successfully concluded Exercise AMALGAM EAGLE 2026, a bilateral live-fly air defense and search-and-rescue exercise held from September 30-Oct 1.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578120/us-and-mexican-forces-conclude-successful-amalgam-eagle-2026-exercise",
+    "publishedAt": "2026-10-28T20:06:16Z"
+  },
+  {
+    "id": "0755a0b2f5edd1cbabb4685c",
+    "title": "U.S. Marine Drone Detachment in the Philippines Operating from Palawan Airfield",
+    "summary": "MANILA, Philippines — A U.S. Marine Corps drone detachment is operating from a Philippine airfield in Palawan near South China Sea flashpoints in the Spratly Islands, USNI News has learned.",
+    "category": "Defense",
+    "sourceName": "USNI News",
+    "sourceUrl": "https://news.usni.org/2026/10/28/u-s-marine-drone-detachment-in-the-philippines-operating-from-palawan-airfield",
+    "publishedAt": "2026-10-28T19:58:47Z"
+  },
+  {
+    "id": "ad2215f657f977847d118577",
+    "title": "New guide equips Army finance officers to fund the fight faster",
+    "summary": "The Army’s new Financial Management & Comptroller Officer’s Guide establishes a single, authoritative standard for finance and comptroller officers across the active-duty Army, Army Reserve, and National Guard. It builds on the success of the branch's already established enlisted guide, completing a comprehensive framework for financial leadership.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578114/new-guide-equips-army-finance-officers-fund-fight-faster",
+    "publishedAt": "2026-10-28T19:27:27Z"
+  },
+  {
+    "id": "3eca125715893962d9d900ef",
+    "title": "U.S. Army Corps of Engineers Begins Transport of Materials from Shallow Land Disposal Area",
+    "summary": "The U.S. Army Corps of Engineers (USACE) has begun shipping contaminated soil from the Shallow Land Disposal Area (SLDA) site in Vandergrift, Pennsylvania, to an out-of-state licensed disposal facility.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578112/us-army-corps-engineers-begins-transport-materials-shallow-land-disposal-area",
+    "publishedAt": "2026-10-28T19:06:37Z"
+  },
+  {
+    "id": "0bc6a0c7a4c4a4a2e996d345",
+    "title": "Retiree Jamie James receives Distinguished Civilian Employee Recognition Award",
+    "summary": "NASHVILLE, Tenn. (Oct. 28, 2026) – Jamie James, former deputy district engineer for the U.S. Army Corps of Engineers Nashville District, has been honored with the Distinguished Civilian Employee Recognition Award in recognition of two decades of public service, technical excellence, and regional leadership.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578109/retiree-jamie-james-receives-distinguished-civilian-employee-recognition-award",
+    "publishedAt": "2026-10-28T18:49:11Z"
+  },
+  {
+    "id": "de5c10fac6214af2531a0c00",
+    "title": "Religious Ministry Team Leverages Spiritual Readiness Data to Strengthen Warfighter Resilience",
+    "summary": "By Lt. Cmdr. Travis Hurley, U.S. Navy Chaplain, and the TACAMO Religious Ministry Team TINKER AIR FORCE BASE, Okla.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578107/religious-ministry-team-leverages-spiritual-readiness-data-strengthen-warfighter-resilience",
+    "publishedAt": "2026-10-28T18:34:47Z"
+  },
+  {
+    "id": "ac1d509e748d5c3700266f53",
+    "title": "NORAD ENFORCEMENT OF TEMPORARY FLIGHT RESTRICTION AIRSPACE ANNOUNCED OVER MULTIPLE AREAS THIS WEEK",
+    "summary": "Fighter jets from the North American Aerospace Defense Command (NORAD) will enforce the Federal Aviation Administration (FAA) VIP Temporary Flight Restriction (TFR) areas established this week, October 29-30, 2026, over Charlotte, North Carolina; Rock Hill, South Carolina; and Daytona Beach, Florida.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578106/norad-enforcement-temporary-flight-restriction-airspace-announced-over-multiple-areas-week",
+    "publishedAt": "2026-10-28T18:24:02Z"
+  },
+  {
+    "id": "25a943e88502e1a6f0428265",
+    "title": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate",
+    "summary": "The U.S. military has spent over $47 billion so far to prosecute the war in Iran, more than 25% higher than the Defense Department's estimate in July.",
+    "category": "Defense",
+    "sourceName": "Defense News",
+    "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/28/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate/",
+    "publishedAt": "2026-10-28T18:10:50Z"
+  },
+  {
+    "id": "a2fa07de6e9b682d350fcc1d",
+    "title": "U.S. Marines Deploy Neros Archer Drone in Camp Fuji Exercise",
+    "summary": "The U.S. Marine Corps recently used the Neros Archer First Person View drone in a live-fire exercise at Camp Fuji, Japan, for the first time, the service announced. Marines of Battalion Landing Team 1/1, 31st Marine Expeditionary Unit (MEU) carried out two strike missions on Oct.",
+    "category": "Marine Corps",
+    "sourceName": "USNI News",
+    "sourceUrl": "https://news.usni.org/2026/10/28/u-s-marines-deploy-neros-archer-drone-in-camp-fuji-exercise",
+    "publishedAt": "2026-10-28T17:51:21Z"
+  },
+  {
+    "id": "556620a1e9c2e93a60f2b7fa",
+    "title": "Three U.S. Naval Research Laboratory Experts Receive Sigma Xi Chapter Awards",
+    "summary": "Three U.S. Naval Research Laboratory (NRL) experts received the 2025 NRL Edison Chapter of Sigma Xi awards during a ceremony April 9.",
+    "category": "Navy",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578100/three-us-naval-research-laboratory-experts-receive-sigma-xi-chapter-awards",
+    "publishedAt": "2026-10-28T17:43:22Z"
+  },
+  {
+    "id": "1fec9ae6dd946596273ab978",
+    "title": "Washington National Guard, Tribal Partners Strengthen Counter-UAS Readiness",
+    "summary": "Washington State Counterdrug and the 10th Civil Support Team conducted Tribal Counter-Unmanned Aircraft Systems Fundamentals and Mission Scenarios Training at Yakima Training Center, Wash., Oct. 20–21, 2026.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578097/washington-national-guard-tribal-partners-strengthen-counter-uas-readiness",
+    "publishedAt": "2026-10-28T17:22:48Z"
+  },
+  {
+    "id": "376ec4285b9683c6896533da",
+    "title": "Report to Congress on U.S. Military Operations Against Iran’s Missile, Nuclear Programs",
+    "summary": "The following is the Oct. 20, 2026, Congressional Research Service report, U.S. Military Operations Against Iran’s Missile and Nuclear Programs. From the Report On February 28, 2026, the United States and Israel launched military operations against Iran.",
+    "category": "Defense",
+    "sourceName": "USNI News",
+    "sourceUrl": "https://news.usni.org/2026/10/28/report-to-congress-on-u-s-military-operations-against-irans-missile-nuclear-programs-2",
+    "publishedAt": "2026-10-28T13:47:47Z"
+  },
+  {
+    "id": "51333bb784a68115d1ae6ad5",
+    "title": "Startup Biosphere wins Pentagon contract to scale up production of key chemicals",
+    "summary": "The biomanufacturing facility will boast 20,000 liters of UV-sterilized vats, able to brew anything from “bio-cement” for helipads to explosives for Hellfire missiles.",
+    "category": "Defense",
+    "sourceName": "Breaking Defense",
+    "sourceUrl": "https://breakingdefense.com/2026/10/startup-biosphere-wins-pentagon-contract-to-scale-up-production-of-key-chemicals/",
+    "publishedAt": "2026-10-28T13:36:00Z"
+  },
+  {
     "id": "f4dd0a24f043c6b07ef05e9d",
     "title": "U.S. Army and DVGW strengthen partnership during municipal water infrastructure visit",
     "summary": "TRIER, Germany — A group of 15 public health specialists from Public Health Command Europe recently toured regional water facilities in Trier to share best practices and explore innovative approaches to water security and environmental sustainability.",
@@ -2149,32 +2275,5 @@
     "sourceName": "DVIDS U.S. Military News",
     "sourceUrl": "https://www.dvidshub.net/news/577199/kansas-honors-130th-field-artillery-brigade-with-homecoming-operation-epic-fury",
     "publishedAt": "2026-10-18T21:08:28Z"
-  },
-  {
-    "id": "502280d31f64fe104775f544",
-    "title": "Colonel Retires After 27 Years of Making His Mark on History – And Having Fun",
-    "summary": "Col. Tim Newman of Fisher, Ill., retired from the Illinois Army National Guard after 27 years of “standing the watch.” Family, friends and fellow service members celebrated nearly three decades in uniform during an Oct. 10 retirement ceremony at the University of Illinois Urbana-Champaign Library.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577198/colonel-retires-after-27-years-making-his-mark-history-and-having-fun",
-    "publishedAt": "2026-10-18T15:54:30Z"
-  },
-  {
-    "id": "4a83095d86624e35ad3d6936",
-    "title": "US arms firm Anduril could make interceptors in Europe, executive says",
-    "summary": "U.S. defense firm Anduril could eventually manufacture its newly unveiled Steelfin interceptor missiles in Europe, a company executive said.",
-    "category": "Defense",
-    "sourceName": "Defense News",
-    "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/18/us-arms-firm-anduril-could-make-interceptors-in-europe-executive-says/",
-    "publishedAt": "2026-10-18T15:40:14Z"
-  },
-  {
-    "id": "9df574f573acd02295d071c0",
-    "title": "Six Soldier-athletes to represent Army WCAP at United World Wrestling Championships in Kazakhstan",
-    "summary": "Six Soldier-athletes from the U.S. Army World Class Athlete Program will carry Army pride and medal ambitions on to wrestling’s biggest international stage.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577196/six-soldier-athletes-represent-army-wcap-united-world-wrestling-championships-kazakhstan",
-    "publishedAt": "2026-10-18T14:32:31Z"
   }
 ]
