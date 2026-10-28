@@ -1,5 +1,77 @@
 [
   {
+    "id": "50c454840d9d59ce256fe737",
+    "title": "Beyond the comfort zone: 15th OSS Airman completes Army Ranger School",
+    "summary": "For Staff Sgt. Max Fuller, completing the U.S. Army Ranger School meant more than reaching a long-standing personal goal. It meant learning to lead under pressure, recover from setbacks and bring those lessons back to his Air Force mission.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578027/beyond-comfort-zone-15th-oss-airman-completes-army-ranger-school",
+    "publishedAt": "2026-10-28T01:19:20Z"
+  },
+  {
+    "id": "482d63e0ce9ac87a6538a3d0",
+    "title": "USACE Manager of the Year: Jisun Kang leads Far East District contracting",
+    "summary": "Jisun Kang, chief of contracting at the U.S. Army Corps of Engineers Far East District, has been named Manager of the Year through the USACE Excellence in Contracting Awards Program.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578028/usace-manager-year-jisun-kang-leads-far-east-district-contracting",
+    "publishedAt": "2026-10-28T01:13:53Z"
+  },
+  {
+    "id": "12ae1a23647bcab021b4f017",
+    "title": "Brunson Challenges Logisticians to Bring Modern Technology into Exercises at 10th UNC Logistics Symposium",
+    "summary": "U.S. Army Gen. Xavier T. Brunson, commander of United Nations Command, told logisticians from 15 nations that sustainment is central to winning, as he opened the 10th Annual UNC Logistics Symposium at the Morning Calm Conference Center, Oct. 26, 2026.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578024/brunson-challenges-logisticians-bring-modern-technology-into-exercises-10th-unc-logistics-symposium",
+    "publishedAt": "2026-10-28T00:00:10Z"
+  },
+  {
+    "id": "f860c9a26e81db3948b15657",
+    "title": "KEEN SWORD 27: 3rd EOD Company and Japan Ground Self-Defense Force EOD conducts live fire ground response training",
+    "summary": "U.S. Marines with 3rd Explosive Ordnance Disposal Company, 9th Engineer Support Battalion, 3rd Marine Logistics Group, trained alongside Japan Ground Self-Defense Force members during a bilateral live-fire ground response training on Okinawa, Japan, Oct. 23, 2026.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578022/keen-sword-27-3rd-eod-company-and-japan-ground-self-defense-force-eod-conducts-live-fire-ground-response-training",
+    "publishedAt": "2026-10-27T23:43:59Z"
+  },
+  {
+    "id": "d5eb4b91aaf804373d4792da",
+    "title": "TAMC physician honored for 30 years of continued Army service",
+    "summary": "Tripler Army Medical Center, HI — Dr. Conrad S. Belnap, a physician at Tripler Army Medical Center, received a medallion from the U.S. Army Medical Department on Oct. 19 in recognition of completing 30 years of active-duty service in the U.S. Army Medical Corps.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578018/tamc-physician-honored-30-years-continued-army-service",
+    "publishedAt": "2026-10-27T23:27:16Z"
+  },
+  {
+    "id": "a57aee0a8416640d93aa97a5",
+    "title": "TAMC physician honored for 30 years of continued Army service",
+    "summary": "Tripler Army Medical Center, HI — Dr. Conrad S. Belnap, a physician at Tripler Army Medical Center, received a medallion from the U.S. Army Medical Department on Oct. 19 in recognition of completing 30 years of active-duty service in the U.S. Army Medical Corps.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578019/tamc-physician-honored-30-years-continued-army-service",
+    "publishedAt": "2026-10-27T23:27:16Z"
+  },
+  {
+    "id": "c0b01dfb0d1c82fbb7344c22",
+    "title": "Deckplates to Dugouts: JFK Sailor balances Navy life and Softball",
+    "summary": "U.S. Navy Retail Services Specialist (RS) 2nd Class Adrian Ramos, from Puerto Rico, still remembers the electric hum of draft day; the phone call, the handshake, the dream that had carried him from Miami Dade College to the Toronto Blue Jays organization starting in the minor leagues, but life has a way of shifting the field beneath your cleats.",
+    "category": "Navy",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578016/deckplates-dugouts-jfk-sailor-balances-navy-life-and-softball",
+    "publishedAt": "2026-10-27T23:01:41Z"
+  },
+  {
+    "id": "994837c4bff2c6cf6f115167",
+    "title": "Treating Guard families with spooktacular fun & resources",
+    "summary": "Over 1,000 Utah National Guard family members came to Camp Wiliams on 17 October, 2026 as the Utah National Guard Child and Youth Programs hosted its annual Trunk or Treat.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578015/treating-guard-families-with-spooktacular-fun-resources",
+    "publishedAt": "2026-10-27T22:22:18Z"
+  },
+  {
     "id": "a64c4682868bb519f6104f9b",
     "title": "Guardsmen Push Through the Exhaustion in the 2027 Best Warrior Competition",
     "summary": "The 2027 Utah Best Warrior Competition brought together 21 Utah Army and Air National Guardsmen at Camp Williams Oct. 19-21, 2026, for three days of challenges testing physical endurance, tactical proficiency and mental resilience.",
@@ -2041,14 +2113,5 @@
     "sourceName": "DVIDS U.S. Military News",
     "sourceUrl": "https://www.dvidshub.net/news/577196/six-soldier-athletes-represent-army-wcap-united-world-wrestling-championships-kazakhstan",
     "publishedAt": "2026-10-18T14:32:31Z"
-  },
-  {
-    "id": "e896af83457350bd76b2be2d",
-    "title": "A final flight, a new chapter: 944th Operations Group welcomes new commander",
-    "summary": "An F-16 Fighting Falcon from Holloman Air Force Base stood alongside an F-35 Lightning II inside Hangar 999 at Luke Air Force Base, Ariz.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577193/final-flight-new-chapter-944th-operations-group-welcomes-new-commander",
-    "publishedAt": "2026-10-17T23:05:39Z"
   }
 ]

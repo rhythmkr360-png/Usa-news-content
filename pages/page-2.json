@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T22:18:43Z",
+  "generatedAt": "2026-10-28T05:46:45Z",
   "articles": [
+    {
+      "id": "98a3c3b2db287650e79695f6",
+      "title": "U.S. Navy Taps Attack Boat for 2027 Australian AUKUS Assignment",
+      "summary": "The Pentagon announced Monday the Virginia-class submarine that will be the lead nuclear attack boat in western Australia. USS Colorado (SSN-788) will be assigned to Submarine Rotational Force-West, which will be based HMAS Stirling outside of Perth starting in 2027.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/26/u-s-navy-taps-attack-boat-for-2027-australian-aukus-assignment",
+      "publishedAt": "2026-10-26T20:46:28Z"
+    },
+    {
+      "id": "1a196e8dc3a144ca95710530",
+      "title": "Marines Sharpen Small-Unit Drone Tactics at Drone Crucible 26.3",
+      "summary": "U.S. Marines with the 2nd Marine Division train with emerging small unmanned aircraft systems at the United States National Drone Association Drone Crucible 26.3, in Starke, Florida Sept. 27-Oct. 2, 2026.",
+      "category": "Marine Corps",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577919/marines-sharpen-small-unit-drone-tactics-drone-crucible-263",
+      "publishedAt": "2026-10-26T20:14:52Z"
+    },
+    {
+      "id": "0dd3f3d5448589beecb83a5b",
+      "title": "Air National Guard to stand up a new special tactics squadron",
+      "summary": "The Pentagon directed the Air Force to stand up a new unit based in Florida, where there’s a host of Air Force special operations resources. The post Air National Guard to stand up a new special tactics squadron appeared first on Task & Purpose .",
+      "category": "Army",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/new-air-national-guard-unit/",
+      "publishedAt": "2026-10-26T19:43:41Z"
+    },
+    {
+      "id": "569a07ee608f8e8cecaa11dc",
+      "title": "NORAD ENFORCEMENT OF TEMPORARY FLIGHT RESTRICTION AIRSPACE ANNOUNCED OVER MULTIPLE AREAS THIS WEEK",
+      "summary": "Fighter jets from the North American Aerospace Defense Command (NORAD) will enforce the Federal Aviation Administration (FAA) VIP Temporary Flight Restriction (TFR) areas established this week, October 27-28, 2026, over Corpus Christi, Texas; Lubbock, Texas; and Columbus-Chillicothe, Ohio.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577916/norad-enforcement-temporary-flight-restriction-airspace-announced-over-multiple-areas-week",
+      "publishedAt": "2026-10-26T19:34:22Z"
+    },
+    {
+      "id": "745c6bf9ebfb930bf881ad04",
+      "title": "USACE completes 110-foot stoplog test fit at Ozark Lock and Dam",
+      "summary": "The U.S. Army Corps of Engineers Little Rock District successfully completed the 110-foot stoplog test fit at Ozark Lock and Dam on the McClellan-Kerr Arkansas River Navigation System, Oct. 20, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577917/usace-completes-110-foot-stoplog-test-fit-ozark-lock-and-dam",
+      "publishedAt": "2026-10-26T19:33:10Z"
+    },
+    {
+      "id": "577895eddd323278bcac35d5",
+      "title": "US Army practices digging temporary battlefield graves",
+      "summary": "The Army is preparing for the grim possibility of burying fallen soldiers on the battlefield, testing how fast it can dig temporary graves while preserving remains for eventual identification and return to families after the end of a conflict.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/land/2026/10/26/army-practices-digging-temporary-battlefield-graves/",
+      "publishedAt": "2026-10-26T18:57:25Z"
+    },
+    {
+      "id": "cc029398f8035f3e6dbe9721",
+      "title": "Pentagon announces first US submarine joining Submarine Rotational Force-West",
+      "summary": "The Pentagon announced that the USS Colorado will be the first submarine to join Submarine Rotational Force-West in Australia.",
+      "category": "Navy",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/naval/2026/10/26/pentagon-announces-first-us-submarine-joining-submarine-rotational-force-west/",
+      "publishedAt": "2026-10-26T18:50:06Z"
+    },
+    {
+      "id": "ebebc02944848d5e70ec2b4f",
+      "title": "Lyster Launches Annual Flu Campaign",
+      "summary": "FORT RUCKER, Ala. — As autumn approaches, Lyster Army Health Clinic is preparing to protect service members, retirees, and military families with the kickoff of its annual influenza vaccination campaign. Across the United States, influenza activity typically increases in October, peaks between December and March, and can linger through May.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577905/lyster-launches-annual-flu-campaign",
+      "publishedAt": "2026-10-26T18:04:12Z"
+    },
     {
       "id": "00c68d5a5350c750f5012558",
       "title": "U.S., Colombia Launch Exercise Southern Vanguard 2027",
@@ -289,78 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577754/army-corps-galveston-hosts-orange-co-project-public-open-house-seeks-community-input-draft-seis",
       "publishedAt": "2026-10-23T20:02:24Z"
-    },
-    {
-      "id": "25b56cbd40e2b4943cc182c2",
-      "title": "USS McFaul (DDG 74) Returns to Norfolk Following Deployment",
-      "summary": "NAVAL STATION NORFOLK, Va. – The Arleigh Burke-class guided-missile destroyer USS McFaul (DDG 74) returned to Naval Station Norfolk, Oct. 23, 2026, concluding an 11-month deployment to the U.S. 5th and 6th Fleet areas of operation.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577757/uss-mcfaul-ddg-74-returns-norfolk-following-deployment",
-      "publishedAt": "2026-10-23T19:53:29Z"
-    },
-    {
-      "id": "cd54d4efa8d3cdbe9c182059",
-      "title": "US military needs ‘urgent revolutionary institutional change’ to prepare for modern war, Petraeus says",
-      "summary": "Ret. Army Gen. David Petraeus praised the Pentagon’s new Autonomous Warfare Command but said the U.S. must rapidly prepare for modern autonomous war.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/23/us-military-needs-urgent-revolutionary-institutional-change-to-prepare-for-modern-war-petraeus-says/",
-      "publishedAt": "2026-10-23T19:39:05Z"
-    },
-    {
-      "id": "921ad22c9140aab9b4d6b404",
-      "title": "MRF-D 26 concludes 15th rotation as the first certified Special Purpose Marine Air-Ground Task Force",
-      "summary": "Approximately 2,000 U.S. Marines and Sailors assigned to Marine Rotational Force – Darwin 26 concluded a historic deployment across Australia and the Indo-Pacific, marking the program’s 15th rotation and the first time the rotational force earned certification as a Special Purpose Marine Air-Ground Task Force.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577738/mrf-d-26-concludes-15th-rotation-first-certified-special-purpose-marine-air-ground-task-force",
-      "publishedAt": "2026-10-23T19:19:14Z"
-    },
-    {
-      "id": "6fb6f45fb5dd86b1640b279a",
-      "title": "USNI News Western Pacific Pulse: Oct. 23, 2026",
-      "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In the Philippine Sea The Theodore Roosevelt Carrier Strike Group was in the Philippine Sea as of Wednesday as part of U.S.-Japan Exercise Keen Sword 27.",
-      "category": "Defense",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/23/usni-news-western-pacific-pulse-oct-23-2026",
-      "publishedAt": "2026-10-23T19:15:43Z"
-    },
-    {
-      "id": "318fe96713b587a9284595b0",
-      "title": "AMC Command Team Visits Little Rock, Focuses on the Future of Mobility",
-      "summary": "U.S. Air Force Lt. Gen. Dan Tulley, commander of Air Mobility Command, his wife Holly Tulley, and Chief Master Sgt. Raun Howell, AMC command chief, engaged with Airmen and saw firsthand how Team Little Rock is preparing for future mobility operations at Little Rock Air Force Base, Arkansas, Oct. 21, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577750/amc-command-team-visits-little-rock-focuses-future-mobility",
-      "publishedAt": "2026-10-23T19:01:24Z"
-    },
-    {
-      "id": "f4e9f8ed1e7ec4abfe65eeb1",
-      "title": "Fort Buchanan strengthens ties with Puerto Rico businesses during APEX Day 2026",
-      "summary": "U.S. Army Garrison Fort Buchanan strengthened its connection with Puerto Rico’s business community and expanded awareness of federal contracting opportunities during APEX Day 2026: Strategic Connections with Federal Buyers, held Oct. 23 at the Center for Entrepreneurship in Hato Rey.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577748/fort-buchanan-strengthens-ties-with-puerto-rico-businesses-during-apex-day-2026",
-      "publishedAt": "2026-10-23T18:58:52Z"
-    },
-    {
-      "id": "fe64c9283525f283f882a596",
-      "title": "USACE Philadelphia District honors historic dredge McFarland",
-      "summary": "PHILADELPHIA — The U.S. Army Corps of Engineers Philadelphia District honored the Dredge McFarland during a farewell ceremony Oct. 23 at Fort Mifflin, marking the completion of the vessel’s final operational mission after nearly six decades of service.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577741/usace-philadelphia-district-honors-historic-dredge-mcfarland",
-      "publishedAt": "2026-10-23T18:44:12Z"
-    },
-    {
-      "id": "8c5966951885318d1b3b113a",
-      "title": "Fryar Fieldhouse Opens at Fort Wainwright",
-      "summary": "U.S. Army Garrison Alaska opened the 72,500-square-foot Fryar Fieldhouse at Fort Wainwright on Oct. 5, 2026. The facility features an elevated running track, 21,000-square-foot turf field and fitness areas, providing year-round indoor training and recreation for Soldiers, families and authorized patrons. Named for Medal of Honor recipient Pvt.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577736/fryar-fieldhouse-opens-fort-wainwright",
-      "publishedAt": "2026-10-23T18:22:46Z"
     }
   ],
   "nextPage": "page-3.json"

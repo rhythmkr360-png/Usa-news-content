@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T22:18:43Z",
+  "generatedAt": "2026-10-28T05:46:45Z",
   "articles": [
+    {
+      "id": "1bd54c849ea50f391342de81",
+      "title": "Arctic experiment explores ways to close air surveillance gaps",
+      "summary": "U.S. military personnel, scientists and international partners conducted live-fly testing Sept. 7–11, 2026, during the final event of a three-year Arctic air domain awareness experiment series, collecting data to assess technology that could help close surveillance gaps across Alaska.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577397/arctic-experiment-explores-ways-close-air-surveillance-gaps",
+      "publishedAt": "2026-10-19T22:52:53Z"
+    },
+    {
+      "id": "7a8de58d5e7ea7565a2aadfb",
+      "title": "Clackamas Fire and Military Responders Conduct Structural Collapse and Air Mobility Joint Training Exercise",
+      "summary": "Members of the Clackamas Fire Department, Oregon Army National Guard, Oregon Air National Guard, Air Force Reserve, U.S. Coast Guard, and CHAIS, which provides professional handlers and working dogs, participated in a simulated tsunami response mission on October 15, 2026, at Camp Rilea Armed Forces Training Center near Warrenton, Oregon.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577396/clackamas-fire-and-military-responders-conduct-structural-collapse-and-air-mobility-joint-training-exercise",
+      "publishedAt": "2026-10-19T21:52:33Z"
+    },
+    {
+      "id": "1a257c7b2bb4be01ea2ceb1d",
+      "title": "San Diego Native Named Motivator of the Month While Serving with Navy Medicine in Cuba",
+      "summary": "Courtesy story by Ashley Craig, Navy Office of Community Outreach MILLINGTON, Tenn. – Hospitalman Kimberly MartinezInfante, a native of San Diego, California, was recently named Motivator of the Month while serving aboard U.S. Navy Medicine Readiness and Training Command (USNMRTC) Guantanamo Bay at U.S. Naval Hospital Guantanamo Bay, Cuba.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577391/san-diego-native-named-motivator-month-while-serving-with-navy-medicine-cuba",
+      "publishedAt": "2026-10-19T20:39:40Z"
+    },
+    {
+      "id": "2593ba1c58fbb4cfdc87444d",
+      "title": "Logistics exchange strengthens Washington Guard, Malaysia military partnership",
+      "summary": "Logistics experts from the Washington National Guard and Royal Malaysian Armed Forces participated in a subject matter expert exchange at Camp Murray, Wash., Sept. 21-25, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577390/logistics-exchange-strengthens-washington-guard-malaysia-military-partnership",
+      "publishedAt": "2026-10-19T20:11:24Z"
+    },
+    {
+      "id": "e6bed6cbc6f4fe76dc020645",
+      "title": "Tracking America’s latest conflict: The Iran war timeline",
+      "summary": "To date, at least 21 American service members have been killed and hundreds more wounded. The post Tracking America’s latest conflict: The Iran war timeline appeared first on Task & Purpose .",
+      "category": "Defense",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/iran-war-timeline/",
+      "publishedAt": "2026-10-19T19:56:42Z"
+    },
+    {
+      "id": "6b86fda199e5a8936f9def7e",
+      "title": "U.S. Army stand-down connects Soldiers with voting assistance in Vicenza, Italy",
+      "summary": "Secretary of War Pete Hegseth's directive of U.S. Army stand-down connects Soldiers with voting assistance in Vicenza, Italy",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577388/us-army-stand-down-connects-soldiers-with-voting-assistance-vicenza-italy",
+      "publishedAt": "2026-10-19T19:39:51Z"
+    },
+    {
+      "id": "9f332f5d619c5e1967b4f796",
+      "title": "Pentagon, BAE sign deal for up to 25,000 precision-guided munition kits a year",
+      "summary": "The Pentagon and BAE Systems signed a framework agreement for up to 25,000 Advanced Precision Kill Weapon System, or APKWS, guidance kits a year.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year/",
+      "publishedAt": "2026-10-19T18:50:11Z"
+    },
+    {
+      "id": "a60ad131d7b585f5d8bdafff",
+      "title": "Lt. Gen. Hilbert discusses Eighth Army’s role in Northeast Asia",
+      "summary": "Senior leader highlights the command’s support to U.S. Forces Korea and regional deterrence.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577382/lt-gen-hilbert-discusses-eighth-armys-role-northeast-asia",
+      "publishedAt": "2026-10-19T18:49:31Z"
+    },
     {
       "id": "240b7a7edc5210b5906a83c0",
       "title": "U.S. Marine Corps Stands Up First NMESIS Anti-ship Missile Battalion",
@@ -244,15 +316,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577196/six-soldier-athletes-represent-army-wcap-united-world-wrestling-championships-kazakhstan",
       "publishedAt": "2026-10-18T14:32:31Z"
-    },
-    {
-      "id": "e896af83457350bd76b2be2d",
-      "title": "A final flight, a new chapter: 944th Operations Group welcomes new commander",
-      "summary": "An F-16 Fighting Falcon from Holloman Air Force Base stood alongside an F-35 Lightning II inside Hangar 999 at Luke Air Force Base, Ariz.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577193/final-flight-new-chapter-944th-operations-group-welcomes-new-commander",
-      "publishedAt": "2026-10-17T23:05:39Z"
     }
   ]
 }

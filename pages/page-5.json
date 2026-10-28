@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T22:18:43Z",
+  "generatedAt": "2026-10-28T05:46:45Z",
   "articles": [
+    {
+      "id": "688d75b1d83e227038386f87",
+      "title": "Critical Industrial Base Facility Breaks Ground Thanks to Australian Submarine Industrial Base Contribution",
+      "summary": "U.S. Navy leaders joined industry partners, members of the Jackson County Economic Development Foundation, Inc., and representatives from the Australian Embassy to break ground on a new facility in Pascagoula, Miss., that will manufacture critical components for in-service and new-construction submarines.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577523/critical-industrial-base-facility-breaks-ground-thanks-australian-submarine-industrial-base-contribution",
+      "publishedAt": "2026-10-21T15:36:08Z"
+    },
+    {
+      "id": "e8967dbb84e043ba8faf2e90",
+      "title": "Got milk? US Army refines its pasteurization power",
+      "summary": "Thirteen U.S. Army Veterinary Corps officers milked a trip to Denmark last month, completing Europe Dairy Pasteurization Audit Training.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power/",
+      "publishedAt": "2026-10-21T15:18:41Z"
+    },
+    {
+      "id": "5d0e2b28dcf31c0240858982",
+      "title": "ILLINOIS ARMY NATIONAL GUARD OFFICER PROMOTED TO MAJOR",
+      "summary": "Capt. Thaddaeus Carr was promoted to major during a ceremony on Oct. 18 at Cantigny Park in Wheaton, Illinois, recognizing his military service, professional development and contributions to military intelligence.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577515/illinois-army-national-guard-officer-promoted-major",
+      "publishedAt": "2026-10-21T15:07:45Z"
+    },
+    {
+      "id": "bfc2d906e7d5818f3eac67dd",
+      "title": "Colorado Army National Guard hosts first U.S. based Eager Lion exercise",
+      "summary": "The Colorado Army National Guard hosted Eager Lion 2026 at the 168th Regional Training Institute, Fort Carson, Colorado, Sept. 15–25, 2026. Historically held exclusively in the Hashemite Kingdom of Jordan as U.S.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577512/colorado-army-national-guard-hosts-first-us-based-eager-lion-exercise",
+      "publishedAt": "2026-10-21T14:36:59Z"
+    },
+    {
+      "id": "051e848ce6bb34beac264e3a",
+      "title": "Timing to roll out US Army’s NGC2 depends on funds, commander says",
+      "summary": "The head of the Army formation responsible for fielding the Next Generation Command and Control system said the timeline depends on resources available.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/21/timing-to-roll-out-us-armys-ngc2-depends-on-funds-commander-says/",
+      "publishedAt": "2026-10-21T13:59:36Z"
+    },
+    {
+      "id": "f378c9b91996ae09563e54f5",
+      "title": "Report to Congress on Russia’s Arctic Military Posture",
+      "summary": "The following is the Oct. 14, 2026, Congressional Research Service report, Russia’s Arctic Military Posture: Considerations for Congress. From the Report The Arctic is a key strategic region for Russia with significant military and economic implications.",
+      "category": "Defense",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/21/report-to-congress-on-russias-arctic-military-posture",
+      "publishedAt": "2026-10-21T13:56:42Z"
+    },
+    {
+      "id": "6e252609d5cc0804f36a8969",
+      "title": "U.S. Army, Colombian senior military leaders converge at Fort Bragg for bi-annual exchange",
+      "summary": "FORT BRAGG, N.C. — U.S. Army Western Hemisphere Command welcomed a 12-member Colombian senior enlisted delegation Oct.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577482/us-army-colombian-senior-military-leaders-converge-fort-bragg-bi-annual-exchange",
+      "publishedAt": "2026-10-21T11:04:53Z"
+    },
+    {
+      "id": "a6b0ee1e6b3399313deb63ce",
+      "title": "Wolf Pack tests radiological response readiness during exercise Radiant Falcon",
+      "summary": "KUNSAN AIR BASE, Republic of Korea - U.S. Air Force Airmen assigned to the 8th Fighter Wing and 51st Medical Group participated in exercise Radiant Falcon at Kunsan Air Base, Republic of Korea, Oct. 5-8, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577484/wolf-pack-tests-radiological-response-readiness-during-exercise-radiant-falcon",
+      "publishedAt": "2026-10-21T02:48:44Z"
+    },
     {
       "id": "28966ec28811ac7e26c40212",
       "title": "Nevada Guard Transportation Company Deploys for Southern Border Mission",
@@ -289,78 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577398/bridging-cultures-japanese-youth-us-soldiers-find-common-ground",
       "publishedAt": "2026-10-20T06:53:00Z"
-    },
-    {
-      "id": "1bd54c849ea50f391342de81",
-      "title": "Arctic experiment explores ways to close air surveillance gaps",
-      "summary": "U.S. military personnel, scientists and international partners conducted live-fly testing Sept. 7–11, 2026, during the final event of a three-year Arctic air domain awareness experiment series, collecting data to assess technology that could help close surveillance gaps across Alaska.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577397/arctic-experiment-explores-ways-close-air-surveillance-gaps",
-      "publishedAt": "2026-10-19T22:52:53Z"
-    },
-    {
-      "id": "7a8de58d5e7ea7565a2aadfb",
-      "title": "Clackamas Fire and Military Responders Conduct Structural Collapse and Air Mobility Joint Training Exercise",
-      "summary": "Members of the Clackamas Fire Department, Oregon Army National Guard, Oregon Air National Guard, Air Force Reserve, U.S. Coast Guard, and CHAIS, which provides professional handlers and working dogs, participated in a simulated tsunami response mission on October 15, 2026, at Camp Rilea Armed Forces Training Center near Warrenton, Oregon.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577396/clackamas-fire-and-military-responders-conduct-structural-collapse-and-air-mobility-joint-training-exercise",
-      "publishedAt": "2026-10-19T21:52:33Z"
-    },
-    {
-      "id": "1a257c7b2bb4be01ea2ceb1d",
-      "title": "San Diego Native Named Motivator of the Month While Serving with Navy Medicine in Cuba",
-      "summary": "Courtesy story by Ashley Craig, Navy Office of Community Outreach MILLINGTON, Tenn. – Hospitalman Kimberly MartinezInfante, a native of San Diego, California, was recently named Motivator of the Month while serving aboard U.S. Navy Medicine Readiness and Training Command (USNMRTC) Guantanamo Bay at U.S. Naval Hospital Guantanamo Bay, Cuba.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577391/san-diego-native-named-motivator-month-while-serving-with-navy-medicine-cuba",
-      "publishedAt": "2026-10-19T20:39:40Z"
-    },
-    {
-      "id": "2593ba1c58fbb4cfdc87444d",
-      "title": "Logistics exchange strengthens Washington Guard, Malaysia military partnership",
-      "summary": "Logistics experts from the Washington National Guard and Royal Malaysian Armed Forces participated in a subject matter expert exchange at Camp Murray, Wash., Sept. 21-25, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577390/logistics-exchange-strengthens-washington-guard-malaysia-military-partnership",
-      "publishedAt": "2026-10-19T20:11:24Z"
-    },
-    {
-      "id": "e6bed6cbc6f4fe76dc020645",
-      "title": "Tracking America’s latest conflict: The Iran war timeline",
-      "summary": "To date, at least 21 American service members have been killed and hundreds more wounded. The post Tracking America’s latest conflict: The Iran war timeline appeared first on Task & Purpose .",
-      "category": "Defense",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/iran-war-timeline/",
-      "publishedAt": "2026-10-19T19:56:42Z"
-    },
-    {
-      "id": "6b86fda199e5a8936f9def7e",
-      "title": "U.S. Army stand-down connects Soldiers with voting assistance in Vicenza, Italy",
-      "summary": "Secretary of War Pete Hegseth's directive of U.S. Army stand-down connects Soldiers with voting assistance in Vicenza, Italy",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577388/us-army-stand-down-connects-soldiers-with-voting-assistance-vicenza-italy",
-      "publishedAt": "2026-10-19T19:39:51Z"
-    },
-    {
-      "id": "9f332f5d619c5e1967b4f796",
-      "title": "Pentagon, BAE sign deal for up to 25,000 precision-guided munition kits a year",
-      "summary": "The Pentagon and BAE Systems signed a framework agreement for up to 25,000 Advanced Precision Kill Weapon System, or APKWS, guidance kits a year.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year/",
-      "publishedAt": "2026-10-19T18:50:11Z"
-    },
-    {
-      "id": "a60ad131d7b585f5d8bdafff",
-      "title": "Lt. Gen. Hilbert discusses Eighth Army’s role in Northeast Asia",
-      "summary": "Senior leader highlights the command’s support to U.S. Forces Korea and regional deterrence.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577382/lt-gen-hilbert-discusses-eighth-armys-role-northeast-asia",
-      "publishedAt": "2026-10-19T18:49:31Z"
     }
   ],
   "nextPage": "page-6.json"
