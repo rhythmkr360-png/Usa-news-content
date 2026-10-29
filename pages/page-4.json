@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T20:19:03Z",
+  "generatedAt": "2026-10-29T01:00:26Z",
   "articles": [
+    {
+      "id": "e27d4e7fcab59c57761f0397",
+      "title": "AMC honors 10 civilian and military personnel driving workplace excellence",
+      "summary": "The U.S. Army Materiel Command has announced its third quarter, fiscal year 2026 Employees of the Quarter, honoring 10 exceptional civilian and military personnel. These awards recognize outstanding individual contributions that directly drive workplace productivity, employee retention, and overall mission readiness across the enterprise.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577703/amc-honors-10-civilian-and-military-personnel-driving-workplace-excellence",
+      "publishedAt": "2026-10-23T14:26:59Z"
+    },
+    {
+      "id": "f186fca8c135483984170154",
+      "title": "From Arrest to Advocacy: Aberdeen Proving Ground Employee Shares Journey to Recovery",
+      "summary": "For Michelle Twist, a U.S. Army Garrison Aberdeen Proving Ground employee, that moment came in 2015. As the Army observes Substance Abuse Awareness Month, Twist is sharing her personal story of overcoming opioid addiction to inspire others to seek the help they need before a crisis.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577704/arrest-advocacy-aberdeen-proving-ground-employee-shares-journey-recovery",
+      "publishedAt": "2026-10-23T14:21:15Z"
+    },
+    {
+      "id": "63a3c128cd923495c1875adc",
+      "title": "White House military spouse council floats toll cuts for troops commuting to base",
+      "summary": "The council said recent toll cuts at MacDill Air Force Base in Tampa, Florida, should be used as a “template” for other bases across the U.S. The post White House military spouse council floats toll cuts for troops commuting to base appeared first on Task & Purpose .",
+      "category": "Defense",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/military-spouse-toll-cuts-troops/",
+      "publishedAt": "2026-10-23T14:08:22Z"
+    },
+    {
+      "id": "4d60b5a1f48504716548071e",
+      "title": "U.S. Pacific Command deputy commander visits Japan, highlights combined readiness",
+      "summary": "The deputy commander of U.S. Pacific Command visited Japan to commence Exercise Keen Sword 2027 and meet with senior military and government leaders, Oct. 18-21.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577698/us-pacific-command-deputy-commander-visits-japan-highlights-combined-readiness",
+      "publishedAt": "2026-10-23T12:58:27Z"
+    },
+    {
+      "id": "ec062f45d064d7e601f31860",
+      "title": "NCNG 2-120th Infantry Regiment Re-activates",
+      "summary": "LENOIR, N.C. — For the first time in two decades, the North Carolina National Guard 2nd Battalion, 120th Infantry Regiment, 30th Mobile Brigade Combat Team unraveled their colors as the unit was officially re-activated during a ceremony, here on Oct. 18th, 2026.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577694/ncng-2-120th-infantry-regiment-re-activates",
+      "publishedAt": "2026-10-23T12:58:19Z"
+    },
     {
       "id": "17f6a29ec8e792ed1340dd22",
       "title": "31 Dental Squadron partners with USS Lewis B. Puller to support Navy readiness",
@@ -316,51 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577602/us-navy-marine-corps-and-mexican-navy-conclude-10th-annual-maritime-staff-talks",
       "publishedAt": "2026-10-22T14:12:27Z"
-    },
-    {
-      "id": "0027d339b1210d507412188b",
-      "title": "The Pentagon wants ketamine wafers as a battlefield medicine option",
-      "summary": "The Pentagon awarded a multi-million-dollar contract to the Singapore-based iX Biopharma to develop a small, ketamine-packed wafer.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/the-pentagon-wants-ketamine-wafers-as-a-battlefield-medicine-option/",
-      "publishedAt": "2026-10-22T13:45:04Z"
-    },
-    {
-      "id": "1e381de3cbf0ad63a1155e77",
-      "title": "Jackson, USACE breaks ground on new child center",
-      "summary": "Fort Jackson and the U.S. Army Corps of Engineers broke ground Oct. 20 on a new child development center that is a sign of the commitment to its families and to Army readiness.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577598/jackson-usace-breaks-ground-new-child-center",
-      "publishedAt": "2026-10-22T13:38:44Z"
-    },
-    {
-      "id": "4d430678127b21cdec309c29",
-      "title": "Pentagon ignored cybersecurity flaws before data breach, Marines’ lawsuit says",
-      "summary": "A pair of Marines filed a class-action lawsuit Tuesday against the Pentagon over a data breach at the Defense Manpower Data Center.",
-      "category": "Marine Corps",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/pentagon-ignored-cybersecurity-flaws-before-data-breach-marines-lawsuit-says/",
-      "publishedAt": "2026-10-22T13:03:46Z"
-    },
-    {
-      "id": "56a4e3a814447d3770b0ea47",
-      "title": "Pentagon, Lockheed agree to decade-long F-35 framework deal for hundreds of jets",
-      "summary": "The tentative agreement, which still needs lawmakers’ blessing, covers production and sustainment over the 10 years.",
-      "category": "Air Force",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/pentagon-lockheed-agree-to-decade-long-f-35-framework-deal-for-hundreds-of-jets/",
-      "publishedAt": "2026-10-22T12:57:21Z"
-    },
-    {
-      "id": "1b0f8d40d24387c3ee62ed1f",
-      "title": "156th Wing optometrist bridges healthcare gaps, earns national award",
-      "summary": "LAS VEGAS, Nevada — U.S. Air Force Lt. Col. Alex Garcia, an optometrist assigned to the 156th Medical Group, Puerto Rico Air National Guard, was named the Reserve/Guard Optometrist of the Year by the Armed Forces Optometric Society during the 2026 AFOS Convention in Las Vegas, Nevada, Sept. 15–20, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577592/156th-wing-optometrist-bridges-healthcare-gaps-earns-national-award",
-      "publishedAt": "2026-10-22T12:15:47Z"
     }
   ],
   "nextPage": "page-5.json"

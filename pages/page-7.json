@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T20:19:03Z",
+  "generatedAt": "2026-10-29T01:00:26Z",
   "articles": [
+    {
+      "id": "77ca9981d6d6ab69afd39671",
+      "title": "Groups seek clarity on motive behind Pentagon’s study of women in combat",
+      "summary": "Citing concerns about Hegseth’s views on the topic, the lawsuit asks for records showing the scope, purpose, methodology and anticipated use of the study.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/10/19/groups-seek-clarity-on-motive-behind-pentagons-study-of-women-in-combat/",
+      "publishedAt": "2026-10-19T14:00:00Z"
+    },
+    {
+      "id": "c66d87bd390163014cd4d687",
+      "title": "Navy Medicine Sailors return home from deployment",
+      "summary": "An elite, far-forward Navy Medicine surgical asset returned to U.S. soil on Oct. 17, 2026, touching down at the military air terminal at Naval Air Station Norfolk following a seven-month deployment to the U.S. Central Command (CENTCOM) area of responsibility.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577220/navy-medicine-sailors-return-home-deployment",
+      "publishedAt": "2026-10-19T13:16:53Z"
+    },
+    {
+      "id": "fd77482349749a39968a7877",
+      "title": "US Army Cyber Command charts course for human-AI equilibrium",
+      "summary": "U.S. Army Cyber Command is constantly refining human oversight of artificial intelligence, Lt. Gen. Christopher Eubank said last week.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/19/us-army-cyber-command-charts-course-for-human-ai-equilibrium/",
+      "publishedAt": "2026-10-19T13:00:00Z"
+    },
+    {
+      "id": "05be42e1cbdce12655da0ed7",
+      "title": "SETAF-AF joins G-TEAD, USAREUR-AF at AUSA to explain how operational challenges in Africa drive tactical solutions",
+      "summary": "WASHINGTON – The U.S. Army Southern European Task Force, Africa (SETAF-AF) commander outlined how Africa is where operational problems are defined, solutions are tested in realistic conditions, and results are shared across the Army during the 2026 Association of the United States Army Annual Meeting and Exposition at the Walter E.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577216/setaf-af-joins-g-tead-usareur-af-ausa-explain-operational-challenges-africa-drive-tactical-solutions",
+      "publishedAt": "2026-10-19T12:43:05Z"
+    },
+    {
+      "id": "744665023d4e843acf80994a",
+      "title": "Readout of U.S. Naval Forces Central Command/U.S. 5th Fleet/Combined Maritime Forces Vice Adm. Curt Renshaw's Meeting with Kuwaiti Defense Leaders",
+      "summary": "TAMPA, Fla. (Oct. 19, 2026) U.S. Naval Forces Central Command/U.S. 5th Fleet/Combined Maritime Forces Commander Vice Adm. Curt Renshaw met with key Kuwaiti political and defense leaders during a trip to Kuwait City, Kuwait, Oct. 18-19.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577217/readout-us-naval-forces-central-command-us-5th-fleet-combined-maritime-forces-vice-adm-curt-renshaws-meeting-with-kuwaiti",
+      "publishedAt": "2026-10-19T12:19:21Z"
+    },
     {
       "id": "57989bac5806bee3b702c560",
       "title": "US Army acquisition command awards contracts worth $6.8B in 2026",
@@ -73,51 +118,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577189/connecticut-national-guard-hosts-welcome-home-ceremony-1-102nd-infantry",
       "publishedAt": "2026-10-19T01:56:54Z"
-    },
-    {
-      "id": "ecb736d5f338715018069901",
-      "title": "Forging Agile Leaders: 192nd Wing officers sharpen leadership skills during inaugural exercise",
-      "summary": "On October 17, 2026, junior officers from the Virginia Air National Guard's 192nd Wing participated in an inaugural development exercise at Joint Base Langley-Eustis to strengthen their leadership and decision making skills for Agile Combat Employment operations.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577207/forging-agile-leaders-192nd-wing-officers-sharpen-leadership-skills-during-inaugural-exercise",
-      "publishedAt": "2026-10-18T23:37:14Z"
-    },
-    {
-      "id": "99f481d62d702dc9f581868e",
-      "title": "‘Join the National Guard’ for family, says Oregon’s newest general",
-      "summary": "Col. Russell Gibson, assistant adjutant general for the Oregon Army National Guard, was promoted to brigadier general during a ceremony at the 41st Infantry Division Armed Forces Reserve Center in Clackamas, Ore., Oct. 17, 2026. Brig. Gen.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577203/join-national-guard-family-says-oregons-newest-general",
-      "publishedAt": "2026-10-18T22:12:14Z"
-    },
-    {
-      "id": "ee8d6da03e0d689c4801d471",
-      "title": "Voices of the VaANG: Master Sgt. Sabrina Jahner and Tech. Sgt. Stephen Kolmer, Leader Empowerment and Development program instructors",
-      "summary": "Master Sgt. Sabrina Jahner and Tech. Sgt. Stephen Kolmer have been selected as the new instructors to spearhead the Virginia Air National Guard's reignited Leader Empowerment and Development program.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577204/voices-vaang-master-sgt-sabrina-jahner-and-tech-sgt-stephen-kolmer-leader-empowerment-and-development-program-instructors",
-      "publishedAt": "2026-10-18T21:56:28Z"
-    },
-    {
-      "id": "893eb3d1ed64a013d9567b63",
-      "title": "Multi-state RED HORSE units fortify Pacific airfields, advance Agile Combat Employment",
-      "summary": "Civil engineers from the Virginia Air National Guard’s 203rd RED HORSE completed a historic deployment across Guam, Japan and Tinian, partnering with Florida Air National Guard and active-duty units under the 513th Expeditionary RED HORSE banner.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577202/multi-state-red-horse-units-fortify-pacific-airfields-advance-agile-combat-employment",
-      "publishedAt": "2026-10-18T21:38:09Z"
-    },
-    {
-      "id": "8a28c5a8c59de63c5809d86d",
-      "title": "Kansas honors 130th Field Artillery Brigade with homecoming from Operation Epic Fury",
-      "summary": "The Kansas Army National Guard's 130th Field Artillery Brigade was recognized at a Yellow Ribbon reintegration event after a deployment that shifted from the deterrence-focused Operation Spartan Shield to the combat operations of Operation Epic Fury.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577199/kansas-honors-130th-field-artillery-brigade-with-homecoming-operation-epic-fury",
-      "publishedAt": "2026-10-18T21:08:28Z"
     }
   ]
 }

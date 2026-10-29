@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T20:19:03Z",
+  "generatedAt": "2026-10-29T01:00:26Z",
   "articles": [
+    {
+      "id": "d29324c847211b18ef7d2475",
+      "title": "US Army queries industry’s ability to build 21,000 Infantry Squad Vehicles",
+      "summary": "The U.S. Army published a market survey Monday in an effort to learn whether the defense industrial base could deliver 9,000 ISV-9s and about 12,000 ISV-Us.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles/",
+      "publishedAt": "2026-10-27T19:22:31Z"
+    },
+    {
+      "id": "a9bf30001ff0f749240c167a",
+      "title": "Corps of Engineers, city of Wabasha, Minnesota, reach milestone with river sand management",
+      "summary": "ST. PAUL, Minn. – The U.S. Army Corps of Engineers, St. Paul District, and the city of Wabasha, Minnesota, reached a major milestone last week in the management of Mississippi River sand removed from the navigation channel.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577994/corps-engineers-city-wabasha-minnesota-reach-milestone-with-river-sand-management",
+      "publishedAt": "2026-10-27T18:58:35Z"
+    },
+    {
+      "id": "8e3cb23fbc13cb4fdd69f3e3",
+      "title": "MV-75 Cheyenne gains Soldier insights during sixth Special User Evaluation",
+      "summary": "Aviators from the Operational Development Team (ODT) and Soldiers representing the National Guard State Army Aviation Office (SAAO) Advisory Council Working Group participated in the sixth MV-75 Cheyenne Special User Evaluation (SUE) Aug. 24–28, 2026.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577991/mv-75-cheyenne-gains-soldier-insights-during-sixth-special-user-evaluation",
+      "publishedAt": "2026-10-27T18:47:26Z"
+    },
+    {
+      "id": "335120dcbc8fe5dbe4a7cb3e",
+      "title": "Col. Brewer assumes command of Fort Buchanan, emphasizes readiness and community partnership",
+      "summary": "Service members, civilians and families gathered at the installation's community club Oct. 27 to witness Col. David L. Brewer assume command of U.S. Army Garrison Fort Buchanan, marking a leadership transition focused on sustaining military readiness and strengthening the installation's strategic role in the Caribbean.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577987/col-brewer-assumes-command-fort-buchanan-emphasizes-readiness-and-community-partnership",
+      "publishedAt": "2026-10-27T18:15:53Z"
+    },
+    {
+      "id": "0ac8f2c51c66dadbe4c85750",
+      "title": "What’s haunting the Pentagon this Halloween?",
+      "summary": "Three special guests, and Mark, share a few frightening mysteries from their beats — from the dangers of war in space to the intricacies of upgrading America’s nuclear weapons.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/10/whats-haunting-the-pentagon-this-halloween/",
+      "publishedAt": "2026-10-27T17:45:00Z"
+    },
     {
       "id": "23cd59404116909ab42205e5",
       "title": "US Army looks to high-flying balloons to help see, strike along front lines with China",
@@ -316,51 +361,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/video/2026/10/26/bce-consulting-outlines-the-critical-elements-of-layered-air-defense-architecture/",
       "publishedAt": "2026-10-26T16:41:59Z"
-    },
-    {
-      "id": "3562d393638b59e3b9260677",
-      "title": "Is the Pentagon’s demand signal for drones working? It depends on who you ask.",
-      "summary": "“There’s a lot of positive signaling, but we need to see the whites of the eyes: We need to see sustained, normalized demand,” said James Slider, CEO of Performance Drone Works.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/is-the-pentagons-demand-signal-for-drones-working-it-depends-on-who-you-ask/",
-      "publishedAt": "2026-10-26T14:28:38Z"
-    },
-    {
-      "id": "bfb37cf7f3011ef1f09b2331",
-      "title": "U.S. Civil Affairs Soldiers build NATO partnerships at Estonian shooting competition",
-      "summary": "Two U.S. Army Civil Affairs Soldiers competed alongside service members from Estonia, the United Kingdom and France during the Estonian Defence Forces Shooting Competition 2026 in Harju County, Estonia, from Oct. 21-22.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577863/us-civil-affairs-soldiers-build-nato-partnerships-estonian-shooting-competition",
-      "publishedAt": "2026-10-26T10:12:31Z"
-    },
-    {
-      "id": "f157355313b04586ec41fb2e",
-      "title": "BS27-1: MAD for Military Assisted Departure",
-      "summary": "U.S. Air Force Airmen assigned to the 718th Force Support Squadron worked in conjunction with various units across the 18th Wing and joint services to coordinate a military assisted departure during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 26, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577858/bs27-1-mad-military-assisted-departure",
-      "publishedAt": "2026-10-26T09:25:13Z"
-    },
-    {
-      "id": "82692208ac588ba707da3e43",
-      "title": "BS27-1: Ready to defend",
-      "summary": "KADENA AIR BASE, Japan – U.S. Air Force Airmen assigned to the 18th Logistics Readiness Squadron issued weapons to personnel participating in Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 26, 2026. The weapons issue prepares Airmen to respond to simulated threats and operate in a contingency environment.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577861/bs27-1-ready-defend",
-      "publishedAt": "2026-10-26T09:23:48Z"
-    },
-    {
-      "id": "293d130526636e5169abb676",
-      "title": "BS27-1: 18th SFS neutralizes the threat",
-      "summary": "When shots are fired, 18th Security Forces Squadron rushes toward the source. U.S. Air Force Airmen assigned to the 18th SFS responded to a simulated ground attack during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 26, 2026, neutralizing two simulated attackers and testing their ability to respond to evolving threats.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577857/bs27-1-18th-sfs-neutralizes-threat",
-      "publishedAt": "2026-10-26T08:21:54Z"
     }
   ],
   "nextPage": "page-3.json"

@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T20:19:03Z",
+  "generatedAt": "2026-10-29T01:00:26Z",
   "articles": [
+    {
+      "id": "f311d938329a48c505a04fff",
+      "title": "US Navy reports highest number of Class A aviation, afloat mishaps in 10 years",
+      "summary": "The U.S. Navy reported a decade-high number of unplanned catastrophic events involving aircraft and vessels.",
+      "category": "Navy",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/naval/2026/10/28/us-navy-reports-highest-number-of-class-a-aviation-afloat-mishaps-in-10-years/",
+      "publishedAt": "2026-10-28T23:02:32Z"
+    },
+    {
+      "id": "61420957b4700b8ef3ca31d2",
+      "title": "BS27-1: No room for error - Kadena EOD keeps the mission moving",
+      "summary": "KADENA AIR BASE, Japan — U.S. Air Force Airmen assigned to the 18th Civil Engineer Squadron Explosive Ordnance Disposal flight secured installation infrastructure and neutralized simulated explosives during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 28, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578132/bs27-1-no-room-error-kadena-eod-keeps-mission-moving",
+      "publishedAt": "2026-10-28T22:18:35Z"
+    },
+    {
+      "id": "8e270fb96759535d224197c8",
+      "title": "Army Reserve inspectors general reaffirm commitment to readiness during swearing-in ceremony",
+      "summary": "Twenty-two U.S. Army Reserve inspectors general, including Col. Will Pope, took the oath of office during a ceremony led by Lt. Gen. Robert D. Harter at Fort Bragg, North Carolina, Oct. 28, 2026.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578129/army-reserve-inspectors-general-reaffirm-commitment-readiness-during-swearing-ceremony",
+      "publishedAt": "2026-10-28T22:10:31Z"
+    },
+    {
+      "id": "990873e9eeb7aba55f4e122a",
+      "title": "Clear Skies and Tailwinds: Celebrating the Legendary Career of Marvin “Lynn” Hanks",
+      "summary": "For more than five decades, the story of United States Army aviation has been written in the skies, defined by rapid technological leaps, rigorous safety standards, and brave pioneers who pushed aircraft to their absolute aerodynamic limits. Few individuals have shaped this narrative as profoundly, or for as long, as Marvin \"Lynn\" Hanks.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578127/clear-skies-and-tailwinds-celebrating-legendary-career-marvin-lynn-hanks",
+      "publishedAt": "2026-10-28T21:51:51Z"
+    },
+    {
+      "id": "58efb269cb753a05e6b23256",
+      "title": "BS27-1: 18th SFS tests attack response during Beverly Sword",
+      "summary": "KADENA AIR BASE, Japan - U.S. Air Force Airmen assigned to the 18th Security Forces Squadron respond to a simulated missile strike to their building, conducting a sweep and evacuation of personnel during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 28, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578123/bs27-1-18th-sfs-tests-attack-response-during-beverly-sword",
+      "publishedAt": "2026-10-28T20:23:12Z"
+    },
     {
       "id": "0cf740a91f271ed60a04eb8e",
       "title": "Cost estimate for Iran war rises to more than $47 billion",
@@ -316,51 +361,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health/",
       "publishedAt": "2026-10-27T19:24:01Z"
-    },
-    {
-      "id": "d29324c847211b18ef7d2475",
-      "title": "US Army queries industry’s ability to build 21,000 Infantry Squad Vehicles",
-      "summary": "The U.S. Army published a market survey Monday in an effort to learn whether the defense industrial base could deliver 9,000 ISV-9s and about 12,000 ISV-Us.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles/",
-      "publishedAt": "2026-10-27T19:22:31Z"
-    },
-    {
-      "id": "a9bf30001ff0f749240c167a",
-      "title": "Corps of Engineers, city of Wabasha, Minnesota, reach milestone with river sand management",
-      "summary": "ST. PAUL, Minn. – The U.S. Army Corps of Engineers, St. Paul District, and the city of Wabasha, Minnesota, reached a major milestone last week in the management of Mississippi River sand removed from the navigation channel.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577994/corps-engineers-city-wabasha-minnesota-reach-milestone-with-river-sand-management",
-      "publishedAt": "2026-10-27T18:58:35Z"
-    },
-    {
-      "id": "8e3cb23fbc13cb4fdd69f3e3",
-      "title": "MV-75 Cheyenne gains Soldier insights during sixth Special User Evaluation",
-      "summary": "Aviators from the Operational Development Team (ODT) and Soldiers representing the National Guard State Army Aviation Office (SAAO) Advisory Council Working Group participated in the sixth MV-75 Cheyenne Special User Evaluation (SUE) Aug. 24–28, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577991/mv-75-cheyenne-gains-soldier-insights-during-sixth-special-user-evaluation",
-      "publishedAt": "2026-10-27T18:47:26Z"
-    },
-    {
-      "id": "335120dcbc8fe5dbe4a7cb3e",
-      "title": "Col. Brewer assumes command of Fort Buchanan, emphasizes readiness and community partnership",
-      "summary": "Service members, civilians and families gathered at the installation's community club Oct. 27 to witness Col. David L. Brewer assume command of U.S. Army Garrison Fort Buchanan, marking a leadership transition focused on sustaining military readiness and strengthening the installation's strategic role in the Caribbean.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577987/col-brewer-assumes-command-fort-buchanan-emphasizes-readiness-and-community-partnership",
-      "publishedAt": "2026-10-27T18:15:53Z"
-    },
-    {
-      "id": "0ac8f2c51c66dadbe4c85750",
-      "title": "What’s haunting the Pentagon this Halloween?",
-      "summary": "Three special guests, and Mark, share a few frightening mysteries from their beats — from the dangers of war in space to the intricacies of upgrading America’s nuclear weapons.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/whats-haunting-the-pentagon-this-halloween/",
-      "publishedAt": "2026-10-27T17:45:00Z"
     }
   ],
   "nextPage": "pages/page-2.json"

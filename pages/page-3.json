@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T20:19:03Z",
+  "generatedAt": "2026-10-29T01:00:26Z",
   "articles": [
+    {
+      "id": "3562d393638b59e3b9260677",
+      "title": "Is the Pentagon’s demand signal for drones working? It depends on who you ask.",
+      "summary": "“There’s a lot of positive signaling, but we need to see the whites of the eyes: We need to see sustained, normalized demand,” said James Slider, CEO of Performance Drone Works.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/10/is-the-pentagons-demand-signal-for-drones-working-it-depends-on-who-you-ask/",
+      "publishedAt": "2026-10-26T14:28:38Z"
+    },
+    {
+      "id": "bfb37cf7f3011ef1f09b2331",
+      "title": "U.S. Civil Affairs Soldiers build NATO partnerships at Estonian shooting competition",
+      "summary": "Two U.S. Army Civil Affairs Soldiers competed alongside service members from Estonia, the United Kingdom and France during the Estonian Defence Forces Shooting Competition 2026 in Harju County, Estonia, from Oct. 21-22.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577863/us-civil-affairs-soldiers-build-nato-partnerships-estonian-shooting-competition",
+      "publishedAt": "2026-10-26T10:12:31Z"
+    },
+    {
+      "id": "f157355313b04586ec41fb2e",
+      "title": "BS27-1: MAD for Military Assisted Departure",
+      "summary": "U.S. Air Force Airmen assigned to the 718th Force Support Squadron worked in conjunction with various units across the 18th Wing and joint services to coordinate a military assisted departure during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 26, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577858/bs27-1-mad-military-assisted-departure",
+      "publishedAt": "2026-10-26T09:25:13Z"
+    },
+    {
+      "id": "82692208ac588ba707da3e43",
+      "title": "BS27-1: Ready to defend",
+      "summary": "KADENA AIR BASE, Japan – U.S. Air Force Airmen assigned to the 18th Logistics Readiness Squadron issued weapons to personnel participating in Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 26, 2026. The weapons issue prepares Airmen to respond to simulated threats and operate in a contingency environment.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577861/bs27-1-ready-defend",
+      "publishedAt": "2026-10-26T09:23:48Z"
+    },
+    {
+      "id": "293d130526636e5169abb676",
+      "title": "BS27-1: 18th SFS neutralizes the threat",
+      "summary": "When shots are fired, 18th Security Forces Squadron rushes toward the source. U.S. Air Force Airmen assigned to the 18th SFS responded to a simulated ground attack during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 26, 2026, neutralizing two simulated attackers and testing their ability to respond to evolving threats.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577857/bs27-1-18th-sfs-neutralizes-threat",
+      "publishedAt": "2026-10-26T08:21:54Z"
+    },
     {
       "id": "154955082f9de8db7fd738dd",
       "title": "U.S., Japanese forces exercise rapid airfield damage repair during Keen Sword 27",
@@ -316,51 +361,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling/",
       "publishedAt": "2026-10-23T14:29:17Z"
-    },
-    {
-      "id": "e27d4e7fcab59c57761f0397",
-      "title": "AMC honors 10 civilian and military personnel driving workplace excellence",
-      "summary": "The U.S. Army Materiel Command has announced its third quarter, fiscal year 2026 Employees of the Quarter, honoring 10 exceptional civilian and military personnel. These awards recognize outstanding individual contributions that directly drive workplace productivity, employee retention, and overall mission readiness across the enterprise.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577703/amc-honors-10-civilian-and-military-personnel-driving-workplace-excellence",
-      "publishedAt": "2026-10-23T14:26:59Z"
-    },
-    {
-      "id": "f186fca8c135483984170154",
-      "title": "From Arrest to Advocacy: Aberdeen Proving Ground Employee Shares Journey to Recovery",
-      "summary": "For Michelle Twist, a U.S. Army Garrison Aberdeen Proving Ground employee, that moment came in 2015. As the Army observes Substance Abuse Awareness Month, Twist is sharing her personal story of overcoming opioid addiction to inspire others to seek the help they need before a crisis.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577704/arrest-advocacy-aberdeen-proving-ground-employee-shares-journey-recovery",
-      "publishedAt": "2026-10-23T14:21:15Z"
-    },
-    {
-      "id": "63a3c128cd923495c1875adc",
-      "title": "White House military spouse council floats toll cuts for troops commuting to base",
-      "summary": "The council said recent toll cuts at MacDill Air Force Base in Tampa, Florida, should be used as a “template” for other bases across the U.S. The post White House military spouse council floats toll cuts for troops commuting to base appeared first on Task & Purpose .",
-      "category": "Defense",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/military-spouse-toll-cuts-troops/",
-      "publishedAt": "2026-10-23T14:08:22Z"
-    },
-    {
-      "id": "4d60b5a1f48504716548071e",
-      "title": "U.S. Pacific Command deputy commander visits Japan, highlights combined readiness",
-      "summary": "The deputy commander of U.S. Pacific Command visited Japan to commence Exercise Keen Sword 2027 and meet with senior military and government leaders, Oct. 18-21.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577698/us-pacific-command-deputy-commander-visits-japan-highlights-combined-readiness",
-      "publishedAt": "2026-10-23T12:58:27Z"
-    },
-    {
-      "id": "ec062f45d064d7e601f31860",
-      "title": "NCNG 2-120th Infantry Regiment Re-activates",
-      "summary": "LENOIR, N.C. — For the first time in two decades, the North Carolina National Guard 2nd Battalion, 120th Infantry Regiment, 30th Mobile Brigade Combat Team unraveled their colors as the unit was officially re-activated during a ceremony, here on Oct. 18th, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577694/ncng-2-120th-infantry-regiment-re-activates",
-      "publishedAt": "2026-10-23T12:58:19Z"
     }
   ],
   "nextPage": "page-4.json"
