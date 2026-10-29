@@ -1,5 +1,41 @@
 [
   {
+    "id": "0c191a8d5ea0fe53c23e4391",
+    "title": "BS27-1: 18th Wing trains for mass passenger arrival",
+    "summary": "U.S. Air Force Airmen assigned to the 18th Wing processed simulated passengers following an aircraft diversion during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 29, 2026. Airmen accounted for passengers, provided tactical combat casualty care and established an area for simulated casualties to receive medical attention and rest.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578143/bs27-1-18th-wing-trains-mass-passenger-arrival",
+    "publishedAt": "2026-10-29T09:06:35Z"
+  },
+  {
+    "id": "5528ebbdcc7ee865f43c7e2a",
+    "title": "SPP Exchange Advances ROK Army’s 2040 Defense Reform",
+    "summary": "The Hawaiʻi and Oregon National Guards, Armed Forces of the Philippines, and U.S. Pacific Command joined the Republic of Korea Army for a multilateral reserve readiness exchange in South Korea, Sept. 8–11, 2026.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578133/spp-exchange-advances-rok-armys-2040-defense-reform",
+    "publishedAt": "2026-10-29T08:29:28Z"
+  },
+  {
+    "id": "84ed48c54d41347c2c431f50",
+    "title": "Hudson Assumes Command of USACE Pacific Ocean Division",
+    "summary": "With the responsibility for close to nine million square miles of the Pacific, Army Col. Timothy P. Hudson assumed command of the U.S. Army Corps of Engineers’ Pacific Ocean Division on Oct. 27 as the 36th commander and division engineer.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578139/hudson-assumes-command-usace-pacific-ocean-division",
+    "publishedAt": "2026-10-29T04:15:34Z"
+  },
+  {
+    "id": "f6912b6e8359c26ac0621365",
+    "title": "Beyond the Uniform: U.S. Marines donate blood to support military readiness",
+    "summary": "U.S. Marines stationed on Camp Hansen donated blood during a blood drive hosted by the Armed Services Blood Bank Center (ASBBC), Oct. 26, 2026, helping sustain a supply essential to emergency medical care and military readiness.",
+    "category": "Marine Corps",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578136/beyond-uniform-us-marines-donate-blood-support-military-readiness",
+    "publishedAt": "2026-10-29T01:21:29Z"
+  },
+  {
     "id": "f311d938329a48c505a04fff",
     "title": "US Navy reports highest number of Class A aviation, afloat mishaps in 10 years",
     "summary": "The U.S. Navy reported a decade-high number of unplanned catastrophic events involving aircraft and vessels.",
@@ -2221,59 +2257,5 @@
     "sourceName": "Defense News",
     "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-army-showing-interest-in-gator-missile-killing-radar-northrop-says/",
     "publishedAt": "2026-10-19T11:00:00Z"
-  },
-  {
-    "id": "9b32422322b7525455c135f6",
-    "title": "A shifting landscape: Where the US Army moved in 2026 and what may be on the horizon",
-    "summary": "As seasons signal the waning months of 2026, the U.S. Army’s operational map continues to evolve.",
-    "category": "Army",
-    "sourceName": "Defense News",
-    "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/16/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon/",
-    "publishedAt": "2026-10-19T10:00:00Z"
-  },
-  {
-    "id": "9203812ad1db3ef6ef9b57e3",
-    "title": "US Army fields new system for sweeping munitions planning, management",
-    "summary": "The service expects this first increment of TACTMIS to replace the previously used TAMIS system once it retires on Oct. 30.",
-    "category": "Army",
-    "sourceName": "Defense News",
-    "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/15/us-army-fields-new-system-for-sweeping-munitions-planning-management/",
-    "publishedAt": "2026-10-19T09:00:00Z"
-  },
-  {
-    "id": "c395b722a86382d222c6cecc",
-    "title": "86th IBCT (MTN) Relinquishes Command of JMTG-U",
-    "summary": "The Joint Multinational Training Group-Ukraine held a colors casing ceremony at the 7th Army Training Command headquarters on Oct. 15, 2026. Task Force Luzon, composed of the 86th Infantry Brigade Combat Team (Mountain) from the Vermont National Guard, cased its colors, relinquishing command responsibility for the mission.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577212/86th-ibct-mtn-relinquishes-command-jmtg-u",
-    "publishedAt": "2026-10-19T06:40:16Z"
-  },
-  {
-    "id": "5b97b7051598e4d5ee10bb91",
-    "title": "Passing the colors: Inigo gives final salute to 103rd Troop Command Soldiers",
-    "summary": "Col. Phoebe P. Inigo relinquished command of the 103rd Troop Command to Col. Byron Cadiz during a ceremony presided over by Brig. Gen. Ronald D. Hogsten, commander of the Hawaii Army National Guard. Inigo’s 22 months in command included responses to natural disasters, federal mobilizations and training with international partners.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577210/passing-colors-inigo-gives-final-salute-103rd-troop-command-soldiers",
-    "publishedAt": "2026-10-19T05:13:29Z"
-  },
-  {
-    "id": "0b29ea7ad42547c00b4e8859",
-    "title": "JMSDF Fleet Submarine Force Commander visits CTF-74",
-    "summary": "YOKOSUKA, Japan — Japan Maritime Self-Defense Force (JMSDF) Vice Adm. Noaya Hoshi, commander, Fleet Submarine Force, met with U.S. Navy Rear Adm. Gary Montalvo Jr., commander, Submarine Group 7 (CSG 7)/Task Force 74 (CTF 74) at Commander, Fleet Activities Yokosuka on Oct. 13, 2026.",
-    "category": "Navy",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577209/jmsdf-fleet-submarine-force-commander-visits-ctf-74",
-    "publishedAt": "2026-10-19T04:09:51Z"
-  },
-  {
-    "id": "b1410476a20c6bbd07f06c67",
-    "title": "Connecticut National Guard hosts welcome home ceremony for 1-102nd Infantry",
-    "summary": "The Connecticut National Guard hosted a welcome home ceremony and Yellow Ribbon reintegration event for 1st Battalion, 102nd Infantry at the Gov. William A. O’Neill armory Oct. 17, 2026.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577189/connecticut-national-guard-hosts-welcome-home-ceremony-1-102nd-infantry",
-    "publishedAt": "2026-10-19T01:56:54Z"
   }
 ]

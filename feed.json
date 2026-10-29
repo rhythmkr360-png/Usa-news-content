@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T01:00:26Z",
+  "generatedAt": "2026-10-29T10:03:05Z",
   "articles": [
+    {
+      "id": "0c191a8d5ea0fe53c23e4391",
+      "title": "BS27-1: 18th Wing trains for mass passenger arrival",
+      "summary": "U.S. Air Force Airmen assigned to the 18th Wing processed simulated passengers following an aircraft diversion during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 29, 2026. Airmen accounted for passengers, provided tactical combat casualty care and established an area for simulated casualties to receive medical attention and rest.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578143/bs27-1-18th-wing-trains-mass-passenger-arrival",
+      "publishedAt": "2026-10-29T09:06:35Z"
+    },
+    {
+      "id": "5528ebbdcc7ee865f43c7e2a",
+      "title": "SPP Exchange Advances ROK Army’s 2040 Defense Reform",
+      "summary": "The Hawaiʻi and Oregon National Guards, Armed Forces of the Philippines, and U.S. Pacific Command joined the Republic of Korea Army for a multilateral reserve readiness exchange in South Korea, Sept. 8–11, 2026.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578133/spp-exchange-advances-rok-armys-2040-defense-reform",
+      "publishedAt": "2026-10-29T08:29:28Z"
+    },
+    {
+      "id": "84ed48c54d41347c2c431f50",
+      "title": "Hudson Assumes Command of USACE Pacific Ocean Division",
+      "summary": "With the responsibility for close to nine million square miles of the Pacific, Army Col. Timothy P. Hudson assumed command of the U.S. Army Corps of Engineers’ Pacific Ocean Division on Oct. 27 as the 36th commander and division engineer.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578139/hudson-assumes-command-usace-pacific-ocean-division",
+      "publishedAt": "2026-10-29T04:15:34Z"
+    },
+    {
+      "id": "f6912b6e8359c26ac0621365",
+      "title": "Beyond the Uniform: U.S. Marines donate blood to support military readiness",
+      "summary": "U.S. Marines stationed on Camp Hansen donated blood during a blood drive hosted by the Armed Services Blood Bank Center (ASBBC), Oct. 26, 2026, helping sustain a supply essential to emergency medical care and military readiness.",
+      "category": "Marine Corps",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578136/beyond-uniform-us-marines-donate-blood-support-military-readiness",
+      "publishedAt": "2026-10-29T01:21:29Z"
+    },
     {
       "id": "f311d938329a48c505a04fff",
       "title": "US Navy reports highest number of Class A aviation, afloat mishaps in 10 years",
@@ -325,42 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578008/roads-rumble-us-and-panamanian-partner-forces-provide-humanitarian-assistance-and-disaster-relief",
       "publishedAt": "2026-10-27T21:38:33Z"
-    },
-    {
-      "id": "4b31b6136fe421e5434cefc0",
-      "title": "US military’s drug boat strikes have now killed at least 240 people",
-      "summary": "The attack was at least the third deadly strike carried out by U.S. Southern Command this month. The post US military’s drug boat strikes have now killed at least 240 people appeared first on Task & Purpose .",
-      "category": "Defense",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/military-drug-boat-240-killed/",
-      "publishedAt": "2026-10-27T20:31:01Z"
-    },
-    {
-      "id": "d6ae5bb420e8c68343c2b9bc",
-      "title": "US Air Force awards Lockheed Martin $694M hypersonic missile production contract",
-      "summary": "The Air Force granted Lockheed Martin a $694 million contract in late September for the production and fielding of the AGM-183A Air-Launched Rapid Response Weapon, or ARRW.",
-      "category": "Air Force",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-air-force-awards-lockheed-martin-694m-hypersonic-missile-production-contract/",
-      "publishedAt": "2026-10-27T19:53:42Z"
-    },
-    {
-      "id": "6a84ae957adba8dc1ba33f09",
-      "title": "La. Guard leaders address readiness, transformation at annual conference",
-      "summary": "NEW ORLEANS – The Louisiana National Guard held its annual Command and Staff Conference at Jackson Barracks in New Orleans, Oct. 17-18, bringing together brigade and battalion command teams and senior headquarters leaders from across the organization.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578001/la-guard-leaders-address-readiness-transformation-annual-conference",
-      "publishedAt": "2026-10-27T19:53:32Z"
-    },
-    {
-      "id": "059542e421afe3d9032925c4",
-      "title": "Pentagon creates advisory council on human performance, health",
-      "summary": "After creating a new directorate on warfighter optimization within the Department of Defense, the Pentagon announced it will form a federal advisory committee to weigh in on issues affecting troop performance and health.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health/",
-      "publishedAt": "2026-10-27T19:24:01Z"
     }
   ],
   "nextPage": "pages/page-2.json"

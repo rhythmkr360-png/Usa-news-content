@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T01:00:26Z",
+  "generatedAt": "2026-10-29T10:03:05Z",
   "articles": [
+    {
+      "id": "bebe4c940f51df9e2ce781a7",
+      "title": "Peterson Space Force Base Airman receives Department of War Spirit of Hope Award",
+      "summary": "– Established in honor of legendary entertainer Bob Hope, the Spirit of Hope Award is one of the military's most prestigious honors. This award is presented to individuals and organizations who epitomize the core values of service, standing as a testament to the bond between the American public and its service members. Tech. Sgt. Michael D.",
+      "category": "Space Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577715/peterson-space-force-base-airman-receives-department-war-spirit-hope-award",
+      "publishedAt": "2026-10-23T15:46:11Z"
+    },
+    {
+      "id": "e50d6b6e9bf87657af12a86c",
+      "title": "Lost in 1950, Korean War Soldier to be Laid to Rest in Illinois",
+      "summary": "The remains of U.S. Army Pfc. John R. Stovall, 22, who was killed during the Korean War, will be interred at Mount Hope Cemetery in Belleville, Illinois. Services and interment are being coordinated by Kassly Funeral Home.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577710/lost-1950-korean-war-soldier-laid-rest-illinois",
+      "publishedAt": "2026-10-23T15:32:15Z"
+    },
+    {
+      "id": "515863d15af3c5d9928a348d",
+      "title": "Army Activates Air Defense Guam Battalion Focused on Chinese, North Korean Threats",
+      "summary": "The U.S. Army’s recently activated a Guam-based air defense battalion meant to protect the island from increasingly advanced air and missile threats fielded by China and North Korea. The 3rd Battalion, 43rd Air Defense Artillery Regiment, activated on Oct. 16, will inherit the defense of Guam responsibilities of Task Force Talon.",
+      "category": "Army",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/23/army-activates-air-defense-guam-battalion-focused-on-chinese-north-korean-threats",
+      "publishedAt": "2026-10-23T15:13:35Z"
+    },
+    {
+      "id": "a90315915c55076fb60e5d81",
+      "title": "US Air Force wants AI to assist aerial refueling",
+      "summary": "The goal is for AI to automatically analyze refueling operations from cameras mounted on the tankers and provide “hot wash” feedback to the tanker crews.",
+      "category": "Air Force",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling/",
+      "publishedAt": "2026-10-23T14:29:17Z"
+    },
     {
       "id": "e27d4e7fcab59c57761f0397",
       "title": "AMC honors 10 civilian and military personnel driving workplace excellence",
@@ -325,42 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577614/army-corps-sorts-things-out-and-saves-tax-payer-money-atomic-cleanup-program",
       "publishedAt": "2026-10-22T16:04:26Z"
-    },
-    {
-      "id": "73b720b1473e0ef4e5809d34",
-      "title": "Theodore Roosevelt Carrier Strike Group Sails in the Philippine Sea for Keen Sword Drills",
-      "summary": "The Theodore Roosevelt Carrier Strike Group, as well as Japanese, Australian, Canadian and French warships, have gathered in the Philippine Sea to participate in exercise Keen Sword 27.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/22/theodore-roosevelt-carrier-strike-group-sails-in-the-philippine-sea-for-keen-sword-drills",
-      "publishedAt": "2026-10-22T16:02:08Z"
-    },
-    {
-      "id": "4fe341b4e184606d550b24f8",
-      "title": "US Army long-range fires make a splash on the frontline with China",
-      "summary": "The U.S. Army has been upgrading its missiles and rocket artillery, largely in response to China's missile arsenal.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/22/us-army-long-range-fires-make-a-splash-on-the-frontline-with-china/",
-      "publishedAt": "2026-10-22T14:55:35Z"
-    },
-    {
-      "id": "1a33f694661574e3e4c9590b",
-      "title": "Multi-century U.S.-Dutch history focal point of latest CGSC International Hall of Fame induction",
-      "summary": "Dutch Lt. Gen. Jan-Willem Maas, commanding general of Joint Forces Command, Netherlands, was inducted into the U.S. Army Command and General Staff College International Hall of Fame during a ceremony Oct. 16, 2026, at the Lewis and Clark Center, Fort Leavenworth, Kansas.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577605/multi-century-us-dutch-history-focal-point-latest-cgsc-international-hall-fame-induction",
-      "publishedAt": "2026-10-22T14:30:39Z"
-    },
-    {
-      "id": "997d90eb10c16387e37e61b1",
-      "title": "U.S. Navy, Marine Corps, and Mexican Navy Conclude 10th Annual Maritime Staff Talks",
-      "summary": "MEXICO CITY – Senior leaders from the U.S. Navy, U.S. Marine Corps, and the Mexican Navy (Marina) concluded the 10th Annual Maritime Staff Talks (MST) in Mexico City, Oct. 20-21, 2026, reinforcing a decade of sustained partnership and deepening security cooperation.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577602/us-navy-marine-corps-and-mexican-navy-conclude-10th-annual-maritime-staff-talks",
-      "publishedAt": "2026-10-22T14:12:27Z"
     }
   ],
   "nextPage": "page-5.json"

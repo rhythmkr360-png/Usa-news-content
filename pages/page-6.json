@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T01:00:26Z",
+  "generatedAt": "2026-10-29T10:03:05Z",
   "articles": [
+    {
+      "id": "b5872ef66b106852983e6ac7",
+      "title": "3-43 Air Defense Artillery activates in Guam continuing a legacy of U.S. Army Air and Missile Defense",
+      "summary": "ANDERSEN AIR FORCE BASE, Guam — U.S. Soldiers assigned to 3rd Battalion, 43rd Air Defense Artillery Regiment, 38th Air Defense Artillery Brigade, 94th Army Air and Missile Defense Command, participated in an activation ceremony Oct. 16, 2026, at Andersen Air Force Base, Guam.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577480/3-43-air-defense-artillery-activates-guam-continuing-legacy-us-army-air-and-missile-defense",
+      "publishedAt": "2026-10-20T23:40:02Z"
+    },
+    {
+      "id": "3d6a6bace113003d6d764b2d",
+      "title": "Uncasing ceremony marks CSTA transfer to MSCoE",
+      "summary": "Leaders of the U.S. Army Maneuver Support Center of Excellence uncased the guidon for the U.S. Army Civil Support Training Activity during a ceremony at Joint Base San Antonio, Texas, Oct. 20, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577475/uncasing-ceremony-marks-csta-transfer-mscoe",
+      "publishedAt": "2026-10-20T21:29:04Z"
+    },
+    {
+      "id": "317f0ecd28643835780d6abb",
+      "title": "Acting U.S. Navy Surgeon General, Texas-based Sailors honor enduring legacy at 251st birthday ball",
+      "summary": "The acting U.S. Navy surgeon general joined local leadership, Sailors, and community members in the heart of \"Military City, U.S.A.,\" to celebrate the Navy’s 251st birthday at the South Texas Navy Region Ball, Oct. 17, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577473/acting-us-navy-surgeon-general-texas-based-sailors-honor-enduring-legacy-251st-birthday-ball",
+      "publishedAt": "2026-10-20T21:19:00Z"
+    },
+    {
+      "id": "a5b62249c2ea1328ca50bce4",
+      "title": "NEBRASKA GUARD CYBER TEAM HELPS RESTORE ESSENTIAL SERVICES IN NORTH PLATTE",
+      "summary": "NORTH PLATTE, Neb. — An 11-Soldier Nebraska Army National Guard team helped restore essential city and county services and strengthen network defenses during a state active-duty response Oct. 9–13, 2026, following a cyber incident affecting North Platte and Lincoln County.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577474/nebraska-guard-cyber-team-helps-restore-essential-services-north-platte",
+      "publishedAt": "2026-10-20T21:17:36Z"
+    },
     {
       "id": "f5c45905ffde979764ecd6b8",
       "title": "NEWLY PROMOTED COLONEL CELEBRATES MILESTONE AT CANTIGNY PARK IN WHEATON",
@@ -325,42 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577368/wilmington-district-advances-43-million-special-operations-barracks-project-fort-bragg",
       "publishedAt": "2026-10-19T17:31:18Z"
-    },
-    {
-      "id": "9fedb13fe0e8cff92311ebd2",
-      "title": "Army Medicine Celebrates Army Animal Care Specialists",
-      "summary": "National Veterinary Technician Week is celebrated annually by the National Association of Veterinary Technicians in America and the American Veterinary Medical Association to recognize the work that veterinary technicians provide. For Army Medicine that means recognizing their Army Animal Care Specialists.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577355/army-medicine-celebrates-army-animal-care-specialists",
-      "publishedAt": "2026-10-19T17:22:14Z"
-    },
-    {
-      "id": "54677377f2391d3311dc2f01",
-      "title": "Acting SecArmy: Army drives the success of the joint force",
-      "summary": "The Army’s top civilian leader said the service remains central to the success of the joint force during the opening ceremony of the Association of the United States Army’s annual meeting and exposition on Oct. 12. Under the theme, “America’s Army: The Foundation of the Joint Force,” Acting Secretary of the Army Adam R.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577354/acting-secarmy-army-drives-success-joint-force",
-      "publishedAt": "2026-10-19T17:09:05Z"
-    },
-    {
-      "id": "50fa8cae4804366272f5d81a",
-      "title": "Omaha District, ERDC collaborate to monitor Fort Peck Dam flood gates",
-      "summary": "Engineers from the U.S. Army Corps of Engineers, Omaha District and the Engineer Research and Development Center recently collaborated at the Fort Peck Dam to develop a long-term monitoring approach for the massive gates that help control water flow through the dam’s flood tunnels.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577349/omaha-district-erdc-collaborate-monitor-fort-peck-dam-flood-gates",
-      "publishedAt": "2026-10-19T16:36:27Z"
-    },
-    {
-      "id": "889e815e0f6ac5913c63a397",
-      "title": "USNI News Fleet and Marine Tracker: Oct. 19, 2026",
-      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Oct. 19, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/19/usni-news-fleet-and-marine-tracker-oct-19-2026",
-      "publishedAt": "2026-10-19T16:18:29Z"
     }
   ],
   "nextPage": "page-7.json"

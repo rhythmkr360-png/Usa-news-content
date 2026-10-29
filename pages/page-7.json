@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T01:00:26Z",
+  "generatedAt": "2026-10-29T10:03:05Z",
   "articles": [
+    {
+      "id": "9fedb13fe0e8cff92311ebd2",
+      "title": "Army Medicine Celebrates Army Animal Care Specialists",
+      "summary": "National Veterinary Technician Week is celebrated annually by the National Association of Veterinary Technicians in America and the American Veterinary Medical Association to recognize the work that veterinary technicians provide. For Army Medicine that means recognizing their Army Animal Care Specialists.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577355/army-medicine-celebrates-army-animal-care-specialists",
+      "publishedAt": "2026-10-19T17:22:14Z"
+    },
+    {
+      "id": "54677377f2391d3311dc2f01",
+      "title": "Acting SecArmy: Army drives the success of the joint force",
+      "summary": "The Army’s top civilian leader said the service remains central to the success of the joint force during the opening ceremony of the Association of the United States Army’s annual meeting and exposition on Oct. 12. Under the theme, “America’s Army: The Foundation of the Joint Force,” Acting Secretary of the Army Adam R.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577354/acting-secarmy-army-drives-success-joint-force",
+      "publishedAt": "2026-10-19T17:09:05Z"
+    },
+    {
+      "id": "50fa8cae4804366272f5d81a",
+      "title": "Omaha District, ERDC collaborate to monitor Fort Peck Dam flood gates",
+      "summary": "Engineers from the U.S. Army Corps of Engineers, Omaha District and the Engineer Research and Development Center recently collaborated at the Fort Peck Dam to develop a long-term monitoring approach for the massive gates that help control water flow through the dam’s flood tunnels.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577349/omaha-district-erdc-collaborate-monitor-fort-peck-dam-flood-gates",
+      "publishedAt": "2026-10-19T16:36:27Z"
+    },
+    {
+      "id": "889e815e0f6ac5913c63a397",
+      "title": "USNI News Fleet and Marine Tracker: Oct. 19, 2026",
+      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Oct. 19, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/19/usni-news-fleet-and-marine-tracker-oct-19-2026",
+      "publishedAt": "2026-10-19T16:18:29Z"
+    },
     {
       "id": "77ca9981d6d6ab69afd39671",
       "title": "Groups seek clarity on motive behind Pentagon’s study of women in combat",
@@ -64,60 +100,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-army-showing-interest-in-gator-missile-killing-radar-northrop-says/",
       "publishedAt": "2026-10-19T11:00:00Z"
-    },
-    {
-      "id": "9b32422322b7525455c135f6",
-      "title": "A shifting landscape: Where the US Army moved in 2026 and what may be on the horizon",
-      "summary": "As seasons signal the waning months of 2026, the U.S. Army’s operational map continues to evolve.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/16/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon/",
-      "publishedAt": "2026-10-19T10:00:00Z"
-    },
-    {
-      "id": "9203812ad1db3ef6ef9b57e3",
-      "title": "US Army fields new system for sweeping munitions planning, management",
-      "summary": "The service expects this first increment of TACTMIS to replace the previously used TAMIS system once it retires on Oct. 30.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/15/us-army-fields-new-system-for-sweeping-munitions-planning-management/",
-      "publishedAt": "2026-10-19T09:00:00Z"
-    },
-    {
-      "id": "c395b722a86382d222c6cecc",
-      "title": "86th IBCT (MTN) Relinquishes Command of JMTG-U",
-      "summary": "The Joint Multinational Training Group-Ukraine held a colors casing ceremony at the 7th Army Training Command headquarters on Oct. 15, 2026. Task Force Luzon, composed of the 86th Infantry Brigade Combat Team (Mountain) from the Vermont National Guard, cased its colors, relinquishing command responsibility for the mission.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577212/86th-ibct-mtn-relinquishes-command-jmtg-u",
-      "publishedAt": "2026-10-19T06:40:16Z"
-    },
-    {
-      "id": "5b97b7051598e4d5ee10bb91",
-      "title": "Passing the colors: Inigo gives final salute to 103rd Troop Command Soldiers",
-      "summary": "Col. Phoebe P. Inigo relinquished command of the 103rd Troop Command to Col. Byron Cadiz during a ceremony presided over by Brig. Gen. Ronald D. Hogsten, commander of the Hawaii Army National Guard. Inigo’s 22 months in command included responses to natural disasters, federal mobilizations and training with international partners.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577210/passing-colors-inigo-gives-final-salute-103rd-troop-command-soldiers",
-      "publishedAt": "2026-10-19T05:13:29Z"
-    },
-    {
-      "id": "0b29ea7ad42547c00b4e8859",
-      "title": "JMSDF Fleet Submarine Force Commander visits CTF-74",
-      "summary": "YOKOSUKA, Japan — Japan Maritime Self-Defense Force (JMSDF) Vice Adm. Noaya Hoshi, commander, Fleet Submarine Force, met with U.S. Navy Rear Adm. Gary Montalvo Jr., commander, Submarine Group 7 (CSG 7)/Task Force 74 (CTF 74) at Commander, Fleet Activities Yokosuka on Oct. 13, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577209/jmsdf-fleet-submarine-force-commander-visits-ctf-74",
-      "publishedAt": "2026-10-19T04:09:51Z"
-    },
-    {
-      "id": "b1410476a20c6bbd07f06c67",
-      "title": "Connecticut National Guard hosts welcome home ceremony for 1-102nd Infantry",
-      "summary": "The Connecticut National Guard hosted a welcome home ceremony and Yellow Ribbon reintegration event for 1st Battalion, 102nd Infantry at the Gov. William A. O’Neill armory Oct. 17, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577189/connecticut-national-guard-hosts-welcome-home-ceremony-1-102nd-infantry",
-      "publishedAt": "2026-10-19T01:56:54Z"
     }
   ]
 }

@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T01:00:26Z",
+  "generatedAt": "2026-10-29T10:03:05Z",
   "articles": [
+    {
+      "id": "73b720b1473e0ef4e5809d34",
+      "title": "Theodore Roosevelt Carrier Strike Group Sails in the Philippine Sea for Keen Sword Drills",
+      "summary": "The Theodore Roosevelt Carrier Strike Group, as well as Japanese, Australian, Canadian and French warships, have gathered in the Philippine Sea to participate in exercise Keen Sword 27.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/22/theodore-roosevelt-carrier-strike-group-sails-in-the-philippine-sea-for-keen-sword-drills",
+      "publishedAt": "2026-10-22T16:02:08Z"
+    },
+    {
+      "id": "4fe341b4e184606d550b24f8",
+      "title": "US Army long-range fires make a splash on the frontline with China",
+      "summary": "The U.S. Army has been upgrading its missiles and rocket artillery, largely in response to China's missile arsenal.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/22/us-army-long-range-fires-make-a-splash-on-the-frontline-with-china/",
+      "publishedAt": "2026-10-22T14:55:35Z"
+    },
+    {
+      "id": "1a33f694661574e3e4c9590b",
+      "title": "Multi-century U.S.-Dutch history focal point of latest CGSC International Hall of Fame induction",
+      "summary": "Dutch Lt. Gen. Jan-Willem Maas, commanding general of Joint Forces Command, Netherlands, was inducted into the U.S. Army Command and General Staff College International Hall of Fame during a ceremony Oct. 16, 2026, at the Lewis and Clark Center, Fort Leavenworth, Kansas.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577605/multi-century-us-dutch-history-focal-point-latest-cgsc-international-hall-fame-induction",
+      "publishedAt": "2026-10-22T14:30:39Z"
+    },
+    {
+      "id": "997d90eb10c16387e37e61b1",
+      "title": "U.S. Navy, Marine Corps, and Mexican Navy Conclude 10th Annual Maritime Staff Talks",
+      "summary": "MEXICO CITY – Senior leaders from the U.S. Navy, U.S. Marine Corps, and the Mexican Navy (Marina) concluded the 10th Annual Maritime Staff Talks (MST) in Mexico City, Oct. 20-21, 2026, reinforcing a decade of sustained partnership and deepening security cooperation.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577602/us-navy-marine-corps-and-mexican-navy-conclude-10th-annual-maritime-staff-talks",
+      "publishedAt": "2026-10-22T14:12:27Z"
+    },
     {
       "id": "0027d339b1210d507412188b",
       "title": "The Pentagon wants ketamine wafers as a battlefield medicine option",
@@ -325,42 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577471/return-bay-san-francisco-fleet-week-2026-recap",
       "publishedAt": "2026-10-20T23:41:04Z"
-    },
-    {
-      "id": "b5872ef66b106852983e6ac7",
-      "title": "3-43 Air Defense Artillery activates in Guam continuing a legacy of U.S. Army Air and Missile Defense",
-      "summary": "ANDERSEN AIR FORCE BASE, Guam — U.S. Soldiers assigned to 3rd Battalion, 43rd Air Defense Artillery Regiment, 38th Air Defense Artillery Brigade, 94th Army Air and Missile Defense Command, participated in an activation ceremony Oct. 16, 2026, at Andersen Air Force Base, Guam.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577480/3-43-air-defense-artillery-activates-guam-continuing-legacy-us-army-air-and-missile-defense",
-      "publishedAt": "2026-10-20T23:40:02Z"
-    },
-    {
-      "id": "3d6a6bace113003d6d764b2d",
-      "title": "Uncasing ceremony marks CSTA transfer to MSCoE",
-      "summary": "Leaders of the U.S. Army Maneuver Support Center of Excellence uncased the guidon for the U.S. Army Civil Support Training Activity during a ceremony at Joint Base San Antonio, Texas, Oct. 20, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577475/uncasing-ceremony-marks-csta-transfer-mscoe",
-      "publishedAt": "2026-10-20T21:29:04Z"
-    },
-    {
-      "id": "317f0ecd28643835780d6abb",
-      "title": "Acting U.S. Navy Surgeon General, Texas-based Sailors honor enduring legacy at 251st birthday ball",
-      "summary": "The acting U.S. Navy surgeon general joined local leadership, Sailors, and community members in the heart of \"Military City, U.S.A.,\" to celebrate the Navy’s 251st birthday at the South Texas Navy Region Ball, Oct. 17, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577473/acting-us-navy-surgeon-general-texas-based-sailors-honor-enduring-legacy-251st-birthday-ball",
-      "publishedAt": "2026-10-20T21:19:00Z"
-    },
-    {
-      "id": "a5b62249c2ea1328ca50bce4",
-      "title": "NEBRASKA GUARD CYBER TEAM HELPS RESTORE ESSENTIAL SERVICES IN NORTH PLATTE",
-      "summary": "NORTH PLATTE, Neb. — An 11-Soldier Nebraska Army National Guard team helped restore essential city and county services and strengthen network defenses during a state active-duty response Oct. 9–13, 2026, following a cyber incident affecting North Platte and Lincoln County.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577474/nebraska-guard-cyber-team-helps-restore-essential-services-north-platte",
-      "publishedAt": "2026-10-20T21:17:36Z"
     }
   ],
   "nextPage": "page-6.json"
