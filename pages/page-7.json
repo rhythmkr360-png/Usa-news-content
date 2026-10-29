@@ -1,105 +1,96 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T10:03:05Z",
+  "generatedAt": "2026-10-29T18:30:11Z",
   "articles": [
     {
-      "id": "9fedb13fe0e8cff92311ebd2",
-      "title": "Army Medicine Celebrates Army Animal Care Specialists",
-      "summary": "National Veterinary Technician Week is celebrated annually by the National Association of Veterinary Technicians in America and the American Veterinary Medical Association to recognize the work that veterinary technicians provide. For Army Medicine that means recognizing their Army Animal Care Specialists.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577355/army-medicine-celebrates-army-animal-care-specialists",
-      "publishedAt": "2026-10-19T17:22:14Z"
-    },
-    {
-      "id": "54677377f2391d3311dc2f01",
-      "title": "Acting SecArmy: Army drives the success of the joint force",
-      "summary": "The Army’s top civilian leader said the service remains central to the success of the joint force during the opening ceremony of the Association of the United States Army’s annual meeting and exposition on Oct. 12. Under the theme, “America’s Army: The Foundation of the Joint Force,” Acting Secretary of the Army Adam R.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577354/acting-secarmy-army-drives-success-joint-force",
-      "publishedAt": "2026-10-19T17:09:05Z"
-    },
-    {
-      "id": "50fa8cae4804366272f5d81a",
-      "title": "Omaha District, ERDC collaborate to monitor Fort Peck Dam flood gates",
-      "summary": "Engineers from the U.S. Army Corps of Engineers, Omaha District and the Engineer Research and Development Center recently collaborated at the Fort Peck Dam to develop a long-term monitoring approach for the massive gates that help control water flow through the dam’s flood tunnels.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577349/omaha-district-erdc-collaborate-monitor-fort-peck-dam-flood-gates",
-      "publishedAt": "2026-10-19T16:36:27Z"
-    },
-    {
-      "id": "889e815e0f6ac5913c63a397",
-      "title": "USNI News Fleet and Marine Tracker: Oct. 19, 2026",
-      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Oct. 19, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/19/usni-news-fleet-and-marine-tracker-oct-19-2026",
-      "publishedAt": "2026-10-19T16:18:29Z"
-    },
-    {
-      "id": "77ca9981d6d6ab69afd39671",
-      "title": "Groups seek clarity on motive behind Pentagon’s study of women in combat",
-      "summary": "Citing concerns about Hegseth’s views on the topic, the lawsuit asks for records showing the scope, purpose, methodology and anticipated use of the study.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/10/19/groups-seek-clarity-on-motive-behind-pentagons-study-of-women-in-combat/",
-      "publishedAt": "2026-10-19T14:00:00Z"
-    },
-    {
-      "id": "c66d87bd390163014cd4d687",
-      "title": "Navy Medicine Sailors return home from deployment",
-      "summary": "An elite, far-forward Navy Medicine surgical asset returned to U.S. soil on Oct. 17, 2026, touching down at the military air terminal at Naval Air Station Norfolk following a seven-month deployment to the U.S. Central Command (CENTCOM) area of responsibility.",
+      "id": "88aa2d2ee412b91241e09195",
+      "title": "U.S. Navy, Republic of Korea Navy conclude combined Maritime Mine Countermeasures Exercise 2026",
+      "summary": "The U.S. Navy, Republic of Korea (ROK) Navy, and 15 partner nations successfully concluded the ninth Multi-National Mine Warfare Exercise 2026 (MNMIWEX 26) off the southeast coast of Busan, Oct. 16, 2026.",
       "category": "Navy",
       "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577220/navy-medicine-sailors-return-home-deployment",
-      "publishedAt": "2026-10-19T13:16:53Z"
+      "sourceUrl": "https://www.dvidshub.net/news/577399/us-navy-republic-korea-navy-conclude-combined-maritime-mine-countermeasures-exercise-2026",
+      "publishedAt": "2026-10-20T07:26:34Z"
     },
     {
-      "id": "fd77482349749a39968a7877",
-      "title": "US Army Cyber Command charts course for human-AI equilibrium",
-      "summary": "U.S. Army Cyber Command is constantly refining human oversight of artificial intelligence, Lt. Gen. Christopher Eubank said last week.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/19/us-army-cyber-command-charts-course-for-human-ai-equilibrium/",
-      "publishedAt": "2026-10-19T13:00:00Z"
-    },
-    {
-      "id": "05be42e1cbdce12655da0ed7",
-      "title": "SETAF-AF joins G-TEAD, USAREUR-AF at AUSA to explain how operational challenges in Africa drive tactical solutions",
-      "summary": "WASHINGTON – The U.S. Army Southern European Task Force, Africa (SETAF-AF) commander outlined how Africa is where operational problems are defined, solutions are tested in realistic conditions, and results are shared across the Army during the 2026 Association of the United States Army Annual Meeting and Exposition at the Walter E.",
+      "id": "13de261dc7d9616b7fb49757",
+      "title": "Bridging Cultures: Japanese youth, U.S. Soldiers find common ground",
+      "summary": "CAMP ZAMA, Japan – Soldiers here hosted a community outreach event Oct. 3 to strengthen ties and build cross-cultural connections with local Japanese youth through a day of interactive games, a shared meal, and shared fellowship.",
       "category": "Defense",
       "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577216/setaf-af-joins-g-tead-usareur-af-ausa-explain-operational-challenges-africa-drive-tactical-solutions",
-      "publishedAt": "2026-10-19T12:43:05Z"
+      "sourceUrl": "https://www.dvidshub.net/news/577398/bridging-cultures-japanese-youth-us-soldiers-find-common-ground",
+      "publishedAt": "2026-10-20T06:53:00Z"
     },
     {
-      "id": "744665023d4e843acf80994a",
-      "title": "Readout of U.S. Naval Forces Central Command/U.S. 5th Fleet/Combined Maritime Forces Vice Adm. Curt Renshaw's Meeting with Kuwaiti Defense Leaders",
-      "summary": "TAMPA, Fla. (Oct. 19, 2026) U.S. Naval Forces Central Command/U.S. 5th Fleet/Combined Maritime Forces Commander Vice Adm. Curt Renshaw met with key Kuwaiti political and defense leaders during a trip to Kuwait City, Kuwait, Oct. 18-19.",
+      "id": "1bd54c849ea50f391342de81",
+      "title": "Arctic experiment explores ways to close air surveillance gaps",
+      "summary": "U.S. military personnel, scientists and international partners conducted live-fly testing Sept. 7–11, 2026, during the final event of a three-year Arctic air domain awareness experiment series, collecting data to assess technology that could help close surveillance gaps across Alaska.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577397/arctic-experiment-explores-ways-close-air-surveillance-gaps",
+      "publishedAt": "2026-10-19T22:52:53Z"
+    },
+    {
+      "id": "7a8de58d5e7ea7565a2aadfb",
+      "title": "Clackamas Fire and Military Responders Conduct Structural Collapse and Air Mobility Joint Training Exercise",
+      "summary": "Members of the Clackamas Fire Department, Oregon Army National Guard, Oregon Air National Guard, Air Force Reserve, U.S. Coast Guard, and CHAIS, which provides professional handlers and working dogs, participated in a simulated tsunami response mission on October 15, 2026, at Camp Rilea Armed Forces Training Center near Warrenton, Oregon.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577396/clackamas-fire-and-military-responders-conduct-structural-collapse-and-air-mobility-joint-training-exercise",
+      "publishedAt": "2026-10-19T21:52:33Z"
+    },
+    {
+      "id": "1a257c7b2bb4be01ea2ceb1d",
+      "title": "San Diego Native Named Motivator of the Month While Serving with Navy Medicine in Cuba",
+      "summary": "Courtesy story by Ashley Craig, Navy Office of Community Outreach MILLINGTON, Tenn. – Hospitalman Kimberly MartinezInfante, a native of San Diego, California, was recently named Motivator of the Month while serving aboard U.S. Navy Medicine Readiness and Training Command (USNMRTC) Guantanamo Bay at U.S. Naval Hospital Guantanamo Bay, Cuba.",
       "category": "Navy",
       "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577217/readout-us-naval-forces-central-command-us-5th-fleet-combined-maritime-forces-vice-adm-curt-renshaws-meeting-with-kuwaiti",
-      "publishedAt": "2026-10-19T12:19:21Z"
+      "sourceUrl": "https://www.dvidshub.net/news/577391/san-diego-native-named-motivator-month-while-serving-with-navy-medicine-cuba",
+      "publishedAt": "2026-10-19T20:39:40Z"
     },
     {
-      "id": "57989bac5806bee3b702c560",
-      "title": "US Army acquisition command awards contracts worth $6.8B in 2026",
-      "summary": "The Mission and Installation Contracting Command awarded 21,450 contracts in fiscal 2026 valued at $6.8 billion in total, a boost from the year prior.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/16/us-army-acquisition-command-awards-contracts-worth-68b-in-2026/",
-      "publishedAt": "2026-10-19T12:00:00Z"
+      "id": "2593ba1c58fbb4cfdc87444d",
+      "title": "Logistics exchange strengthens Washington Guard, Malaysia military partnership",
+      "summary": "Logistics experts from the Washington National Guard and Royal Malaysian Armed Forces participated in a subject matter expert exchange at Camp Murray, Wash., Sept. 21-25, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577390/logistics-exchange-strengthens-washington-guard-malaysia-military-partnership",
+      "publishedAt": "2026-10-19T20:11:24Z"
     },
     {
-      "id": "29360730e00bd945b982d6d1",
-      "title": "US Army showing interest in G/ATOR missile-killing radar, Northrop says",
-      "summary": "Northrop Grumman’s new multi-mission radar system has earned high marks from Marine Corps leadership. The U.S. Army has taken notice.",
+      "id": "e6bed6cbc6f4fe76dc020645",
+      "title": "Tracking America’s latest conflict: The Iran war timeline",
+      "summary": "To date, at least 21 American service members have been killed and hundreds more wounded. The post Tracking America’s latest conflict: The Iran war timeline appeared first on Task & Purpose .",
+      "category": "Defense",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/iran-war-timeline/",
+      "publishedAt": "2026-10-19T19:56:42Z"
+    },
+    {
+      "id": "6b86fda199e5a8936f9def7e",
+      "title": "U.S. Army stand-down connects Soldiers with voting assistance in Vicenza, Italy",
+      "summary": "Secretary of War Pete Hegseth's directive of U.S. Army stand-down connects Soldiers with voting assistance in Vicenza, Italy",
       "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577388/us-army-stand-down-connects-soldiers-with-voting-assistance-vicenza-italy",
+      "publishedAt": "2026-10-19T19:39:51Z"
+    },
+    {
+      "id": "9f332f5d619c5e1967b4f796",
+      "title": "Pentagon, BAE sign deal for up to 25,000 precision-guided munition kits a year",
+      "summary": "The Pentagon and BAE Systems signed a framework agreement for up to 25,000 Advanced Precision Kill Weapon System, or APKWS, guidance kits a year.",
+      "category": "Defense",
       "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-army-showing-interest-in-gator-missile-killing-radar-northrop-says/",
-      "publishedAt": "2026-10-19T11:00:00Z"
+      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year/",
+      "publishedAt": "2026-10-19T18:50:11Z"
+    },
+    {
+      "id": "a60ad131d7b585f5d8bdafff",
+      "title": "Lt. Gen. Hilbert discusses Eighth Army’s role in Northeast Asia",
+      "summary": "Senior leader highlights the command’s support to U.S. Forces Korea and regional deterrence.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577382/lt-gen-hilbert-discusses-eighth-armys-role-northeast-asia",
+      "publishedAt": "2026-10-19T18:49:31Z"
     }
   ]
 }
