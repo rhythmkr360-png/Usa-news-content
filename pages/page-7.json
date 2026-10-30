@@ -1,7 +1,151 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T18:30:11Z",
+  "generatedAt": "2026-10-30T01:04:13Z",
   "articles": [
+    {
+      "id": "edaa98f8c65bef1584a50aa7",
+      "title": "US Army support for Golden Dome missile shield takes shape",
+      "summary": "A U.S. Army air defense unit has been \"earmarked\" for support of the Golden Dome for America project, an Army official confirmed.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/air-warfare/2026/10/20/us-army-support-for-golden-dome-missile-shield-takes-shape/",
+      "publishedAt": "2026-10-20T17:30:40Z"
+    },
+    {
+      "id": "0de07d0cb96d7a7211ff8dfe",
+      "title": "USACAPOC(A) Soldiers earn Jungle Tabs in Panama, build Army Reserve capability",
+      "summary": "COLÓN, Panama — Eleven U.S. Army Reserve Soldiers assigned to U.S. Army Civil Affairs and Psychological Operations Command (Airborne) earned the Jungle Tab after completing the Jungle Operations Training Course-Panama Aug. 2, adding jungle expertise to the command’s Civil Affairs and Psychological Operations formations.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577441/usacapoca-soldiers-earn-jungle-tabs-panama-build-army-reserve-capability",
+      "publishedAt": "2026-10-20T17:29:39Z"
+    },
+    {
+      "id": "66a1511f116bca19c22ae07d",
+      "title": "Cadets Explore Human-Machine Teaming Through Hands-on Research",
+      "summary": "U.S. Air Force Academy cadets are exploring how emerging technologies influence human behavior and decision-making through hands-on research with humanoid robots and robotic dogs.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577440/cadets-explore-human-machine-teaming-through-hands-research",
+      "publishedAt": "2026-10-20T17:14:38Z"
+    },
+    {
+      "id": "bf010a1989e20abd6e39af0c",
+      "title": "Blair: Serving her country through patient care",
+      "summary": "U.S. Army Staff Sgt. Autumn Blair is carving her own path as a dedicated flight medic while also serving her country like her parents and grandfather.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577439/blair-serving-her-country-through-patient-care",
+      "publishedAt": "2026-10-20T17:14:36Z"
+    },
+    {
+      "id": "137ef4ba47c39c0e382648ed",
+      "title": "US Air Force F-22 pilot controls unmanned FQ-44 in flight",
+      "summary": "The fighter jet’s pilot served as an airborne “quarterback” and gave high-level directives to an Anduril-made Collaborative Combat Aircraft.",
+      "category": "Air Force",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/20/us-air-force-f-22-pilot-controls-unmanned-fq-44-in-flight/",
+      "publishedAt": "2026-10-20T17:00:21Z"
+    },
+    {
+      "id": "7b6098cc15eb61ce5297fb2c",
+      "title": "China built more than twice naval tonnage of US in 2024-25: Euronaval",
+      "summary": "China built more than twice the naval tonnage of the U.S. in the 2024-25 period, narrowing the gap between the two countries’ navies, a new report says.",
+      "category": "Navy",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/naval/2026/10/20/china-built-more-than-twice-naval-tonnage-of-us-in-2024-25-euronaval/",
+      "publishedAt": "2026-10-20T16:57:56Z"
+    },
+    {
+      "id": "42dd37d69debcb66e0c300b4",
+      "title": "Washington Guard commanders focus on readiness, soldier care ahead of NTC",
+      "summary": "Washington Army National Guard battalion command teams gathered at Camp Murray, Wash., Oct. 19, 2026, for the Fall Battalion Commanders’ Professional Development Symposium.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577438/washington-guard-commanders-focus-readiness-soldier-care-ahead-ntc",
+      "publishedAt": "2026-10-20T16:49:59Z"
+    },
+    {
+      "id": "bd303ee06173109e2f530ec0",
+      "title": "MICC - Fort Eustis delivers joint quality-of-life solution, advances 2026–2027 campaign plan",
+      "summary": "U.S. Army Mission and Installation Contracting Command Fort Eustis recently executed a task order supporting the installation of an interim BeaverFit fitness facility at Tinker Air Force Base, Oklahoma, demonstrating how responsive interservice collaboration can deliver timely quality-of-life improvements for service members.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577436/micc-fort-eustis-delivers-joint-quality-life-solution-advances-2026-2027-campaign-plan",
+      "publishedAt": "2026-10-20T16:21:41Z"
+    },
+    {
+      "id": "549fa1723df8026b4022c513",
+      "title": "Soldiers put Picatinny’s Common Lethality Integration Kit to the test at PC‑C6",
+      "summary": "PICATINNY ARSENAL, N.J. - One of the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center’s proudest accomplishments stood front and center before the warfighter in July, as Soldiers attending Project Convergence-Capstone 6 (PC-C6) tested out the Picatinny Common Lethality Integration Kit (CLIK).",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577435/soldiers-put-picatinnys-common-lethality-integration-kit-test-pc-c6",
+      "publishedAt": "2026-10-20T16:19:12Z"
+    },
+    {
+      "id": "07974fe69cd520b421b29feb",
+      "title": "Chinese Navy Shadows USS Charleston Near Contested Sabina Shoal",
+      "summary": "MANILA, Philippines — USS Charleston (LCS-18) was tracked by Chinese forces on Tuesday after the ship “illegally intruded” into the area surrounding a contested South China Sea maritime feature, according to Beijing. Chinese forces were dispatched to monitor the Independence-class LCS near Sabina Shoal early Tuesday, the PLA said.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/20/chinese-navy-shadows-uss-charleston-near-contested-sabina-shoal",
+      "publishedAt": "2026-10-20T15:55:24Z"
+    },
+    {
+      "id": "0d5941c7e5519c5db4c60c8e",
+      "title": "Utah EOD Airmen adapt dismounted operations to emerging drone threats",
+      "summary": "The battlefield is changing. Drones can turn the sky into a threat, explosive hazards can hide in unfamiliar terrain, and the equipment needed to survive a mission may be limited to what an Airman can carry on their back.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577432/utah-eod-airmen-adapt-dismounted-operations-emerging-drone-threats",
+      "publishedAt": "2026-10-20T15:47:39Z"
+    },
+    {
+      "id": "687f69dbfde02514c114c35c",
+      "title": "US Navy, Gecko Robotics surge AI maintenance contract to $300M",
+      "summary": "Gecko Robotics uses drones, wall-climbing robots and fixed sensors to gather data on components, decks, welds and hulls.",
+      "category": "Navy",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/your-navy/2026/10/20/us-navy-gecko-robotics-surge-ai-maintenance-contract-to-300m/",
+      "publishedAt": "2026-10-20T15:15:32Z"
+    },
+    {
+      "id": "f17ef35ff37e13c27406eabc",
+      "title": "Army Veterinary Officers Complete Specialized Dairy Pasteurizer Audit Training in Denmark",
+      "summary": "Thirteen U.S. Army Veterinary Corps officers recently completed Europe Dairy Pasteurizer Audit Training in Kolding, Denmark by participating in specialized technical instruction and on-site field evaluations across eight Danish dairy manufacturing facilities.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577409/army-veterinary-officers-complete-specialized-dairy-pasteurizer-audit-training-denmark",
+      "publishedAt": "2026-10-20T13:10:42Z"
+    },
+    {
+      "id": "1c3104978ae016d106dbe022",
+      "title": "Army Medical Service Corps Officer Serves as Liaison to German Military Medical Forces",
+      "summary": "The U.S. Army Medical Command recently established its first medical officer liaison position with the German military’s medical service in Bonn, Germany. Col. Kenneth Spicer, a U.S. Army Medical Service Corps officer, assumed the role in August 2025.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577403/army-medical-service-corps-officer-serves-liaison-german-military-medical-forces",
+      "publishedAt": "2026-10-20T11:32:23Z"
+    },
+    {
+      "id": "66be215f1ec3609e1cf0f892",
+      "title": "Tip of the spear, or stranded on beaches? Chinese planners dissect USMC Pacific posture",
+      "summary": "Understanding these dynamics, American leaders should recalibrate and opt to rely less on forward defense, writes analyst Lyle Goldstein.",
+      "category": "Marine Corps",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/opinion/2026/10/20/tip-of-the-spear-or-stranded-on-beaches-chinese-planners-dissect-usmc-pacific-posture/",
+      "publishedAt": "2026-10-20T09:09:33Z"
+    },
+    {
+      "id": "6ba95978f87eac9ebaf99af6",
+      "title": "ROK, U.S. Airmen unite during Korean-American Friendship Day at Kunsan AB",
+      "summary": "KUNSAN AIR BASE, Republic of Korea -- Airmen from the U.S. Air Force’s 8th Fighter Wing and the Republic of Korea Air Force’s 38th Fighter Group united for the tenth annual Korean-American Friendship Day at Kunsan Air Base, ROK., Oct. 16, 2026. Korean-American Friendship Day is the largest annual bilateral event hosted at Kunsan AB. ROKAF and U.S.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577400/rok-us-airmen-unite-during-korean-american-friendship-day-kunsan-ab",
+      "publishedAt": "2026-10-20T07:52:26Z"
+    },
     {
       "id": "88aa2d2ee412b91241e09195",
       "title": "U.S. Navy, Republic of Korea Navy conclude combined Maritime Mine Countermeasures Exercise 2026",
@@ -19,78 +163,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577398/bridging-cultures-japanese-youth-us-soldiers-find-common-ground",
       "publishedAt": "2026-10-20T06:53:00Z"
-    },
-    {
-      "id": "1bd54c849ea50f391342de81",
-      "title": "Arctic experiment explores ways to close air surveillance gaps",
-      "summary": "U.S. military personnel, scientists and international partners conducted live-fly testing Sept. 7–11, 2026, during the final event of a three-year Arctic air domain awareness experiment series, collecting data to assess technology that could help close surveillance gaps across Alaska.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577397/arctic-experiment-explores-ways-close-air-surveillance-gaps",
-      "publishedAt": "2026-10-19T22:52:53Z"
-    },
-    {
-      "id": "7a8de58d5e7ea7565a2aadfb",
-      "title": "Clackamas Fire and Military Responders Conduct Structural Collapse and Air Mobility Joint Training Exercise",
-      "summary": "Members of the Clackamas Fire Department, Oregon Army National Guard, Oregon Air National Guard, Air Force Reserve, U.S. Coast Guard, and CHAIS, which provides professional handlers and working dogs, participated in a simulated tsunami response mission on October 15, 2026, at Camp Rilea Armed Forces Training Center near Warrenton, Oregon.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577396/clackamas-fire-and-military-responders-conduct-structural-collapse-and-air-mobility-joint-training-exercise",
-      "publishedAt": "2026-10-19T21:52:33Z"
-    },
-    {
-      "id": "1a257c7b2bb4be01ea2ceb1d",
-      "title": "San Diego Native Named Motivator of the Month While Serving with Navy Medicine in Cuba",
-      "summary": "Courtesy story by Ashley Craig, Navy Office of Community Outreach MILLINGTON, Tenn. – Hospitalman Kimberly MartinezInfante, a native of San Diego, California, was recently named Motivator of the Month while serving aboard U.S. Navy Medicine Readiness and Training Command (USNMRTC) Guantanamo Bay at U.S. Naval Hospital Guantanamo Bay, Cuba.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577391/san-diego-native-named-motivator-month-while-serving-with-navy-medicine-cuba",
-      "publishedAt": "2026-10-19T20:39:40Z"
-    },
-    {
-      "id": "2593ba1c58fbb4cfdc87444d",
-      "title": "Logistics exchange strengthens Washington Guard, Malaysia military partnership",
-      "summary": "Logistics experts from the Washington National Guard and Royal Malaysian Armed Forces participated in a subject matter expert exchange at Camp Murray, Wash., Sept. 21-25, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577390/logistics-exchange-strengthens-washington-guard-malaysia-military-partnership",
-      "publishedAt": "2026-10-19T20:11:24Z"
-    },
-    {
-      "id": "e6bed6cbc6f4fe76dc020645",
-      "title": "Tracking America’s latest conflict: The Iran war timeline",
-      "summary": "To date, at least 21 American service members have been killed and hundreds more wounded. The post Tracking America’s latest conflict: The Iran war timeline appeared first on Task & Purpose .",
-      "category": "Defense",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/iran-war-timeline/",
-      "publishedAt": "2026-10-19T19:56:42Z"
-    },
-    {
-      "id": "6b86fda199e5a8936f9def7e",
-      "title": "U.S. Army stand-down connects Soldiers with voting assistance in Vicenza, Italy",
-      "summary": "Secretary of War Pete Hegseth's directive of U.S. Army stand-down connects Soldiers with voting assistance in Vicenza, Italy",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577388/us-army-stand-down-connects-soldiers-with-voting-assistance-vicenza-italy",
-      "publishedAt": "2026-10-19T19:39:51Z"
-    },
-    {
-      "id": "9f332f5d619c5e1967b4f796",
-      "title": "Pentagon, BAE sign deal for up to 25,000 precision-guided munition kits a year",
-      "summary": "The Pentagon and BAE Systems signed a framework agreement for up to 25,000 Advanced Precision Kill Weapon System, or APKWS, guidance kits a year.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year/",
-      "publishedAt": "2026-10-19T18:50:11Z"
-    },
-    {
-      "id": "a60ad131d7b585f5d8bdafff",
-      "title": "Lt. Gen. Hilbert discusses Eighth Army’s role in Northeast Asia",
-      "summary": "Senior leader highlights the command’s support to U.S. Forces Korea and regional deterrence.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577382/lt-gen-hilbert-discusses-eighth-armys-role-northeast-asia",
-      "publishedAt": "2026-10-19T18:49:31Z"
     }
   ]
 }

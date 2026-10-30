@@ -1,7 +1,151 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T18:30:11Z",
+  "generatedAt": "2026-10-30T01:04:13Z",
   "articles": [
+    {
+      "id": "1c78dd059992c8d13c7ef126",
+      "title": "NORAD fighter aircraft execute homeland defense mission from austere Eareckson Air Station",
+      "summary": "U.S. Air Force F-16 Fighting Falcons maintained air defense alert at Eareckson Air Station, Alaska, during an Oct. 18–26 deployment before launching a homeland defense mission on Oct. 25, integrating aircraft from two other Alaskan bases and one Canadian base.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578257/norad-fighter-aircraft-execute-homeland-defense-mission-austere-eareckson-air-station",
+      "publishedAt": "2026-10-30T00:19:38Z"
+    },
+    {
+      "id": "b2551d4654108d62dbba9393",
+      "title": "CSAF, CMSAF observe Team Osan mission readiness in action",
+      "summary": "U.S. Air Force Chief of Staff Gen. Ken Wilsbach and Chief Master Sergeant of the Air Force David Wolfe visited Osan Air Base, Republic of Korea, Oct. 22, 2026, gaining firsthand insight into how Team Osan integrates operations, maintenance and support capabilities to sustain readiness on the Korean Peninsula.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578256/csaf-cmsaf-observe-team-osan-mission-readiness-action",
+      "publishedAt": "2026-10-30T00:00:51Z"
+    },
+    {
+      "id": "a4d783ba09989fe1fe2b7798",
+      "title": "Army HF Gateway teams demonstrate communications readiness during Noble Skywave",
+      "summary": "U.S. Army Network Enterprise Technology Command (NETCOM), the 78th Signal Battalion and the 30th Signal Battalion participated in Noble Skywave, a Canadian-hosted high-frequency (HF) communications exercise, last week, testing the skills and adaptability of Army signal professionals operating across a range of communications conditions.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578252/army-hf-gateway-teams-demonstrate-communications-readiness-during-noble-skywave",
+      "publishedAt": "2026-10-29T22:59:15Z"
+    },
+    {
+      "id": "2a92902dd39a2c01f27cdd06",
+      "title": "Guardsman scores 498 on AFT, outscores team of college athletes",
+      "summary": "Idaho Army National Guard Chief Warrant Officer 3 Emily Wood faced off against five Boise State University student-athletes in a friendly competition earlier this month, scoring 498 points on the Army Fitness Test to edge the Broncos’ combined score of 496.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578251/guardsman-scores-498-aft-outscores-team-college-athletes",
+      "publishedAt": "2026-10-29T22:43:21Z"
+    },
+    {
+      "id": "b594d798d61534187f46a3b6",
+      "title": "Hasty US exit from Europe could drive allies away from American arms, RAND says",
+      "summary": "A rapid, uncoordinated U.S. military drawdown from Europe could push key NATO allies further away from American weapons, a RAND study found.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/29/hasty-us-exit-from-europe-could-drive-allies-away-from-american-arms-rand-says/",
+      "publishedAt": "2026-10-29T22:25:13Z"
+    },
+    {
+      "id": "67579ea660f3de7de49c42e0",
+      "title": "Jaelen Johnston reflects on performance at Friday on the Frontier",
+      "summary": "As the sun set on the flight line, Jaelen Johnston, local country music artist, performed a free concert for Airmen and their families during Friday on the Frontier, Oct. 23. Johnston is no stranger to McConnell. He was born in Derby and also worked in construction for the Air National Guard 184th Wing before beginning his music career.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578249/jaelen-johnston-reflects-performance-friday-frontier",
+      "publishedAt": "2026-10-29T22:08:22Z"
+    },
+    {
+      "id": "c615a59b45e00445b45d5723",
+      "title": "Signal staff turns up the heat with chili cook-off",
+      "summary": "The U.S. Army Signal School hosted its 5th Annual Chili Cook-Off, building on camaraderie and friendly competition.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578241/signal-staff-turns-up-heat-with-chili-cook-off",
+      "publishedAt": "2026-10-29T21:03:46Z"
+    },
+    {
+      "id": "5814434c7a484d0ae1a01e95",
+      "title": "Army Assistant Secretary Andersen calls on private capital to rebuild 'Arsenal of Democracy'",
+      "summary": "The U.S. Army is overhauling its Cold War-era funding framework to partner directly with private capital markets, Assistant Secretary of the Army for Financial Management & Comptroller Marc Andersen shared with an audience of founders, startups, subject-matter experts, vice chairs, private equity, defense primes, military leaders, policymakers…",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578243/army-assistant-secretary-andersen-calls-private-capital-rebuild-arsenal-democracy",
+      "publishedAt": "2026-10-29T21:01:39Z"
+    },
+    {
+      "id": "42001de0de5d534c31e85ed5",
+      "title": "Long Deployments to Be Navy Standard For Next Couple Years, MCPON, CNO Say",
+      "summary": "It will take a couple years before deployment lengths shift from the extended 10-11 months back to the normal seven, the Navy’s top enlisted sailor said Wednesday. As sailors deploy with carrier strike groups, they are being told to expect a deployment that is between 10-11 months, MCPON John Perryman said while speaking at the Navy Memorial.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/29/long-deployments-to-be-navy-standard-for-next-couple-years-mcpon-cno-say",
+      "publishedAt": "2026-10-29T20:41:01Z"
+    },
+    {
+      "id": "ffd5ff7eab87eb610625fa5e",
+      "title": "BS27-1: Defending the base at every level",
+      "summary": "KADENA AIR BASE, Japan — U.S. Air Force Airmen assigned to the 18th Wing were armed with M-4 carbine rifles and tasked to man defensive firing positions outside their work centers during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 28, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578233/bs27-1-defending-base-every-level",
+      "publishedAt": "2026-10-29T20:05:10Z"
+    },
+    {
+      "id": "4357281420045b92b9ccc8b6",
+      "title": "U.S., Partner Nations to Hold Annual Malabar Naval Exercise Near Japan",
+      "summary": "The United States, Australia, India and Japan will carry out this year’s iteration of the annual Malabar naval exercise in the waters near Japan next week. Malabar 2026 will take place south of the Kanto region on the main island of Honshu from Nov. 5-12, according to a Japan Maritime Self-Defense Force news release published on Tuesday.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/29/u-s-partner-nations-to-hold-annual-malabar-naval-exercise-near-japan",
+      "publishedAt": "2026-10-29T20:03:43Z"
+    },
+    {
+      "id": "87582dd69e8519b083d42b47",
+      "title": "From waterways to runways, Tulsa District delivers in fiscal year 2026",
+      "summary": "U.S. Army Corps of Engineers, Tulsa District, provided community support across multiple missions for fiscal year 2026. This article highlights a few of the projects for the year.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578230/waterways-runways-tulsa-district-delivers-fiscal-year-2026",
+      "publishedAt": "2026-10-29T19:52:26Z"
+    },
+    {
+      "id": "05dbca87fbb185b9424688c0",
+      "title": "New tactical comms system for US ground troops aims to break network silos",
+      "summary": "\"We've spent the past 50 years building siloed networks, siloed applications and siloed environments to collaborate internally with our own data. We can no longer do that,\" a Pentagon official said.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
+      "publishedAt": "2026-10-29T19:44:45Z"
+    },
+    {
+      "id": "a514d799806406f886e15ac7",
+      "title": "Record deployment for destroyer USS Spruance casts doubt over US Navy maintenance",
+      "summary": "The Arleigh-Burke class destroyer USS Spruance has set a post-World War II record for a U.S. Navy destroyer deployment and is raising questions about the maintenance work that could follow its eventual return.",
+      "category": "Navy",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/naval/2026/10/29/record-deployment-for-destroyer-uss-spruance-casts-doubt-over-us-navy-maintenance/",
+      "publishedAt": "2026-10-29T19:15:42Z"
+    },
+    {
+      "id": "2e091f2e185fa5947f3c2910",
+      "title": "Pentagon investigates series of commissary freezer failures as possible cyberattack",
+      "summary": "Refrigeration failures spoiled food at military commissaries across the country. Investigators are examining whether hackers were responsible. The post Pentagon investigates series of commissary freezer failures as possible cyberattack appeared first on Task & Purpose .",
+      "category": "Defense",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/military-commissary-cyberattack-pentagon-investigation/",
+      "publishedAt": "2026-10-29T19:11:09Z"
+    },
+    {
+      "id": "7f7834b8430e38a22913b915",
+      "title": "Senior US general fired, accused of leaking classified information",
+      "summary": "U.S. Army Lt. Gen. Brett Sylvia, a senior military planner on the Pentagon's Joint Staff, was fired over accusations he leaked classified information to the public.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/29/senior-us-general-fired-accused-of-leaking-classified-information/",
+      "publishedAt": "2026-10-29T18:52:30Z"
+    },
     {
       "id": "16c1b41240c3e6e7e7fa5664",
       "title": "Army Reserve’s 1st Brigade, 78th Training Division welcomes new commander",
@@ -217,150 +361,6 @@
       "sourceName": "USNI News",
       "sourceUrl": "https://news.usni.org/2026/10/28/u-s-marine-drone-detachment-in-the-philippines-operating-from-palawan-airfield",
       "publishedAt": "2026-10-28T19:58:47Z"
-    },
-    {
-      "id": "ad2215f657f977847d118577",
-      "title": "New guide equips Army finance officers to fund the fight faster",
-      "summary": "The Army’s new Financial Management & Comptroller Officer’s Guide establishes a single, authoritative standard for finance and comptroller officers across the active-duty Army, Army Reserve, and National Guard. It builds on the success of the branch's already established enlisted guide, completing a comprehensive framework for financial leadership.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578114/new-guide-equips-army-finance-officers-fund-fight-faster",
-      "publishedAt": "2026-10-28T19:27:27Z"
-    },
-    {
-      "id": "3eca125715893962d9d900ef",
-      "title": "U.S. Army Corps of Engineers Begins Transport of Materials from Shallow Land Disposal Area",
-      "summary": "The U.S. Army Corps of Engineers (USACE) has begun shipping contaminated soil from the Shallow Land Disposal Area (SLDA) site in Vandergrift, Pennsylvania, to an out-of-state licensed disposal facility.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578112/us-army-corps-engineers-begins-transport-materials-shallow-land-disposal-area",
-      "publishedAt": "2026-10-28T19:06:37Z"
-    },
-    {
-      "id": "0bc6a0c7a4c4a4a2e996d345",
-      "title": "Retiree Jamie James receives Distinguished Civilian Employee Recognition Award",
-      "summary": "NASHVILLE, Tenn. (Oct. 28, 2026) – Jamie James, former deputy district engineer for the U.S. Army Corps of Engineers Nashville District, has been honored with the Distinguished Civilian Employee Recognition Award in recognition of two decades of public service, technical excellence, and regional leadership.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578109/retiree-jamie-james-receives-distinguished-civilian-employee-recognition-award",
-      "publishedAt": "2026-10-28T18:49:11Z"
-    },
-    {
-      "id": "de5c10fac6214af2531a0c00",
-      "title": "Religious Ministry Team Leverages Spiritual Readiness Data to Strengthen Warfighter Resilience",
-      "summary": "By Lt. Cmdr. Travis Hurley, U.S. Navy Chaplain, and the TACAMO Religious Ministry Team TINKER AIR FORCE BASE, Okla.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578107/religious-ministry-team-leverages-spiritual-readiness-data-strengthen-warfighter-resilience",
-      "publishedAt": "2026-10-28T18:34:47Z"
-    },
-    {
-      "id": "ac1d509e748d5c3700266f53",
-      "title": "NORAD ENFORCEMENT OF TEMPORARY FLIGHT RESTRICTION AIRSPACE ANNOUNCED OVER MULTIPLE AREAS THIS WEEK",
-      "summary": "Fighter jets from the North American Aerospace Defense Command (NORAD) will enforce the Federal Aviation Administration (FAA) VIP Temporary Flight Restriction (TFR) areas established this week, October 29-30, 2026, over Charlotte, North Carolina; Rock Hill, South Carolina; and Daytona Beach, Florida.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578106/norad-enforcement-temporary-flight-restriction-airspace-announced-over-multiple-areas-week",
-      "publishedAt": "2026-10-28T18:24:02Z"
-    },
-    {
-      "id": "25a943e88502e1a6f0428265",
-      "title": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate",
-      "summary": "The U.S. military has spent over $47 billion so far to prosecute the war in Iran, more than 25% higher than the Defense Department's estimate in July.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/28/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate/",
-      "publishedAt": "2026-10-28T18:10:50Z"
-    },
-    {
-      "id": "a2fa07de6e9b682d350fcc1d",
-      "title": "U.S. Marines Deploy Neros Archer Drone in Camp Fuji Exercise",
-      "summary": "The U.S. Marine Corps recently used the Neros Archer First Person View drone in a live-fire exercise at Camp Fuji, Japan, for the first time, the service announced. Marines of Battalion Landing Team 1/1, 31st Marine Expeditionary Unit (MEU) carried out two strike missions on Oct.",
-      "category": "Marine Corps",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/28/u-s-marines-deploy-neros-archer-drone-in-camp-fuji-exercise",
-      "publishedAt": "2026-10-28T17:51:21Z"
-    },
-    {
-      "id": "556620a1e9c2e93a60f2b7fa",
-      "title": "Three U.S. Naval Research Laboratory Experts Receive Sigma Xi Chapter Awards",
-      "summary": "Three U.S. Naval Research Laboratory (NRL) experts received the 2025 NRL Edison Chapter of Sigma Xi awards during a ceremony April 9.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578100/three-us-naval-research-laboratory-experts-receive-sigma-xi-chapter-awards",
-      "publishedAt": "2026-10-28T17:43:22Z"
-    },
-    {
-      "id": "1fec9ae6dd946596273ab978",
-      "title": "Washington National Guard, Tribal Partners Strengthen Counter-UAS Readiness",
-      "summary": "Washington State Counterdrug and the 10th Civil Support Team conducted Tribal Counter-Unmanned Aircraft Systems Fundamentals and Mission Scenarios Training at Yakima Training Center, Wash., Oct. 20–21, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578097/washington-national-guard-tribal-partners-strengthen-counter-uas-readiness",
-      "publishedAt": "2026-10-28T17:22:48Z"
-    },
-    {
-      "id": "376ec4285b9683c6896533da",
-      "title": "Report to Congress on U.S. Military Operations Against Iran’s Missile, Nuclear Programs",
-      "summary": "The following is the Oct. 20, 2026, Congressional Research Service report, U.S. Military Operations Against Iran’s Missile and Nuclear Programs. From the Report On February 28, 2026, the United States and Israel launched military operations against Iran.",
-      "category": "Defense",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/28/report-to-congress-on-u-s-military-operations-against-irans-missile-nuclear-programs-2",
-      "publishedAt": "2026-10-28T13:47:47Z"
-    },
-    {
-      "id": "51333bb784a68115d1ae6ad5",
-      "title": "Startup Biosphere wins Pentagon contract to scale up production of key chemicals",
-      "summary": "The biomanufacturing facility will boast 20,000 liters of UV-sterilized vats, able to brew anything from “bio-cement” for helipads to explosives for Hellfire missiles.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/startup-biosphere-wins-pentagon-contract-to-scale-up-production-of-key-chemicals/",
-      "publishedAt": "2026-10-28T13:36:00Z"
-    },
-    {
-      "id": "f4dd0a24f043c6b07ef05e9d",
-      "title": "U.S. Army and DVGW strengthen partnership during municipal water infrastructure visit",
-      "summary": "TRIER, Germany — A group of 15 public health specialists from Public Health Command Europe recently toured regional water facilities in Trier to share best practices and explore innovative approaches to water security and environmental sustainability.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578050/us-army-and-dvgw-strengthen-partnership-during-municipal-water-infrastructure-visit",
-      "publishedAt": "2026-10-28T12:53:41Z"
-    },
-    {
-      "id": "0e22e6fbca3e8b50e60bfac0",
-      "title": "Fort Drum named Best Garrison for IMCOM-Western Hemisphere",
-      "summary": "Fort Drum was recently named 2026 Best Garrison for U.S. Army Installation Management Command-Western Hemisphere, recognizing its exceptional operational readiness, transformative energy resilience, and commitment to Soldiers and their families.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578049/fort-drum-named-best-garrison-imcom-western-hemisphere",
-      "publishedAt": "2026-10-28T12:51:13Z"
-    },
-    {
-      "id": "21943e016322da2db1aba331",
-      "title": "Modernized Wellford Readiness Center Reopens, Strengthening Upstate Readiness and Community Ties",
-      "summary": "The South Carolina National Guard, state legislators and local civic leaders marked the reopening of the renovated Wellford Readiness Center during a ribbon-cutting ceremony on October 23, strengthening training and emergency-response capabilities for South Carolina National Guard Soldiers in the Upstate.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578046/modernized-wellford-readiness-center-reopens-strengthening-upstate-readiness-and-community-ties",
-      "publishedAt": "2026-10-28T12:11:05Z"
-    },
-    {
-      "id": "10e1091e3227fa613fed95b1",
-      "title": "BS27-1: Joint tactical fuel system",
-      "summary": "U.S. Air Force Airmen assigned to the 18th Logistics Readiness Squadron and U.S. Marines assigned to Marine Wing Support Squadron-172 established a joint tactical fuel system using both Air Force and Marine Corps contingency equipment during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 28, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578045/bs27-1-joint-tactical-fuel-system",
-      "publishedAt": "2026-10-28T10:34:35Z"
-    },
-    {
-      "id": "d3e842ebb57726488c9a9dcd",
-      "title": "Public Health Command Europe laboratory earns renewed accreditation, strengthens force health protection",
-      "summary": "LANDSTUHL, Germany — Public Health Command Europe’s Laboratory Sciences Division has renewed its accreditation, reaffirming its ability to deliver reliable scientific data that helps protect service members, families and other military communities across Europe, U.S. Central Command and U.S. Africa Command.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578043/public-health-command-europe-laboratory-earns-renewed-accreditation-strengthens-force-health-protection",
-      "publishedAt": "2026-10-28T09:29:51Z"
     }
   ],
   "nextPage": "pages/page-2.json"

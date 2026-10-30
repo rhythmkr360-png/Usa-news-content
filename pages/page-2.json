@@ -1,7 +1,151 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T18:30:11Z",
+  "generatedAt": "2026-10-30T01:04:13Z",
   "articles": [
+    {
+      "id": "ad2215f657f977847d118577",
+      "title": "New guide equips Army finance officers to fund the fight faster",
+      "summary": "The Army’s new Financial Management & Comptroller Officer’s Guide establishes a single, authoritative standard for finance and comptroller officers across the active-duty Army, Army Reserve, and National Guard. It builds on the success of the branch's already established enlisted guide, completing a comprehensive framework for financial leadership.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578114/new-guide-equips-army-finance-officers-fund-fight-faster",
+      "publishedAt": "2026-10-28T19:27:27Z"
+    },
+    {
+      "id": "3eca125715893962d9d900ef",
+      "title": "U.S. Army Corps of Engineers Begins Transport of Materials from Shallow Land Disposal Area",
+      "summary": "The U.S. Army Corps of Engineers (USACE) has begun shipping contaminated soil from the Shallow Land Disposal Area (SLDA) site in Vandergrift, Pennsylvania, to an out-of-state licensed disposal facility.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578112/us-army-corps-engineers-begins-transport-materials-shallow-land-disposal-area",
+      "publishedAt": "2026-10-28T19:06:37Z"
+    },
+    {
+      "id": "0bc6a0c7a4c4a4a2e996d345",
+      "title": "Retiree Jamie James receives Distinguished Civilian Employee Recognition Award",
+      "summary": "NASHVILLE, Tenn. (Oct. 28, 2026) – Jamie James, former deputy district engineer for the U.S. Army Corps of Engineers Nashville District, has been honored with the Distinguished Civilian Employee Recognition Award in recognition of two decades of public service, technical excellence, and regional leadership.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578109/retiree-jamie-james-receives-distinguished-civilian-employee-recognition-award",
+      "publishedAt": "2026-10-28T18:49:11Z"
+    },
+    {
+      "id": "de5c10fac6214af2531a0c00",
+      "title": "Religious Ministry Team Leverages Spiritual Readiness Data to Strengthen Warfighter Resilience",
+      "summary": "By Lt. Cmdr. Travis Hurley, U.S. Navy Chaplain, and the TACAMO Religious Ministry Team TINKER AIR FORCE BASE, Okla.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578107/religious-ministry-team-leverages-spiritual-readiness-data-strengthen-warfighter-resilience",
+      "publishedAt": "2026-10-28T18:34:47Z"
+    },
+    {
+      "id": "ac1d509e748d5c3700266f53",
+      "title": "NORAD ENFORCEMENT OF TEMPORARY FLIGHT RESTRICTION AIRSPACE ANNOUNCED OVER MULTIPLE AREAS THIS WEEK",
+      "summary": "Fighter jets from the North American Aerospace Defense Command (NORAD) will enforce the Federal Aviation Administration (FAA) VIP Temporary Flight Restriction (TFR) areas established this week, October 29-30, 2026, over Charlotte, North Carolina; Rock Hill, South Carolina; and Daytona Beach, Florida.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578106/norad-enforcement-temporary-flight-restriction-airspace-announced-over-multiple-areas-week",
+      "publishedAt": "2026-10-28T18:24:02Z"
+    },
+    {
+      "id": "25a943e88502e1a6f0428265",
+      "title": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate",
+      "summary": "The U.S. military has spent over $47 billion so far to prosecute the war in Iran, more than 25% higher than the Defense Department's estimate in July.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/28/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate/",
+      "publishedAt": "2026-10-28T18:10:50Z"
+    },
+    {
+      "id": "a2fa07de6e9b682d350fcc1d",
+      "title": "U.S. Marines Deploy Neros Archer Drone in Camp Fuji Exercise",
+      "summary": "The U.S. Marine Corps recently used the Neros Archer First Person View drone in a live-fire exercise at Camp Fuji, Japan, for the first time, the service announced. Marines of Battalion Landing Team 1/1, 31st Marine Expeditionary Unit (MEU) carried out two strike missions on Oct.",
+      "category": "Marine Corps",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/28/u-s-marines-deploy-neros-archer-drone-in-camp-fuji-exercise",
+      "publishedAt": "2026-10-28T17:51:21Z"
+    },
+    {
+      "id": "556620a1e9c2e93a60f2b7fa",
+      "title": "Three U.S. Naval Research Laboratory Experts Receive Sigma Xi Chapter Awards",
+      "summary": "Three U.S. Naval Research Laboratory (NRL) experts received the 2025 NRL Edison Chapter of Sigma Xi awards during a ceremony April 9.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578100/three-us-naval-research-laboratory-experts-receive-sigma-xi-chapter-awards",
+      "publishedAt": "2026-10-28T17:43:22Z"
+    },
+    {
+      "id": "1fec9ae6dd946596273ab978",
+      "title": "Washington National Guard, Tribal Partners Strengthen Counter-UAS Readiness",
+      "summary": "Washington State Counterdrug and the 10th Civil Support Team conducted Tribal Counter-Unmanned Aircraft Systems Fundamentals and Mission Scenarios Training at Yakima Training Center, Wash., Oct. 20–21, 2026.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578097/washington-national-guard-tribal-partners-strengthen-counter-uas-readiness",
+      "publishedAt": "2026-10-28T17:22:48Z"
+    },
+    {
+      "id": "376ec4285b9683c6896533da",
+      "title": "Report to Congress on U.S. Military Operations Against Iran’s Missile, Nuclear Programs",
+      "summary": "The following is the Oct. 20, 2026, Congressional Research Service report, U.S. Military Operations Against Iran’s Missile and Nuclear Programs. From the Report On February 28, 2026, the United States and Israel launched military operations against Iran.",
+      "category": "Defense",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/28/report-to-congress-on-u-s-military-operations-against-irans-missile-nuclear-programs-2",
+      "publishedAt": "2026-10-28T13:47:47Z"
+    },
+    {
+      "id": "51333bb784a68115d1ae6ad5",
+      "title": "Startup Biosphere wins Pentagon contract to scale up production of key chemicals",
+      "summary": "The biomanufacturing facility will boast 20,000 liters of UV-sterilized vats, able to brew anything from “bio-cement” for helipads to explosives for Hellfire missiles.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/10/startup-biosphere-wins-pentagon-contract-to-scale-up-production-of-key-chemicals/",
+      "publishedAt": "2026-10-28T13:36:00Z"
+    },
+    {
+      "id": "f4dd0a24f043c6b07ef05e9d",
+      "title": "U.S. Army and DVGW strengthen partnership during municipal water infrastructure visit",
+      "summary": "TRIER, Germany — A group of 15 public health specialists from Public Health Command Europe recently toured regional water facilities in Trier to share best practices and explore innovative approaches to water security and environmental sustainability.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578050/us-army-and-dvgw-strengthen-partnership-during-municipal-water-infrastructure-visit",
+      "publishedAt": "2026-10-28T12:53:41Z"
+    },
+    {
+      "id": "0e22e6fbca3e8b50e60bfac0",
+      "title": "Fort Drum named Best Garrison for IMCOM-Western Hemisphere",
+      "summary": "Fort Drum was recently named 2026 Best Garrison for U.S. Army Installation Management Command-Western Hemisphere, recognizing its exceptional operational readiness, transformative energy resilience, and commitment to Soldiers and their families.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578049/fort-drum-named-best-garrison-imcom-western-hemisphere",
+      "publishedAt": "2026-10-28T12:51:13Z"
+    },
+    {
+      "id": "21943e016322da2db1aba331",
+      "title": "Modernized Wellford Readiness Center Reopens, Strengthening Upstate Readiness and Community Ties",
+      "summary": "The South Carolina National Guard, state legislators and local civic leaders marked the reopening of the renovated Wellford Readiness Center during a ribbon-cutting ceremony on October 23, strengthening training and emergency-response capabilities for South Carolina National Guard Soldiers in the Upstate.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578046/modernized-wellford-readiness-center-reopens-strengthening-upstate-readiness-and-community-ties",
+      "publishedAt": "2026-10-28T12:11:05Z"
+    },
+    {
+      "id": "10e1091e3227fa613fed95b1",
+      "title": "BS27-1: Joint tactical fuel system",
+      "summary": "U.S. Air Force Airmen assigned to the 18th Logistics Readiness Squadron and U.S. Marines assigned to Marine Wing Support Squadron-172 established a joint tactical fuel system using both Air Force and Marine Corps contingency equipment during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 28, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578045/bs27-1-joint-tactical-fuel-system",
+      "publishedAt": "2026-10-28T10:34:35Z"
+    },
+    {
+      "id": "d3e842ebb57726488c9a9dcd",
+      "title": "Public Health Command Europe laboratory earns renewed accreditation, strengthens force health protection",
+      "summary": "LANDSTUHL, Germany — Public Health Command Europe’s Laboratory Sciences Division has renewed its accreditation, reaffirming its ability to deliver reliable scientific data that helps protect service members, families and other military communities across Europe, U.S. Central Command and U.S. Africa Command.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578043/public-health-command-europe-laboratory-earns-renewed-accreditation-strengthens-force-health-protection",
+      "publishedAt": "2026-10-28T09:29:51Z"
+    },
     {
       "id": "a7602d4643a6f4625b154d87",
       "title": "Passing the Watch: A Seabee's 40-Year Journey from the Enlisted Ranks to Commodore",
@@ -217,150 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577967/lost-1942-wwii-soldier-returns-home-albuquerque-final-rest",
       "publishedAt": "2026-10-27T15:08:38Z"
-    },
-    {
-      "id": "af927d60f6f14f958047b285",
-      "title": "U.S. Army, Colombian senior military leaders conclude Fort Bragg engagements",
-      "summary": "FORT BRAGG, N.C. — A Colombian joint-service senior enlisted delegation concluded a series of professional engagements here Oct. 20-23, gaining firsthand exposure to U.S. Army approaches to noncommissioned officer development, airborne readiness, Soldier fitness and innovation.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577965/us-army-colombian-senior-military-leaders-conclude-fort-bragg-engagements",
-      "publishedAt": "2026-10-27T15:04:31Z"
-    },
-    {
-      "id": "be9f0f0abf2ae25c0374a2f2",
-      "title": "USAG Stuttgart Housing Division Chief digs into new role with enthusiasm",
-      "summary": "U.S. Army Garrison Stuttgart is excited to welcome Charmoneaux “Charm” Sutton as the new Housing Division Chief, responsible for the quality and administration of one of the command’s most essential services.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577966/usag-stuttgart-housing-division-chief-digs-into-new-role-with-enthusiasm",
-      "publishedAt": "2026-10-27T14:55:10Z"
-    },
-    {
-      "id": "414c6c7eec878cf9a2650029",
-      "title": "How the Pentagon wants to buy cyber outcomes, not equipment",
-      "summary": "The Pentagon has been exploring a new paradigm dubbed Cyber Effects-as-a-Service, aiming to purchase specific outcomes as opposed to bespoke capabilities.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/how-the-pentagon-wants-to-buy-cyber-outcomes-not-equipment/",
-      "publishedAt": "2026-10-27T14:00:00Z"
-    },
-    {
-      "id": "3947a35b1bd96c215e4a6d9c",
-      "title": "U.S. Naval War College commemorates 80th anniversary of USS Missouri battleship visit to Istanbul",
-      "summary": "A delegation from the U.S. Naval War College visited Istanbul, Turkiye, to commemorate the 80th anniversary of the landmark 1946 visit by the battleship USS Missouri - a visit that was held to repatriate the body of the late Turkish ambassador, and would go on to be seen as the launch of a new era of U.S.-Turkiye bilateral relations.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577954/us-naval-war-college-commemorates-80th-anniversary-uss-missouri-battleship-visit-istanbul",
-      "publishedAt": "2026-10-27T13:50:45Z"
-    },
-    {
-      "id": "ff6f41aa32fdc0b831cd4087",
-      "title": "USAF should buy newly designed air refuelers to meet China threat: Report",
-      "summary": "Although there’s a “temptation” to keep buying KC-46s, a plan to procure 75 more of the Boeing-made tankers should be an “upper limit” followed by a new, longer range tanker, the Hudson Institute’s Timothy Walton told Breaking Defense.",
-      "category": "Air Force",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/usaf-should-buy-newly-designed-air-refuelers-to-meet-china-threat-report/",
-      "publishedAt": "2026-10-27T12:00:00Z"
-    },
-    {
-      "id": "d5a81d52e5687a3586159a64",
-      "title": "BS27-1: Rapid repairs, ready runways",
-      "summary": "KADENA AIR BASE, Japan -- U.S. Air Force Airmen assigned to the 18th Civil Engineer Squadron and 718th Civil Engineer Squadron practiced repairing simulated airfield damage during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 27, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577945/bs27-1-rapid-repairs-ready-runways",
-      "publishedAt": "2026-10-27T09:49:23Z"
-    },
-    {
-      "id": "3e6c4a2c81634d9f4da78181",
-      "title": "BS27-1: 18th SFS neutralizes the threat",
-      "summary": "When shots are fired, 18th Security Forces Squadron rushes toward the source. U.S. Air Force Airmen assigned to the 18th SFS responded to a simulated ground attack during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 26, 2026, neutralizing two simulated attackers and testing their ability to respond to evolving threats.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577943/bs27-1-18th-sfs-neutralizes-threat",
-      "publishedAt": "2026-10-27T08:12:33Z"
-    },
-    {
-      "id": "2e65b5b409b44e4e0acd5b1b",
-      "title": "KS27: U.S. and Japanese Airmen build readiness through combined training",
-      "summary": "The 909th Air Refueling Squadron and 718th Expeditionary Aircraft Maintenance Squadron arrived at Komaki Air Base, Japan, for exercise Keen Sword 27, Oct. 16, 2026.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577942/ks27-us-and-japanese-airmen-build-readiness-through-combined-training",
-      "publishedAt": "2026-10-27T07:18:23Z"
-    },
-    {
-      "id": "992c0ec414e9e92bd0d2acbe",
-      "title": "U.S. Navy submarine arrives in Western Australia for Scheduled Maintenance Period in support of AUKUS",
-      "summary": "HMAS STIRLING, Australia — The Virginia-class fast-attack submarine USS Colorado (SSN 788) arrived at HMAS Stirling today to begin a scheduled, monthlong maintenance period.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577941/us-navy-submarine-arrives-western-australia-scheduled-maintenance-period-support-aukus",
-      "publishedAt": "2026-10-27T06:39:06Z"
-    },
-    {
-      "id": "ea916f2cbd46525a222cdbd3",
-      "title": "Keen Sword 27 Week One: Japanese, U.S., and Partners Train on Anti-Ship Operations, Aircraft Maintenance, Drones, Mass Casualty Care, and Airfield Damage Repair",
-      "summary": "Security forces from Japan, the United States, Australia, Canada, France, Germany, the Philippines, and New Zealand have been participating in the Keen Sword 27 in Japan for the past week.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577936/keen-sword-27-week-one-japanese-us-and-partners-train-anti-ship-operations-aircraft-maintenance-drones-mass-casualty-care",
-      "publishedAt": "2026-10-27T06:09:05Z"
-    },
-    {
-      "id": "e7a9da44d09dbaa60084bc89",
-      "title": "Faces of Keen Sword 27 - Head of German DMBV",
-      "summary": "The head of the German Defence Force’s Department of Medical Bioconnaissance and Verification, from the Institute of Microbiology of the German Armed Forces in Munich participates in joint training with U.S. and Japan at Iruma Air Base, Japan on Oct. 23, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577939/faces-keen-sword-27-head-german-dmbv",
-      "publishedAt": "2026-10-27T04:37:14Z"
-    },
-    {
-      "id": "2f330dc56b684ff854cad69c",
-      "title": "USNH Yokosuka Leadership Builds Partnerships With Host-Nation Medical Partners",
-      "summary": "YOKOSUKA, Japan — During a series of orientation visits in September, Capt. Joshua A. Miller, commanding officer, U.S. Navy Medicine Readiness and Training Command Yokosuka (USNMRTC Yokosuka), and director, U.S. Naval Hospital Yokosuka (USNH Yokosuka), met with leaders from Japanese medical facilities that support the U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577940/usnh-yokosuka-leadership-builds-partnerships-with-host-nation-medical-partners",
-      "publishedAt": "2026-10-27T04:31:26Z"
-    },
-    {
-      "id": "92929125d0ae92f9bad5691f",
-      "title": "DINFOS, 1st TIAD workshop strengthens public affairs integration across Information Forces",
-      "summary": "The Defense Information School, supported by the 1st Theater Information Advantage Detachment, hosted a four-day workshop Oct. 20–23, 2026, in Honolulu for 30 U.S. and allied personnel.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577931/dinfos-1st-tiad-workshop-strengthens-public-affairs-integration-across-information-forces",
-      "publishedAt": "2026-10-27T00:56:36Z"
-    },
-    {
-      "id": "e6f58146ba6ef42164b48686",
-      "title": "First-of-its-kind women's clinic in the Air Force established at JBER",
-      "summary": "Under the Pacific Air Forces, the 673d Medical Group at Joint Base Elmendorf-Richardson provides healthcare for more than 34,000 women. At this epicenter of medical services is a first-of-its-kind clinic specifically designed to educate, treat and improve the lives of these women.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577934/first-its-kind-womens-clinic-air-force-established-jber",
-      "publishedAt": "2026-10-26T23:13:58Z"
-    },
-    {
-      "id": "47bca68c57b26e786c5433ea",
-      "title": "Moffett Fielders turn softball into mission-ready connections",
-      "summary": "Airmen from the California Air National Guard's 129th Rescue Wing forge connection on the softball diamond and across the wing.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577932/moffett-fielders-turn-softball-into-mission-ready-connections",
-      "publishedAt": "2026-10-26T21:56:57Z"
-    },
-    {
-      "id": "39a79aa5c4bb2d4ee2c5db03",
-      "title": "BS27-1: Day or Night, Locked and Loaded",
-      "summary": "KADENA AIR BASE, Japan - U.S. Air Force Airmen assigned to the 18th Logistics Readiness Squadron recently issued simulated weapons to Airmen as part of Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 27, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577930/bs27-1-day-night-locked-and-loaded",
-      "publishedAt": "2026-10-26T21:27:35Z"
     }
   ],
   "nextPage": "page-3.json"

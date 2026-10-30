@@ -1,7 +1,151 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T18:30:11Z",
+  "generatedAt": "2026-10-30T01:04:13Z",
   "articles": [
+    {
+      "id": "8a5d6fcffd6aefb2a7166c5f",
+      "title": "U.S., Japan merge real and virtual skies during KS27",
+      "summary": "High above the Japanese coastline, a Japan Air Self-Defense Force F-35 Lightning II carves through the clouds, its pilot scanning the radar for simulated adversary aircraft. Miles away at Misawa Air Base, Japan, U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577811/us-japan-merge-real-and-virtual-skies-during-ks27",
+      "publishedAt": "2026-10-26T00:10:56Z"
+    },
+    {
+      "id": "2cf33fed6ae93c610684de8f",
+      "title": "U.S. Army and NATO Partners Rehearse War Strategies",
+      "summary": "In Wiesbaden, the U.S. Army and its NATO partners are rehearsing a real-world emergency scenario. A simulated attack on NATO’s eastern flank is designed to test the alliance’s defensive capabilities.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577804/us-army-and-nato-partners-rehearse-war-strategies",
+      "publishedAt": "2026-10-25T23:08:08Z"
+    },
+    {
+      "id": "f82674c257c68727930e7681",
+      "title": "Ballenger Honored, Deal Introduced as Newest Georgia Army National Guard State Command Sgt. Maj.",
+      "summary": "U.S. Army Command Sergeant Major John Ballenger transitions into retirement and passes the torch to U.S. Army Command Sergeant Major Lafayette Deal as the incoming Georgia Army National Guard Command Sergeant Major.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577807/ballenger-honored-deal-introduced-newest-georgia-army-national-guard-state-command-sgt-maj",
+      "publishedAt": "2026-10-25T22:19:11Z"
+    },
+    {
+      "id": "d30e1f8ffb6b9976ea65ac82",
+      "title": "NATO FLF Battle Group-Poland celebrates Romanian Armed Forces Day with sports competition",
+      "summary": "Romanian soldiers deployed with NATO’s Battle Group-Poland marked Romania’s Armed Forces Day with allied U.S., Croatian and British troops at Bemowo Piskie Training Area. A Romanian-led competition featured volleyball, indoor soccer and table tennis, giving soldiers a chance to build camaraderie beyond their regular duties.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577805/nato-flf-battle-group-poland-celebrates-romanian-armed-forces-day-with-sports-competition",
+      "publishedAt": "2026-10-25T21:19:00Z"
+    },
+    {
+      "id": "e71bb1712f6ebab4954d2950",
+      "title": "FOX SPORTS TO HONOR U.S. MILITARY AND VETERANS DURING SPECIAL BROADCASTS AT THE U.S. NAVAL ACADEMY AND WEST POINT",
+      "summary": "In honor of Veterans Day, FOX Sports, in coordination with the U.S. Military Academy and the U.S. Naval Academy, will broadcast two of its flagship sports programs live from West Point and the U.S. Naval Academy over the weekend of Nov. 7–8.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577806/fox-sports-honor-us-military-and-veterans-during-special-broadcasts-us-naval-academy-and-west-point",
+      "publishedAt": "2026-10-25T20:34:50Z"
+    },
+    {
+      "id": "2aa1b09a8f65d596cc4da46b",
+      "title": "JROTC National Raider Challenge | Fall 2026",
+      "summary": "Fort Knox, Ky. – U.S. Army Cadet Command hosted the JROTC National Raider Challenge bringing approximately 4,000 cadets from across the country to Fort Knox, Oct. 22-25 to test their grit as they attempt to bring home the National Raider Champion title.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577803/jrotc-national-raider-challenge-fall-2026",
+      "publishedAt": "2026-10-25T19:38:00Z"
+    },
+    {
+      "id": "750f68cb46b54e5b2a67d874",
+      "title": "121 ARW runs the ramp",
+      "summary": "RICKENBACKER AIR NATIONAL GUARD BASE, Ohio – Airmen with the 121st Air Refueling Wing participated in the Run the Ramp fitness exercise hosted by the 121 ARW Refuel and Recharge Fitness and Wellness Club at Rickenbacker Air National Guard Base, Columbus, Ohio, on October 23, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577796/121-arw-runs-ramp",
+      "publishedAt": "2026-10-25T17:09:08Z"
+    },
+    {
+      "id": "22f0a3a8c98bd4d3b4403603",
+      "title": "West Point to Host Veterans Day Broadcasts and Army-Air Force Weekend Events",
+      "summary": "The U.S. Military Academy at West Point is proud to host a series of athletic competitions and national sports broadcasts Nov. 7–8, including FOX Sports Veterans Day Salute to Service programming and the annual Army–Air Force football game at Michie Stadium.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577800/west-point-host-veterans-day-broadcasts-and-army-air-force-weekend-events",
+      "publishedAt": "2026-10-25T16:47:48Z"
+    },
+    {
+      "id": "9ef4f28a9646776e4bb92bdf",
+      "title": "Japan, Philippine and U.S. forces conduct multilateral Maritime Cooperative Activity",
+      "summary": "The Armed Forces of the Philippines, Japan Maritime Self-Defense Force, and U.S. Coast Guard conducted a multilateral Maritime Cooperative Activity (MCA) within the Philippine Exclusive Economic Zone, Oct. 24, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577794/japan-philippine-and-us-forces-conduct-multilateral-maritime-cooperative-activity",
+      "publishedAt": "2026-10-25T02:06:07Z"
+    },
+    {
+      "id": "2ee1d1c6b77fd0e8c155972f",
+      "title": "USACE Completes Temporary Power Mission on Rota, Supports Recovery After Super Typhoon Bavi",
+      "summary": "The U.S. Army Corps of Engineers completed its temporary emergency power mission on Rota following Super Typhoon Bavi. Through a FEMA mission assignment, USACE completed 54 generator assessments, installed 43 generators and finished deinstalling temporary equipment as it was no longer needed.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577792/usace-completes-temporary-power-mission-rota-supports-recovery-after-super-typhoon-bavi",
+      "publishedAt": "2026-10-24T22:49:46Z"
+    },
+    {
+      "id": "0719fc31bf75f26fed0f14a0",
+      "title": "Pentagon bans troops from betting using insider information",
+      "summary": "The new prohibition bars Defense Department personnel from using classified and unclassified info to gamble on prediction markets. The post Pentagon bans troops from betting using insider information appeared first on Task & Purpose .",
+      "category": "Defense",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/pentagon-hegseth-ban-prediction-markets/",
+      "publishedAt": "2026-10-24T15:42:42Z"
+    },
+    {
+      "id": "5397779d87a7dcd3a981b5fc",
+      "title": "Japanese and U.S. Partners Conduct Airfield Damage Repair Training at Keen Sword 27",
+      "summary": "As part of the Keen Sword 27 exercise, Japanese and U.S. military forces are conducting airfield damage repair training at four Japanese and U.S. air bases across Japan.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577782/japanese-and-us-partners-conduct-airfield-damage-repair-training-keen-sword-27",
+      "publishedAt": "2026-10-24T04:57:15Z"
+    },
+    {
+      "id": "d732ce487db57628c9191a06",
+      "title": "Acting Army Secretary highlights Anniston Army Depot, 'Pit Crew of the American Warfighter'",
+      "summary": "Acting Secretary of the Army Adam Telle visited Anniston Army Depot, Alabama, Oct. 23, 2026, to engage with depot leaders and workforce, alongside U.S. Rep. Mike Rogers of Alabama, Chairman of the House Armed Services Committee.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577776/acting-army-secretary-highlights-anniston-army-depot-pit-crew-american-warfighter",
+      "publishedAt": "2026-10-24T02:23:04Z"
+    },
+    {
+      "id": "8932b86f7111bdc1ee6e74b3",
+      "title": "Division commander tours military construction projects in Southern Arizona",
+      "summary": "PHOENIX — U.S. Army Corps of Engineers South Pacific Division and Los Angeles District senior leaders toured several military construction project sites Oct. 1 in Southern Arizona.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577768/division-commander-tours-military-construction-projects-southern-arizona",
+      "publishedAt": "2026-10-23T22:40:59Z"
+    },
+    {
+      "id": "198b152f02db8f8a3cec129b",
+      "title": "Building the Force: Recruiting at the 163d Attack Wing",
+      "summary": "Recruiters are often the first point of contact for those considering military service. Through community outreach and school visits, California Air National Guard recruiters introduce prospective applicants to military career opportunities and the benefits of serving in the Guard.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577767/building-force-recruiting-163d-attack-wing",
+      "publishedAt": "2026-10-23T21:33:10Z"
+    },
+    {
+      "id": "3fb59f8473d4bea5ac825aa4",
+      "title": "US Army launches Project Gatekeeper to accelerate commercial software adoption, streamline cybersecurity accreditation",
+      "summary": "New DevSecOps sandbox slashes accreditation timelines, lowers barriers for industry and delivers secure software to warfighters at mission speed.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577765/us-army-launches-project-gatekeeper-accelerate-commercial-software-adoption-streamline-cybersecurity-accreditation",
+      "publishedAt": "2026-10-23T21:28:28Z"
+    },
     {
       "id": "372e2e7bc3df619b9f81ef29",
       "title": "Kentucky adjutant general briefs legislative committee on state of the Guard",
@@ -217,150 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577692/9th-esb-marine-aids-okinawan-driver-following-traffic-accident",
       "publishedAt": "2026-10-23T07:20:41Z"
-    },
-    {
-      "id": "95a11115b6289951770d46b2",
-      "title": "U.S., Japanese forces strengthen bilateral readiness through hot-pit refueling during Keen Sword 27",
-      "summary": "U.S. Air Force Airmen and Japan Air Self-Defense Forces airmen conducted bilateral hot-pit refueling operations at a Japan Maritime Self-Defense Force installation in Hachinohe Air Base, Japan, Oct. 19-21, 2026, during Exercise Keen Sword 27, strengthening their ability to sustain fighter operations through allied cooperation.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577689/us-japanese-forces-strengthen-bilateral-readiness-through-hot-pit-refueling-during-keen-sword-27",
-      "publishedAt": "2026-10-23T06:02:09Z"
-    },
-    {
-      "id": "b5f6e64c102a6c3fe2f3a2b5",
-      "title": "Exercise Beverly Sunrise 27-01",
-      "summary": "U.S. Airmen assigned to the 35th Fighter Wing, alongside joint mission partners, participated in Exercise Beverly Sunrise 27-01 at Misawa Air Base, Japan, Oct. 19-23. The exercise tested their ability to respond to simulated threats, sustain operations and project combat power in contested environments.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577686/exercise-beverly-sunrise-27-01",
-      "publishedAt": "2026-10-23T04:04:53Z"
-    },
-    {
-      "id": "7063baeb2c2119892256609c",
-      "title": "U.S., Republic of Korea navies successfully conclude Maritime Counter-Special Operations Exercise",
-      "summary": "Naval forces from the U.S. and Republic of Korea (ROK) successfully concluded the bilateral Maritime Counter-Special Operations Forces Exercise (MCSOFEX) in the waters surrounding the Pyeongtaek, Republic of Korea, Oct 23, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577680/us-republic-korea-navies-successfully-conclude-maritime-counter-special-operations-exercise",
-      "publishedAt": "2026-10-22T23:57:19Z"
-    },
-    {
-      "id": "a62ee47a4ebf8c7d986c9f15",
-      "title": "16 WPS showcases heritage, tactical role during Joint Chiefs Chairman visit",
-      "summary": "For more than 80 years, the 16th Weapons Squadron has shaped the tactics, culture and combat effectiveness of American airpower.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577678/16-wps-showcases-heritage-tactical-role-during-joint-chiefs-chairman-visit",
-      "publishedAt": "2026-10-22T23:35:55Z"
-    },
-    {
-      "id": "b882179d0a10fa47876e9057",
-      "title": "La. Guard begins construction on Lake Charles Field Maintenance Shop",
-      "summary": "LAKE CHARLES, La. – Louisiana National Guard leaders and state officials joined representatives from Chennault International Airport, Porche/May Architects, LLC and Alfred Palma, LLC for a ceremonial groundbreaking for the Lake Charles Field Maintenance Shop at the Lake Charles Readiness Center, Oct. 21, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577679/la-guard-begins-construction-lake-charles-field-maintenance-shop",
-      "publishedAt": "2026-10-22T23:16:19Z"
-    },
-    {
-      "id": "c541904c5db80008e41882be",
-      "title": "Thunderbirds arrive in Wichita ahead of Frontiers in Flight Air Show",
-      "summary": "MCCONNELL AIR FORCE BASE, Kan. — The roar of fighter jets is set to fill the skies over the Air Capital of the World as the U.S. Air Force Thunderbirds arrive at McConnell Air Force Base, Kansas, ahead of the 2026 Frontiers in Flight Air Show and Open House Oct. 24-25.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577677/thunderbirds-arrive-wichita-ahead-frontiers-flight-air-show",
-      "publishedAt": "2026-10-22T22:48:47Z"
-    },
-    {
-      "id": "d3d7ad4df9e9071c6d54cbc8",
-      "title": "OLDCC funding supports water system resiliency planning for West Kauai and PMRF",
-      "summary": "KEKAHA, HAWAII – The Department of Water, County of Kauai (KDOW), in partnership with the U.S. Navy’s Pacific Missile Range Facility (PMRF), is advancing critical water-infrastructure planning for the Kekaha-Waimea water system through support from the Office of Local Defense Community Cooperation (OLDCC).",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577674/oldcc-funding-supports-water-system-resiliency-planning-west-kauai-and-pmrf",
-      "publishedAt": "2026-10-22T22:05:34Z"
-    },
-    {
-      "id": "c76dd6d729660b674c9e38b7",
-      "title": "Naval Hospital Twentynine Palms pediatrician named Navy Pediatrician of the Year by American Academy of Pediatrics",
-      "summary": "Lt. Cmdr. Scott Berkheimer, a pediatrician at Naval Hospital Twentynine Palms, was named Navy Pediatrician of the Year by the American Academy of Pediatrics Section on Uniformed Services in October 2026, recognizing his professional accomplishments and dedication to caring for military-connected children and families.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577673/naval-hospital-twentynine-palms-pediatrician-named-navy-pediatrician-year-american-academy-pediatrics",
-      "publishedAt": "2026-10-22T21:20:47Z"
-    },
-    {
-      "id": "0db83950928985b4fe22b777",
-      "title": "Blount Island team briefs assistant commandant on sustaining Marines ashore",
-      "summary": "On the ramp of USNS Dahl, U.S. Marine Corps Sgt. Jeremiah Murray gave his service’s second-highest-ranking officer a firsthand account of how his team equips Marines overseas.",
-      "category": "Marine Corps",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577671/blount-island-team-briefs-assistant-commandant-sustaining-marines-ashore",
-      "publishedAt": "2026-10-22T21:13:36Z"
-    },
-    {
-      "id": "4278e5079d465e5484babd77",
-      "title": "From runway to reps: Black Hawk pilot soars to the top of Army fitness",
-      "summary": "Warrant Officer Sorenson, a member of the highly competitive U.S. Army Warrior Fitness Team and a UH-60M Black Hawk helicopter pilot, aims to inspire others to pursue fitness by demonstrating that determination and hard work can turn even the most ambitious goals into reality.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577665/runway-reps-black-hawk-pilot-soars-top-army-fitness",
-      "publishedAt": "2026-10-22T21:02:04Z"
-    },
-    {
-      "id": "944f6dfa008e9cabe6d09b66",
-      "title": "From Fort Sill to the world: Red Cross Hero Care Center keeps military families connected",
-      "summary": "When a military family faces an emergency, distance shouldn't stand in the way of getting help. For more than 27 years, the American Red Cross Hero Care Center at Fort Sill has served as a lifeline, connecting service members around the world with loved ones during life's most difficult moments. On Oct.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577659/fort-sill-world-red-cross-hero-care-center-keeps-military-families-connected",
-      "publishedAt": "2026-10-22T20:51:57Z"
-    },
-    {
-      "id": "df40d55a7aeda085ca25c034",
-      "title": "Montana National Guard Connects Educators with Opportunities at Youth Challenge Academy",
-      "summary": "DILLON, Mont. — The Montana National Guard partnered with the Montana Youth Challenge Academy (MYCA) and the University of Montana Western to bring educators from across the state to Dillon, Oct. 21, for a firsthand look at a program helping young Montanans build brighter futures.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577661/montana-national-guard-connects-educators-with-opportunities-youth-challenge-academy",
-      "publishedAt": "2026-10-22T20:28:52Z"
-    },
-    {
-      "id": "c9edb0f56b83948d505ccac0",
-      "title": "The Beast meets the Bats: Iowa Airmen welcome Secret Service",
-      "summary": "Iowa Air National Guard Airmen assigned to the 185th Air Refueling Wing welcomed U.S. Secret Service personnel prior to a presidential visit to Sioux City, Iowa, Oct. 22, 2026.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577658/beast-meets-bats-iowa-airmen-welcome-secret-service",
-      "publishedAt": "2026-10-22T20:23:27Z"
-    },
-    {
-      "id": "54b1a1644799987a752d3366",
-      "title": "Fife & Drum Corps Helps DEVCOM CBC Celebrate America 250",
-      "summary": "Members of the Old Guard Fife and Drum Corps performed at an America 250 Flag Raising Ceremony held at the U.S. Army Combat Capability Development Command Chemical Biological Center (DEVCOM CBC) on Aberdeen Proving Ground, Maryland. Sergeant 1st Class Ryan Koesterer, Staff Sgt.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577660/fife-drum-corps-helps-devcom-cbc-celebrate-america-250",
-      "publishedAt": "2026-10-22T20:17:58Z"
-    },
-    {
-      "id": "73801b232d1403173d78c8b7",
-      "title": "Garrison welcomes new senior enlisted advisor",
-      "summary": "FORT HOOD, Texas — U.S. Army Garrison-Fort Hood held a change of responsibility Friday at III Armored Corps Headquarters, passing responsibility from Command Sgt. Maj. Loyd Rhoades to Command Sgt. Maj. Kristopher Tate.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577655/garrison-welcomes-new-senior-enlisted-advisor",
-      "publishedAt": "2026-10-22T20:06:39Z"
-    },
-    {
-      "id": "c66a6ada04a01a324ec71082",
-      "title": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
-      "summary": "The move comes amid Pentagon concerns that the U.S. government’s only plant for manufacturing howitzer barrels can’t keep up with the recent demand.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/land/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand/",
-      "publishedAt": "2026-10-22T19:27:22Z"
     }
   ],
   "nextPage": "page-5.json"
