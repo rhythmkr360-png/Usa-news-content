@@ -1,7 +1,106 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T10:06:14Z",
+  "generatedAt": "2026-10-30T18:02:34Z",
   "articles": [
+    {
+      "id": "1a196e8dc3a144ca95710530",
+      "title": "Marines Sharpen Small-Unit Drone Tactics at Drone Crucible 26.3",
+      "summary": "U.S. Marines with the 2nd Marine Division train with emerging small unmanned aircraft systems at the United States National Drone Association Drone Crucible 26.3, in Starke, Florida Sept. 27-Oct. 2, 2026.",
+      "category": "Marine Corps",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577919/marines-sharpen-small-unit-drone-tactics-drone-crucible-263",
+      "publishedAt": "2026-10-26T20:14:52Z"
+    },
+    {
+      "id": "0dd3f3d5448589beecb83a5b",
+      "title": "Air National Guard to stand up a new special tactics squadron",
+      "summary": "The Pentagon directed the Air Force to stand up a new unit based in Florida, where there’s a host of Air Force special operations resources. The post Air National Guard to stand up a new special tactics squadron appeared first on Task & Purpose .",
+      "category": "Army",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/new-air-national-guard-unit/",
+      "publishedAt": "2026-10-26T19:43:41Z"
+    },
+    {
+      "id": "569a07ee608f8e8cecaa11dc",
+      "title": "NORAD ENFORCEMENT OF TEMPORARY FLIGHT RESTRICTION AIRSPACE ANNOUNCED OVER MULTIPLE AREAS THIS WEEK",
+      "summary": "Fighter jets from the North American Aerospace Defense Command (NORAD) will enforce the Federal Aviation Administration (FAA) VIP Temporary Flight Restriction (TFR) areas established this week, October 27-28, 2026, over Corpus Christi, Texas; Lubbock, Texas; and Columbus-Chillicothe, Ohio.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577916/norad-enforcement-temporary-flight-restriction-airspace-announced-over-multiple-areas-week",
+      "publishedAt": "2026-10-26T19:34:22Z"
+    },
+    {
+      "id": "745c6bf9ebfb930bf881ad04",
+      "title": "USACE completes 110-foot stoplog test fit at Ozark Lock and Dam",
+      "summary": "The U.S. Army Corps of Engineers Little Rock District successfully completed the 110-foot stoplog test fit at Ozark Lock and Dam on the McClellan-Kerr Arkansas River Navigation System, Oct. 20, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577917/usace-completes-110-foot-stoplog-test-fit-ozark-lock-and-dam",
+      "publishedAt": "2026-10-26T19:33:10Z"
+    },
+    {
+      "id": "577895eddd323278bcac35d5",
+      "title": "US Army practices digging temporary battlefield graves",
+      "summary": "The Army is preparing for the grim possibility of burying fallen soldiers on the battlefield, testing how fast it can dig temporary graves while preserving remains for eventual identification and return to families after the end of a conflict.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/land/2026/10/26/army-practices-digging-temporary-battlefield-graves/",
+      "publishedAt": "2026-10-26T18:57:25Z"
+    },
+    {
+      "id": "cc029398f8035f3e6dbe9721",
+      "title": "Pentagon announces first US submarine joining Submarine Rotational Force-West",
+      "summary": "The Pentagon announced that the USS Colorado will be the first submarine to join Submarine Rotational Force-West in Australia.",
+      "category": "Navy",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/naval/2026/10/26/pentagon-announces-first-us-submarine-joining-submarine-rotational-force-west/",
+      "publishedAt": "2026-10-26T18:50:06Z"
+    },
+    {
+      "id": "ebebc02944848d5e70ec2b4f",
+      "title": "Lyster Launches Annual Flu Campaign",
+      "summary": "FORT RUCKER, Ala. — As autumn approaches, Lyster Army Health Clinic is preparing to protect service members, retirees, and military families with the kickoff of its annual influenza vaccination campaign. Across the United States, influenza activity typically increases in October, peaks between December and March, and can linger through May.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577905/lyster-launches-annual-flu-campaign",
+      "publishedAt": "2026-10-26T18:04:12Z"
+    },
+    {
+      "id": "00c68d5a5350c750f5012558",
+      "title": "U.S., Colombia Launch Exercise Southern Vanguard 2027",
+      "summary": "The 41st iteration of SOUTHERN VANGUARD 2027 (SV27) is scheduled to begin in Colombia on Nov. 2, 2026. The exercise, which is scheduled to run until mid-November, will bring together approximately 800 participants, including about 350 U.S. military personnel and over 400 soldiers from the Colombian Army.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577902/us-colombia-launch-exercise-southern-vanguard-2027",
+      "publishedAt": "2026-10-26T17:56:57Z"
+    },
+    {
+      "id": "f3d26fb1939a0a0e6abfd097",
+      "title": "Corps of Engineers and the city of La Crosse, Wisconsin, partner on flood risk management project",
+      "summary": "The U.S. Army Corps of Engineers, St. Paul District, signed a feasibility cost-sharing agreement with the city of La Crosse, Wisconsin, to begin a joint flood risk management feasibility study on Oct. 13.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577901/corps-engineers-and-city-la-crosse-wisconsin-partner-flood-risk-management-project",
+      "publishedAt": "2026-10-26T17:41:07Z"
+    },
+    {
+      "id": "00e46915255248744245a24d",
+      "title": "‘Now is the time’ for Cubans to ‘act’ says top US military commander in South America",
+      "summary": "The commander of U.S. Southern Command, Gen. Francis Donovan, called on Cubans to work with U.S. intelligence agencies. The post ‘Now is the time’ for Cubans to ‘act’ says top US military commander in South America appeared first on Task & Purpose .",
+      "category": "Defense",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/southcom-donovan-cuba-cia-action/",
+      "publishedAt": "2026-10-26T17:32:35Z"
+    },
+    {
+      "id": "edeb3025d2fe38978a6f20c8",
+      "title": "USNI News Fleet and Marine Tracker: Oct. 26, 2026",
+      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Oct. 26, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/26/usni-news-fleet-and-marine-tracker-oct-26-2026",
+      "publishedAt": "2026-10-26T17:13:04Z"
+    },
     {
       "id": "dcfb87f1b5998c11da436e76",
       "title": "New Hampshire Army National Guard names 2027 Best Warrior winners",
@@ -262,105 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577757/uss-mcfaul-ddg-74-returns-norfolk-following-deployment",
       "publishedAt": "2026-10-23T19:53:29Z"
-    },
-    {
-      "id": "cd54d4efa8d3cdbe9c182059",
-      "title": "US military needs ‘urgent revolutionary institutional change’ to prepare for modern war, Petraeus says",
-      "summary": "Ret. Army Gen. David Petraeus praised the Pentagon’s new Autonomous Warfare Command but said the U.S. must rapidly prepare for modern autonomous war.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/23/us-military-needs-urgent-revolutionary-institutional-change-to-prepare-for-modern-war-petraeus-says/",
-      "publishedAt": "2026-10-23T19:39:05Z"
-    },
-    {
-      "id": "921ad22c9140aab9b4d6b404",
-      "title": "MRF-D 26 concludes 15th rotation as the first certified Special Purpose Marine Air-Ground Task Force",
-      "summary": "Approximately 2,000 U.S. Marines and Sailors assigned to Marine Rotational Force – Darwin 26 concluded a historic deployment across Australia and the Indo-Pacific, marking the program’s 15th rotation and the first time the rotational force earned certification as a Special Purpose Marine Air-Ground Task Force.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577738/mrf-d-26-concludes-15th-rotation-first-certified-special-purpose-marine-air-ground-task-force",
-      "publishedAt": "2026-10-23T19:19:14Z"
-    },
-    {
-      "id": "6fb6f45fb5dd86b1640b279a",
-      "title": "USNI News Western Pacific Pulse: Oct. 23, 2026",
-      "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In the Philippine Sea The Theodore Roosevelt Carrier Strike Group was in the Philippine Sea as of Wednesday as part of U.S.-Japan Exercise Keen Sword 27.",
-      "category": "Defense",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/23/usni-news-western-pacific-pulse-oct-23-2026",
-      "publishedAt": "2026-10-23T19:15:43Z"
-    },
-    {
-      "id": "318fe96713b587a9284595b0",
-      "title": "AMC Command Team Visits Little Rock, Focuses on the Future of Mobility",
-      "summary": "U.S. Air Force Lt. Gen. Dan Tulley, commander of Air Mobility Command, his wife Holly Tulley, and Chief Master Sgt. Raun Howell, AMC command chief, engaged with Airmen and saw firsthand how Team Little Rock is preparing for future mobility operations at Little Rock Air Force Base, Arkansas, Oct. 21, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577750/amc-command-team-visits-little-rock-focuses-future-mobility",
-      "publishedAt": "2026-10-23T19:01:24Z"
-    },
-    {
-      "id": "f4e9f8ed1e7ec4abfe65eeb1",
-      "title": "Fort Buchanan strengthens ties with Puerto Rico businesses during APEX Day 2026",
-      "summary": "U.S. Army Garrison Fort Buchanan strengthened its connection with Puerto Rico’s business community and expanded awareness of federal contracting opportunities during APEX Day 2026: Strategic Connections with Federal Buyers, held Oct. 23 at the Center for Entrepreneurship in Hato Rey.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577748/fort-buchanan-strengthens-ties-with-puerto-rico-businesses-during-apex-day-2026",
-      "publishedAt": "2026-10-23T18:58:52Z"
-    },
-    {
-      "id": "fe64c9283525f283f882a596",
-      "title": "USACE Philadelphia District honors historic dredge McFarland",
-      "summary": "PHILADELPHIA — The U.S. Army Corps of Engineers Philadelphia District honored the Dredge McFarland during a farewell ceremony Oct. 23 at Fort Mifflin, marking the completion of the vessel’s final operational mission after nearly six decades of service.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577741/usace-philadelphia-district-honors-historic-dredge-mcfarland",
-      "publishedAt": "2026-10-23T18:44:12Z"
-    },
-    {
-      "id": "8c5966951885318d1b3b113a",
-      "title": "Fryar Fieldhouse Opens at Fort Wainwright",
-      "summary": "U.S. Army Garrison Alaska opened the 72,500-square-foot Fryar Fieldhouse at Fort Wainwright on Oct. 5, 2026. The facility features an elevated running track, 21,000-square-foot turf field and fitness areas, providing year-round indoor training and recreation for Soldiers, families and authorized patrons. Named for Medal of Honor recipient Pvt.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577736/fryar-fieldhouse-opens-fort-wainwright",
-      "publishedAt": "2026-10-23T18:22:46Z"
-    },
-    {
-      "id": "12656059f1b2cc2510d30a9a",
-      "title": "La. Guard appoints ninth command chief warrant officer",
-      "summary": "NEW ORLEANS – Chief Warrant Officer 5 Dale Poe became the Louisiana National Guard’s ninth command chief warrant officer during a change of responsibility ceremony at Jackson Barracks in New Orleans, Oct. 18.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577720/la-guard-appoints-ninth-command-chief-warrant-officer",
-      "publishedAt": "2026-10-23T16:25:47Z"
-    },
-    {
-      "id": "32b2fed9cd6ee3b8a2861df9",
-      "title": "‘The West can’t stop me’: Space wars heat up as Russia tails a Ukraine-linked US satellite",
-      "summary": "Washington blamed Moscow for deliberately moving a Russian military satellite with an undisclosed mission close last week to a U.S.-registered satellite.",
-      "category": "Space Force",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/space/2026/10/23/the-west-cant-stop-me-space-wars-heat-up-as-russia-tails-a-ukraine-linked-us-satellite/",
-      "publishedAt": "2026-10-23T15:48:02Z"
-    },
-    {
-      "id": "bebe4c940f51df9e2ce781a7",
-      "title": "Peterson Space Force Base Airman receives Department of War Spirit of Hope Award",
-      "summary": "– Established in honor of legendary entertainer Bob Hope, the Spirit of Hope Award is one of the military's most prestigious honors. This award is presented to individuals and organizations who epitomize the core values of service, standing as a testament to the bond between the American public and its service members. Tech. Sgt. Michael D.",
-      "category": "Space Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577715/peterson-space-force-base-airman-receives-department-war-spirit-hope-award",
-      "publishedAt": "2026-10-23T15:46:11Z"
-    },
-    {
-      "id": "e50d6b6e9bf87657af12a86c",
-      "title": "Lost in 1950, Korean War Soldier to be Laid to Rest in Illinois",
-      "summary": "The remains of U.S. Army Pfc. John R. Stovall, 22, who was killed during the Korean War, will be interred at Mount Hope Cemetery in Belleville, Illinois. Services and interment are being coordinated by Kassly Funeral Home.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577710/lost-1950-korean-war-soldier-laid-rest-illinois",
-      "publishedAt": "2026-10-23T15:32:15Z"
     }
   ],
   "nextPage": "page-5.json"

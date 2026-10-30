@@ -1,7 +1,106 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T10:06:14Z",
+  "generatedAt": "2026-10-30T18:02:34Z",
   "articles": [
+    {
+      "id": "f4134df7e7cdd52e37d6e985",
+      "title": "Developing leaders through attitude, initiative and commitment at ACC-RSA",
+      "summary": "REDSTONE ARSENAL, Ala. – Maj. Gen. Douglas Lowrey, commanding general of U.S. Army Contracting Command, and ACC Command Sgt. Maj. Rachel Harris, emphasized attitude, initiative and commitment to helping others succeed during a discussion with Leadership Development and Readiness Program (LDRP) participants Oct.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578195/developing-leaders-through-attitude-initiative-and-commitment-acc-rsa",
+      "publishedAt": "2026-10-29T17:11:06Z"
+    },
+    {
+      "id": "0baf04d6b61221d5a53331e5",
+      "title": "Mission Driven–People Powered: HMC Jerry Williams",
+      "summary": "The Naval Medical Forces Development Command is Mission-Driven and, most importantly, People-Powered! Today we highlight U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578191/mission-driven-people-powered-hmc-jerry-williams",
+      "publishedAt": "2026-10-29T16:54:24Z"
+    },
+    {
+      "id": "654fdd522eaefe8cf126efa8",
+      "title": "US, Japan reach agreements for AMRAAM assembly, SM-3 production boost: Japanese MoD",
+      "summary": "The “groundbreaking agreement” on AMRAAM production “will not only ensure the acquisition of equipment needed by both Japan and the United States, but will also strengthen Japan’s defense industry base,” said Japanese Defense Minister Shinjiro Koizumi.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/10/us-japan-ink-agreements-for-amraam-production-sm-3-production-boost-japanese-mod/",
+      "publishedAt": "2026-10-29T16:45:18Z"
+    },
+    {
+      "id": "a76a0a4a93a3325d6eaa9c1b",
+      "title": "In Arctic, US Army researchers test camo that could adapt to changing landscapes",
+      "summary": "Researchers were inspired by Arctic foxes, which change colors over the course of the year – from white in the winter to brown in the summer.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/29/in-arctic-us-army-researchers-test-camo-that-could-adapt-to-changing-landscapes/",
+      "publishedAt": "2026-10-29T16:30:28Z"
+    },
+    {
+      "id": "a4e3e0574d4544be4c342e20",
+      "title": "Pentagon treating military base freezer malfunctions as suspected cyberattack, officials say",
+      "summary": "The Pentagon is treating the spate of mysterious freezer malfunctions that spoiled food at military bases across the United States in August as a suspected hack.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/29/pentagon-treating-military-base-freezer-malfunctions-as-suspected-cyberattack-officials-say/",
+      "publishedAt": "2026-10-29T16:26:56Z"
+    },
+    {
+      "id": "14878e2d194ca4b2235fd380",
+      "title": "Navy Corpsman Finds Purpose in Patient Care and Leadership",
+      "summary": "Hospital Corpsman 3rd Class (HM3) John Christopher Dabu, currently serving as the Medical Home Port direct supervisor at Naval Branch Health Clinic (NBHC) Panama City, has leveraged his Navy enlistment to overcome professional setbacks, secure U.S. citizenship, and establish himself as a vital clinic leader.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578189/navy-corpsman-finds-purpose-patient-care-and-leadership",
+      "publishedAt": "2026-10-29T16:26:31Z"
+    },
+    {
+      "id": "8bab7e796c48a8ece43f5c11",
+      "title": "US Navy wants more visible role for drone boats as one deploys for the first time",
+      "summary": "The U.S. Navy's No. 2 officer shed new light on the value that medium unmanned surface vessels could bring to the fleet.",
+      "category": "Navy",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/naval/2026/10/29/us-navy-wants-more-visible-role-for-drone-boats-as-one-deploys-for-the-first-time/",
+      "publishedAt": "2026-10-29T14:04:32Z"
+    },
+    {
+      "id": "f5846cab46902d9329306124",
+      "title": "Report to Congress on the U.S. Army’s Infantry Squad Vehicle",
+      "summary": "The following is the Oct. 22, 2026, Congressional Research Service report, The U.S. Army’s Infantry Squad Vehicle (ISV).",
+      "category": "Army",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/29/report-to-congress-on-the-u-s-armys-infantry-squad-vehicle",
+      "publishedAt": "2026-10-29T13:49:09Z"
+    },
+    {
+      "id": "5e70e09db7b2a8f42f67ff64",
+      "title": "Pentagon will pick new US base location by June 2027, prioritizing 4 requirements",
+      "summary": "In an interview with Breaking Defense, Dale Marks, the assistant secretary of defense for Energy, Installations, and Environment, laid out new details on the effort.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/10/pentagon-will-pick-new-us-base-location-by-june-2027-prioritizing-4-requirements/",
+      "publishedAt": "2026-10-29T12:45:00Z"
+    },
+    {
+      "id": "0c191a8d5ea0fe53c23e4391",
+      "title": "BS27-1: 18th Wing trains for mass passenger arrival",
+      "summary": "U.S. Air Force Airmen assigned to the 18th Wing processed simulated passengers following an aircraft diversion during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 29, 2026. Airmen accounted for passengers, provided tactical combat casualty care and established an area for simulated casualties to receive medical attention and rest.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578143/bs27-1-18th-wing-trains-mass-passenger-arrival",
+      "publishedAt": "2026-10-29T09:06:35Z"
+    },
+    {
+      "id": "5528ebbdcc7ee865f43c7e2a",
+      "title": "SPP Exchange Advances ROK Army’s 2040 Defense Reform",
+      "summary": "The Hawaiʻi and Oregon National Guards, Armed Forces of the Philippines, and U.S. Pacific Command joined the Republic of Korea Army for a multilateral reserve readiness exchange in South Korea, Sept. 8–11, 2026.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578133/spp-exchange-advances-rok-armys-2040-defense-reform",
+      "publishedAt": "2026-10-29T08:29:28Z"
+    },
     {
       "id": "84ed48c54d41347c2c431f50",
       "title": "Hudson Assumes Command of USACE Pacific Ocean Division",
@@ -262,105 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578027/beyond-comfort-zone-15th-oss-airman-completes-army-ranger-school",
       "publishedAt": "2026-10-28T01:19:20Z"
-    },
-    {
-      "id": "482d63e0ce9ac87a6538a3d0",
-      "title": "USACE Manager of the Year: Jisun Kang leads Far East District contracting",
-      "summary": "Jisun Kang, chief of contracting at the U.S. Army Corps of Engineers Far East District, has been named Manager of the Year through the USACE Excellence in Contracting Awards Program.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578028/usace-manager-year-jisun-kang-leads-far-east-district-contracting",
-      "publishedAt": "2026-10-28T01:13:53Z"
-    },
-    {
-      "id": "12ae1a23647bcab021b4f017",
-      "title": "Brunson Challenges Logisticians to Bring Modern Technology into Exercises at 10th UNC Logistics Symposium",
-      "summary": "U.S. Army Gen. Xavier T. Brunson, commander of United Nations Command, told logisticians from 15 nations that sustainment is central to winning, as he opened the 10th Annual UNC Logistics Symposium at the Morning Calm Conference Center, Oct. 26, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578024/brunson-challenges-logisticians-bring-modern-technology-into-exercises-10th-unc-logistics-symposium",
-      "publishedAt": "2026-10-28T00:00:10Z"
-    },
-    {
-      "id": "f860c9a26e81db3948b15657",
-      "title": "KEEN SWORD 27: 3rd EOD Company and Japan Ground Self-Defense Force EOD conducts live fire ground response training",
-      "summary": "U.S. Marines with 3rd Explosive Ordnance Disposal Company, 9th Engineer Support Battalion, 3rd Marine Logistics Group, trained alongside Japan Ground Self-Defense Force members during a bilateral live-fire ground response training on Okinawa, Japan, Oct. 23, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578022/keen-sword-27-3rd-eod-company-and-japan-ground-self-defense-force-eod-conducts-live-fire-ground-response-training",
-      "publishedAt": "2026-10-27T23:43:59Z"
-    },
-    {
-      "id": "d5eb4b91aaf804373d4792da",
-      "title": "TAMC physician honored for 30 years of continued Army service",
-      "summary": "Tripler Army Medical Center, HI — Dr. Conrad S. Belnap, a physician at Tripler Army Medical Center, received a medallion from the U.S. Army Medical Department on Oct. 19 in recognition of completing 30 years of active-duty service in the U.S. Army Medical Corps.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578018/tamc-physician-honored-30-years-continued-army-service",
-      "publishedAt": "2026-10-27T23:27:16Z"
-    },
-    {
-      "id": "a57aee0a8416640d93aa97a5",
-      "title": "TAMC physician honored for 30 years of continued Army service",
-      "summary": "Tripler Army Medical Center, HI — Dr. Conrad S. Belnap, a physician at Tripler Army Medical Center, received a medallion from the U.S. Army Medical Department on Oct. 19 in recognition of completing 30 years of active-duty service in the U.S. Army Medical Corps.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578019/tamc-physician-honored-30-years-continued-army-service",
-      "publishedAt": "2026-10-27T23:27:16Z"
-    },
-    {
-      "id": "c0b01dfb0d1c82fbb7344c22",
-      "title": "Deckplates to Dugouts: JFK Sailor balances Navy life and Softball",
-      "summary": "U.S. Navy Retail Services Specialist (RS) 2nd Class Adrian Ramos, from Puerto Rico, still remembers the electric hum of draft day; the phone call, the handshake, the dream that had carried him from Miami Dade College to the Toronto Blue Jays organization starting in the minor leagues, but life has a way of shifting the field beneath your cleats.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578016/deckplates-dugouts-jfk-sailor-balances-navy-life-and-softball",
-      "publishedAt": "2026-10-27T23:01:41Z"
-    },
-    {
-      "id": "994837c4bff2c6cf6f115167",
-      "title": "Treating Guard families with spooktacular fun & resources",
-      "summary": "Over 1,000 Utah National Guard family members came to Camp Wiliams on 17 October, 2026 as the Utah National Guard Child and Youth Programs hosted its annual Trunk or Treat.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578015/treating-guard-families-with-spooktacular-fun-resources",
-      "publishedAt": "2026-10-27T22:22:18Z"
-    },
-    {
-      "id": "a64c4682868bb519f6104f9b",
-      "title": "Guardsmen Push Through the Exhaustion in the 2027 Best Warrior Competition",
-      "summary": "The 2027 Utah Best Warrior Competition brought together 21 Utah Army and Air National Guardsmen at Camp Williams Oct. 19-21, 2026, for three days of challenges testing physical endurance, tactical proficiency and mental resilience.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578009/guardsmen-push-through-exhaustion-2027-best-warrior-competition",
-      "publishedAt": "2026-10-27T21:44:16Z"
-    },
-    {
-      "id": "f26a1b53885c3b3f16d53627",
-      "title": "When the Roads Rumble: U.S. and Panamanian Partner Forces provide Humanitarian Assistance and Disaster Relief",
-      "summary": "On Oct. 9, 2026, the streets of Panama shook as a 7.7-magnitude earthquake hit the country; the epicenter was located at Pitaloza Arria in the Azuero Peninsula. In response, U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578008/roads-rumble-us-and-panamanian-partner-forces-provide-humanitarian-assistance-and-disaster-relief",
-      "publishedAt": "2026-10-27T21:38:33Z"
-    },
-    {
-      "id": "4b31b6136fe421e5434cefc0",
-      "title": "US military’s drug boat strikes have now killed at least 240 people",
-      "summary": "The attack was at least the third deadly strike carried out by U.S. Southern Command this month. The post US military’s drug boat strikes have now killed at least 240 people appeared first on Task & Purpose .",
-      "category": "Defense",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/military-drug-boat-240-killed/",
-      "publishedAt": "2026-10-27T20:31:01Z"
-    },
-    {
-      "id": "d6ae5bb420e8c68343c2b9bc",
-      "title": "US Air Force awards Lockheed Martin $694M hypersonic missile production contract",
-      "summary": "The Air Force granted Lockheed Martin a $694 million contract in late September for the production and fielding of the AGM-183A Air-Launched Rapid Response Weapon, or ARRW.",
-      "category": "Air Force",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-air-force-awards-lockheed-martin-694m-hypersonic-missile-production-contract/",
-      "publishedAt": "2026-10-27T19:53:42Z"
     }
   ],
   "nextPage": "page-3.json"

@@ -1,7 +1,106 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T10:06:14Z",
+  "generatedAt": "2026-10-30T18:02:34Z",
   "articles": [
+    {
+      "id": "cd54d4efa8d3cdbe9c182059",
+      "title": "US military needs ‘urgent revolutionary institutional change’ to prepare for modern war, Petraeus says",
+      "summary": "Ret. Army Gen. David Petraeus praised the Pentagon’s new Autonomous Warfare Command but said the U.S. must rapidly prepare for modern autonomous war.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/23/us-military-needs-urgent-revolutionary-institutional-change-to-prepare-for-modern-war-petraeus-says/",
+      "publishedAt": "2026-10-23T19:39:05Z"
+    },
+    {
+      "id": "921ad22c9140aab9b4d6b404",
+      "title": "MRF-D 26 concludes 15th rotation as the first certified Special Purpose Marine Air-Ground Task Force",
+      "summary": "Approximately 2,000 U.S. Marines and Sailors assigned to Marine Rotational Force – Darwin 26 concluded a historic deployment across Australia and the Indo-Pacific, marking the program’s 15th rotation and the first time the rotational force earned certification as a Special Purpose Marine Air-Ground Task Force.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577738/mrf-d-26-concludes-15th-rotation-first-certified-special-purpose-marine-air-ground-task-force",
+      "publishedAt": "2026-10-23T19:19:14Z"
+    },
+    {
+      "id": "6fb6f45fb5dd86b1640b279a",
+      "title": "USNI News Western Pacific Pulse: Oct. 23, 2026",
+      "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In the Philippine Sea The Theodore Roosevelt Carrier Strike Group was in the Philippine Sea as of Wednesday as part of U.S.-Japan Exercise Keen Sword 27.",
+      "category": "Defense",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/23/usni-news-western-pacific-pulse-oct-23-2026",
+      "publishedAt": "2026-10-23T19:15:43Z"
+    },
+    {
+      "id": "318fe96713b587a9284595b0",
+      "title": "AMC Command Team Visits Little Rock, Focuses on the Future of Mobility",
+      "summary": "U.S. Air Force Lt. Gen. Dan Tulley, commander of Air Mobility Command, his wife Holly Tulley, and Chief Master Sgt. Raun Howell, AMC command chief, engaged with Airmen and saw firsthand how Team Little Rock is preparing for future mobility operations at Little Rock Air Force Base, Arkansas, Oct. 21, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577750/amc-command-team-visits-little-rock-focuses-future-mobility",
+      "publishedAt": "2026-10-23T19:01:24Z"
+    },
+    {
+      "id": "f4e9f8ed1e7ec4abfe65eeb1",
+      "title": "Fort Buchanan strengthens ties with Puerto Rico businesses during APEX Day 2026",
+      "summary": "U.S. Army Garrison Fort Buchanan strengthened its connection with Puerto Rico’s business community and expanded awareness of federal contracting opportunities during APEX Day 2026: Strategic Connections with Federal Buyers, held Oct. 23 at the Center for Entrepreneurship in Hato Rey.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577748/fort-buchanan-strengthens-ties-with-puerto-rico-businesses-during-apex-day-2026",
+      "publishedAt": "2026-10-23T18:58:52Z"
+    },
+    {
+      "id": "fe64c9283525f283f882a596",
+      "title": "USACE Philadelphia District honors historic dredge McFarland",
+      "summary": "PHILADELPHIA — The U.S. Army Corps of Engineers Philadelphia District honored the Dredge McFarland during a farewell ceremony Oct. 23 at Fort Mifflin, marking the completion of the vessel’s final operational mission after nearly six decades of service.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577741/usace-philadelphia-district-honors-historic-dredge-mcfarland",
+      "publishedAt": "2026-10-23T18:44:12Z"
+    },
+    {
+      "id": "8c5966951885318d1b3b113a",
+      "title": "Fryar Fieldhouse Opens at Fort Wainwright",
+      "summary": "U.S. Army Garrison Alaska opened the 72,500-square-foot Fryar Fieldhouse at Fort Wainwright on Oct. 5, 2026. The facility features an elevated running track, 21,000-square-foot turf field and fitness areas, providing year-round indoor training and recreation for Soldiers, families and authorized patrons. Named for Medal of Honor recipient Pvt.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577736/fryar-fieldhouse-opens-fort-wainwright",
+      "publishedAt": "2026-10-23T18:22:46Z"
+    },
+    {
+      "id": "12656059f1b2cc2510d30a9a",
+      "title": "La. Guard appoints ninth command chief warrant officer",
+      "summary": "NEW ORLEANS – Chief Warrant Officer 5 Dale Poe became the Louisiana National Guard’s ninth command chief warrant officer during a change of responsibility ceremony at Jackson Barracks in New Orleans, Oct. 18.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577720/la-guard-appoints-ninth-command-chief-warrant-officer",
+      "publishedAt": "2026-10-23T16:25:47Z"
+    },
+    {
+      "id": "32b2fed9cd6ee3b8a2861df9",
+      "title": "‘The West can’t stop me’: Space wars heat up as Russia tails a Ukraine-linked US satellite",
+      "summary": "Washington blamed Moscow for deliberately moving a Russian military satellite with an undisclosed mission close last week to a U.S.-registered satellite.",
+      "category": "Space Force",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/space/2026/10/23/the-west-cant-stop-me-space-wars-heat-up-as-russia-tails-a-ukraine-linked-us-satellite/",
+      "publishedAt": "2026-10-23T15:48:02Z"
+    },
+    {
+      "id": "bebe4c940f51df9e2ce781a7",
+      "title": "Peterson Space Force Base Airman receives Department of War Spirit of Hope Award",
+      "summary": "– Established in honor of legendary entertainer Bob Hope, the Spirit of Hope Award is one of the military's most prestigious honors. This award is presented to individuals and organizations who epitomize the core values of service, standing as a testament to the bond between the American public and its service members. Tech. Sgt. Michael D.",
+      "category": "Space Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577715/peterson-space-force-base-airman-receives-department-war-spirit-hope-award",
+      "publishedAt": "2026-10-23T15:46:11Z"
+    },
+    {
+      "id": "e50d6b6e9bf87657af12a86c",
+      "title": "Lost in 1950, Korean War Soldier to be Laid to Rest in Illinois",
+      "summary": "The remains of U.S. Army Pfc. John R. Stovall, 22, who was killed during the Korean War, will be interred at Mount Hope Cemetery in Belleville, Illinois. Services and interment are being coordinated by Kassly Funeral Home.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577710/lost-1950-korean-war-soldier-laid-rest-illinois",
+      "publishedAt": "2026-10-23T15:32:15Z"
+    },
     {
       "id": "515863d15af3c5d9928a348d",
       "title": "Army Activates Air Defense Guam Battalion Focused on Chinese, North Korean Threats",
@@ -262,105 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577638/asc-awards-top-ammo-inspectors-munitions-safety",
       "publishedAt": "2026-10-22T19:11:52Z"
-    },
-    {
-      "id": "66f002664c0bdf00afae233e",
-      "title": "U.S. Air Force Band kicks off Montana fall tour",
-      "summary": "The U.S. Air Force Concert Band and Singing Sergeants launched their autumn tour with a performance at the Alberta Bair Theater in Billings, Montana, Oct. 14.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577640/us-air-force-band-kicks-off-montana-fall-tour",
-      "publishedAt": "2026-10-22T19:11:51Z"
-    },
-    {
-      "id": "e9fee033ec79dcce5ddab75d",
-      "title": "Cleveland Harbor Fall Dredging Starting; Supports Safe Great Lakes Navigation, Strengthens Local and National Economy",
-      "summary": "The U.S. Army Corps of Engineers, Buffalo District, will begin fall dredging this week in Cleveland Harbor to maintain safe and navigable waterways for Great Lakes commercial vessels, recreational boaters and other harbor users on Lake Erie. The Buffalo District awarded an $11.7 million contract in April 2026 to New York-based DMYLES, Inc.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577639/cleveland-harbor-fall-dredging-starting-supports-safe-great-lakes-navigation-strengthens-local-and-national-economy",
-      "publishedAt": "2026-10-22T19:09:29Z"
-    },
-    {
-      "id": "06e26b97d36d8de4189ec73b",
-      "title": "‘Ability to strike back’: Denmark commits to long-range missile orders",
-      "summary": "Copenhagen said it would purchase Joint Strike Missiles for its F-35s and a new ground-launched munition from an American firm.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/ability-to-strike-back-denmark-commits-to-long-range-missile-orders/",
-      "publishedAt": "2026-10-22T17:18:00Z"
-    },
-    {
-      "id": "305a3cea905b87c66d20483b",
-      "title": "Trump, Putin negotiate release of US Air Force veteran from Russian prison",
-      "summary": "Stephen Hubbard, a retired teacher and U.S. Air Force veteran, was released from Russian custody on Wednesday after spending over four years in prison.",
-      "category": "Air Force",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/22/trump-putin-negotiate-release-of-us-air-force-veteran-from-russian-prison/",
-      "publishedAt": "2026-10-22T17:17:19Z"
-    },
-    {
-      "id": "07094ceb87f3fbbb7b8a4624",
-      "title": "Pentagon, Lockheed agree to 10-year deal for 850 F-35 jets",
-      "summary": "The decade-long framework guarantees at least 850 F-35 Lightning II fighters for the U.S. military, pending congressional approval and funding.",
-      "category": "Air Force",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/pentagon-lockheed-agree-to-10-year-deal-for-850-f-35-jets/",
-      "publishedAt": "2026-10-22T17:15:33Z"
-    },
-    {
-      "id": "2f3200c038f90484e4a559ee",
-      "title": "Energy Action Month: Modern Technologies Strengthen Army Reserve Readiness and Energy Security",
-      "summary": "During Energy Action Month, the U.S. Army Reserve highlights significant advancements in energy efficiency, resilience, and cybersecurity that directly support this year’s theme: Secure Energy. Ready Forces. American Dominance.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577613/energy-action-month-modern-technologies-strengthen-army-reserve-readiness-and-energy-security",
-      "publishedAt": "2026-10-22T17:04:47Z"
-    },
-    {
-      "id": "568ad20fd9cf48911a5b65be",
-      "title": "South Dakota Guard's 155th Engineer Company honored before southern border deployment",
-      "summary": "More than 120 Soldiers of the South Dakota Army National Guard's 155th Engineer Company were honored at an activation ceremony Oct. 22 at Wagner Community School. The Soldiers are deploying to the southern border in support of Operation Ardent Vanguard. The Wagner-based unit will deploy under the direction of U.S. Northern Command.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577619/south-dakota-guards-155th-engineer-company-honored-before-southern-border-deployment",
-      "publishedAt": "2026-10-22T17:01:22Z"
-    },
-    {
-      "id": "92ebcd563e5bfc8166650bbe",
-      "title": "The Pentagon has gone too far in using the Other Transaction Authority. Congress should act.",
-      "summary": "Created in 1958 for NASA, the obscure fiscal tool has since become the predominant approach to military contracting – at great risk to taxpayers, one researcher warns.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/the-pentagon-has-gone-too-far-in-using-the-other-transaction-authority-congress-should-act/",
-      "publishedAt": "2026-10-22T16:58:00Z"
-    },
-    {
-      "id": "d8a4b05279418dc280e3d5ab",
-      "title": "Army Corps sorts things out and saves tax-payer money, Atomic Cleanup Program",
-      "summary": "Soon, the U.S. Army Corps of Engineers, New York District will be cleaning up the Middlesex Municipal Landfill FUSRAP site in Middlesex, New Jersey and applying an innovative soil sorting system that will save tax-payer money, reduce air pollution, and most importantly return the land back to the community.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577614/army-corps-sorts-things-out-and-saves-tax-payer-money-atomic-cleanup-program",
-      "publishedAt": "2026-10-22T16:04:26Z"
-    },
-    {
-      "id": "73b720b1473e0ef4e5809d34",
-      "title": "Theodore Roosevelt Carrier Strike Group Sails in the Philippine Sea for Keen Sword Drills",
-      "summary": "The Theodore Roosevelt Carrier Strike Group, as well as Japanese, Australian, Canadian and French warships, have gathered in the Philippine Sea to participate in exercise Keen Sword 27.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/22/theodore-roosevelt-carrier-strike-group-sails-in-the-philippine-sea-for-keen-sword-drills",
-      "publishedAt": "2026-10-22T16:02:08Z"
-    },
-    {
-      "id": "4fe341b4e184606d550b24f8",
-      "title": "US Army long-range fires make a splash on the frontline with China",
-      "summary": "The U.S. Army has been upgrading its missiles and rocket artillery, largely in response to China's missile arsenal.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/22/us-army-long-range-fires-make-a-splash-on-the-frontline-with-china/",
-      "publishedAt": "2026-10-22T14:55:35Z"
     }
   ],
   "nextPage": "page-6.json"

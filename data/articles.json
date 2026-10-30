@@ -1,5 +1,104 @@
 [
   {
+    "id": "1c28f1ff255f6e90a7982db4",
+    "title": "2 airmen died in noncombat incidents while supporting Iran war operations",
+    "summary": "Two airmen died in non-hostile incidents in October, the Pentagon revealed late on Thursday. The post 2 airmen died in noncombat incidents while supporting Iran war operations appeared first on Task & Purpose .",
+    "category": "Air Force",
+    "sourceName": "Task & Purpose",
+    "sourceUrl": "https://taskandpurpose.com/news/iran-war-death-toll-23-air-force/",
+    "publishedAt": "2026-10-30T17:50:06Z"
+  },
+  {
+    "id": "326ef7c78e0ecef09239c5a2",
+    "title": "Pentagon reveals FY26 intelligence budget at $30.9 billion",
+    "summary": "Meanwhile, the National Intelligence Program budget was revealed at $78.1 billion.",
+    "category": "Defense",
+    "sourceName": "Breaking Defense",
+    "sourceUrl": "https://breakingdefense.com/2026/10/pentagon-reveals-fy26-intelligence-budget-at-30-9-billion/",
+    "publishedAt": "2026-10-30T17:28:09Z"
+  },
+  {
+    "id": "c4cc223da27ca13a2b7bc87b",
+    "title": "‘The combat capability we need’: Caine touts air reserve components at military, industry-centered gathering",
+    "summary": "More than 20 years after arriving at the Air National Guard Air Force Reserve Command Test Center, U.S. Air Force Gen.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578307/combat-capability-we-need-caine-touts-air-reserve-components-military-industry-centered-gathering",
+    "publishedAt": "2026-10-30T17:24:10Z"
+  },
+  {
+    "id": "a4353164bbbe43a94eeb6077",
+    "title": "Annual Kentucky Guard youth hunt teaches outdoor skills, gun safety",
+    "summary": "The Kentucky National Guard hosted its annual youth hunt Oct. 15-18, 2026, at Wendell H. Ford Regional Training Center in Greenville, Ky., providing military, foster and at-risk youth with hands-on instruction in firearm safety, hunting ethics and outdoor skills.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578326/annual-kentucky-guard-youth-hunt-teaches-outdoor-skills-gun-safety",
+    "publishedAt": "2026-10-30T17:19:19Z"
+  },
+  {
+    "id": "89b9aee17ed9529845f9d2fb",
+    "title": "From Fort to Port: 597th Transportation Brigade Synchronizes with Industry Partners at NDTA 2026",
+    "summary": "FORT EUSTIS, Va.— Senior leaders and logistics planners from the 597th Transportation Brigade, ARTRANS, took center stage as a primary operational benchmark during the 2026 National Defense Transportation Association (NDTA) and U.S. Transportation Command (USTRANSCOM) Fall Meeting, held Oct. 26-29 at the Gaylord Texan Resort in Grapevine, Texas.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578321/fort-port-597th-transportation-brigade-synchronizes-with-industry-partners-ndta-2026",
+    "publishedAt": "2026-10-30T16:18:57Z"
+  },
+  {
+    "id": "959b8e3cbf164f7a954f8707",
+    "title": "Pentagon eyes ‘public-private partnerships’ to help fund FORTRESS America homeland base plan",
+    "summary": "“The model that we’re trying to drive on is not me having to go back up on Capitol Hill with my hand out,” Assistant Secretary of Defense for Energy, Installations, and Environment Dale Marks told Breaking Defense.",
+    "category": "Defense",
+    "sourceName": "Breaking Defense",
+    "sourceUrl": "https://breakingdefense.com/2026/10/pentagon-eyes-public-private-partnerships-to-help-fund-fortress-america-homeland-base-plan/",
+    "publishedAt": "2026-10-30T15:35:59Z"
+  },
+  {
+    "id": "d50edcd38c205a74f1960298",
+    "title": "U.S. Navy launches Train-REX to address Fleet training gaps",
+    "summary": "In an effort to improve training opportunities for deployed technologies within the Fleet maintenance workforce, Naval Sea Systems Command and Naval Undersea Warfare Center Division, Keyport completed the first phase of the Training Repair Technology Exercise at Naval Undersea Warfare Center Division, Keyport, Sept. 14 - 18.",
+    "category": "Navy",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578290/us-navy-launches-train-rex-address-fleet-training-gaps",
+    "publishedAt": "2026-10-30T15:15:34Z"
+  },
+  {
+    "id": "71ded1f694b4fdaf98e61419",
+    "title": "ACC Employees Selected for Emerging Contract Leaders Seminar",
+    "summary": "Five mid-career U.S. Army Contracting Command professionals have been selected to attend the Emerging Contract Leaders Seminar from November 17-20, 2026, at Warfighting Acquisition University at Ft. Belvoir.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578308/acc-employees-selected-emerging-contract-leaders-seminar",
+    "publishedAt": "2026-10-30T15:12:58Z"
+  },
+  {
+    "id": "4c3d34089a60e44a0096be36",
+    "title": "ASAE case management supports security cooperation with Americas Counter Cartel Coalition partners",
+    "summary": "The U.S. Army Security Assistance Enterprise, or ASAE, recently supported delivery of approved security assistance capabilities to partner nations in the Western Hemisphere. Recipients included Paraguay, Panama, Guatemala, Honduras, and El Salvador, all member nations of the Americas Counter Cartel Coalition, or A3C.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578305/asae-case-management-supports-security-cooperation-with-americas-counter-cartel-coalition-partners",
+    "publishedAt": "2026-10-30T14:56:56Z"
+  },
+  {
+    "id": "4547034519d1a3c354316508",
+    "title": "EOS Defense Systems Prepares to Build Slinger Counter-Drone Systems",
+    "summary": "EOS Defense Systems discusses plans for U.S. production of its Slinger counter-drone system, AI-assisted targeting and adjustable levels of autonomy.",
+    "category": "Defense",
+    "sourceName": "Defense News",
+    "sourceUrl": "https://www.defensenews.com/video/2026/10/30/eos-defense-systems-prepares-to-build-slinger-counter-drone-systems/",
+    "publishedAt": "2026-10-30T14:28:39Z"
+  },
+  {
+    "id": "3b1501622d85ff0c156d186e",
+    "title": "Pentagon tells Europeans to cool their rhetoric on Russia, sources say",
+    "summary": "Pentagon officials have in recent weeks asked several NATO countries to tone down their rhetoric regarding the threat posed by Russia, sources told Reuters.",
+    "category": "Defense",
+    "sourceName": "Defense News",
+    "sourceUrl": "https://www.defensenews.com/global/europe/2026/10/30/pentagon-tells-europeans-to-cool-their-rhetoric-on-russia-sources-say/",
+    "publishedAt": "2026-10-30T10:48:59Z"
+  },
+  {
     "id": "ff7a96d0efa849b2e30a28a9",
     "title": "Army CIO, ARCYBER host 2026 Cybersecurity Awareness Forum",
     "summary": "The Army Office of the Chief Information Officer and U.S. Army Cyber Command co-hosted the 2026 Army Cybersecurity Awareness Forum from Oct. 28 to 29. The two-day virtual event gathered senior Army leaders and cybersecurity professionals to discuss strategies for addressing emerging cyber threats.",
@@ -2239,140 +2338,5 @@
     "sourceName": "Breaking Defense",
     "sourceUrl": "https://breakingdefense.com/2026/10/pentagon-weighs-force-posture-costs-of-rebuilding-middle-east-bases/",
     "publishedAt": "2026-10-20T18:06:00Z"
-  },
-  {
-    "id": "8baf79ece583f8a086e32432",
-    "title": "Brig. Gen. Richard Cipro, a Massachusetts Guardsman, takes command of the 42nd Infantry Division",
-    "summary": "LATHAM, New York —Army National Guard Brig. Gen. Richard P. Cipro, a Worcester, Massachusetts resident and a veteran of the wars in Iraq and Afghanistan, took command of the National Guard’s 42nd Infantry Division during a ceremony at New York National Guard headquarters in Latham, New York on October 17.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577443/brig-gen-richard-cipro-massachusetts-guardsman-takes-command-42nd-infantry-division",
-    "publishedAt": "2026-10-20T17:43:38Z"
-  },
-  {
-    "id": "edaa98f8c65bef1584a50aa7",
-    "title": "US Army support for Golden Dome missile shield takes shape",
-    "summary": "A U.S. Army air defense unit has been \"earmarked\" for support of the Golden Dome for America project, an Army official confirmed.",
-    "category": "Army",
-    "sourceName": "Defense News",
-    "sourceUrl": "https://www.defensenews.com/air-warfare/2026/10/20/us-army-support-for-golden-dome-missile-shield-takes-shape/",
-    "publishedAt": "2026-10-20T17:30:40Z"
-  },
-  {
-    "id": "0de07d0cb96d7a7211ff8dfe",
-    "title": "USACAPOC(A) Soldiers earn Jungle Tabs in Panama, build Army Reserve capability",
-    "summary": "COLÓN, Panama — Eleven U.S. Army Reserve Soldiers assigned to U.S. Army Civil Affairs and Psychological Operations Command (Airborne) earned the Jungle Tab after completing the Jungle Operations Training Course-Panama Aug. 2, adding jungle expertise to the command’s Civil Affairs and Psychological Operations formations.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577441/usacapoca-soldiers-earn-jungle-tabs-panama-build-army-reserve-capability",
-    "publishedAt": "2026-10-20T17:29:39Z"
-  },
-  {
-    "id": "66a1511f116bca19c22ae07d",
-    "title": "Cadets Explore Human-Machine Teaming Through Hands-on Research",
-    "summary": "U.S. Air Force Academy cadets are exploring how emerging technologies influence human behavior and decision-making through hands-on research with humanoid robots and robotic dogs.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577440/cadets-explore-human-machine-teaming-through-hands-research",
-    "publishedAt": "2026-10-20T17:14:38Z"
-  },
-  {
-    "id": "bf010a1989e20abd6e39af0c",
-    "title": "Blair: Serving her country through patient care",
-    "summary": "U.S. Army Staff Sgt. Autumn Blair is carving her own path as a dedicated flight medic while also serving her country like her parents and grandfather.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577439/blair-serving-her-country-through-patient-care",
-    "publishedAt": "2026-10-20T17:14:36Z"
-  },
-  {
-    "id": "137ef4ba47c39c0e382648ed",
-    "title": "US Air Force F-22 pilot controls unmanned FQ-44 in flight",
-    "summary": "The fighter jet’s pilot served as an airborne “quarterback” and gave high-level directives to an Anduril-made Collaborative Combat Aircraft.",
-    "category": "Air Force",
-    "sourceName": "Defense News",
-    "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/20/us-air-force-f-22-pilot-controls-unmanned-fq-44-in-flight/",
-    "publishedAt": "2026-10-20T17:00:21Z"
-  },
-  {
-    "id": "7b6098cc15eb61ce5297fb2c",
-    "title": "China built more than twice naval tonnage of US in 2024-25: Euronaval",
-    "summary": "China built more than twice the naval tonnage of the U.S. in the 2024-25 period, narrowing the gap between the two countries’ navies, a new report says.",
-    "category": "Navy",
-    "sourceName": "Defense News",
-    "sourceUrl": "https://www.defensenews.com/naval/2026/10/20/china-built-more-than-twice-naval-tonnage-of-us-in-2024-25-euronaval/",
-    "publishedAt": "2026-10-20T16:57:56Z"
-  },
-  {
-    "id": "42dd37d69debcb66e0c300b4",
-    "title": "Washington Guard commanders focus on readiness, soldier care ahead of NTC",
-    "summary": "Washington Army National Guard battalion command teams gathered at Camp Murray, Wash., Oct. 19, 2026, for the Fall Battalion Commanders’ Professional Development Symposium.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577438/washington-guard-commanders-focus-readiness-soldier-care-ahead-ntc",
-    "publishedAt": "2026-10-20T16:49:59Z"
-  },
-  {
-    "id": "bd303ee06173109e2f530ec0",
-    "title": "MICC - Fort Eustis delivers joint quality-of-life solution, advances 2026–2027 campaign plan",
-    "summary": "U.S. Army Mission and Installation Contracting Command Fort Eustis recently executed a task order supporting the installation of an interim BeaverFit fitness facility at Tinker Air Force Base, Oklahoma, demonstrating how responsive interservice collaboration can deliver timely quality-of-life improvements for service members.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577436/micc-fort-eustis-delivers-joint-quality-life-solution-advances-2026-2027-campaign-plan",
-    "publishedAt": "2026-10-20T16:21:41Z"
-  },
-  {
-    "id": "549fa1723df8026b4022c513",
-    "title": "Soldiers put Picatinny’s Common Lethality Integration Kit to the test at PC‑C6",
-    "summary": "PICATINNY ARSENAL, N.J. - One of the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center’s proudest accomplishments stood front and center before the warfighter in July, as Soldiers attending Project Convergence-Capstone 6 (PC-C6) tested out the Picatinny Common Lethality Integration Kit (CLIK).",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577435/soldiers-put-picatinnys-common-lethality-integration-kit-test-pc-c6",
-    "publishedAt": "2026-10-20T16:19:12Z"
-  },
-  {
-    "id": "07974fe69cd520b421b29feb",
-    "title": "Chinese Navy Shadows USS Charleston Near Contested Sabina Shoal",
-    "summary": "MANILA, Philippines — USS Charleston (LCS-18) was tracked by Chinese forces on Tuesday after the ship “illegally intruded” into the area surrounding a contested South China Sea maritime feature, according to Beijing. Chinese forces were dispatched to monitor the Independence-class LCS near Sabina Shoal early Tuesday, the PLA said.",
-    "category": "Navy",
-    "sourceName": "USNI News",
-    "sourceUrl": "https://news.usni.org/2026/10/20/chinese-navy-shadows-uss-charleston-near-contested-sabina-shoal",
-    "publishedAt": "2026-10-20T15:55:24Z"
-  },
-  {
-    "id": "0d5941c7e5519c5db4c60c8e",
-    "title": "Utah EOD Airmen adapt dismounted operations to emerging drone threats",
-    "summary": "The battlefield is changing. Drones can turn the sky into a threat, explosive hazards can hide in unfamiliar terrain, and the equipment needed to survive a mission may be limited to what an Airman can carry on their back.",
-    "category": "Air Force",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577432/utah-eod-airmen-adapt-dismounted-operations-emerging-drone-threats",
-    "publishedAt": "2026-10-20T15:47:39Z"
-  },
-  {
-    "id": "687f69dbfde02514c114c35c",
-    "title": "US Navy, Gecko Robotics surge AI maintenance contract to $300M",
-    "summary": "Gecko Robotics uses drones, wall-climbing robots and fixed sensors to gather data on components, decks, welds and hulls.",
-    "category": "Navy",
-    "sourceName": "Defense News",
-    "sourceUrl": "https://www.defensenews.com/news/your-navy/2026/10/20/us-navy-gecko-robotics-surge-ai-maintenance-contract-to-300m/",
-    "publishedAt": "2026-10-20T15:15:32Z"
-  },
-  {
-    "id": "f17ef35ff37e13c27406eabc",
-    "title": "Army Veterinary Officers Complete Specialized Dairy Pasteurizer Audit Training in Denmark",
-    "summary": "Thirteen U.S. Army Veterinary Corps officers recently completed Europe Dairy Pasteurizer Audit Training in Kolding, Denmark by participating in specialized technical instruction and on-site field evaluations across eight Danish dairy manufacturing facilities.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577409/army-veterinary-officers-complete-specialized-dairy-pasteurizer-audit-training-denmark",
-    "publishedAt": "2026-10-20T13:10:42Z"
-  },
-  {
-    "id": "1c3104978ae016d106dbe022",
-    "title": "Army Medical Service Corps Officer Serves as Liaison to German Military Medical Forces",
-    "summary": "The U.S. Army Medical Command recently established its first medical officer liaison position with the German military’s medical service in Bonn, Germany. Col. Kenneth Spicer, a U.S. Army Medical Service Corps officer, assumed the role in August 2025.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577403/army-medical-service-corps-officer-serves-liaison-german-military-medical-forces",
-    "publishedAt": "2026-10-20T11:32:23Z"
   }
 ]

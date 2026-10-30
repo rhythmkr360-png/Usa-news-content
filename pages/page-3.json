@@ -1,7 +1,106 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T10:06:14Z",
+  "generatedAt": "2026-10-30T18:02:34Z",
   "articles": [
+    {
+      "id": "482d63e0ce9ac87a6538a3d0",
+      "title": "USACE Manager of the Year: Jisun Kang leads Far East District contracting",
+      "summary": "Jisun Kang, chief of contracting at the U.S. Army Corps of Engineers Far East District, has been named Manager of the Year through the USACE Excellence in Contracting Awards Program.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578028/usace-manager-year-jisun-kang-leads-far-east-district-contracting",
+      "publishedAt": "2026-10-28T01:13:53Z"
+    },
+    {
+      "id": "12ae1a23647bcab021b4f017",
+      "title": "Brunson Challenges Logisticians to Bring Modern Technology into Exercises at 10th UNC Logistics Symposium",
+      "summary": "U.S. Army Gen. Xavier T. Brunson, commander of United Nations Command, told logisticians from 15 nations that sustainment is central to winning, as he opened the 10th Annual UNC Logistics Symposium at the Morning Calm Conference Center, Oct. 26, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578024/brunson-challenges-logisticians-bring-modern-technology-into-exercises-10th-unc-logistics-symposium",
+      "publishedAt": "2026-10-28T00:00:10Z"
+    },
+    {
+      "id": "f860c9a26e81db3948b15657",
+      "title": "KEEN SWORD 27: 3rd EOD Company and Japan Ground Self-Defense Force EOD conducts live fire ground response training",
+      "summary": "U.S. Marines with 3rd Explosive Ordnance Disposal Company, 9th Engineer Support Battalion, 3rd Marine Logistics Group, trained alongside Japan Ground Self-Defense Force members during a bilateral live-fire ground response training on Okinawa, Japan, Oct. 23, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578022/keen-sword-27-3rd-eod-company-and-japan-ground-self-defense-force-eod-conducts-live-fire-ground-response-training",
+      "publishedAt": "2026-10-27T23:43:59Z"
+    },
+    {
+      "id": "d5eb4b91aaf804373d4792da",
+      "title": "TAMC physician honored for 30 years of continued Army service",
+      "summary": "Tripler Army Medical Center, HI — Dr. Conrad S. Belnap, a physician at Tripler Army Medical Center, received a medallion from the U.S. Army Medical Department on Oct. 19 in recognition of completing 30 years of active-duty service in the U.S. Army Medical Corps.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578018/tamc-physician-honored-30-years-continued-army-service",
+      "publishedAt": "2026-10-27T23:27:16Z"
+    },
+    {
+      "id": "a57aee0a8416640d93aa97a5",
+      "title": "TAMC physician honored for 30 years of continued Army service",
+      "summary": "Tripler Army Medical Center, HI — Dr. Conrad S. Belnap, a physician at Tripler Army Medical Center, received a medallion from the U.S. Army Medical Department on Oct. 19 in recognition of completing 30 years of active-duty service in the U.S. Army Medical Corps.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578019/tamc-physician-honored-30-years-continued-army-service",
+      "publishedAt": "2026-10-27T23:27:16Z"
+    },
+    {
+      "id": "c0b01dfb0d1c82fbb7344c22",
+      "title": "Deckplates to Dugouts: JFK Sailor balances Navy life and Softball",
+      "summary": "U.S. Navy Retail Services Specialist (RS) 2nd Class Adrian Ramos, from Puerto Rico, still remembers the electric hum of draft day; the phone call, the handshake, the dream that had carried him from Miami Dade College to the Toronto Blue Jays organization starting in the minor leagues, but life has a way of shifting the field beneath your cleats.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578016/deckplates-dugouts-jfk-sailor-balances-navy-life-and-softball",
+      "publishedAt": "2026-10-27T23:01:41Z"
+    },
+    {
+      "id": "994837c4bff2c6cf6f115167",
+      "title": "Treating Guard families with spooktacular fun & resources",
+      "summary": "Over 1,000 Utah National Guard family members came to Camp Wiliams on 17 October, 2026 as the Utah National Guard Child and Youth Programs hosted its annual Trunk or Treat.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578015/treating-guard-families-with-spooktacular-fun-resources",
+      "publishedAt": "2026-10-27T22:22:18Z"
+    },
+    {
+      "id": "a64c4682868bb519f6104f9b",
+      "title": "Guardsmen Push Through the Exhaustion in the 2027 Best Warrior Competition",
+      "summary": "The 2027 Utah Best Warrior Competition brought together 21 Utah Army and Air National Guardsmen at Camp Williams Oct. 19-21, 2026, for three days of challenges testing physical endurance, tactical proficiency and mental resilience.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578009/guardsmen-push-through-exhaustion-2027-best-warrior-competition",
+      "publishedAt": "2026-10-27T21:44:16Z"
+    },
+    {
+      "id": "f26a1b53885c3b3f16d53627",
+      "title": "When the Roads Rumble: U.S. and Panamanian Partner Forces provide Humanitarian Assistance and Disaster Relief",
+      "summary": "On Oct. 9, 2026, the streets of Panama shook as a 7.7-magnitude earthquake hit the country; the epicenter was located at Pitaloza Arria in the Azuero Peninsula. In response, U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578008/roads-rumble-us-and-panamanian-partner-forces-provide-humanitarian-assistance-and-disaster-relief",
+      "publishedAt": "2026-10-27T21:38:33Z"
+    },
+    {
+      "id": "4b31b6136fe421e5434cefc0",
+      "title": "US military’s drug boat strikes have now killed at least 240 people",
+      "summary": "The attack was at least the third deadly strike carried out by U.S. Southern Command this month. The post US military’s drug boat strikes have now killed at least 240 people appeared first on Task & Purpose .",
+      "category": "Defense",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/military-drug-boat-240-killed/",
+      "publishedAt": "2026-10-27T20:31:01Z"
+    },
+    {
+      "id": "d6ae5bb420e8c68343c2b9bc",
+      "title": "US Air Force awards Lockheed Martin $694M hypersonic missile production contract",
+      "summary": "The Air Force granted Lockheed Martin a $694 million contract in late September for the production and fielding of the AGM-183A Air-Launched Rapid Response Weapon, or ARRW.",
+      "category": "Air Force",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-air-force-awards-lockheed-martin-694m-hypersonic-missile-production-contract/",
+      "publishedAt": "2026-10-27T19:53:42Z"
+    },
     {
       "id": "6a84ae957adba8dc1ba33f09",
       "title": "La. Guard leaders address readiness, transformation at annual conference",
@@ -262,105 +361,6 @@
       "sourceName": "USNI News",
       "sourceUrl": "https://news.usni.org/2026/10/26/u-s-navy-taps-attack-boat-for-2027-australian-aukus-assignment",
       "publishedAt": "2026-10-26T20:46:28Z"
-    },
-    {
-      "id": "1a196e8dc3a144ca95710530",
-      "title": "Marines Sharpen Small-Unit Drone Tactics at Drone Crucible 26.3",
-      "summary": "U.S. Marines with the 2nd Marine Division train with emerging small unmanned aircraft systems at the United States National Drone Association Drone Crucible 26.3, in Starke, Florida Sept. 27-Oct. 2, 2026.",
-      "category": "Marine Corps",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577919/marines-sharpen-small-unit-drone-tactics-drone-crucible-263",
-      "publishedAt": "2026-10-26T20:14:52Z"
-    },
-    {
-      "id": "0dd3f3d5448589beecb83a5b",
-      "title": "Air National Guard to stand up a new special tactics squadron",
-      "summary": "The Pentagon directed the Air Force to stand up a new unit based in Florida, where there’s a host of Air Force special operations resources. The post Air National Guard to stand up a new special tactics squadron appeared first on Task & Purpose .",
-      "category": "Army",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/new-air-national-guard-unit/",
-      "publishedAt": "2026-10-26T19:43:41Z"
-    },
-    {
-      "id": "569a07ee608f8e8cecaa11dc",
-      "title": "NORAD ENFORCEMENT OF TEMPORARY FLIGHT RESTRICTION AIRSPACE ANNOUNCED OVER MULTIPLE AREAS THIS WEEK",
-      "summary": "Fighter jets from the North American Aerospace Defense Command (NORAD) will enforce the Federal Aviation Administration (FAA) VIP Temporary Flight Restriction (TFR) areas established this week, October 27-28, 2026, over Corpus Christi, Texas; Lubbock, Texas; and Columbus-Chillicothe, Ohio.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577916/norad-enforcement-temporary-flight-restriction-airspace-announced-over-multiple-areas-week",
-      "publishedAt": "2026-10-26T19:34:22Z"
-    },
-    {
-      "id": "745c6bf9ebfb930bf881ad04",
-      "title": "USACE completes 110-foot stoplog test fit at Ozark Lock and Dam",
-      "summary": "The U.S. Army Corps of Engineers Little Rock District successfully completed the 110-foot stoplog test fit at Ozark Lock and Dam on the McClellan-Kerr Arkansas River Navigation System, Oct. 20, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577917/usace-completes-110-foot-stoplog-test-fit-ozark-lock-and-dam",
-      "publishedAt": "2026-10-26T19:33:10Z"
-    },
-    {
-      "id": "577895eddd323278bcac35d5",
-      "title": "US Army practices digging temporary battlefield graves",
-      "summary": "The Army is preparing for the grim possibility of burying fallen soldiers on the battlefield, testing how fast it can dig temporary graves while preserving remains for eventual identification and return to families after the end of a conflict.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/land/2026/10/26/army-practices-digging-temporary-battlefield-graves/",
-      "publishedAt": "2026-10-26T18:57:25Z"
-    },
-    {
-      "id": "cc029398f8035f3e6dbe9721",
-      "title": "Pentagon announces first US submarine joining Submarine Rotational Force-West",
-      "summary": "The Pentagon announced that the USS Colorado will be the first submarine to join Submarine Rotational Force-West in Australia.",
-      "category": "Navy",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/naval/2026/10/26/pentagon-announces-first-us-submarine-joining-submarine-rotational-force-west/",
-      "publishedAt": "2026-10-26T18:50:06Z"
-    },
-    {
-      "id": "ebebc02944848d5e70ec2b4f",
-      "title": "Lyster Launches Annual Flu Campaign",
-      "summary": "FORT RUCKER, Ala. — As autumn approaches, Lyster Army Health Clinic is preparing to protect service members, retirees, and military families with the kickoff of its annual influenza vaccination campaign. Across the United States, influenza activity typically increases in October, peaks between December and March, and can linger through May.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577905/lyster-launches-annual-flu-campaign",
-      "publishedAt": "2026-10-26T18:04:12Z"
-    },
-    {
-      "id": "00c68d5a5350c750f5012558",
-      "title": "U.S., Colombia Launch Exercise Southern Vanguard 2027",
-      "summary": "The 41st iteration of SOUTHERN VANGUARD 2027 (SV27) is scheduled to begin in Colombia on Nov. 2, 2026. The exercise, which is scheduled to run until mid-November, will bring together approximately 800 participants, including about 350 U.S. military personnel and over 400 soldiers from the Colombian Army.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577902/us-colombia-launch-exercise-southern-vanguard-2027",
-      "publishedAt": "2026-10-26T17:56:57Z"
-    },
-    {
-      "id": "f3d26fb1939a0a0e6abfd097",
-      "title": "Corps of Engineers and the city of La Crosse, Wisconsin, partner on flood risk management project",
-      "summary": "The U.S. Army Corps of Engineers, St. Paul District, signed a feasibility cost-sharing agreement with the city of La Crosse, Wisconsin, to begin a joint flood risk management feasibility study on Oct. 13.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577901/corps-engineers-and-city-la-crosse-wisconsin-partner-flood-risk-management-project",
-      "publishedAt": "2026-10-26T17:41:07Z"
-    },
-    {
-      "id": "00e46915255248744245a24d",
-      "title": "‘Now is the time’ for Cubans to ‘act’ says top US military commander in South America",
-      "summary": "The commander of U.S. Southern Command, Gen. Francis Donovan, called on Cubans to work with U.S. intelligence agencies. The post ‘Now is the time’ for Cubans to ‘act’ says top US military commander in South America appeared first on Task & Purpose .",
-      "category": "Defense",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/southcom-donovan-cuba-cia-action/",
-      "publishedAt": "2026-10-26T17:32:35Z"
-    },
-    {
-      "id": "edeb3025d2fe38978a6f20c8",
-      "title": "USNI News Fleet and Marine Tracker: Oct. 26, 2026",
-      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Oct. 26, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/26/usni-news-fleet-and-marine-tracker-oct-26-2026",
-      "publishedAt": "2026-10-26T17:13:04Z"
     }
   ],
   "nextPage": "page-4.json"

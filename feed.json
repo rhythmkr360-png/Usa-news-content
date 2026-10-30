@@ -1,7 +1,106 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T10:06:14Z",
+  "generatedAt": "2026-10-30T18:02:34Z",
   "articles": [
+    {
+      "id": "1c28f1ff255f6e90a7982db4",
+      "title": "2 airmen died in noncombat incidents while supporting Iran war operations",
+      "summary": "Two airmen died in non-hostile incidents in October, the Pentagon revealed late on Thursday. The post 2 airmen died in noncombat incidents while supporting Iran war operations appeared first on Task & Purpose .",
+      "category": "Air Force",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/iran-war-death-toll-23-air-force/",
+      "publishedAt": "2026-10-30T17:50:06Z"
+    },
+    {
+      "id": "326ef7c78e0ecef09239c5a2",
+      "title": "Pentagon reveals FY26 intelligence budget at $30.9 billion",
+      "summary": "Meanwhile, the National Intelligence Program budget was revealed at $78.1 billion.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/10/pentagon-reveals-fy26-intelligence-budget-at-30-9-billion/",
+      "publishedAt": "2026-10-30T17:28:09Z"
+    },
+    {
+      "id": "c4cc223da27ca13a2b7bc87b",
+      "title": "‘The combat capability we need’: Caine touts air reserve components at military, industry-centered gathering",
+      "summary": "More than 20 years after arriving at the Air National Guard Air Force Reserve Command Test Center, U.S. Air Force Gen.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578307/combat-capability-we-need-caine-touts-air-reserve-components-military-industry-centered-gathering",
+      "publishedAt": "2026-10-30T17:24:10Z"
+    },
+    {
+      "id": "a4353164bbbe43a94eeb6077",
+      "title": "Annual Kentucky Guard youth hunt teaches outdoor skills, gun safety",
+      "summary": "The Kentucky National Guard hosted its annual youth hunt Oct. 15-18, 2026, at Wendell H. Ford Regional Training Center in Greenville, Ky., providing military, foster and at-risk youth with hands-on instruction in firearm safety, hunting ethics and outdoor skills.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578326/annual-kentucky-guard-youth-hunt-teaches-outdoor-skills-gun-safety",
+      "publishedAt": "2026-10-30T17:19:19Z"
+    },
+    {
+      "id": "89b9aee17ed9529845f9d2fb",
+      "title": "From Fort to Port: 597th Transportation Brigade Synchronizes with Industry Partners at NDTA 2026",
+      "summary": "FORT EUSTIS, Va.— Senior leaders and logistics planners from the 597th Transportation Brigade, ARTRANS, took center stage as a primary operational benchmark during the 2026 National Defense Transportation Association (NDTA) and U.S. Transportation Command (USTRANSCOM) Fall Meeting, held Oct. 26-29 at the Gaylord Texan Resort in Grapevine, Texas.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578321/fort-port-597th-transportation-brigade-synchronizes-with-industry-partners-ndta-2026",
+      "publishedAt": "2026-10-30T16:18:57Z"
+    },
+    {
+      "id": "959b8e3cbf164f7a954f8707",
+      "title": "Pentagon eyes ‘public-private partnerships’ to help fund FORTRESS America homeland base plan",
+      "summary": "“The model that we’re trying to drive on is not me having to go back up on Capitol Hill with my hand out,” Assistant Secretary of Defense for Energy, Installations, and Environment Dale Marks told Breaking Defense.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/10/pentagon-eyes-public-private-partnerships-to-help-fund-fortress-america-homeland-base-plan/",
+      "publishedAt": "2026-10-30T15:35:59Z"
+    },
+    {
+      "id": "d50edcd38c205a74f1960298",
+      "title": "U.S. Navy launches Train-REX to address Fleet training gaps",
+      "summary": "In an effort to improve training opportunities for deployed technologies within the Fleet maintenance workforce, Naval Sea Systems Command and Naval Undersea Warfare Center Division, Keyport completed the first phase of the Training Repair Technology Exercise at Naval Undersea Warfare Center Division, Keyport, Sept. 14 - 18.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578290/us-navy-launches-train-rex-address-fleet-training-gaps",
+      "publishedAt": "2026-10-30T15:15:34Z"
+    },
+    {
+      "id": "71ded1f694b4fdaf98e61419",
+      "title": "ACC Employees Selected for Emerging Contract Leaders Seminar",
+      "summary": "Five mid-career U.S. Army Contracting Command professionals have been selected to attend the Emerging Contract Leaders Seminar from November 17-20, 2026, at Warfighting Acquisition University at Ft. Belvoir.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578308/acc-employees-selected-emerging-contract-leaders-seminar",
+      "publishedAt": "2026-10-30T15:12:58Z"
+    },
+    {
+      "id": "4c3d34089a60e44a0096be36",
+      "title": "ASAE case management supports security cooperation with Americas Counter Cartel Coalition partners",
+      "summary": "The U.S. Army Security Assistance Enterprise, or ASAE, recently supported delivery of approved security assistance capabilities to partner nations in the Western Hemisphere. Recipients included Paraguay, Panama, Guatemala, Honduras, and El Salvador, all member nations of the Americas Counter Cartel Coalition, or A3C.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578305/asae-case-management-supports-security-cooperation-with-americas-counter-cartel-coalition-partners",
+      "publishedAt": "2026-10-30T14:56:56Z"
+    },
+    {
+      "id": "4547034519d1a3c354316508",
+      "title": "EOS Defense Systems Prepares to Build Slinger Counter-Drone Systems",
+      "summary": "EOS Defense Systems discusses plans for U.S. production of its Slinger counter-drone system, AI-assisted targeting and adjustable levels of autonomy.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/video/2026/10/30/eos-defense-systems-prepares-to-build-slinger-counter-drone-systems/",
+      "publishedAt": "2026-10-30T14:28:39Z"
+    },
+    {
+      "id": "3b1501622d85ff0c156d186e",
+      "title": "Pentagon tells Europeans to cool their rhetoric on Russia, sources say",
+      "summary": "Pentagon officials have in recent weeks asked several NATO countries to tone down their rhetoric regarding the threat posed by Russia, sources told Reuters.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/global/europe/2026/10/30/pentagon-tells-europeans-to-cool-their-rhetoric-on-russia-sources-say/",
+      "publishedAt": "2026-10-30T10:48:59Z"
+    },
     {
       "id": "ff7a96d0efa849b2e30a28a9",
       "title": "Army CIO, ARCYBER host 2026 Cybersecurity Awareness Forum",
@@ -262,105 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578196/b4-its-too-late-trafc-supports-operation-warm-heart",
       "publishedAt": "2026-10-29T17:21:28Z"
-    },
-    {
-      "id": "f4134df7e7cdd52e37d6e985",
-      "title": "Developing leaders through attitude, initiative and commitment at ACC-RSA",
-      "summary": "REDSTONE ARSENAL, Ala. – Maj. Gen. Douglas Lowrey, commanding general of U.S. Army Contracting Command, and ACC Command Sgt. Maj. Rachel Harris, emphasized attitude, initiative and commitment to helping others succeed during a discussion with Leadership Development and Readiness Program (LDRP) participants Oct.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578195/developing-leaders-through-attitude-initiative-and-commitment-acc-rsa",
-      "publishedAt": "2026-10-29T17:11:06Z"
-    },
-    {
-      "id": "0baf04d6b61221d5a53331e5",
-      "title": "Mission Driven–People Powered: HMC Jerry Williams",
-      "summary": "The Naval Medical Forces Development Command is Mission-Driven and, most importantly, People-Powered! Today we highlight U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578191/mission-driven-people-powered-hmc-jerry-williams",
-      "publishedAt": "2026-10-29T16:54:24Z"
-    },
-    {
-      "id": "654fdd522eaefe8cf126efa8",
-      "title": "US, Japan reach agreements for AMRAAM assembly, SM-3 production boost: Japanese MoD",
-      "summary": "The “groundbreaking agreement” on AMRAAM production “will not only ensure the acquisition of equipment needed by both Japan and the United States, but will also strengthen Japan’s defense industry base,” said Japanese Defense Minister Shinjiro Koizumi.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/us-japan-ink-agreements-for-amraam-production-sm-3-production-boost-japanese-mod/",
-      "publishedAt": "2026-10-29T16:45:18Z"
-    },
-    {
-      "id": "a76a0a4a93a3325d6eaa9c1b",
-      "title": "In Arctic, US Army researchers test camo that could adapt to changing landscapes",
-      "summary": "Researchers were inspired by Arctic foxes, which change colors over the course of the year – from white in the winter to brown in the summer.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/29/in-arctic-us-army-researchers-test-camo-that-could-adapt-to-changing-landscapes/",
-      "publishedAt": "2026-10-29T16:30:28Z"
-    },
-    {
-      "id": "a4e3e0574d4544be4c342e20",
-      "title": "Pentagon treating military base freezer malfunctions as suspected cyberattack, officials say",
-      "summary": "The Pentagon is treating the spate of mysterious freezer malfunctions that spoiled food at military bases across the United States in August as a suspected hack.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/29/pentagon-treating-military-base-freezer-malfunctions-as-suspected-cyberattack-officials-say/",
-      "publishedAt": "2026-10-29T16:26:56Z"
-    },
-    {
-      "id": "14878e2d194ca4b2235fd380",
-      "title": "Navy Corpsman Finds Purpose in Patient Care and Leadership",
-      "summary": "Hospital Corpsman 3rd Class (HM3) John Christopher Dabu, currently serving as the Medical Home Port direct supervisor at Naval Branch Health Clinic (NBHC) Panama City, has leveraged his Navy enlistment to overcome professional setbacks, secure U.S. citizenship, and establish himself as a vital clinic leader.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578189/navy-corpsman-finds-purpose-patient-care-and-leadership",
-      "publishedAt": "2026-10-29T16:26:31Z"
-    },
-    {
-      "id": "8bab7e796c48a8ece43f5c11",
-      "title": "US Navy wants more visible role for drone boats as one deploys for the first time",
-      "summary": "The U.S. Navy's No. 2 officer shed new light on the value that medium unmanned surface vessels could bring to the fleet.",
-      "category": "Navy",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/naval/2026/10/29/us-navy-wants-more-visible-role-for-drone-boats-as-one-deploys-for-the-first-time/",
-      "publishedAt": "2026-10-29T14:04:32Z"
-    },
-    {
-      "id": "f5846cab46902d9329306124",
-      "title": "Report to Congress on the U.S. Army’s Infantry Squad Vehicle",
-      "summary": "The following is the Oct. 22, 2026, Congressional Research Service report, The U.S. Army’s Infantry Squad Vehicle (ISV).",
-      "category": "Army",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/29/report-to-congress-on-the-u-s-armys-infantry-squad-vehicle",
-      "publishedAt": "2026-10-29T13:49:09Z"
-    },
-    {
-      "id": "5e70e09db7b2a8f42f67ff64",
-      "title": "Pentagon will pick new US base location by June 2027, prioritizing 4 requirements",
-      "summary": "In an interview with Breaking Defense, Dale Marks, the assistant secretary of defense for Energy, Installations, and Environment, laid out new details on the effort.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/pentagon-will-pick-new-us-base-location-by-june-2027-prioritizing-4-requirements/",
-      "publishedAt": "2026-10-29T12:45:00Z"
-    },
-    {
-      "id": "0c191a8d5ea0fe53c23e4391",
-      "title": "BS27-1: 18th Wing trains for mass passenger arrival",
-      "summary": "U.S. Air Force Airmen assigned to the 18th Wing processed simulated passengers following an aircraft diversion during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 29, 2026. Airmen accounted for passengers, provided tactical combat casualty care and established an area for simulated casualties to receive medical attention and rest.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578143/bs27-1-18th-wing-trains-mass-passenger-arrival",
-      "publishedAt": "2026-10-29T09:06:35Z"
-    },
-    {
-      "id": "5528ebbdcc7ee865f43c7e2a",
-      "title": "SPP Exchange Advances ROK Army’s 2040 Defense Reform",
-      "summary": "The Hawaiʻi and Oregon National Guards, Armed Forces of the Philippines, and U.S. Pacific Command joined the Republic of Korea Army for a multilateral reserve readiness exchange in South Korea, Sept. 8–11, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578133/spp-exchange-advances-rok-armys-2040-defense-reform",
-      "publishedAt": "2026-10-29T08:29:28Z"
     }
   ],
   "nextPage": "pages/page-2.json"
