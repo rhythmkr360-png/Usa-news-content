@@ -1,7 +1,97 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T01:04:13Z",
+  "generatedAt": "2026-10-30T10:06:14Z",
   "articles": [
+    {
+      "id": "ff7a96d0efa849b2e30a28a9",
+      "title": "Army CIO, ARCYBER host 2026 Cybersecurity Awareness Forum",
+      "summary": "The Army Office of the Chief Information Officer and U.S. Army Cyber Command co-hosted the 2026 Army Cybersecurity Awareness Forum from Oct. 28 to 29. The two-day virtual event gathered senior Army leaders and cybersecurity professionals to discuss strategies for addressing emerging cyber threats.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578276/army-cio-arcyber-host-2026-cybersecurity-awareness-forum",
+      "publishedAt": "2026-10-30T08:29:22Z"
+    },
+    {
+      "id": "3b04cbfb6827c0e00ef90c8c",
+      "title": "Why I Serve: LRMC Dental Laboratory Specialist Turns Craftsmanship into Military Service",
+      "summary": "Growing up in Lomé, Togo along the coast of Gulf of Guinea, Spc. Koffi Ballogou could not have known that his path would eventually lead him to serve in the U.S. Army.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578275/why-serve-lrmc-dental-laboratory-specialist-turns-craftsmanship-into-military-service",
+      "publishedAt": "2026-10-30T08:10:19Z"
+    },
+    {
+      "id": "5c6d220526a7cc8a60a31d2a",
+      "title": "USNMRTC/USNH Yokosuka Participate in CFAY-Led Keen Sword Exercise",
+      "summary": "YOKOSUKA, Japan — Commander, Fleet Activities Yokosuka (CFAY) led an active shooter response exercise Oct. 27 during Keen Sword 27, with personnel from U.S. Navy Medicine Readiness and Training Command Yokosuka (USNMRTC Yokosuka) and U.S. Naval Hospital Yokosuka (USNH Yokosuka) participating in the installation-wide drill.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578273/usnmrtc-usnh-yokosuka-participate-cfay-led-keen-sword-exercise",
+      "publishedAt": "2026-10-30T06:53:13Z"
+    },
+    {
+      "id": "f59e3c66d86ed13d9fdad7ed",
+      "title": "BS27-1: Financial support drives forward operations",
+      "summary": "IE SHIMA, Okinawa, Japan – U.S. Air Force Airmen assigned to the 18th Contracting Squadron and Marines from the Regional Disbursing Office - Pacific, Combat Logistics Regiment 37, worked together during Exercise Beverly Sword 27-1 to provide financial and logistical support for the 31st and 33rd Rescue Squadrons as they practiced forward…",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578271/bs27-1-financial-support-drives-forward-operations",
+      "publishedAt": "2026-10-30T05:36:01Z"
+    },
+    {
+      "id": "da72d9250c4ecf7bf0d38f5e",
+      "title": "BS27-1: Putting a price on port repairs",
+      "summary": "U.S. Air Force Airmen assigned to the 18th Contracting Squadron and 18th Comptroller Squadron worked together to assess repair costs, negotiate contracts and process payments following simulated damage to Naha Military Port during Exercise Beverly Sword 27-1, Oct. 30, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578270/bs27-1-putting-price-port-repairs",
+      "publishedAt": "2026-10-30T05:35:48Z"
+    },
+    {
+      "id": "2c32bb5d1c3bd3be1680b3b8",
+      "title": "BS27-1: Feeding the fight, sustaining readiness",
+      "summary": "U.S. Air Force Airmen assigned to the 718th Force Support Squadron demonstrated their ability to establish an alternate dining facility using Jack's Place to prepare and serve meals during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 29, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578266/bs27-1-feeding-fight-sustaining-readiness",
+      "publishedAt": "2026-10-30T05:24:53Z"
+    },
+    {
+      "id": "85980c0a3c0dab541c55696c",
+      "title": "44th Fighter Squadron welcomes new commander",
+      "summary": "U.S. Air Force Lt. Col. Matthew Zipper assumed command of the 44th Fighter Squadron during an assumption of command ceremony at Kadena Air Base, Japan, Oct. 19, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578269/44th-fighter-squadron-welcomes-new-commander",
+      "publishedAt": "2026-10-30T05:23:56Z"
+    },
+    {
+      "id": "9ea31cdb1fee8b12b67954e8",
+      "title": "Mustangs of the Week: 1st Lt. Alfonso Morales & TSgt. Taylor Anderson",
+      "summary": "U.S. Air Force 1st Lt. Alfonso Morales, 51st Security Forces Squadron flight commander, and Tech. Sgt. Taylor Anderson, 51st SFS flight chief, were recognized as Mustangs of the Week at Osan Air Base, Republic of Korea, Oct. 26, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578263/mustangs-week-1st-lt-alfonso-morales-tsgt-taylor-anderson",
+      "publishedAt": "2026-10-30T04:39:32Z"
+    },
+    {
+      "id": "ea6bc53d66c8eb7d0850332d",
+      "title": "Ironclad runways: U.S. and Japan reinforce ExR-ADR capabilities during KS27",
+      "summary": "IRUMA AIR BASE, Japan - U.S., Japan, and Canadian Armed Forces collaborated in expeditionary rapid airfield damage repair (ExR-ADR) training during Exercise Keen Sword 27 at a Japan Air Self-Defense Force (JASDF) installation at Iruma Air Base, Japan, Oct. 22-26.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578261/ironclad-runways-us-and-japan-reinforce-exr-adr-capabilities-during-ks27",
+      "publishedAt": "2026-10-30T03:23:12Z"
+    },
+    {
+      "id": "2aa1710fbf93d30639ca56c3",
+      "title": "U.S. Naval Hospital Okinawa strengthens bilateral medical readiness during Keen Sword 27",
+      "summary": "CAMP FOSTER, Okinawa, Japan — U.S. Naval Hospital Okinawa personnel trained alongside Japan Self-Defense Forces and joint medical partners during Keen Sword 27, a bilateral exercise that tested the hospital’s ability to receive, triage and treat large numbers of simulated casualties Oct. 26-27.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578259/us-naval-hospital-okinawa-strengthens-bilateral-medical-readiness-during-keen-sword-27",
+      "publishedAt": "2026-10-30T02:11:03Z"
+    },
     {
       "id": "1c78dd059992c8d13c7ef126",
       "title": "NORAD fighter aircraft execute homeland defense mission from austere Eareckson Air Station",
@@ -271,96 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578133/spp-exchange-advances-rok-armys-2040-defense-reform",
       "publishedAt": "2026-10-29T08:29:28Z"
-    },
-    {
-      "id": "84ed48c54d41347c2c431f50",
-      "title": "Hudson Assumes Command of USACE Pacific Ocean Division",
-      "summary": "With the responsibility for close to nine million square miles of the Pacific, Army Col. Timothy P. Hudson assumed command of the U.S. Army Corps of Engineers’ Pacific Ocean Division on Oct. 27 as the 36th commander and division engineer.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578139/hudson-assumes-command-usace-pacific-ocean-division",
-      "publishedAt": "2026-10-29T04:15:34Z"
-    },
-    {
-      "id": "f6912b6e8359c26ac0621365",
-      "title": "Beyond the Uniform: U.S. Marines donate blood to support military readiness",
-      "summary": "U.S. Marines stationed on Camp Hansen donated blood during a blood drive hosted by the Armed Services Blood Bank Center (ASBBC), Oct. 26, 2026, helping sustain a supply essential to emergency medical care and military readiness.",
-      "category": "Marine Corps",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578136/beyond-uniform-us-marines-donate-blood-support-military-readiness",
-      "publishedAt": "2026-10-29T01:21:29Z"
-    },
-    {
-      "id": "f311d938329a48c505a04fff",
-      "title": "US Navy reports highest number of Class A aviation, afloat mishaps in 10 years",
-      "summary": "The U.S. Navy reported a decade-high number of unplanned catastrophic events involving aircraft and vessels.",
-      "category": "Navy",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/naval/2026/10/28/us-navy-reports-highest-number-of-class-a-aviation-afloat-mishaps-in-10-years/",
-      "publishedAt": "2026-10-28T23:02:32Z"
-    },
-    {
-      "id": "61420957b4700b8ef3ca31d2",
-      "title": "BS27-1: No room for error - Kadena EOD keeps the mission moving",
-      "summary": "KADENA AIR BASE, Japan — U.S. Air Force Airmen assigned to the 18th Civil Engineer Squadron Explosive Ordnance Disposal flight secured installation infrastructure and neutralized simulated explosives during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 28, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578132/bs27-1-no-room-error-kadena-eod-keeps-mission-moving",
-      "publishedAt": "2026-10-28T22:18:35Z"
-    },
-    {
-      "id": "8e270fb96759535d224197c8",
-      "title": "Army Reserve inspectors general reaffirm commitment to readiness during swearing-in ceremony",
-      "summary": "Twenty-two U.S. Army Reserve inspectors general, including Col. Will Pope, took the oath of office during a ceremony led by Lt. Gen. Robert D. Harter at Fort Bragg, North Carolina, Oct. 28, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578129/army-reserve-inspectors-general-reaffirm-commitment-readiness-during-swearing-ceremony",
-      "publishedAt": "2026-10-28T22:10:31Z"
-    },
-    {
-      "id": "990873e9eeb7aba55f4e122a",
-      "title": "Clear Skies and Tailwinds: Celebrating the Legendary Career of Marvin “Lynn” Hanks",
-      "summary": "For more than five decades, the story of United States Army aviation has been written in the skies, defined by rapid technological leaps, rigorous safety standards, and brave pioneers who pushed aircraft to their absolute aerodynamic limits. Few individuals have shaped this narrative as profoundly, or for as long, as Marvin \"Lynn\" Hanks.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578127/clear-skies-and-tailwinds-celebrating-legendary-career-marvin-lynn-hanks",
-      "publishedAt": "2026-10-28T21:51:51Z"
-    },
-    {
-      "id": "58efb269cb753a05e6b23256",
-      "title": "BS27-1: 18th SFS tests attack response during Beverly Sword",
-      "summary": "KADENA AIR BASE, Japan - U.S. Air Force Airmen assigned to the 18th Security Forces Squadron respond to a simulated missile strike to their building, conducting a sweep and evacuation of personnel during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 28, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578123/bs27-1-18th-sfs-tests-attack-response-during-beverly-sword",
-      "publishedAt": "2026-10-28T20:23:12Z"
-    },
-    {
-      "id": "0cf740a91f271ed60a04eb8e",
-      "title": "Cost estimate for Iran war rises to more than $47 billion",
-      "summary": "The U.S. military has spent about 25% more on the war in Iran than estimates projected in July, according to Pentagon data obtained by Reuters.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/video/2026/10/28/cost-estimate-for-iran-war-rises-to-more-than-47-billion/",
-      "publishedAt": "2026-10-28T20:16:50Z"
-    },
-    {
-      "id": "ee495d94fbbb8ecfc088c423",
-      "title": "U.S. and Mexican Forces Conclude Successful AMALGAM EAGLE 2026 Exercise",
-      "summary": "U.S. and Mexican military forces have successfully concluded Exercise AMALGAM EAGLE 2026, a bilateral live-fly air defense and search-and-rescue exercise held from September 30-Oct 1.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578120/us-and-mexican-forces-conclude-successful-amalgam-eagle-2026-exercise",
-      "publishedAt": "2026-10-28T20:06:16Z"
-    },
-    {
-      "id": "0755a0b2f5edd1cbabb4685c",
-      "title": "U.S. Marine Drone Detachment in the Philippines Operating from Palawan Airfield",
-      "summary": "MANILA, Philippines — A U.S. Marine Corps drone detachment is operating from a Philippine airfield in Palawan near South China Sea flashpoints in the Spratly Islands, USNI News has learned.",
-      "category": "Defense",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/28/u-s-marine-drone-detachment-in-the-philippines-operating-from-palawan-airfield",
-      "publishedAt": "2026-10-28T19:58:47Z"
     }
   ],
   "nextPage": "pages/page-2.json"

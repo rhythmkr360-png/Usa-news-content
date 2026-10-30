@@ -1,7 +1,97 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T01:04:13Z",
+  "generatedAt": "2026-10-30T10:06:14Z",
   "articles": [
+    {
+      "id": "dcfb87f1b5998c11da436e76",
+      "title": "New Hampshire Army National Guard names 2027 Best Warrior winners",
+      "summary": "PEMBROKE, N.H. — Sgt. Johnathin Bailey and Pfc. Samuel Gosselin earned the New Hampshire Army National Guard's 2027 Noncommissioned Officer and Soldier of the Year titles after three days of marksmanship, land navigation and physical challenges Oct. 23-25.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577900/new-hampshire-army-national-guard-names-2027-best-warrior-winners",
+      "publishedAt": "2026-10-26T17:09:17Z"
+    },
+    {
+      "id": "24128c4b7980e54f22047384",
+      "title": "BCE Consulting outlines the critical elements of layered air defense architecture",
+      "summary": "What does the future of layered air defense look like? BCE Consulting lays out what it will take to protect American forces.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/video/2026/10/26/bce-consulting-outlines-the-critical-elements-of-layered-air-defense-architecture/",
+      "publishedAt": "2026-10-26T16:41:59Z"
+    },
+    {
+      "id": "3562d393638b59e3b9260677",
+      "title": "Is the Pentagon’s demand signal for drones working? It depends on who you ask.",
+      "summary": "“There’s a lot of positive signaling, but we need to see the whites of the eyes: We need to see sustained, normalized demand,” said James Slider, CEO of Performance Drone Works.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/10/is-the-pentagons-demand-signal-for-drones-working-it-depends-on-who-you-ask/",
+      "publishedAt": "2026-10-26T14:28:38Z"
+    },
+    {
+      "id": "bfb37cf7f3011ef1f09b2331",
+      "title": "U.S. Civil Affairs Soldiers build NATO partnerships at Estonian shooting competition",
+      "summary": "Two U.S. Army Civil Affairs Soldiers competed alongside service members from Estonia, the United Kingdom and France during the Estonian Defence Forces Shooting Competition 2026 in Harju County, Estonia, from Oct. 21-22.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577863/us-civil-affairs-soldiers-build-nato-partnerships-estonian-shooting-competition",
+      "publishedAt": "2026-10-26T10:12:31Z"
+    },
+    {
+      "id": "f157355313b04586ec41fb2e",
+      "title": "BS27-1: MAD for Military Assisted Departure",
+      "summary": "U.S. Air Force Airmen assigned to the 718th Force Support Squadron worked in conjunction with various units across the 18th Wing and joint services to coordinate a military assisted departure during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 26, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577858/bs27-1-mad-military-assisted-departure",
+      "publishedAt": "2026-10-26T09:25:13Z"
+    },
+    {
+      "id": "82692208ac588ba707da3e43",
+      "title": "BS27-1: Ready to defend",
+      "summary": "KADENA AIR BASE, Japan – U.S. Air Force Airmen assigned to the 18th Logistics Readiness Squadron issued weapons to personnel participating in Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 26, 2026. The weapons issue prepares Airmen to respond to simulated threats and operate in a contingency environment.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577861/bs27-1-ready-defend",
+      "publishedAt": "2026-10-26T09:23:48Z"
+    },
+    {
+      "id": "293d130526636e5169abb676",
+      "title": "BS27-1: 18th SFS neutralizes the threat",
+      "summary": "When shots are fired, 18th Security Forces Squadron rushes toward the source. U.S. Air Force Airmen assigned to the 18th SFS responded to a simulated ground attack during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 26, 2026, neutralizing two simulated attackers and testing their ability to respond to evolving threats.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577857/bs27-1-18th-sfs-neutralizes-threat",
+      "publishedAt": "2026-10-26T08:21:54Z"
+    },
+    {
+      "id": "154955082f9de8db7fd738dd",
+      "title": "U.S., Japanese forces exercise rapid airfield damage repair during Keen Sword 27",
+      "summary": "During Exercise Keen Sword 27, U.S. Air Force Airmen, Japan Air Self-Defense Force airmen, and Japan Ground Self-Defense Force soldiers conducted bilateral rapid airfield damage repair training at Misawa Air Base, Japan, Oct.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577854/us-japanese-forces-exercise-rapid-airfield-damage-repair-during-keen-sword-27",
+      "publishedAt": "2026-10-26T07:21:25Z"
+    },
+    {
+      "id": "8831989b6676151fa769de50",
+      "title": "Faces of Keen Sword 27 - Cpt. Yuki Sato",
+      "summary": "Japan Air Self-Defense Force Cpt. Yuki Sato, a Kawasaki C-2 Pilot assigned to the 402nd Tactical Airlift Squadron at Iruma Air Base, Japan poses for a feature photo for a Faces of Keen Sword feature story.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577853/faces-keen-sword-27-cpt-yuki-sato",
+      "publishedAt": "2026-10-26T06:50:04Z"
+    },
+    {
+      "id": "601640872811009fc5d0283b",
+      "title": "Faces of Keen Sword 27 - Joshua Dilone",
+      "summary": "U.S. Navy Petty Officer 2nd Class Joshua Dilone, an operational specialist, shares information on his job duties and his experiences in Keen Sword 27. Keen Sword is a multilateral exercise dedicated to preserving peace and stability in the region, and strengthening the ironclad alliance between the U.S. and Japan.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577852/faces-keen-sword-27-joshua-dilone",
+      "publishedAt": "2026-10-26T06:49:25Z"
+    },
     {
       "id": "8a5d6fcffd6aefb2a7166c5f",
       "title": "U.S., Japan merge real and virtual skies during KS27",
@@ -271,96 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577710/lost-1950-korean-war-soldier-laid-rest-illinois",
       "publishedAt": "2026-10-23T15:32:15Z"
-    },
-    {
-      "id": "515863d15af3c5d9928a348d",
-      "title": "Army Activates Air Defense Guam Battalion Focused on Chinese, North Korean Threats",
-      "summary": "The U.S. Army’s recently activated a Guam-based air defense battalion meant to protect the island from increasingly advanced air and missile threats fielded by China and North Korea. The 3rd Battalion, 43rd Air Defense Artillery Regiment, activated on Oct. 16, will inherit the defense of Guam responsibilities of Task Force Talon.",
-      "category": "Army",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/23/army-activates-air-defense-guam-battalion-focused-on-chinese-north-korean-threats",
-      "publishedAt": "2026-10-23T15:13:35Z"
-    },
-    {
-      "id": "a90315915c55076fb60e5d81",
-      "title": "US Air Force wants AI to assist aerial refueling",
-      "summary": "The goal is for AI to automatically analyze refueling operations from cameras mounted on the tankers and provide “hot wash” feedback to the tanker crews.",
-      "category": "Air Force",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling/",
-      "publishedAt": "2026-10-23T14:29:17Z"
-    },
-    {
-      "id": "e27d4e7fcab59c57761f0397",
-      "title": "AMC honors 10 civilian and military personnel driving workplace excellence",
-      "summary": "The U.S. Army Materiel Command has announced its third quarter, fiscal year 2026 Employees of the Quarter, honoring 10 exceptional civilian and military personnel. These awards recognize outstanding individual contributions that directly drive workplace productivity, employee retention, and overall mission readiness across the enterprise.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577703/amc-honors-10-civilian-and-military-personnel-driving-workplace-excellence",
-      "publishedAt": "2026-10-23T14:26:59Z"
-    },
-    {
-      "id": "f186fca8c135483984170154",
-      "title": "From Arrest to Advocacy: Aberdeen Proving Ground Employee Shares Journey to Recovery",
-      "summary": "For Michelle Twist, a U.S. Army Garrison Aberdeen Proving Ground employee, that moment came in 2015. As the Army observes Substance Abuse Awareness Month, Twist is sharing her personal story of overcoming opioid addiction to inspire others to seek the help they need before a crisis.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577704/arrest-advocacy-aberdeen-proving-ground-employee-shares-journey-recovery",
-      "publishedAt": "2026-10-23T14:21:15Z"
-    },
-    {
-      "id": "63a3c128cd923495c1875adc",
-      "title": "White House military spouse council floats toll cuts for troops commuting to base",
-      "summary": "The council said recent toll cuts at MacDill Air Force Base in Tampa, Florida, should be used as a “template” for other bases across the U.S. The post White House military spouse council floats toll cuts for troops commuting to base appeared first on Task & Purpose .",
-      "category": "Defense",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/military-spouse-toll-cuts-troops/",
-      "publishedAt": "2026-10-23T14:08:22Z"
-    },
-    {
-      "id": "4d60b5a1f48504716548071e",
-      "title": "U.S. Pacific Command deputy commander visits Japan, highlights combined readiness",
-      "summary": "The deputy commander of U.S. Pacific Command visited Japan to commence Exercise Keen Sword 2027 and meet with senior military and government leaders, Oct. 18-21.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577698/us-pacific-command-deputy-commander-visits-japan-highlights-combined-readiness",
-      "publishedAt": "2026-10-23T12:58:27Z"
-    },
-    {
-      "id": "ec062f45d064d7e601f31860",
-      "title": "NCNG 2-120th Infantry Regiment Re-activates",
-      "summary": "LENOIR, N.C. — For the first time in two decades, the North Carolina National Guard 2nd Battalion, 120th Infantry Regiment, 30th Mobile Brigade Combat Team unraveled their colors as the unit was officially re-activated during a ceremony, here on Oct. 18th, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577694/ncng-2-120th-infantry-regiment-re-activates",
-      "publishedAt": "2026-10-23T12:58:19Z"
-    },
-    {
-      "id": "17f6a29ec8e792ed1340dd22",
-      "title": "31 Dental Squadron partners with USS Lewis B. Puller to support Navy readiness",
-      "summary": "U.S. Air Force and U.S. Navy medical personnel partnered to provide examinations, cleanings and routine dental care to more than 40 Sailors aboard USS Lewis B. Puller (ESB 3) in Rijeka, Croatia, Sept. 22-25, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577696/31-dental-squadron-partners-with-uss-lewis-b-puller-support-navy-readiness",
-      "publishedAt": "2026-10-23T09:09:38Z"
-    },
-    {
-      "id": "ca7d589d04eba5ec9e70a50e",
-      "title": "Readiness, Relationships and Resilience: Col. Michael Cookey Marks First 100 Days Leading USAG Ansbach",
-      "summary": "ANSBACH, Germany — When Col. Michael D. Cookey took command of the Army garrison here in July, he assumed leadership of an installation supporting combat readiness and community resilience. Marking his first 100 days in command of U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577695/readiness-relationships-and-resilience-col-michael-cookey-marks-first-100-days-leading-usag-ansbach",
-      "publishedAt": "2026-10-23T08:27:29Z"
-    },
-    {
-      "id": "f51eeb8b485bb31ab1fcb22a",
-      "title": "9th ESB Marine aids Okinawan driver following traffic accident",
-      "summary": "URUMA, Japan — A U.S. Marine assigned to 9th Engineer Support Battalion, Combat Logistics Regiment 37, came to the aid of an Okinawan driver following a two-vehicle traffic accident near a gas station in Uruma, Okinawa, Oct. 15.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577692/9th-esb-marine-aids-okinawan-driver-following-traffic-accident",
-      "publishedAt": "2026-10-23T07:20:41Z"
     }
   ],
   "nextPage": "page-5.json"
