@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T18:02:34Z",
+  "generatedAt": "2026-10-30T22:24:48Z",
   "articles": [
+    {
+      "id": "3b8488d72750c1c0b11949d6",
+      "title": "Navy Accepts Delivery of Ship-to-Shore Connector, Landing Craft, Air Cushion 118",
+      "summary": "New Orleans – The U.S. Navy accepted delivery of a Ship-to-Shore Connector (SSC), Landing Craft Air Cushion (LCAC) 118, from Textron Systems, Oct. 28, marking the fourth SSC delivered this calendar year and advancing the Navy-Marine Corps team’s amphibious fleet modernization.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578362/navy-accepts-delivery-ship-shore-connector-landing-craft-air-cushion-118",
+      "publishedAt": "2026-10-30T21:35:24Z"
+    },
+    {
+      "id": "808e5f7256624f13520263ec",
+      "title": "Idaho Army National Guard conducts remote search and rescue mission",
+      "summary": "The Idaho Army National Guard assisted with a search and rescue mission Wednesday near New Meadows, marking the second time in as many months the Guard has supported Meadows Valley Fire and EMS in a remote part of the state.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578360/idaho-army-national-guard-conducts-remote-search-and-rescue-mission",
+      "publishedAt": "2026-10-30T21:08:17Z"
+    },
+    {
+      "id": "9b487e105476d327c8925d00",
+      "title": "Pa. Army Guard CSM retires after 39 years of military service",
+      "summary": "FORT INDIANTOWN GAP, Pa. – When Command Sgt. Maj. Oscar M. Laughman III enlisted in the U.S. Marine Corps, he expected his military career to last four years. Thirty-nine years later, Laughman is preparing to retire.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578355/pa-army-guard-csm-retires-after-39-years-military-service",
+      "publishedAt": "2026-10-30T20:48:29Z"
+    },
+    {
+      "id": "f07cfb0c229d710c3f90343d",
+      "title": "USNI News Western Pacific Pulse: Oct. 30, 2026",
+      "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. Around Japan Aircraft carrier USS Theodore Roosevelt (CVN-71) conducted a passenger exchange on Monday with Royal Canadian Navy frigate HMCS Regina (FFH 334) during exercise Keen Sword 27 (KS27).",
+      "category": "Defense",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/30/usni-news-western-pacific-pulse-oct-30-2026",
+      "publishedAt": "2026-10-30T20:40:27Z"
+    },
+    {
+      "id": "d3f4ed1c4d020d3f4bcec3db",
+      "title": "JRTC and Fort Polk welcomes Brig. Gen. Matthew J. Hardman",
+      "summary": "FORT POLK, La. — The Joint Readiness Training Center and Fort Polk hosted a change of command ceremony Oct. 8 as Maj. Gen. Jason A. Curl passed the responsibility and leadership of the installation to Brig. Gen. Matthew J. Hardman. Maj. Gen. Colin P. Tuley, U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578347/jrtc-and-fort-polk-welcomes-brig-gen-matthew-j-hardman",
+      "publishedAt": "2026-10-30T19:29:26Z"
+    },
     {
       "id": "1c28f1ff255f6e90a7982db4",
       "title": "2 airmen died in noncombat incidents while supporting Iran war operations",
@@ -316,51 +361,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/naval/2026/10/29/record-deployment-for-destroyer-uss-spruance-casts-doubt-over-us-navy-maintenance/",
       "publishedAt": "2026-10-29T19:15:42Z"
-    },
-    {
-      "id": "2e091f2e185fa5947f3c2910",
-      "title": "Pentagon investigates series of commissary freezer failures as possible cyberattack",
-      "summary": "Refrigeration failures spoiled food at military commissaries across the country. Investigators are examining whether hackers were responsible. The post Pentagon investigates series of commissary freezer failures as possible cyberattack appeared first on Task & Purpose .",
-      "category": "Defense",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/military-commissary-cyberattack-pentagon-investigation/",
-      "publishedAt": "2026-10-29T19:11:09Z"
-    },
-    {
-      "id": "7f7834b8430e38a22913b915",
-      "title": "Senior US general fired, accused of leaking classified information",
-      "summary": "U.S. Army Lt. Gen. Brett Sylvia, a senior military planner on the Pentagon's Joint Staff, was fired over accusations he leaked classified information to the public.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/29/senior-us-general-fired-accused-of-leaking-classified-information/",
-      "publishedAt": "2026-10-29T18:52:30Z"
-    },
-    {
-      "id": "16c1b41240c3e6e7e7fa5664",
-      "title": "Army Reserve’s 1st Brigade, 78th Training Division welcomes new commander",
-      "summary": "JOINT BASE MCGUIRE-DIX-LAKEHURST, N.J. – The U.S. Army Reserve’s 1st Brigade, 78th Training Division, welcomed its new commander during a traditional change-of-command ceremony Oct. 24 here on Sharp Field.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578213/army-reserves-1st-brigade-78th-training-division-welcomes-new-commander",
-      "publishedAt": "2026-10-29T18:27:12Z"
-    },
-    {
-      "id": "e35ebc65b4c5ae60b3a6fd26",
-      "title": "Naval Health Clinic New England Recognized for Support to DoD Global Respiratory Surveillance Program",
-      "summary": "Naval Health Clinic New England (NHCNE) was formally recognized for its significant contributions to the Department of Defense Global Respiratory Surveillance Program (DoDGRSP) during the 2025–26 respiratory season.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578205/naval-health-clinic-new-england-recognized-support-dod-global-respiratory-surveillance-program",
-      "publishedAt": "2026-10-29T18:07:18Z"
-    },
-    {
-      "id": "521486b61cc1e4b11b2ea6fc",
-      "title": "B4 it’s too late: TRAFC supports Operation Warm Heart",
-      "summary": "TRAVIS AIR FORCE BASE, Calif. -- The Travis Regional Armed Forces Committee hosted a commanders' visit at Jelly Belly in Fairfield, California, Oct. 20, 2026, in support of Operation Warm Heart.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578196/b4-its-too-late-trafc-supports-operation-warm-heart",
-      "publishedAt": "2026-10-29T17:21:28Z"
     }
   ],
   "nextPage": "pages/page-2.json"

@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T18:02:34Z",
+  "generatedAt": "2026-10-30T22:24:48Z",
   "articles": [
+    {
+      "id": "47bca68c57b26e786c5433ea",
+      "title": "Moffett Fielders turn softball into mission-ready connections",
+      "summary": "Airmen from the California Air National Guard's 129th Rescue Wing forge connection on the softball diamond and across the wing.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577932/moffett-fielders-turn-softball-into-mission-ready-connections",
+      "publishedAt": "2026-10-26T21:56:57Z"
+    },
+    {
+      "id": "39a79aa5c4bb2d4ee2c5db03",
+      "title": "BS27-1: Day or Night, Locked and Loaded",
+      "summary": "KADENA AIR BASE, Japan - U.S. Air Force Airmen assigned to the 18th Logistics Readiness Squadron recently issued simulated weapons to Airmen as part of Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 27, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577930/bs27-1-day-night-locked-and-loaded",
+      "publishedAt": "2026-10-26T21:27:35Z"
+    },
+    {
+      "id": "bd58ccb21eb5ae07d7b45a35",
+      "title": "Wichita firefighter named Hometown Hero, takes flight with Thunderbirds",
+      "summary": "Joe Bauer, a firefighter with the Wichita Fire Department, was recognized as a Wichita Hometown Hero at the Frontiers in Flight Air Show and Open House with an incentive flight alongside the U.S. Air Force Air Demonstration Squadron, known as the Thunderbirds Oct. 23.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577929/wichita-firefighter-named-hometown-hero-takes-flight-with-thunderbirds",
+      "publishedAt": "2026-10-26T21:21:45Z"
+    },
+    {
+      "id": "d5fbe3a1d334ff4c0a149078",
+      "title": "Navy Recruiter Attends Boot Camp Graduation for Four Sailors She Recruited",
+      "summary": "Cryptologic Technician Technical 1st Class Samantha Campbell, a recruiter assigned to Navy Recruiting Station Schaumburg, attended Recruit Training Command’s graduation ceremony Oct. 22, 2026, to celebrate the accomplishments of four Sailors she recruited, witnessing firsthand the culmination of their journey to becoming Sailors in the U.S. Navy.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577927/navy-recruiter-attends-boot-camp-graduation-four-sailors-she-recruited",
+      "publishedAt": "2026-10-26T21:04:33Z"
+    },
+    {
+      "id": "98a3c3b2db287650e79695f6",
+      "title": "U.S. Navy Taps Attack Boat for 2027 Australian AUKUS Assignment",
+      "summary": "The Pentagon announced Monday the Virginia-class submarine that will be the lead nuclear attack boat in western Australia. USS Colorado (SSN-788) will be assigned to Submarine Rotational Force-West, which will be based HMAS Stirling outside of Perth starting in 2027.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/26/u-s-navy-taps-attack-boat-for-2027-australian-aukus-assignment",
+      "publishedAt": "2026-10-26T20:46:28Z"
+    },
     {
       "id": "1a196e8dc3a144ca95710530",
       "title": "Marines Sharpen Small-Unit Drone Tactics at Drone Crucible 26.3",
@@ -316,51 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577768/division-commander-tours-military-construction-projects-southern-arizona",
       "publishedAt": "2026-10-23T22:40:59Z"
-    },
-    {
-      "id": "198b152f02db8f8a3cec129b",
-      "title": "Building the Force: Recruiting at the 163d Attack Wing",
-      "summary": "Recruiters are often the first point of contact for those considering military service. Through community outreach and school visits, California Air National Guard recruiters introduce prospective applicants to military career opportunities and the benefits of serving in the Guard.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577767/building-force-recruiting-163d-attack-wing",
-      "publishedAt": "2026-10-23T21:33:10Z"
-    },
-    {
-      "id": "3fb59f8473d4bea5ac825aa4",
-      "title": "US Army launches Project Gatekeeper to accelerate commercial software adoption, streamline cybersecurity accreditation",
-      "summary": "New DevSecOps sandbox slashes accreditation timelines, lowers barriers for industry and delivers secure software to warfighters at mission speed.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577765/us-army-launches-project-gatekeeper-accelerate-commercial-software-adoption-streamline-cybersecurity-accreditation",
-      "publishedAt": "2026-10-23T21:28:28Z"
-    },
-    {
-      "id": "372e2e7bc3df619b9f81ef29",
-      "title": "Kentucky adjutant general briefs legislative committee on state of the Guard",
-      "summary": "Maj. Gen. Haldane B. Lamberton, Kentucky’s adjutant general, briefed the Interim Joint Committee on Veterans, Military Affairs, and Public Protection (VMAPP) on the state of the Kentucky National Guard during a session at the Capitol Annex in Frankfort, Oct. 21, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577752/kentucky-adjutant-general-briefs-legislative-committee-state-guard",
-      "publishedAt": "2026-10-23T21:00:39Z"
-    },
-    {
-      "id": "2b85ac64ef5c03b87a1b4887",
-      "title": "Army Corps-Galveston hosts Orange Co Project public open house, seeks community input on Draft SEIS",
-      "summary": "The U.S. Army Corps of Engineers Galveston District hosted a public open house Oct. 20, 2026, in Bridge City, Texas, to present proposed modifications to the Sabine Pass to Galveston Bay Orange County Project and its Draft Supplemental Environmental Impact Statement (SEIS).",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577754/army-corps-galveston-hosts-orange-co-project-public-open-house-seeks-community-input-draft-seis",
-      "publishedAt": "2026-10-23T20:02:24Z"
-    },
-    {
-      "id": "25b56cbd40e2b4943cc182c2",
-      "title": "USS McFaul (DDG 74) Returns to Norfolk Following Deployment",
-      "summary": "NAVAL STATION NORFOLK, Va. – The Arleigh Burke-class guided-missile destroyer USS McFaul (DDG 74) returned to Naval Station Norfolk, Oct. 23, 2026, concluding an 11-month deployment to the U.S. 5th and 6th Fleet areas of operation.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577757/uss-mcfaul-ddg-74-returns-norfolk-following-deployment",
-      "publishedAt": "2026-10-23T19:53:29Z"
     }
   ],
   "nextPage": "page-5.json"

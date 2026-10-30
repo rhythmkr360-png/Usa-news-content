@@ -1,5 +1,50 @@
 [
   {
+    "id": "3b8488d72750c1c0b11949d6",
+    "title": "Navy Accepts Delivery of Ship-to-Shore Connector, Landing Craft, Air Cushion 118",
+    "summary": "New Orleans – The U.S. Navy accepted delivery of a Ship-to-Shore Connector (SSC), Landing Craft Air Cushion (LCAC) 118, from Textron Systems, Oct. 28, marking the fourth SSC delivered this calendar year and advancing the Navy-Marine Corps team’s amphibious fleet modernization.",
+    "category": "Navy",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578362/navy-accepts-delivery-ship-shore-connector-landing-craft-air-cushion-118",
+    "publishedAt": "2026-10-30T21:35:24Z"
+  },
+  {
+    "id": "808e5f7256624f13520263ec",
+    "title": "Idaho Army National Guard conducts remote search and rescue mission",
+    "summary": "The Idaho Army National Guard assisted with a search and rescue mission Wednesday near New Meadows, marking the second time in as many months the Guard has supported Meadows Valley Fire and EMS in a remote part of the state.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578360/idaho-army-national-guard-conducts-remote-search-and-rescue-mission",
+    "publishedAt": "2026-10-30T21:08:17Z"
+  },
+  {
+    "id": "9b487e105476d327c8925d00",
+    "title": "Pa. Army Guard CSM retires after 39 years of military service",
+    "summary": "FORT INDIANTOWN GAP, Pa. – When Command Sgt. Maj. Oscar M. Laughman III enlisted in the U.S. Marine Corps, he expected his military career to last four years. Thirty-nine years later, Laughman is preparing to retire.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578355/pa-army-guard-csm-retires-after-39-years-military-service",
+    "publishedAt": "2026-10-30T20:48:29Z"
+  },
+  {
+    "id": "f07cfb0c229d710c3f90343d",
+    "title": "USNI News Western Pacific Pulse: Oct. 30, 2026",
+    "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. Around Japan Aircraft carrier USS Theodore Roosevelt (CVN-71) conducted a passenger exchange on Monday with Royal Canadian Navy frigate HMCS Regina (FFH 334) during exercise Keen Sword 27 (KS27).",
+    "category": "Defense",
+    "sourceName": "USNI News",
+    "sourceUrl": "https://news.usni.org/2026/10/30/usni-news-western-pacific-pulse-oct-30-2026",
+    "publishedAt": "2026-10-30T20:40:27Z"
+  },
+  {
+    "id": "d3f4ed1c4d020d3f4bcec3db",
+    "title": "JRTC and Fort Polk welcomes Brig. Gen. Matthew J. Hardman",
+    "summary": "FORT POLK, La. — The Joint Readiness Training Center and Fort Polk hosted a change of command ceremony Oct. 8 as Maj. Gen. Jason A. Curl passed the responsibility and leadership of the installation to Brig. Gen. Matthew J. Hardman. Maj. Gen. Colin P. Tuley, U.S.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578347/jrtc-and-fort-polk-welcomes-brig-gen-matthew-j-hardman",
+    "publishedAt": "2026-10-30T19:29:26Z"
+  },
+  {
     "id": "1c28f1ff255f6e90a7982db4",
     "title": "2 airmen died in noncombat incidents while supporting Iran war operations",
     "summary": "Two airmen died in non-hostile incidents in October, the Pentagon revealed late on Thursday. The post 2 airmen died in noncombat incidents while supporting Iran war operations appeared first on Task & Purpose .",
@@ -2248,95 +2293,5 @@
     "sourceName": "DVIDS U.S. Military News",
     "sourceUrl": "https://www.dvidshub.net/news/577480/3-43-air-defense-artillery-activates-guam-continuing-legacy-us-army-air-and-missile-defense",
     "publishedAt": "2026-10-20T23:40:02Z"
-  },
-  {
-    "id": "3d6a6bace113003d6d764b2d",
-    "title": "Uncasing ceremony marks CSTA transfer to MSCoE",
-    "summary": "Leaders of the U.S. Army Maneuver Support Center of Excellence uncased the guidon for the U.S. Army Civil Support Training Activity during a ceremony at Joint Base San Antonio, Texas, Oct. 20, 2026.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577475/uncasing-ceremony-marks-csta-transfer-mscoe",
-    "publishedAt": "2026-10-20T21:29:04Z"
-  },
-  {
-    "id": "317f0ecd28643835780d6abb",
-    "title": "Acting U.S. Navy Surgeon General, Texas-based Sailors honor enduring legacy at 251st birthday ball",
-    "summary": "The acting U.S. Navy surgeon general joined local leadership, Sailors, and community members in the heart of \"Military City, U.S.A.,\" to celebrate the Navy’s 251st birthday at the South Texas Navy Region Ball, Oct. 17, 2026.",
-    "category": "Navy",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577473/acting-us-navy-surgeon-general-texas-based-sailors-honor-enduring-legacy-251st-birthday-ball",
-    "publishedAt": "2026-10-20T21:19:00Z"
-  },
-  {
-    "id": "a5b62249c2ea1328ca50bce4",
-    "title": "NEBRASKA GUARD CYBER TEAM HELPS RESTORE ESSENTIAL SERVICES IN NORTH PLATTE",
-    "summary": "NORTH PLATTE, Neb. — An 11-Soldier Nebraska Army National Guard team helped restore essential city and county services and strengthen network defenses during a state active-duty response Oct. 9–13, 2026, following a cyber incident affecting North Platte and Lincoln County.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577474/nebraska-guard-cyber-team-helps-restore-essential-services-north-platte",
-    "publishedAt": "2026-10-20T21:17:36Z"
-  },
-  {
-    "id": "f5c45905ffde979764ecd6b8",
-    "title": "NEWLY PROMOTED COLONEL CELEBRATES MILESTONE AT CANTIGNY PARK IN WHEATON",
-    "summary": "Illinois Army National Guard Col. Justin Kramer, the Illinois National Guard Human Resources Policy Officer, was promoted to the rank of colonel Oct. 18 at the 1st Infantry Division Pavilion, 1st Infantry Division Museum, Cantigny Park in Wheaton.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577466/newly-promoted-colonel-celebrates-milestone-cantigny-park-wheaton",
-    "publishedAt": "2026-10-20T21:13:42Z"
-  },
-  {
-    "id": "edd8ca1a6b5ddb22a6debe8d",
-    "title": "VIDEO: USS San Antonio Returns Home From Split Deployment",
-    "summary": "Amphibious transport dock USS San Antonio (LPD-17) returned from its two-part deployment of 2026 on Friday. Over the past 14 months, the amphibious ship spent all but two months deployed. San Antonio’s underway time spans two periods, during which the ship spent most of its time in U.S.",
-    "category": "Navy",
-    "sourceName": "USNI News",
-    "sourceUrl": "https://news.usni.org/2026/10/20/video-uss-san-antonio-returns-home-from-split-deployment",
-    "publishedAt": "2026-10-20T20:56:35Z"
-  },
-  {
-    "id": "75fe8945779231f579555a65",
-    "title": "Why I Serve- Olena Terzi",
-    "summary": "U.S. Spc. Olena Terzi discusses her military service. A native of Ukraine, Terzi settled in the United States and is currently pursing various passions to give back to the community that welcomed her and her family.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577463/why-serve-olena-terzi",
-    "publishedAt": "2026-10-20T20:53:56Z"
-  },
-  {
-    "id": "acea00adfdab9c3ffd54e458",
-    "title": "Illinois Army National Guard Activates 217th Military Intelligence Battalion",
-    "summary": "The Illinois Army National Guard activated the 217th Military Intelligence Battalion during a ceremony on Oct 18, 2026, in Cantigny Park, Illinois, formally establishing a new organization designed to strengthen military intelligence and electronic warfare capabilities.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577453/illinois-army-national-guard-activates-217th-military-intelligence-battalion",
-    "publishedAt": "2026-10-20T20:06:06Z"
-  },
-  {
-    "id": "8de0d783a5fa74413581a53f",
-    "title": "Oregon National Guard honors Vietnam veteran with Bronze Star Medal with Valor 57 years later",
-    "summary": "Retired Lt. Col. David Gauntlett received the Bronze Star Medal with Valor during an Oregon National Guard ceremony at the Maj. Gen. George White Building in Salem, Ore., Oct. 19, 2026. The award recognizes his actions as a 20-year-old U.S.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577460/oregon-national-guard-honors-vietnam-veteran-with-bronze-star-medal-with-valor-57-years-later",
-    "publishedAt": "2026-10-20T19:53:52Z"
-  },
-  {
-    "id": "c9bc9f92ba24aeda7a0c7742",
-    "title": "Sacramento District puts new USACE governance framework into action",
-    "summary": "The U.S. Army Corps of Engineers Sacramento District is putting new Headquarters governance requirements into practice through its inaugural District Engineering Review.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577459/sacramento-district-puts-new-usace-governance-framework-into-action",
-    "publishedAt": "2026-10-20T19:46:33Z"
-  },
-  {
-    "id": "0a8c22be7088f3f8f8600bd3",
-    "title": "Pentagon weighs force posture, costs of rebuilding Middle East bases",
-    "summary": "“We’re meeting with CENTCOM and doing the assessments right now from an installation perspective. Part of this is what will the global posture be in the future, and what does that require us to have?” a senior defense official told reporters today.",
-    "category": "Defense",
-    "sourceName": "Breaking Defense",
-    "sourceUrl": "https://breakingdefense.com/2026/10/pentagon-weighs-force-posture-costs-of-rebuilding-middle-east-bases/",
-    "publishedAt": "2026-10-20T18:06:00Z"
   }
 ]
