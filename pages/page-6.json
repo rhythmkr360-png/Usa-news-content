@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-31T12:39:03Z",
+  "generatedAt": "2026-10-31T19:20:03Z",
   "articles": [
     {
       "id": "54b1a1644799987a752d3366",
@@ -352,16 +352,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577544/oregon-national-guard-opens-hangar-doors-state-workforce-leaders",
       "publishedAt": "2026-10-21T19:37:35Z"
-    },
-    {
-      "id": "67fc7895db8976243051e696",
-      "title": "Strong families equal a strong Army – IMCOM DFMWR director discusses family support during AUSA Panel",
-      "summary": "Strong families equal a strong Army was a key message reiterated during the Warfighter and Family Forum I: Empowering Parents and Children at the Association of the United States Army’s 2026 Annual Meeting and Exposition. The panel included input from Josh Gwinn, IMCOM's Director of Family, Morale, Welfare and Recreation.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577542/strong-families-equal-strong-army-imcom-dfmwr-director-discusses-family-support-during-ausa-panel",
-      "publishedAt": "2026-10-21T19:12:49Z"
     }
-  ],
-  "nextPage": "page-7.json"
+  ]
 }
