@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-31T05:49:26Z",
+  "generatedAt": "2026-10-31T12:39:03Z",
   "articles": [
     {
       "id": "5587a2b39b04361ccd298420",
@@ -100,15 +100,6 @@
       "sourceName": "USNI News",
       "sourceUrl": "https://news.usni.org/2026/10/21/report-to-congress-on-russias-arctic-military-posture",
       "publishedAt": "2026-10-21T13:56:42Z"
-    },
-    {
-      "id": "6e252609d5cc0804f36a8969",
-      "title": "U.S. Army, Colombian senior military leaders converge at Fort Bragg for bi-annual exchange",
-      "summary": "FORT BRAGG, N.C. — U.S. Army Western Hemisphere Command welcomed a 12-member Colombian senior enlisted delegation Oct.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577482/us-army-colombian-senior-military-leaders-converge-fort-bragg-bi-annual-exchange",
-      "publishedAt": "2026-10-21T11:04:53Z"
     }
   ]
 }
