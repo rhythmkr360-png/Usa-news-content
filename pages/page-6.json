@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T22:24:48Z",
+  "generatedAt": "2026-10-31T05:49:26Z",
   "articles": [
+    {
+      "id": "54b1a1644799987a752d3366",
+      "title": "Fife & Drum Corps Helps DEVCOM CBC Celebrate America 250",
+      "summary": "Members of the Old Guard Fife and Drum Corps performed at an America 250 Flag Raising Ceremony held at the U.S. Army Combat Capability Development Command Chemical Biological Center (DEVCOM CBC) on Aberdeen Proving Ground, Maryland. Sergeant 1st Class Ryan Koesterer, Staff Sgt.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577660/fife-drum-corps-helps-devcom-cbc-celebrate-america-250",
+      "publishedAt": "2026-10-22T20:17:58Z"
+    },
     {
       "id": "73801b232d1403173d78c8b7",
       "title": "Garrison welcomes new senior enlisted advisor",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577542/strong-families-equal-strong-army-imcom-dfmwr-director-discusses-family-support-during-ausa-panel",
       "publishedAt": "2026-10-21T19:12:49Z"
-    },
-    {
-      "id": "5587a2b39b04361ccd298420",
-      "title": "US Air Force outlines the fighter fleet it needs by 2035",
-      "summary": "A new Air Force report calls for 1,509 combat-coded fighters by 2035, with F-35s making up 40% of the fleet and F-47s replacing F-22s.",
-      "category": "Navy",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/21/us-air-force-outlines-the-fighter-fleet-it-needs-by-2035/",
-      "publishedAt": "2026-10-21T19:01:44Z"
     }
   ],
   "nextPage": "page-7.json"

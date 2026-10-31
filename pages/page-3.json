@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T22:24:48Z",
+  "generatedAt": "2026-10-31T05:49:26Z",
   "articles": [
+    {
+      "id": "21943e016322da2db1aba331",
+      "title": "Modernized Wellford Readiness Center Reopens, Strengthening Upstate Readiness and Community Ties",
+      "summary": "The South Carolina National Guard, state legislators and local civic leaders marked the reopening of the renovated Wellford Readiness Center during a ribbon-cutting ceremony on October 23, strengthening training and emergency-response capabilities for South Carolina National Guard Soldiers in the Upstate.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578046/modernized-wellford-readiness-center-reopens-strengthening-upstate-readiness-and-community-ties",
+      "publishedAt": "2026-10-28T12:11:05Z"
+    },
     {
       "id": "10e1091e3227fa613fed95b1",
       "title": "BS27-1: Joint tactical fuel system",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577931/dinfos-1st-tiad-workshop-strengthens-public-affairs-integration-across-information-forces",
       "publishedAt": "2026-10-27T00:56:36Z"
-    },
-    {
-      "id": "e6f58146ba6ef42164b48686",
-      "title": "First-of-its-kind women's clinic in the Air Force established at JBER",
-      "summary": "Under the Pacific Air Forces, the 673d Medical Group at Joint Base Elmendorf-Richardson provides healthcare for more than 34,000 women. At this epicenter of medical services is a first-of-its-kind clinic specifically designed to educate, treat and improve the lives of these women.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577934/first-its-kind-womens-clinic-air-force-established-jber",
-      "publishedAt": "2026-10-26T23:13:58Z"
     }
   ],
   "nextPage": "page-4.json"

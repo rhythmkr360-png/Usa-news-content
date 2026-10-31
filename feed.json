@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T22:24:48Z",
+  "generatedAt": "2026-10-31T05:49:26Z",
   "articles": [
+    {
+      "id": "3036767c279c2fc4d32ca95b",
+      "title": "Building a career in Cyber Defense and Protecting the Alaska Air Guard Mission.",
+      "summary": "For Staff Sgt. Beau Roberts, a career in cybersecurity began with a curiosity about computers while attending North Pole High School.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578371/building-career-cyber-defense-and-protecting-alaska-air-guard-mission",
+      "publishedAt": "2026-10-30T23:22:39Z"
+    },
     {
       "id": "3b8488d72750c1c0b11949d6",
       "title": "Navy Accepts Delivery of Ship-to-Shore Connector, Landing Craft, Air Cushion 118",
@@ -352,15 +361,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
       "publishedAt": "2026-10-29T19:44:45Z"
-    },
-    {
-      "id": "a514d799806406f886e15ac7",
-      "title": "Record deployment for destroyer USS Spruance casts doubt over US Navy maintenance",
-      "summary": "The Arleigh-Burke class destroyer USS Spruance has set a post-World War II record for a U.S. Navy destroyer deployment and is raising questions about the maintenance work that could follow its eventual return.",
-      "category": "Navy",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/naval/2026/10/29/record-deployment-for-destroyer-uss-spruance-casts-doubt-over-us-navy-maintenance/",
-      "publishedAt": "2026-10-29T19:15:42Z"
     }
   ],
   "nextPage": "pages/page-2.json"

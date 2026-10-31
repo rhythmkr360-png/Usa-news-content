@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T22:24:48Z",
+  "generatedAt": "2026-10-31T05:49:26Z",
   "articles": [
+    {
+      "id": "e6f58146ba6ef42164b48686",
+      "title": "First-of-its-kind women's clinic in the Air Force established at JBER",
+      "summary": "Under the Pacific Air Forces, the 673d Medical Group at Joint Base Elmendorf-Richardson provides healthcare for more than 34,000 women. At this epicenter of medical services is a first-of-its-kind clinic specifically designed to educate, treat and improve the lives of these women.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577934/first-its-kind-womens-clinic-air-force-established-jber",
+      "publishedAt": "2026-10-26T23:13:58Z"
+    },
     {
       "id": "47bca68c57b26e786c5433ea",
       "title": "Moffett Fielders turn softball into mission-ready connections",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577776/acting-army-secretary-highlights-anniston-army-depot-pit-crew-american-warfighter",
       "publishedAt": "2026-10-24T02:23:04Z"
-    },
-    {
-      "id": "8932b86f7111bdc1ee6e74b3",
-      "title": "Division commander tours military construction projects in Southern Arizona",
-      "summary": "PHOENIX — U.S. Army Corps of Engineers South Pacific Division and Los Angeles District senior leaders toured several military construction project sites Oct. 1 in Southern Arizona.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577768/division-commander-tours-military-construction-projects-southern-arizona",
-      "publishedAt": "2026-10-23T22:40:59Z"
     }
   ],
   "nextPage": "page-5.json"

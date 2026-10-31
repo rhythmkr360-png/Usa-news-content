@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T22:24:48Z",
+  "generatedAt": "2026-10-31T05:49:26Z",
   "articles": [
+    {
+      "id": "a514d799806406f886e15ac7",
+      "title": "Record deployment for destroyer USS Spruance casts doubt over US Navy maintenance",
+      "summary": "The Arleigh-Burke class destroyer USS Spruance has set a post-World War II record for a U.S. Navy destroyer deployment and is raising questions about the maintenance work that could follow its eventual return.",
+      "category": "Navy",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/naval/2026/10/29/record-deployment-for-destroyer-uss-spruance-casts-doubt-over-us-navy-maintenance/",
+      "publishedAt": "2026-10-29T19:15:42Z"
+    },
     {
       "id": "2e091f2e185fa5947f3c2910",
       "title": "Pentagon investigates series of commissary freezer failures as possible cyberattack",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578049/fort-drum-named-best-garrison-imcom-western-hemisphere",
       "publishedAt": "2026-10-28T12:51:13Z"
-    },
-    {
-      "id": "21943e016322da2db1aba331",
-      "title": "Modernized Wellford Readiness Center Reopens, Strengthening Upstate Readiness and Community Ties",
-      "summary": "The South Carolina National Guard, state legislators and local civic leaders marked the reopening of the renovated Wellford Readiness Center during a ribbon-cutting ceremony on October 23, strengthening training and emergency-response capabilities for South Carolina National Guard Soldiers in the Upstate.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578046/modernized-wellford-readiness-center-reopens-strengthening-upstate-readiness-and-community-ties",
-      "publishedAt": "2026-10-28T12:11:05Z"
     }
   ],
   "nextPage": "page-3.json"

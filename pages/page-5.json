@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T22:24:48Z",
+  "generatedAt": "2026-10-31T05:49:26Z",
   "articles": [
+    {
+      "id": "8932b86f7111bdc1ee6e74b3",
+      "title": "Division commander tours military construction projects in Southern Arizona",
+      "summary": "PHOENIX — U.S. Army Corps of Engineers South Pacific Division and Los Angeles District senior leaders toured several military construction project sites Oct. 1 in Southern Arizona.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577768/division-commander-tours-military-construction-projects-southern-arizona",
+      "publishedAt": "2026-10-23T22:40:59Z"
+    },
     {
       "id": "198b152f02db8f8a3cec129b",
       "title": "Building the Force: Recruiting at the 163d Attack Wing",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577658/beast-meets-bats-iowa-airmen-welcome-secret-service",
       "publishedAt": "2026-10-22T20:23:27Z"
-    },
-    {
-      "id": "54b1a1644799987a752d3366",
-      "title": "Fife & Drum Corps Helps DEVCOM CBC Celebrate America 250",
-      "summary": "Members of the Old Guard Fife and Drum Corps performed at an America 250 Flag Raising Ceremony held at the U.S. Army Combat Capability Development Command Chemical Biological Center (DEVCOM CBC) on Aberdeen Proving Ground, Maryland. Sergeant 1st Class Ryan Koesterer, Staff Sgt.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577660/fife-drum-corps-helps-devcom-cbc-celebrate-america-250",
-      "publishedAt": "2026-10-22T20:17:58Z"
     }
   ],
   "nextPage": "page-6.json"
