@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T13:29:55Z",
+  "generatedAt": "2026-11-01T19:43:17Z",
   "articles": [
+    {
+      "id": "0719fc31bf75f26fed0f14a0",
+      "title": "Pentagon bans troops from betting using insider information",
+      "summary": "The new prohibition bars Defense Department personnel from using classified and unclassified info to gamble on prediction markets. The post Pentagon bans troops from betting using insider information appeared first on Task & Purpose .",
+      "category": "Defense",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/pentagon-hegseth-ban-prediction-markets/",
+      "publishedAt": "2026-10-24T15:42:42Z"
+    },
+    {
+      "id": "5397779d87a7dcd3a981b5fc",
+      "title": "Japanese and U.S. Partners Conduct Airfield Damage Repair Training at Keen Sword 27",
+      "summary": "As part of the Keen Sword 27 exercise, Japanese and U.S. military forces are conducting airfield damage repair training at four Japanese and U.S. air bases across Japan.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577782/japanese-and-us-partners-conduct-airfield-damage-repair-training-keen-sword-27",
+      "publishedAt": "2026-10-24T04:57:15Z"
+    },
     {
       "id": "d732ce487db57628c9191a06",
       "title": "Acting Army Secretary highlights Anniston Army Depot, 'Pit Crew of the American Warfighter'",
@@ -343,24 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577665/runway-reps-black-hawk-pilot-soars-top-army-fitness",
       "publishedAt": "2026-10-22T21:02:04Z"
-    },
-    {
-      "id": "944f6dfa008e9cabe6d09b66",
-      "title": "From Fort Sill to the world: Red Cross Hero Care Center keeps military families connected",
-      "summary": "When a military family faces an emergency, distance shouldn't stand in the way of getting help. For more than 27 years, the American Red Cross Hero Care Center at Fort Sill has served as a lifeline, connecting service members around the world with loved ones during life's most difficult moments. On Oct.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577659/fort-sill-world-red-cross-hero-care-center-keeps-military-families-connected",
-      "publishedAt": "2026-10-22T20:51:57Z"
-    },
-    {
-      "id": "df40d55a7aeda085ca25c034",
-      "title": "Montana National Guard Connects Educators with Opportunities at Youth Challenge Academy",
-      "summary": "DILLON, Mont. — The Montana National Guard partnered with the Montana Youth Challenge Academy (MYCA) and the University of Montana Western to bring educators from across the state to Dillon, Oct. 21, for a firsthand look at a program helping young Montanans build brighter futures.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577661/montana-national-guard-connects-educators-with-opportunities-youth-challenge-academy",
-      "publishedAt": "2026-10-22T20:28:52Z"
     }
   ],
   "nextPage": "page-6.json"

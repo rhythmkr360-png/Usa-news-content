@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T13:29:55Z",
+  "generatedAt": "2026-11-01T19:43:17Z",
   "articles": [
+    {
+      "id": "51333bb784a68115d1ae6ad5",
+      "title": "Startup Biosphere wins Pentagon contract to scale up production of key chemicals",
+      "summary": "The biomanufacturing facility will boast 20,000 liters of UV-sterilized vats, able to brew anything from “bio-cement” for helipads to explosives for Hellfire missiles.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/10/startup-biosphere-wins-pentagon-contract-to-scale-up-production-of-key-chemicals/",
+      "publishedAt": "2026-10-28T13:36:00Z"
+    },
+    {
+      "id": "f4dd0a24f043c6b07ef05e9d",
+      "title": "U.S. Army and DVGW strengthen partnership during municipal water infrastructure visit",
+      "summary": "TRIER, Germany — A group of 15 public health specialists from Public Health Command Europe recently toured regional water facilities in Trier to share best practices and explore innovative approaches to water security and environmental sustainability.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578050/us-army-and-dvgw-strengthen-partnership-during-municipal-water-infrastructure-visit",
+      "publishedAt": "2026-10-28T12:53:41Z"
+    },
     {
       "id": "0e22e6fbca3e8b50e60bfac0",
       "title": "Fort Drum named Best Garrison for IMCOM-Western Hemisphere",
@@ -343,24 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577936/keen-sword-27-week-one-japanese-us-and-partners-train-anti-ship-operations-aircraft-maintenance-drones-mass-casualty-care",
       "publishedAt": "2026-10-27T06:09:05Z"
-    },
-    {
-      "id": "e7a9da44d09dbaa60084bc89",
-      "title": "Faces of Keen Sword 27 - Head of German DMBV",
-      "summary": "The head of the German Defence Force’s Department of Medical Bioconnaissance and Verification, from the Institute of Microbiology of the German Armed Forces in Munich participates in joint training with U.S. and Japan at Iruma Air Base, Japan on Oct. 23, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577939/faces-keen-sword-27-head-german-dmbv",
-      "publishedAt": "2026-10-27T04:37:14Z"
-    },
-    {
-      "id": "2f330dc56b684ff854cad69c",
-      "title": "USNH Yokosuka Leadership Builds Partnerships With Host-Nation Medical Partners",
-      "summary": "YOKOSUKA, Japan — During a series of orientation visits in September, Capt. Joshua A. Miller, commanding officer, U.S. Navy Medicine Readiness and Training Command Yokosuka (USNMRTC Yokosuka), and director, U.S. Naval Hospital Yokosuka (USNH Yokosuka), met with leaders from Japanese medical facilities that support the U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577940/usnh-yokosuka-leadership-builds-partnerships-with-host-nation-medical-partners",
-      "publishedAt": "2026-10-27T04:31:26Z"
     }
   ],
   "nextPage": "page-4.json"

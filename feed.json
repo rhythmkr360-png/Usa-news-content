@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T13:29:55Z",
+  "generatedAt": "2026-11-01T19:43:17Z",
   "articles": [
+    {
+      "id": "ad6e2f0264dbf97deab743f4",
+      "title": "Naval Hospital Rota Logistics Team Earns Top European Ranking",
+      "summary": "ROTA, Spain — U.S. Naval Hospital Rota announced Oct. 5, 2026, that its Medical Logistics Department and Directorate of Resource Management achieved a 99.99 percent budget execution rate for fiscal year 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578382/naval-hospital-rota-logistics-team-earns-top-european-ranking",
+      "publishedAt": "2026-11-01T18:28:41Z"
+    },
+    {
+      "id": "59fb4d26ff9a565fa734a7da",
+      "title": "U.S. Army WCAP women wrestlers make history, help Team USA capture first world title since 1999",
+      "summary": "Readiness and resiliency, and key contributions from the U.S. Army World Class Athlete Program, led Team USA to its first women's world title for the first time since 1999.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578381/us-army-wcap-women-wrestlers-make-history-help-team-usa-capture-first-world-title-since-1999",
+      "publishedAt": "2026-11-01T18:20:05Z"
+    },
     {
       "id": "86df242d42291a3c6f66aa41",
       "title": "U.S. Navy Assists Mariners Experiencing Engine Trouble in Arabian Sea",
@@ -343,24 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578233/bs27-1-defending-base-every-level",
       "publishedAt": "2026-10-29T20:05:10Z"
-    },
-    {
-      "id": "4357281420045b92b9ccc8b6",
-      "title": "U.S., Partner Nations to Hold Annual Malabar Naval Exercise Near Japan",
-      "summary": "The United States, Australia, India and Japan will carry out this year’s iteration of the annual Malabar naval exercise in the waters near Japan next week. Malabar 2026 will take place south of the Kanto region on the main island of Honshu from Nov. 5-12, according to a Japan Maritime Self-Defense Force news release published on Tuesday.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/29/u-s-partner-nations-to-hold-annual-malabar-naval-exercise-near-japan",
-      "publishedAt": "2026-10-29T20:03:43Z"
-    },
-    {
-      "id": "87582dd69e8519b083d42b47",
-      "title": "From waterways to runways, Tulsa District delivers in fiscal year 2026",
-      "summary": "U.S. Army Corps of Engineers, Tulsa District, provided community support across multiple missions for fiscal year 2026. This article highlights a few of the projects for the year.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578230/waterways-runways-tulsa-district-delivers-fiscal-year-2026",
-      "publishedAt": "2026-10-29T19:52:26Z"
     }
   ],
   "nextPage": "pages/page-2.json"
