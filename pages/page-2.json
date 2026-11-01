@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T00:09:53Z",
+  "generatedAt": "2026-11-01T13:29:55Z",
   "articles": [
+    {
+      "id": "05dbca87fbb185b9424688c0",
+      "title": "New tactical comms system for US ground troops aims to break network silos",
+      "summary": "\"We've spent the past 50 years building siloed networks, siloed applications and siloed environments to collaborate internally with our own data. We can no longer do that,\" a Pentagon official said.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
+      "publishedAt": "2026-10-29T19:44:45Z"
+    },
     {
       "id": "a514d799806406f886e15ac7",
       "title": "Record deployment for destroyer USS Spruance casts doubt over US Navy maintenance",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578050/us-army-and-dvgw-strengthen-partnership-during-municipal-water-infrastructure-visit",
       "publishedAt": "2026-10-28T12:53:41Z"
-    },
-    {
-      "id": "0e22e6fbca3e8b50e60bfac0",
-      "title": "Fort Drum named Best Garrison for IMCOM-Western Hemisphere",
-      "summary": "Fort Drum was recently named 2026 Best Garrison for U.S. Army Installation Management Command-Western Hemisphere, recognizing its exceptional operational readiness, transformative energy resilience, and commitment to Soldiers and their families.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578049/fort-drum-named-best-garrison-imcom-western-hemisphere",
-      "publishedAt": "2026-10-28T12:51:13Z"
     }
   ],
   "nextPage": "page-3.json"

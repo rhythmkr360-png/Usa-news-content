@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T00:09:53Z",
+  "generatedAt": "2026-11-01T13:29:55Z",
   "articles": [
+    {
+      "id": "92929125d0ae92f9bad5691f",
+      "title": "DINFOS, 1st TIAD workshop strengthens public affairs integration across Information Forces",
+      "summary": "The Defense Information School, supported by the 1st Theater Information Advantage Detachment, hosted a four-day workshop Oct. 20–23, 2026, in Honolulu for 30 U.S. and allied personnel.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577931/dinfos-1st-tiad-workshop-strengthens-public-affairs-integration-across-information-forces",
+      "publishedAt": "2026-10-27T00:56:36Z"
+    },
     {
       "id": "e6f58146ba6ef42164b48686",
       "title": "First-of-its-kind women's clinic in the Air Force established at JBER",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577782/japanese-and-us-partners-conduct-airfield-damage-repair-training-keen-sword-27",
       "publishedAt": "2026-10-24T04:57:15Z"
-    },
-    {
-      "id": "d732ce487db57628c9191a06",
-      "title": "Acting Army Secretary highlights Anniston Army Depot, 'Pit Crew of the American Warfighter'",
-      "summary": "Acting Secretary of the Army Adam Telle visited Anniston Army Depot, Alabama, Oct. 23, 2026, to engage with depot leaders and workforce, alongside U.S. Rep. Mike Rogers of Alabama, Chairman of the House Armed Services Committee.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577776/acting-army-secretary-highlights-anniston-army-depot-pit-crew-american-warfighter",
-      "publishedAt": "2026-10-24T02:23:04Z"
     }
   ],
   "nextPage": "page-5.json"

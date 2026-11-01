@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T00:09:53Z",
+  "generatedAt": "2026-11-01T13:29:55Z",
   "articles": [
+    {
+      "id": "86df242d42291a3c6f66aa41",
+      "title": "U.S. Navy Assists Mariners Experiencing Engine Trouble in Arabian Sea",
+      "summary": "ARABIAN SEA (Nov. 1, 2026) - The U.S. Navy assisted five mariners aboard the Indian-flagged Motor Vessel (M/V) Mira, after the dhow experienced a power failure in the Arabian Sea, Oct. 31.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578380/us-navy-assists-mariners-experiencing-engine-trouble-arabian-sea",
+      "publishedAt": "2026-11-01T12:56:56Z"
+    },
     {
       "id": "3036767c279c2fc4d32ca95b",
       "title": "Building a career in Cyber Defense and Protecting the Alaska Air Guard Mission.",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578230/waterways-runways-tulsa-district-delivers-fiscal-year-2026",
       "publishedAt": "2026-10-29T19:52:26Z"
-    },
-    {
-      "id": "05dbca87fbb185b9424688c0",
-      "title": "New tactical comms system for US ground troops aims to break network silos",
-      "summary": "\"We've spent the past 50 years building siloed networks, siloed applications and siloed environments to collaborate internally with our own data. We can no longer do that,\" a Pentagon official said.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
-      "publishedAt": "2026-10-29T19:44:45Z"
     }
   ],
   "nextPage": "pages/page-2.json"

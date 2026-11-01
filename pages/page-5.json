@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T00:09:53Z",
+  "generatedAt": "2026-11-01T13:29:55Z",
   "articles": [
+    {
+      "id": "d732ce487db57628c9191a06",
+      "title": "Acting Army Secretary highlights Anniston Army Depot, 'Pit Crew of the American Warfighter'",
+      "summary": "Acting Secretary of the Army Adam Telle visited Anniston Army Depot, Alabama, Oct. 23, 2026, to engage with depot leaders and workforce, alongside U.S. Rep. Mike Rogers of Alabama, Chairman of the House Armed Services Committee.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577776/acting-army-secretary-highlights-anniston-army-depot-pit-crew-american-warfighter",
+      "publishedAt": "2026-10-24T02:23:04Z"
+    },
     {
       "id": "8932b86f7111bdc1ee6e74b3",
       "title": "Division commander tours military construction projects in Southern Arizona",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577661/montana-national-guard-connects-educators-with-opportunities-youth-challenge-academy",
       "publishedAt": "2026-10-22T20:28:52Z"
-    },
-    {
-      "id": "c9edb0f56b83948d505ccac0",
-      "title": "The Beast meets the Bats: Iowa Airmen welcome Secret Service",
-      "summary": "Iowa Air National Guard Airmen assigned to the 185th Air Refueling Wing welcomed U.S. Secret Service personnel prior to a presidential visit to Sioux City, Iowa, Oct. 22, 2026.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577658/beast-meets-bats-iowa-airmen-welcome-secret-service",
-      "publishedAt": "2026-10-22T20:23:27Z"
     }
   ],
   "nextPage": "page-6.json"
