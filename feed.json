@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T19:43:17Z",
+  "generatedAt": "2026-11-02T00:47:39Z",
   "articles": [
+    {
+      "id": "132512bf9f0f39dc40fa4478",
+      "title": "A Legacy of Service: One Family's Generations of Military Honor",
+      "summary": "Not many people decide to join the military; less than 1% of the U.S. population currently serves. However, one family has uniquely dedicated their time to serving this country.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578384/legacy-service-one-familys-generations-military-honor",
+      "publishedAt": "2026-11-02T00:32:10Z"
+    },
+    {
+      "id": "56c1591e0a45d409c8f78a46",
+      "title": "Acting Army Secretary visits Arkansas to strengthen industrial base, forge strategic partnerships",
+      "summary": "Acting Secretary of the Army Adam Telle traveled to Arkansas, Oct. 29 to 30, to meet with leaders at Pine Bluff Arsenal, Walmart’s corporate headquarters, and the University of Arkansas.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578378/acting-army-secretary-visits-arkansas-strengthen-industrial-base-forge-strategic-partnerships",
+      "publishedAt": "2026-11-01T20:14:42Z"
+    },
     {
       "id": "ad6e2f0264dbf97deab743f4",
       "title": "Naval Hospital Rota Logistics Team Earns Top European Ranking",
@@ -28,6 +46,15 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578380/us-navy-assists-mariners-experiencing-engine-trouble-arabian-sea",
       "publishedAt": "2026-11-01T12:56:56Z"
+    },
+    {
+      "id": "e1ca3ed5faeee3016431f807",
+      "title": "Pentagon Warns Trump-Era Cuts Are Jeopardizing America’s Research — Defense Labs Lose 14% of Staff, Energy Department Sheds 1,000+ Scientists and 2,000 Biomedical Grants Delayed or Canceled, Raising “Potentially Grave Co",
+      "summary": "Pentagon Warns Trump-Era Cuts Are Jeopardizing America’s Research — Defense Labs Lose 14% of Staff, Energy Department Sheds 1,000+ Scientists and 2,000 Biomedical Grants Delayed or Canceled, Raising “Potentially Grave Consequences for the Fut NewsBreak: Local News & Alerts",
+      "category": "Defense",
+      "sourceName": "NewsBreak: Local News & Alerts",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivANBVV95cUxPS3g4SmVYMkU0bms4b3d5dl9GY3J3b3pYa25yMVplenE5QkxrWm9mOXBvZnZ0Z0p0bzVMSEJvbHBrcW85Q284X3ZtMGlIXzBwSjNMMUNkSXd5MWtxbGZGUWdXZXZ0cFFZNEhvdWVjYVR5ZTlwSmtJd0RyZGlCUl9kUFowT3FQT19Ga3FlQ3FFd2ZscXZwcmlQcjM4NEZFWjdqT1pmVWFOYjdsNUJZTkU1cjJ3NlZfaEthTkFSSnluVXZ5Z1E3d3pSYXV0aDRoS0ZVSU9VTEtTcWdkY3lRM2hTX0lFSUtUN25PRzhBX1g4V3V3QnVQWFBOc3puNmF0MER6bnZOT3dJY0l3S2N6Sjh5bnppRVNuMk5IQmpkR0JhWnBzbnd0VXcxbWM3czVNVDVValdBVDY0dFJSbjk1WnJaRnFOZ29wYkk1R3RsOTJXRUg0RXZmVnFhTV9rYW1IOEdXUU13QUNYTE5VbEFoN0xOYzV4c3R0cTlteXBEdVJNakVBRXdOR3NGa21TREMxeGtaZUx2NkpNMmxIVkItWEZHUFBOUlF4Q3dOYmdjV08wbkc2cVI5bGlHWGFyVjY?oc=5",
+      "publishedAt": "2026-11-01T10:07:11Z"
     },
     {
       "id": "3036767c279c2fc4d32ca95b",
@@ -334,33 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578241/signal-staff-turns-up-heat-with-chili-cook-off",
       "publishedAt": "2026-10-29T21:03:46Z"
-    },
-    {
-      "id": "5814434c7a484d0ae1a01e95",
-      "title": "Army Assistant Secretary Andersen calls on private capital to rebuild 'Arsenal of Democracy'",
-      "summary": "The U.S. Army is overhauling its Cold War-era funding framework to partner directly with private capital markets, Assistant Secretary of the Army for Financial Management & Comptroller Marc Andersen shared with an audience of founders, startups, subject-matter experts, vice chairs, private equity, defense primes, military leaders, policymakers…",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578243/army-assistant-secretary-andersen-calls-private-capital-rebuild-arsenal-democracy",
-      "publishedAt": "2026-10-29T21:01:39Z"
-    },
-    {
-      "id": "42001de0de5d534c31e85ed5",
-      "title": "Long Deployments to Be Navy Standard For Next Couple Years, MCPON, CNO Say",
-      "summary": "It will take a couple years before deployment lengths shift from the extended 10-11 months back to the normal seven, the Navy’s top enlisted sailor said Wednesday. As sailors deploy with carrier strike groups, they are being told to expect a deployment that is between 10-11 months, MCPON John Perryman said while speaking at the Navy Memorial.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/29/long-deployments-to-be-navy-standard-for-next-couple-years-mcpon-cno-say",
-      "publishedAt": "2026-10-29T20:41:01Z"
-    },
-    {
-      "id": "ffd5ff7eab87eb610625fa5e",
-      "title": "BS27-1: Defending the base at every level",
-      "summary": "KADENA AIR BASE, Japan — U.S. Air Force Airmen assigned to the 18th Wing were armed with M-4 carbine rifles and tasked to man defensive firing positions outside their work centers during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 28, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578233/bs27-1-defending-base-every-level",
-      "publishedAt": "2026-10-29T20:05:10Z"
     }
   ],
   "nextPage": "pages/page-2.json"

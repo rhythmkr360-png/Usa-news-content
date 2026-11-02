@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T19:43:17Z",
+  "generatedAt": "2026-11-02T00:47:39Z",
   "articles": [
+    {
+      "id": "556620a1e9c2e93a60f2b7fa",
+      "title": "Three U.S. Naval Research Laboratory Experts Receive Sigma Xi Chapter Awards",
+      "summary": "Three U.S. Naval Research Laboratory (NRL) experts received the 2025 NRL Edison Chapter of Sigma Xi awards during a ceremony April 9.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578100/three-us-naval-research-laboratory-experts-receive-sigma-xi-chapter-awards",
+      "publishedAt": "2026-10-28T17:43:22Z"
+    },
+    {
+      "id": "1fec9ae6dd946596273ab978",
+      "title": "Washington National Guard, Tribal Partners Strengthen Counter-UAS Readiness",
+      "summary": "Washington State Counterdrug and the 10th Civil Support Team conducted Tribal Counter-Unmanned Aircraft Systems Fundamentals and Mission Scenarios Training at Yakima Training Center, Wash., Oct. 20–21, 2026.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578097/washington-national-guard-tribal-partners-strengthen-counter-uas-readiness",
+      "publishedAt": "2026-10-28T17:22:48Z"
+    },
+    {
+      "id": "376ec4285b9683c6896533da",
+      "title": "Report to Congress on U.S. Military Operations Against Iran’s Missile, Nuclear Programs",
+      "summary": "The following is the Oct. 20, 2026, Congressional Research Service report, U.S. Military Operations Against Iran’s Missile and Nuclear Programs. From the Report On February 28, 2026, the United States and Israel launched military operations against Iran.",
+      "category": "Defense",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/28/report-to-congress-on-u-s-military-operations-against-irans-missile-nuclear-programs-2",
+      "publishedAt": "2026-10-28T13:47:47Z"
+    },
     {
       "id": "51333bb784a68115d1ae6ad5",
       "title": "Startup Biosphere wins Pentagon contract to scale up production of key chemicals",
@@ -334,33 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577943/bs27-1-18th-sfs-neutralizes-threat",
       "publishedAt": "2026-10-27T08:12:33Z"
-    },
-    {
-      "id": "2e65b5b409b44e4e0acd5b1b",
-      "title": "KS27: U.S. and Japanese Airmen build readiness through combined training",
-      "summary": "The 909th Air Refueling Squadron and 718th Expeditionary Aircraft Maintenance Squadron arrived at Komaki Air Base, Japan, for exercise Keen Sword 27, Oct. 16, 2026.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577942/ks27-us-and-japanese-airmen-build-readiness-through-combined-training",
-      "publishedAt": "2026-10-27T07:18:23Z"
-    },
-    {
-      "id": "992c0ec414e9e92bd0d2acbe",
-      "title": "U.S. Navy submarine arrives in Western Australia for Scheduled Maintenance Period in support of AUKUS",
-      "summary": "HMAS STIRLING, Australia — The Virginia-class fast-attack submarine USS Colorado (SSN 788) arrived at HMAS Stirling today to begin a scheduled, monthlong maintenance period.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577941/us-navy-submarine-arrives-western-australia-scheduled-maintenance-period-support-aukus",
-      "publishedAt": "2026-10-27T06:39:06Z"
-    },
-    {
-      "id": "ea916f2cbd46525a222cdbd3",
-      "title": "Keen Sword 27 Week One: Japanese, U.S., and Partners Train on Anti-Ship Operations, Aircraft Maintenance, Drones, Mass Casualty Care, and Airfield Damage Repair",
-      "summary": "Security forces from Japan, the United States, Australia, Canada, France, Germany, the Philippines, and New Zealand have been participating in the Keen Sword 27 in Japan for the past week.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577936/keen-sword-27-week-one-japanese-us-and-partners-train-anti-ship-operations-aircraft-maintenance-drones-mass-casualty-care",
-      "publishedAt": "2026-10-27T06:09:05Z"
     }
   ],
   "nextPage": "page-4.json"

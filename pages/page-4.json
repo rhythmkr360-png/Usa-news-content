@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T19:43:17Z",
+  "generatedAt": "2026-11-02T00:47:39Z",
   "articles": [
+    {
+      "id": "2e65b5b409b44e4e0acd5b1b",
+      "title": "KS27: U.S. and Japanese Airmen build readiness through combined training",
+      "summary": "The 909th Air Refueling Squadron and 718th Expeditionary Aircraft Maintenance Squadron arrived at Komaki Air Base, Japan, for exercise Keen Sword 27, Oct. 16, 2026.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577942/ks27-us-and-japanese-airmen-build-readiness-through-combined-training",
+      "publishedAt": "2026-10-27T07:18:23Z"
+    },
+    {
+      "id": "992c0ec414e9e92bd0d2acbe",
+      "title": "U.S. Navy submarine arrives in Western Australia for Scheduled Maintenance Period in support of AUKUS",
+      "summary": "HMAS STIRLING, Australia — The Virginia-class fast-attack submarine USS Colorado (SSN 788) arrived at HMAS Stirling today to begin a scheduled, monthlong maintenance period.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577941/us-navy-submarine-arrives-western-australia-scheduled-maintenance-period-support-aukus",
+      "publishedAt": "2026-10-27T06:39:06Z"
+    },
+    {
+      "id": "ea916f2cbd46525a222cdbd3",
+      "title": "Keen Sword 27 Week One: Japanese, U.S., and Partners Train on Anti-Ship Operations, Aircraft Maintenance, Drones, Mass Casualty Care, and Airfield Damage Repair",
+      "summary": "Security forces from Japan, the United States, Australia, Canada, France, Germany, the Philippines, and New Zealand have been participating in the Keen Sword 27 in Japan for the past week.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577936/keen-sword-27-week-one-japanese-us-and-partners-train-anti-ship-operations-aircraft-maintenance-drones-mass-casualty-care",
+      "publishedAt": "2026-10-27T06:09:05Z"
+    },
     {
       "id": "e7a9da44d09dbaa60084bc89",
       "title": "Faces of Keen Sword 27 - Head of German DMBV",
@@ -334,33 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577796/121-arw-runs-ramp",
       "publishedAt": "2026-10-25T17:09:08Z"
-    },
-    {
-      "id": "22f0a3a8c98bd4d3b4403603",
-      "title": "West Point to Host Veterans Day Broadcasts and Army-Air Force Weekend Events",
-      "summary": "The U.S. Military Academy at West Point is proud to host a series of athletic competitions and national sports broadcasts Nov. 7–8, including FOX Sports Veterans Day Salute to Service programming and the annual Army–Air Force football game at Michie Stadium.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577800/west-point-host-veterans-day-broadcasts-and-army-air-force-weekend-events",
-      "publishedAt": "2026-10-25T16:47:48Z"
-    },
-    {
-      "id": "9ef4f28a9646776e4bb92bdf",
-      "title": "Japan, Philippine and U.S. forces conduct multilateral Maritime Cooperative Activity",
-      "summary": "The Armed Forces of the Philippines, Japan Maritime Self-Defense Force, and U.S. Coast Guard conducted a multilateral Maritime Cooperative Activity (MCA) within the Philippine Exclusive Economic Zone, Oct. 24, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577794/japan-philippine-and-us-forces-conduct-multilateral-maritime-cooperative-activity",
-      "publishedAt": "2026-10-25T02:06:07Z"
-    },
-    {
-      "id": "2ee1d1c6b77fd0e8c155972f",
-      "title": "USACE Completes Temporary Power Mission on Rota, Supports Recovery After Super Typhoon Bavi",
-      "summary": "The U.S. Army Corps of Engineers completed its temporary emergency power mission on Rota following Super Typhoon Bavi. Through a FEMA mission assignment, USACE completed 54 generator assessments, installed 43 generators and finished deinstalling temporary equipment as it was no longer needed.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577792/usace-completes-temporary-power-mission-rota-supports-recovery-after-super-typhoon-bavi",
-      "publishedAt": "2026-10-24T22:49:46Z"
     }
   ],
   "nextPage": "page-5.json"
