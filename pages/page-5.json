@@ -1,7 +1,106 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T11:16:37Z",
+  "generatedAt": "2026-11-02T21:43:52Z",
   "articles": [
+    {
+      "id": "bfb37cf7f3011ef1f09b2331",
+      "title": "U.S. Civil Affairs Soldiers build NATO partnerships at Estonian shooting competition",
+      "summary": "Two U.S. Army Civil Affairs Soldiers competed alongside service members from Estonia, the United Kingdom and France during the Estonian Defence Forces Shooting Competition 2026 in Harju County, Estonia, from Oct. 21-22.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577863/us-civil-affairs-soldiers-build-nato-partnerships-estonian-shooting-competition",
+      "publishedAt": "2026-10-26T10:12:31Z"
+    },
+    {
+      "id": "f157355313b04586ec41fb2e",
+      "title": "BS27-1: MAD for Military Assisted Departure",
+      "summary": "U.S. Air Force Airmen assigned to the 718th Force Support Squadron worked in conjunction with various units across the 18th Wing and joint services to coordinate a military assisted departure during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 26, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577858/bs27-1-mad-military-assisted-departure",
+      "publishedAt": "2026-10-26T09:25:13Z"
+    },
+    {
+      "id": "82692208ac588ba707da3e43",
+      "title": "BS27-1: Ready to defend",
+      "summary": "KADENA AIR BASE, Japan – U.S. Air Force Airmen assigned to the 18th Logistics Readiness Squadron issued weapons to personnel participating in Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 26, 2026. The weapons issue prepares Airmen to respond to simulated threats and operate in a contingency environment.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577861/bs27-1-ready-defend",
+      "publishedAt": "2026-10-26T09:23:48Z"
+    },
+    {
+      "id": "293d130526636e5169abb676",
+      "title": "BS27-1: 18th SFS neutralizes the threat",
+      "summary": "When shots are fired, 18th Security Forces Squadron rushes toward the source. U.S. Air Force Airmen assigned to the 18th SFS responded to a simulated ground attack during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 26, 2026, neutralizing two simulated attackers and testing their ability to respond to evolving threats.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577857/bs27-1-18th-sfs-neutralizes-threat",
+      "publishedAt": "2026-10-26T08:21:54Z"
+    },
+    {
+      "id": "154955082f9de8db7fd738dd",
+      "title": "U.S., Japanese forces exercise rapid airfield damage repair during Keen Sword 27",
+      "summary": "During Exercise Keen Sword 27, U.S. Air Force Airmen, Japan Air Self-Defense Force airmen, and Japan Ground Self-Defense Force soldiers conducted bilateral rapid airfield damage repair training at Misawa Air Base, Japan, Oct.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577854/us-japanese-forces-exercise-rapid-airfield-damage-repair-during-keen-sword-27",
+      "publishedAt": "2026-10-26T07:21:25Z"
+    },
+    {
+      "id": "8831989b6676151fa769de50",
+      "title": "Faces of Keen Sword 27 - Cpt. Yuki Sato",
+      "summary": "Japan Air Self-Defense Force Cpt. Yuki Sato, a Kawasaki C-2 Pilot assigned to the 402nd Tactical Airlift Squadron at Iruma Air Base, Japan poses for a feature photo for a Faces of Keen Sword feature story.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577853/faces-keen-sword-27-cpt-yuki-sato",
+      "publishedAt": "2026-10-26T06:50:04Z"
+    },
+    {
+      "id": "601640872811009fc5d0283b",
+      "title": "Faces of Keen Sword 27 - Joshua Dilone",
+      "summary": "U.S. Navy Petty Officer 2nd Class Joshua Dilone, an operational specialist, shares information on his job duties and his experiences in Keen Sword 27. Keen Sword is a multilateral exercise dedicated to preserving peace and stability in the region, and strengthening the ironclad alliance between the U.S. and Japan.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577852/faces-keen-sword-27-joshua-dilone",
+      "publishedAt": "2026-10-26T06:49:25Z"
+    },
+    {
+      "id": "8a5d6fcffd6aefb2a7166c5f",
+      "title": "U.S., Japan merge real and virtual skies during KS27",
+      "summary": "High above the Japanese coastline, a Japan Air Self-Defense Force F-35 Lightning II carves through the clouds, its pilot scanning the radar for simulated adversary aircraft. Miles away at Misawa Air Base, Japan, U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577811/us-japan-merge-real-and-virtual-skies-during-ks27",
+      "publishedAt": "2026-10-26T00:10:56Z"
+    },
+    {
+      "id": "2cf33fed6ae93c610684de8f",
+      "title": "U.S. Army and NATO Partners Rehearse War Strategies",
+      "summary": "In Wiesbaden, the U.S. Army and its NATO partners are rehearsing a real-world emergency scenario. A simulated attack on NATO’s eastern flank is designed to test the alliance’s defensive capabilities.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577804/us-army-and-nato-partners-rehearse-war-strategies",
+      "publishedAt": "2026-10-25T23:08:08Z"
+    },
+    {
+      "id": "f82674c257c68727930e7681",
+      "title": "Ballenger Honored, Deal Introduced as Newest Georgia Army National Guard State Command Sgt. Maj.",
+      "summary": "U.S. Army Command Sergeant Major John Ballenger transitions into retirement and passes the torch to U.S. Army Command Sergeant Major Lafayette Deal as the incoming Georgia Army National Guard Command Sergeant Major.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577807/ballenger-honored-deal-introduced-newest-georgia-army-national-guard-state-command-sgt-maj",
+      "publishedAt": "2026-10-25T22:19:11Z"
+    },
+    {
+      "id": "d30e1f8ffb6b9976ea65ac82",
+      "title": "NATO FLF Battle Group-Poland celebrates Romanian Armed Forces Day with sports competition",
+      "summary": "Romanian soldiers deployed with NATO’s Battle Group-Poland marked Romania’s Armed Forces Day with allied U.S., Croatian and British troops at Bemowo Piskie Training Area. A Romanian-led competition featured volleyball, indoor soccer and table tennis, giving soldiers a chance to build camaraderie beyond their regular duties.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577805/nato-flf-battle-group-poland-celebrates-romanian-armed-forces-day-with-sports-competition",
+      "publishedAt": "2026-10-25T21:19:00Z"
+    },
     {
       "id": "e71bb1712f6ebab4954d2950",
       "title": "FOX SPORTS TO HONOR U.S. MILITARY AND VETERANS DURING SPECIAL BROADCASTS AT THE U.S. NAVAL ACADEMY AND WEST POINT",
@@ -91,213 +190,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577768/division-commander-tours-military-construction-projects-southern-arizona",
       "publishedAt": "2026-10-23T22:40:59Z"
-    },
-    {
-      "id": "198b152f02db8f8a3cec129b",
-      "title": "Building the Force: Recruiting at the 163d Attack Wing",
-      "summary": "Recruiters are often the first point of contact for those considering military service. Through community outreach and school visits, California Air National Guard recruiters introduce prospective applicants to military career opportunities and the benefits of serving in the Guard.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577767/building-force-recruiting-163d-attack-wing",
-      "publishedAt": "2026-10-23T21:33:10Z"
-    },
-    {
-      "id": "3fb59f8473d4bea5ac825aa4",
-      "title": "US Army launches Project Gatekeeper to accelerate commercial software adoption, streamline cybersecurity accreditation",
-      "summary": "New DevSecOps sandbox slashes accreditation timelines, lowers barriers for industry and delivers secure software to warfighters at mission speed.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577765/us-army-launches-project-gatekeeper-accelerate-commercial-software-adoption-streamline-cybersecurity-accreditation",
-      "publishedAt": "2026-10-23T21:28:28Z"
-    },
-    {
-      "id": "372e2e7bc3df619b9f81ef29",
-      "title": "Kentucky adjutant general briefs legislative committee on state of the Guard",
-      "summary": "Maj. Gen. Haldane B. Lamberton, Kentucky’s adjutant general, briefed the Interim Joint Committee on Veterans, Military Affairs, and Public Protection (VMAPP) on the state of the Kentucky National Guard during a session at the Capitol Annex in Frankfort, Oct. 21, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577752/kentucky-adjutant-general-briefs-legislative-committee-state-guard",
-      "publishedAt": "2026-10-23T21:00:39Z"
-    },
-    {
-      "id": "2b85ac64ef5c03b87a1b4887",
-      "title": "Army Corps-Galveston hosts Orange Co Project public open house, seeks community input on Draft SEIS",
-      "summary": "The U.S. Army Corps of Engineers Galveston District hosted a public open house Oct. 20, 2026, in Bridge City, Texas, to present proposed modifications to the Sabine Pass to Galveston Bay Orange County Project and its Draft Supplemental Environmental Impact Statement (SEIS).",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577754/army-corps-galveston-hosts-orange-co-project-public-open-house-seeks-community-input-draft-seis",
-      "publishedAt": "2026-10-23T20:02:24Z"
-    },
-    {
-      "id": "25b56cbd40e2b4943cc182c2",
-      "title": "USS McFaul (DDG 74) Returns to Norfolk Following Deployment",
-      "summary": "NAVAL STATION NORFOLK, Va. – The Arleigh Burke-class guided-missile destroyer USS McFaul (DDG 74) returned to Naval Station Norfolk, Oct. 23, 2026, concluding an 11-month deployment to the U.S. 5th and 6th Fleet areas of operation.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577757/uss-mcfaul-ddg-74-returns-norfolk-following-deployment",
-      "publishedAt": "2026-10-23T19:53:29Z"
-    },
-    {
-      "id": "cd54d4efa8d3cdbe9c182059",
-      "title": "US military needs ‘urgent revolutionary institutional change’ to prepare for modern war, Petraeus says",
-      "summary": "Ret. Army Gen. David Petraeus praised the Pentagon’s new Autonomous Warfare Command but said the U.S. must rapidly prepare for modern autonomous war.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/23/us-military-needs-urgent-revolutionary-institutional-change-to-prepare-for-modern-war-petraeus-says/",
-      "publishedAt": "2026-10-23T19:39:05Z"
-    },
-    {
-      "id": "921ad22c9140aab9b4d6b404",
-      "title": "MRF-D 26 concludes 15th rotation as the first certified Special Purpose Marine Air-Ground Task Force",
-      "summary": "Approximately 2,000 U.S. Marines and Sailors assigned to Marine Rotational Force – Darwin 26 concluded a historic deployment across Australia and the Indo-Pacific, marking the program’s 15th rotation and the first time the rotational force earned certification as a Special Purpose Marine Air-Ground Task Force.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577738/mrf-d-26-concludes-15th-rotation-first-certified-special-purpose-marine-air-ground-task-force",
-      "publishedAt": "2026-10-23T19:19:14Z"
-    },
-    {
-      "id": "6fb6f45fb5dd86b1640b279a",
-      "title": "USNI News Western Pacific Pulse: Oct. 23, 2026",
-      "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In the Philippine Sea The Theodore Roosevelt Carrier Strike Group was in the Philippine Sea as of Wednesday as part of U.S.-Japan Exercise Keen Sword 27.",
-      "category": "Defense",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/23/usni-news-western-pacific-pulse-oct-23-2026",
-      "publishedAt": "2026-10-23T19:15:43Z"
-    },
-    {
-      "id": "318fe96713b587a9284595b0",
-      "title": "AMC Command Team Visits Little Rock, Focuses on the Future of Mobility",
-      "summary": "U.S. Air Force Lt. Gen. Dan Tulley, commander of Air Mobility Command, his wife Holly Tulley, and Chief Master Sgt. Raun Howell, AMC command chief, engaged with Airmen and saw firsthand how Team Little Rock is preparing for future mobility operations at Little Rock Air Force Base, Arkansas, Oct. 21, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577750/amc-command-team-visits-little-rock-focuses-future-mobility",
-      "publishedAt": "2026-10-23T19:01:24Z"
-    },
-    {
-      "id": "f4e9f8ed1e7ec4abfe65eeb1",
-      "title": "Fort Buchanan strengthens ties with Puerto Rico businesses during APEX Day 2026",
-      "summary": "U.S. Army Garrison Fort Buchanan strengthened its connection with Puerto Rico’s business community and expanded awareness of federal contracting opportunities during APEX Day 2026: Strategic Connections with Federal Buyers, held Oct. 23 at the Center for Entrepreneurship in Hato Rey.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577748/fort-buchanan-strengthens-ties-with-puerto-rico-businesses-during-apex-day-2026",
-      "publishedAt": "2026-10-23T18:58:52Z"
-    },
-    {
-      "id": "fe64c9283525f283f882a596",
-      "title": "USACE Philadelphia District honors historic dredge McFarland",
-      "summary": "PHILADELPHIA — The U.S. Army Corps of Engineers Philadelphia District honored the Dredge McFarland during a farewell ceremony Oct. 23 at Fort Mifflin, marking the completion of the vessel’s final operational mission after nearly six decades of service.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577741/usace-philadelphia-district-honors-historic-dredge-mcfarland",
-      "publishedAt": "2026-10-23T18:44:12Z"
-    },
-    {
-      "id": "8c5966951885318d1b3b113a",
-      "title": "Fryar Fieldhouse Opens at Fort Wainwright",
-      "summary": "U.S. Army Garrison Alaska opened the 72,500-square-foot Fryar Fieldhouse at Fort Wainwright on Oct. 5, 2026. The facility features an elevated running track, 21,000-square-foot turf field and fitness areas, providing year-round indoor training and recreation for Soldiers, families and authorized patrons. Named for Medal of Honor recipient Pvt.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577736/fryar-fieldhouse-opens-fort-wainwright",
-      "publishedAt": "2026-10-23T18:22:46Z"
-    },
-    {
-      "id": "12656059f1b2cc2510d30a9a",
-      "title": "La. Guard appoints ninth command chief warrant officer",
-      "summary": "NEW ORLEANS – Chief Warrant Officer 5 Dale Poe became the Louisiana National Guard’s ninth command chief warrant officer during a change of responsibility ceremony at Jackson Barracks in New Orleans, Oct. 18.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577720/la-guard-appoints-ninth-command-chief-warrant-officer",
-      "publishedAt": "2026-10-23T16:25:47Z"
-    },
-    {
-      "id": "32b2fed9cd6ee3b8a2861df9",
-      "title": "‘The West can’t stop me’: Space wars heat up as Russia tails a Ukraine-linked US satellite",
-      "summary": "Washington blamed Moscow for deliberately moving a Russian military satellite with an undisclosed mission close last week to a U.S.-registered satellite.",
-      "category": "Space Force",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/space/2026/10/23/the-west-cant-stop-me-space-wars-heat-up-as-russia-tails-a-ukraine-linked-us-satellite/",
-      "publishedAt": "2026-10-23T15:48:02Z"
-    },
-    {
-      "id": "bebe4c940f51df9e2ce781a7",
-      "title": "Peterson Space Force Base Airman receives Department of War Spirit of Hope Award",
-      "summary": "– Established in honor of legendary entertainer Bob Hope, the Spirit of Hope Award is one of the military's most prestigious honors. This award is presented to individuals and organizations who epitomize the core values of service, standing as a testament to the bond between the American public and its service members. Tech. Sgt. Michael D.",
-      "category": "Space Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577715/peterson-space-force-base-airman-receives-department-war-spirit-hope-award",
-      "publishedAt": "2026-10-23T15:46:11Z"
-    },
-    {
-      "id": "e50d6b6e9bf87657af12a86c",
-      "title": "Lost in 1950, Korean War Soldier to be Laid to Rest in Illinois",
-      "summary": "The remains of U.S. Army Pfc. John R. Stovall, 22, who was killed during the Korean War, will be interred at Mount Hope Cemetery in Belleville, Illinois. Services and interment are being coordinated by Kassly Funeral Home.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577710/lost-1950-korean-war-soldier-laid-rest-illinois",
-      "publishedAt": "2026-10-23T15:32:15Z"
-    },
-    {
-      "id": "515863d15af3c5d9928a348d",
-      "title": "Army Activates Air Defense Guam Battalion Focused on Chinese, North Korean Threats",
-      "summary": "The U.S. Army’s recently activated a Guam-based air defense battalion meant to protect the island from increasingly advanced air and missile threats fielded by China and North Korea. The 3rd Battalion, 43rd Air Defense Artillery Regiment, activated on Oct. 16, will inherit the defense of Guam responsibilities of Task Force Talon.",
-      "category": "Army",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/23/army-activates-air-defense-guam-battalion-focused-on-chinese-north-korean-threats",
-      "publishedAt": "2026-10-23T15:13:35Z"
-    },
-    {
-      "id": "a90315915c55076fb60e5d81",
-      "title": "US Air Force wants AI to assist aerial refueling",
-      "summary": "The goal is for AI to automatically analyze refueling operations from cameras mounted on the tankers and provide “hot wash” feedback to the tanker crews.",
-      "category": "Air Force",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling/",
-      "publishedAt": "2026-10-23T14:29:17Z"
-    },
-    {
-      "id": "e27d4e7fcab59c57761f0397",
-      "title": "AMC honors 10 civilian and military personnel driving workplace excellence",
-      "summary": "The U.S. Army Materiel Command has announced its third quarter, fiscal year 2026 Employees of the Quarter, honoring 10 exceptional civilian and military personnel. These awards recognize outstanding individual contributions that directly drive workplace productivity, employee retention, and overall mission readiness across the enterprise.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577703/amc-honors-10-civilian-and-military-personnel-driving-workplace-excellence",
-      "publishedAt": "2026-10-23T14:26:59Z"
-    },
-    {
-      "id": "f186fca8c135483984170154",
-      "title": "From Arrest to Advocacy: Aberdeen Proving Ground Employee Shares Journey to Recovery",
-      "summary": "For Michelle Twist, a U.S. Army Garrison Aberdeen Proving Ground employee, that moment came in 2015. As the Army observes Substance Abuse Awareness Month, Twist is sharing her personal story of overcoming opioid addiction to inspire others to seek the help they need before a crisis.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577704/arrest-advocacy-aberdeen-proving-ground-employee-shares-journey-recovery",
-      "publishedAt": "2026-10-23T14:21:15Z"
-    },
-    {
-      "id": "63a3c128cd923495c1875adc",
-      "title": "White House military spouse council floats toll cuts for troops commuting to base",
-      "summary": "The council said recent toll cuts at MacDill Air Force Base in Tampa, Florida, should be used as a “template” for other bases across the U.S. The post White House military spouse council floats toll cuts for troops commuting to base appeared first on Task & Purpose .",
-      "category": "Defense",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/military-spouse-toll-cuts-troops/",
-      "publishedAt": "2026-10-23T14:08:22Z"
-    },
-    {
-      "id": "4d60b5a1f48504716548071e",
-      "title": "U.S. Pacific Command deputy commander visits Japan, highlights combined readiness",
-      "summary": "The deputy commander of U.S. Pacific Command visited Japan to commence Exercise Keen Sword 2027 and meet with senior military and government leaders, Oct. 18-21.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577698/us-pacific-command-deputy-commander-visits-japan-highlights-combined-readiness",
-      "publishedAt": "2026-10-23T12:58:27Z"
-    },
-    {
-      "id": "ec062f45d064d7e601f31860",
-      "title": "NCNG 2-120th Infantry Regiment Re-activates",
-      "summary": "LENOIR, N.C. — For the first time in two decades, the North Carolina National Guard 2nd Battalion, 120th Infantry Regiment, 30th Mobile Brigade Combat Team unraveled their colors as the unit was officially re-activated during a ceremony, here on Oct. 18th, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577694/ncng-2-120th-infantry-regiment-re-activates",
-      "publishedAt": "2026-10-23T12:58:19Z"
     }
   ]
 }
