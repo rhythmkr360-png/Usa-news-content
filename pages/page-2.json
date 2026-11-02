@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T00:47:39Z",
+  "generatedAt": "2026-11-02T11:16:37Z",
   "articles": [
+    {
+      "id": "b594d798d61534187f46a3b6",
+      "title": "Hasty US exit from Europe could drive allies away from American arms, RAND says",
+      "summary": "A rapid, uncoordinated U.S. military drawdown from Europe could push key NATO allies further away from American weapons, a RAND study found.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/29/hasty-us-exit-from-europe-could-drive-allies-away-from-american-arms-rand-says/",
+      "publishedAt": "2026-10-29T22:25:13Z"
+    },
+    {
+      "id": "67579ea660f3de7de49c42e0",
+      "title": "Jaelen Johnston reflects on performance at Friday on the Frontier",
+      "summary": "As the sun set on the flight line, Jaelen Johnston, local country music artist, performed a free concert for Airmen and their families during Friday on the Frontier, Oct. 23. Johnston is no stranger to McConnell. He was born in Derby and also worked in construction for the Air National Guard 184th Wing before beginning his music career.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578249/jaelen-johnston-reflects-performance-friday-frontier",
+      "publishedAt": "2026-10-29T22:08:22Z"
+    },
+    {
+      "id": "c615a59b45e00445b45d5723",
+      "title": "Signal staff turns up the heat with chili cook-off",
+      "summary": "The U.S. Army Signal School hosted its 5th Annual Chili Cook-Off, building on camaraderie and friendly competition.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578241/signal-staff-turns-up-heat-with-chili-cook-off",
+      "publishedAt": "2026-10-29T21:03:46Z"
+    },
     {
       "id": "5814434c7a484d0ae1a01e95",
       "title": "Army Assistant Secretary Andersen calls on private capital to rebuild 'Arsenal of Democracy'",
@@ -334,33 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578107/religious-ministry-team-leverages-spiritual-readiness-data-strengthen-warfighter-resilience",
       "publishedAt": "2026-10-28T18:34:47Z"
-    },
-    {
-      "id": "ac1d509e748d5c3700266f53",
-      "title": "NORAD ENFORCEMENT OF TEMPORARY FLIGHT RESTRICTION AIRSPACE ANNOUNCED OVER MULTIPLE AREAS THIS WEEK",
-      "summary": "Fighter jets from the North American Aerospace Defense Command (NORAD) will enforce the Federal Aviation Administration (FAA) VIP Temporary Flight Restriction (TFR) areas established this week, October 29-30, 2026, over Charlotte, North Carolina; Rock Hill, South Carolina; and Daytona Beach, Florida.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578106/norad-enforcement-temporary-flight-restriction-airspace-announced-over-multiple-areas-week",
-      "publishedAt": "2026-10-28T18:24:02Z"
-    },
-    {
-      "id": "25a943e88502e1a6f0428265",
-      "title": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate",
-      "summary": "The U.S. military has spent over $47 billion so far to prosecute the war in Iran, more than 25% higher than the Defense Department's estimate in July.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/28/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate/",
-      "publishedAt": "2026-10-28T18:10:50Z"
-    },
-    {
-      "id": "a2fa07de6e9b682d350fcc1d",
-      "title": "U.S. Marines Deploy Neros Archer Drone in Camp Fuji Exercise",
-      "summary": "The U.S. Marine Corps recently used the Neros Archer First Person View drone in a live-fire exercise at Camp Fuji, Japan, for the first time, the service announced. Marines of Battalion Landing Team 1/1, 31st Marine Expeditionary Unit (MEU) carried out two strike missions on Oct.",
-      "category": "Marine Corps",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/28/u-s-marines-deploy-neros-archer-drone-in-camp-fuji-exercise",
-      "publishedAt": "2026-10-28T17:51:21Z"
     }
   ],
   "nextPage": "page-3.json"

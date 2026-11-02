@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T00:47:39Z",
+  "generatedAt": "2026-11-02T11:16:37Z",
   "articles": [
+    {
+      "id": "ac1d509e748d5c3700266f53",
+      "title": "NORAD ENFORCEMENT OF TEMPORARY FLIGHT RESTRICTION AIRSPACE ANNOUNCED OVER MULTIPLE AREAS THIS WEEK",
+      "summary": "Fighter jets from the North American Aerospace Defense Command (NORAD) will enforce the Federal Aviation Administration (FAA) VIP Temporary Flight Restriction (TFR) areas established this week, October 29-30, 2026, over Charlotte, North Carolina; Rock Hill, South Carolina; and Daytona Beach, Florida.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578106/norad-enforcement-temporary-flight-restriction-airspace-announced-over-multiple-areas-week",
+      "publishedAt": "2026-10-28T18:24:02Z"
+    },
+    {
+      "id": "25a943e88502e1a6f0428265",
+      "title": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate",
+      "summary": "The U.S. military has spent over $47 billion so far to prosecute the war in Iran, more than 25% higher than the Defense Department's estimate in July.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/28/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate/",
+      "publishedAt": "2026-10-28T18:10:50Z"
+    },
+    {
+      "id": "a2fa07de6e9b682d350fcc1d",
+      "title": "U.S. Marines Deploy Neros Archer Drone in Camp Fuji Exercise",
+      "summary": "The U.S. Marine Corps recently used the Neros Archer First Person View drone in a live-fire exercise at Camp Fuji, Japan, for the first time, the service announced. Marines of Battalion Landing Team 1/1, 31st Marine Expeditionary Unit (MEU) carried out two strike missions on Oct.",
+      "category": "Marine Corps",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/28/u-s-marines-deploy-neros-archer-drone-in-camp-fuji-exercise",
+      "publishedAt": "2026-10-28T17:51:21Z"
+    },
     {
       "id": "556620a1e9c2e93a60f2b7fa",
       "title": "Three U.S. Naval Research Laboratory Experts Receive Sigma Xi Chapter Awards",
@@ -334,33 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577954/us-naval-war-college-commemorates-80th-anniversary-uss-missouri-battleship-visit-istanbul",
       "publishedAt": "2026-10-27T13:50:45Z"
-    },
-    {
-      "id": "ff6f41aa32fdc0b831cd4087",
-      "title": "USAF should buy newly designed air refuelers to meet China threat: Report",
-      "summary": "Although there’s a “temptation” to keep buying KC-46s, a plan to procure 75 more of the Boeing-made tankers should be an “upper limit” followed by a new, longer range tanker, the Hudson Institute’s Timothy Walton told Breaking Defense.",
-      "category": "Air Force",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/usaf-should-buy-newly-designed-air-refuelers-to-meet-china-threat-report/",
-      "publishedAt": "2026-10-27T12:00:00Z"
-    },
-    {
-      "id": "d5a81d52e5687a3586159a64",
-      "title": "BS27-1: Rapid repairs, ready runways",
-      "summary": "KADENA AIR BASE, Japan -- U.S. Air Force Airmen assigned to the 18th Civil Engineer Squadron and 718th Civil Engineer Squadron practiced repairing simulated airfield damage during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 27, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577945/bs27-1-rapid-repairs-ready-runways",
-      "publishedAt": "2026-10-27T09:49:23Z"
-    },
-    {
-      "id": "3e6c4a2c81634d9f4da78181",
-      "title": "BS27-1: 18th SFS neutralizes the threat",
-      "summary": "When shots are fired, 18th Security Forces Squadron rushes toward the source. U.S. Air Force Airmen assigned to the 18th SFS responded to a simulated ground attack during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 26, 2026, neutralizing two simulated attackers and testing their ability to respond to evolving threats.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577943/bs27-1-18th-sfs-neutralizes-threat",
-      "publishedAt": "2026-10-27T08:12:33Z"
     }
   ],
   "nextPage": "page-4.json"

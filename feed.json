@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T00:47:39Z",
+  "generatedAt": "2026-11-02T11:16:37Z",
   "articles": [
+    {
+      "id": "271ed782c0819de27ed8b018",
+      "title": "U.S. Africa Command leadership attends AFRIDEX in Lagos",
+      "summary": "U.S. Africa Command leadership attended the Africa International Defence Exhibition (AFRIDEX) in Lagos, Nigeria Oct. 26–27, 2026 to collaborate with African defense leaders and global partners to advance cooperation across Africa.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578388/us-africa-command-leadership-attends-afridex-lagos",
+      "publishedAt": "2026-11-02T08:14:57Z"
+    },
+    {
+      "id": "b734bbab344a479ea56c1d71",
+      "title": "Exercise Tiger Triumph 2026 Commences in Visakhapatnam to Enhance U.S.-India Combined Interoperability",
+      "summary": "VISAKHAPATNAM, India – Service members from the United States and Indian Armed Forces officially commenced Exercise Tiger Triumph 2026 with an opening ceremony in Visakhapatnam, India, on Nov. 2, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578387/exercise-tiger-triumph-2026-commences-visakhapatnam-enhance-us-india-combined-interoperability",
+      "publishedAt": "2026-11-02T05:58:29Z"
+    },
+    {
+      "id": "3f6c2b82afbbc2c4c30e722f",
+      "title": "Tropic Lightning, Joint Partners Set the Theater for JPMRC 27-01",
+      "summary": "SCHOFIELD BARRACKS, Hawaii – Combat credibility begins long before the first round is fired. It starts with disciplined preparation, setting the theater, and establishing the lines of communication necessary to fight and win in a complex archipelagic environment. The division-level Combined Arms Rehearsal on Nov. 1, brought U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578385/tropic-lightning-joint-partners-set-theater-jpmrc-27-01",
+      "publishedAt": "2026-11-02T03:38:48Z"
+    },
     {
       "id": "132512bf9f0f39dc40fa4478",
       "title": "A Legacy of Service: One Family's Generations of Military Honor",
@@ -334,33 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578251/guardsman-scores-498-aft-outscores-team-college-athletes",
       "publishedAt": "2026-10-29T22:43:21Z"
-    },
-    {
-      "id": "b594d798d61534187f46a3b6",
-      "title": "Hasty US exit from Europe could drive allies away from American arms, RAND says",
-      "summary": "A rapid, uncoordinated U.S. military drawdown from Europe could push key NATO allies further away from American weapons, a RAND study found.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/29/hasty-us-exit-from-europe-could-drive-allies-away-from-american-arms-rand-says/",
-      "publishedAt": "2026-10-29T22:25:13Z"
-    },
-    {
-      "id": "67579ea660f3de7de49c42e0",
-      "title": "Jaelen Johnston reflects on performance at Friday on the Frontier",
-      "summary": "As the sun set on the flight line, Jaelen Johnston, local country music artist, performed a free concert for Airmen and their families during Friday on the Frontier, Oct. 23. Johnston is no stranger to McConnell. He was born in Derby and also worked in construction for the Air National Guard 184th Wing before beginning his music career.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578249/jaelen-johnston-reflects-performance-friday-frontier",
-      "publishedAt": "2026-10-29T22:08:22Z"
-    },
-    {
-      "id": "c615a59b45e00445b45d5723",
-      "title": "Signal staff turns up the heat with chili cook-off",
-      "summary": "The U.S. Army Signal School hosted its 5th Annual Chili Cook-Off, building on camaraderie and friendly competition.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578241/signal-staff-turns-up-heat-with-chili-cook-off",
-      "publishedAt": "2026-10-29T21:03:46Z"
     }
   ],
   "nextPage": "pages/page-2.json"
