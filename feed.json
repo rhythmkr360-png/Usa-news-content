@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T06:53:10Z",
+  "generatedAt": "2026-11-03T17:06:12Z",
   "articles": [
+    {
+      "id": "cc361992be1c78392d094aec",
+      "title": "Firearms Sentinel Training",
+      "summary": "ROME, N.Y. Eighty New York Air National Guard members from across the state’s six wings have completed Firearms Sentinel, an innovative course that integrates suicide prevention into standard firearm safety training.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578488/firearms-sentinel-training",
+      "publishedAt": "2026-11-03T17:01:08Z"
+    },
+    {
+      "id": "5daf9b4027dbc0201522d2d1",
+      "title": "Former Walter Reed American Red Cross volunteer joins U.S. Navy Nurse Corps",
+      "summary": "Inspired by her service as an American Red Cross (ARC) volunteer at Walter Reed National Military Medical Center (WRNMMC) and her family’s plight to the United States from Vietnam, Megan Do traded in her scarlet ARC vest for U.S. Navy whites and gold bars to become one of the U.S. Navy Nurse Corps’ newest nurses following her commissioning on Oct.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578500/former-walter-reed-american-red-cross-volunteer-joins-us-navy-nurse-corps",
+      "publishedAt": "2026-11-03T16:17:17Z"
+    },
+    {
+      "id": "ffe5e5a53e989aed8af25501",
+      "title": "Could the DC National Guard mission become the Army’s standard for quality of life?",
+      "summary": "There is an asterisk. This is a high-profile assignment with a budget to match that allows commanders the kind of flexibility to problem-solve that they rarely have in garrison. The post Could the DC National Guard mission become the Army’s standard for quality of life? appeared first on Task & Purpose .",
+      "category": "Army",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/opinion/quality-of-life-army-dc-national-guard-standard/",
+      "publishedAt": "2026-11-03T16:14:18Z"
+    },
+    {
+      "id": "d434a223b12376b2273db9be",
+      "title": "Lyster Lab Team Earns CAP Accreditation",
+      "summary": "FORT RUCKER, Ala. — The Lyster Army Health Clinic Laboratory has successfully achieved accreditation from the College of American Pathologists (CAP), demonstrating a continued commitment to clinical excellence and patient safety across the Fort Rucker military community.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578496/lyster-lab-team-earns-cap-accreditation",
+      "publishedAt": "2026-11-03T15:57:23Z"
+    },
+    {
+      "id": "3eca99cb02018489144c6405",
+      "title": "\"Plant The Promise\" Event held in Sussex County, NJ in Honor of Red Ribbon Week",
+      "summary": "In recognition of Red Ribbon Week, the Center for Prevention & Counseling (CPC) in Sussex County partnered with participating schools and the New Jersey National Guard Drug Demand Reduction Outreach section of the CounterDrug Task Force for the “Plant the Promise” activity.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578495/plant-promise-event-held-sussex-county-nj-honor-red-ribbon-week",
+      "publishedAt": "2026-11-03T15:40:25Z"
+    },
+    {
+      "id": "20817cd855ae1307a8b61339",
+      "title": "Former Army secretary Dan Driscoll heads to OpenAI",
+      "summary": "“I’m joining OpenAI to help the United States and our allies put this technology to work responsibly, for the people who keep us safe,” Dan Driscoll said in OpenAI’s announcement.",
+      "category": "Army",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/former-army-secretary-heads-to-openai/",
+      "publishedAt": "2026-11-03T15:25:12Z"
+    },
+    {
+      "id": "4c7e6a43fa1fbb4258f62bda",
+      "title": "The Congressional ‘right to repair’ solution needs some repairs itself",
+      "summary": "Better licensing and data management would do more for the Pentagon’s maintainers than sweeping new government rights to defense intellectual property, argues Elaine McCusker of AEI.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/the-congressional-right-to-repair-solution-needs-some-repairs-itself/",
+      "publishedAt": "2026-11-03T14:30:00Z"
+    },
+    {
+      "id": "5ab0bd24069ec690522d1f82",
+      "title": "USAG Japan trains alongside Sagamihara City partners to ensure community safety",
+      "summary": "SAGAMIHARA, Japan — Firefighters from U.S. Army Garrison Japan participated in the annual Comprehensive Disaster Preparedness Drill Oct. 25 at a joint-use area here near Sagami General Depot.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578478/usag-japan-trains-alongside-sagamihara-city-partners-ensure-community-safety",
+      "publishedAt": "2026-11-03T08:24:26Z"
+    },
     {
       "id": "3b0edbd7d94e78da87e8426b",
       "title": "Engineer Facilities Detachment Provide Rapid Assessments During CSTX",
@@ -289,78 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578355/pa-army-guard-csm-retires-after-39-years-military-service",
       "publishedAt": "2026-10-30T20:48:29Z"
-    },
-    {
-      "id": "f07cfb0c229d710c3f90343d",
-      "title": "USNI News Western Pacific Pulse: Oct. 30, 2026",
-      "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. Around Japan Aircraft carrier USS Theodore Roosevelt (CVN-71) conducted a passenger exchange on Monday with Royal Canadian Navy frigate HMCS Regina (FFH 334) during exercise Keen Sword 27 (KS27).",
-      "category": "Defense",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/30/usni-news-western-pacific-pulse-oct-30-2026",
-      "publishedAt": "2026-10-30T20:40:27Z"
-    },
-    {
-      "id": "d3f4ed1c4d020d3f4bcec3db",
-      "title": "JRTC and Fort Polk welcomes Brig. Gen. Matthew J. Hardman",
-      "summary": "FORT POLK, La. — The Joint Readiness Training Center and Fort Polk hosted a change of command ceremony Oct. 8 as Maj. Gen. Jason A. Curl passed the responsibility and leadership of the installation to Brig. Gen. Matthew J. Hardman. Maj. Gen. Colin P. Tuley, U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578347/jrtc-and-fort-polk-welcomes-brig-gen-matthew-j-hardman",
-      "publishedAt": "2026-10-30T19:29:26Z"
-    },
-    {
-      "id": "1c28f1ff255f6e90a7982db4",
-      "title": "2 airmen died in noncombat incidents while supporting Iran war operations",
-      "summary": "Two airmen died in non-hostile incidents in October, the Pentagon revealed late on Thursday. The post 2 airmen died in noncombat incidents while supporting Iran war operations appeared first on Task & Purpose .",
-      "category": "Air Force",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/iran-war-death-toll-23-air-force/",
-      "publishedAt": "2026-10-30T17:50:06Z"
-    },
-    {
-      "id": "326ef7c78e0ecef09239c5a2",
-      "title": "Pentagon reveals FY26 intelligence budget at $30.9 billion",
-      "summary": "Meanwhile, the National Intelligence Program budget was revealed at $78.1 billion.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/pentagon-reveals-fy26-intelligence-budget-at-30-9-billion/",
-      "publishedAt": "2026-10-30T17:28:09Z"
-    },
-    {
-      "id": "c4cc223da27ca13a2b7bc87b",
-      "title": "‘The combat capability we need’: Caine touts air reserve components at military, industry-centered gathering",
-      "summary": "More than 20 years after arriving at the Air National Guard Air Force Reserve Command Test Center, U.S. Air Force Gen.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578307/combat-capability-we-need-caine-touts-air-reserve-components-military-industry-centered-gathering",
-      "publishedAt": "2026-10-30T17:24:10Z"
-    },
-    {
-      "id": "a4353164bbbe43a94eeb6077",
-      "title": "Annual Kentucky Guard youth hunt teaches outdoor skills, gun safety",
-      "summary": "The Kentucky National Guard hosted its annual youth hunt Oct. 15-18, 2026, at Wendell H. Ford Regional Training Center in Greenville, Ky., providing military, foster and at-risk youth with hands-on instruction in firearm safety, hunting ethics and outdoor skills.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578326/annual-kentucky-guard-youth-hunt-teaches-outdoor-skills-gun-safety",
-      "publishedAt": "2026-10-30T17:19:19Z"
-    },
-    {
-      "id": "89b9aee17ed9529845f9d2fb",
-      "title": "From Fort to Port: 597th Transportation Brigade Synchronizes with Industry Partners at NDTA 2026",
-      "summary": "FORT EUSTIS, Va.— Senior leaders and logistics planners from the 597th Transportation Brigade, ARTRANS, took center stage as a primary operational benchmark during the 2026 National Defense Transportation Association (NDTA) and U.S. Transportation Command (USTRANSCOM) Fall Meeting, held Oct. 26-29 at the Gaylord Texan Resort in Grapevine, Texas.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578321/fort-port-597th-transportation-brigade-synchronizes-with-industry-partners-ndta-2026",
-      "publishedAt": "2026-10-30T16:18:57Z"
-    },
-    {
-      "id": "959b8e3cbf164f7a954f8707",
-      "title": "Pentagon eyes ‘public-private partnerships’ to help fund FORTRESS America homeland base plan",
-      "summary": "“The model that we’re trying to drive on is not me having to go back up on Capitol Hill with my hand out,” Assistant Secretary of Defense for Energy, Installations, and Environment Dale Marks told Breaking Defense.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/pentagon-eyes-public-private-partnerships-to-help-fund-fortress-america-homeland-base-plan/",
-      "publishedAt": "2026-10-30T15:35:59Z"
     }
   ],
   "nextPage": "pages/page-2.json"

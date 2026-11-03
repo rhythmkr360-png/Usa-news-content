@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T06:53:10Z",
+  "generatedAt": "2026-11-03T17:06:12Z",
   "articles": [
+    {
+      "id": "f07cfb0c229d710c3f90343d",
+      "title": "USNI News Western Pacific Pulse: Oct. 30, 2026",
+      "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. Around Japan Aircraft carrier USS Theodore Roosevelt (CVN-71) conducted a passenger exchange on Monday with Royal Canadian Navy frigate HMCS Regina (FFH 334) during exercise Keen Sword 27 (KS27).",
+      "category": "Defense",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/30/usni-news-western-pacific-pulse-oct-30-2026",
+      "publishedAt": "2026-10-30T20:40:27Z"
+    },
+    {
+      "id": "d3f4ed1c4d020d3f4bcec3db",
+      "title": "JRTC and Fort Polk welcomes Brig. Gen. Matthew J. Hardman",
+      "summary": "FORT POLK, La. — The Joint Readiness Training Center and Fort Polk hosted a change of command ceremony Oct. 8 as Maj. Gen. Jason A. Curl passed the responsibility and leadership of the installation to Brig. Gen. Matthew J. Hardman. Maj. Gen. Colin P. Tuley, U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578347/jrtc-and-fort-polk-welcomes-brig-gen-matthew-j-hardman",
+      "publishedAt": "2026-10-30T19:29:26Z"
+    },
+    {
+      "id": "1c28f1ff255f6e90a7982db4",
+      "title": "2 airmen died in noncombat incidents while supporting Iran war operations",
+      "summary": "Two airmen died in non-hostile incidents in October, the Pentagon revealed late on Thursday. The post 2 airmen died in noncombat incidents while supporting Iran war operations appeared first on Task & Purpose .",
+      "category": "Air Force",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/iran-war-death-toll-23-air-force/",
+      "publishedAt": "2026-10-30T17:50:06Z"
+    },
+    {
+      "id": "326ef7c78e0ecef09239c5a2",
+      "title": "Pentagon reveals FY26 intelligence budget at $30.9 billion",
+      "summary": "Meanwhile, the National Intelligence Program budget was revealed at $78.1 billion.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/10/pentagon-reveals-fy26-intelligence-budget-at-30-9-billion/",
+      "publishedAt": "2026-10-30T17:28:09Z"
+    },
+    {
+      "id": "c4cc223da27ca13a2b7bc87b",
+      "title": "‘The combat capability we need’: Caine touts air reserve components at military, industry-centered gathering",
+      "summary": "More than 20 years after arriving at the Air National Guard Air Force Reserve Command Test Center, U.S. Air Force Gen.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578307/combat-capability-we-need-caine-touts-air-reserve-components-military-industry-centered-gathering",
+      "publishedAt": "2026-10-30T17:24:10Z"
+    },
+    {
+      "id": "a4353164bbbe43a94eeb6077",
+      "title": "Annual Kentucky Guard youth hunt teaches outdoor skills, gun safety",
+      "summary": "The Kentucky National Guard hosted its annual youth hunt Oct. 15-18, 2026, at Wendell H. Ford Regional Training Center in Greenville, Ky., providing military, foster and at-risk youth with hands-on instruction in firearm safety, hunting ethics and outdoor skills.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578326/annual-kentucky-guard-youth-hunt-teaches-outdoor-skills-gun-safety",
+      "publishedAt": "2026-10-30T17:19:19Z"
+    },
+    {
+      "id": "89b9aee17ed9529845f9d2fb",
+      "title": "From Fort to Port: 597th Transportation Brigade Synchronizes with Industry Partners at NDTA 2026",
+      "summary": "FORT EUSTIS, Va.— Senior leaders and logistics planners from the 597th Transportation Brigade, ARTRANS, took center stage as a primary operational benchmark during the 2026 National Defense Transportation Association (NDTA) and U.S. Transportation Command (USTRANSCOM) Fall Meeting, held Oct. 26-29 at the Gaylord Texan Resort in Grapevine, Texas.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578321/fort-port-597th-transportation-brigade-synchronizes-with-industry-partners-ndta-2026",
+      "publishedAt": "2026-10-30T16:18:57Z"
+    },
+    {
+      "id": "959b8e3cbf164f7a954f8707",
+      "title": "Pentagon eyes ‘public-private partnerships’ to help fund FORTRESS America homeland base plan",
+      "summary": "“The model that we’re trying to drive on is not me having to go back up on Capitol Hill with my hand out,” Assistant Secretary of Defense for Energy, Installations, and Environment Dale Marks told Breaking Defense.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/10/pentagon-eyes-public-private-partnerships-to-help-fund-fortress-america-homeland-base-plan/",
+      "publishedAt": "2026-10-30T15:35:59Z"
+    },
     {
       "id": "d50edcd38c205a74f1960298",
       "title": "U.S. Navy launches Train-REX to address Fleet training gaps",
@@ -289,78 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578213/army-reserves-1st-brigade-78th-training-division-welcomes-new-commander",
       "publishedAt": "2026-10-29T18:27:12Z"
-    },
-    {
-      "id": "e35ebc65b4c5ae60b3a6fd26",
-      "title": "Naval Health Clinic New England Recognized for Support to DoD Global Respiratory Surveillance Program",
-      "summary": "Naval Health Clinic New England (NHCNE) was formally recognized for its significant contributions to the Department of Defense Global Respiratory Surveillance Program (DoDGRSP) during the 2025–26 respiratory season.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578205/naval-health-clinic-new-england-recognized-support-dod-global-respiratory-surveillance-program",
-      "publishedAt": "2026-10-29T18:07:18Z"
-    },
-    {
-      "id": "521486b61cc1e4b11b2ea6fc",
-      "title": "B4 it’s too late: TRAFC supports Operation Warm Heart",
-      "summary": "TRAVIS AIR FORCE BASE, Calif. -- The Travis Regional Armed Forces Committee hosted a commanders' visit at Jelly Belly in Fairfield, California, Oct. 20, 2026, in support of Operation Warm Heart.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578196/b4-its-too-late-trafc-supports-operation-warm-heart",
-      "publishedAt": "2026-10-29T17:21:28Z"
-    },
-    {
-      "id": "f4134df7e7cdd52e37d6e985",
-      "title": "Developing leaders through attitude, initiative and commitment at ACC-RSA",
-      "summary": "REDSTONE ARSENAL, Ala. – Maj. Gen. Douglas Lowrey, commanding general of U.S. Army Contracting Command, and ACC Command Sgt. Maj. Rachel Harris, emphasized attitude, initiative and commitment to helping others succeed during a discussion with Leadership Development and Readiness Program (LDRP) participants Oct.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578195/developing-leaders-through-attitude-initiative-and-commitment-acc-rsa",
-      "publishedAt": "2026-10-29T17:11:06Z"
-    },
-    {
-      "id": "0baf04d6b61221d5a53331e5",
-      "title": "Mission Driven–People Powered: HMC Jerry Williams",
-      "summary": "The Naval Medical Forces Development Command is Mission-Driven and, most importantly, People-Powered! Today we highlight U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578191/mission-driven-people-powered-hmc-jerry-williams",
-      "publishedAt": "2026-10-29T16:54:24Z"
-    },
-    {
-      "id": "654fdd522eaefe8cf126efa8",
-      "title": "US, Japan reach agreements for AMRAAM assembly, SM-3 production boost: Japanese MoD",
-      "summary": "The “groundbreaking agreement” on AMRAAM production “will not only ensure the acquisition of equipment needed by both Japan and the United States, but will also strengthen Japan’s defense industry base,” said Japanese Defense Minister Shinjiro Koizumi.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/us-japan-ink-agreements-for-amraam-production-sm-3-production-boost-japanese-mod/",
-      "publishedAt": "2026-10-29T16:45:18Z"
-    },
-    {
-      "id": "a76a0a4a93a3325d6eaa9c1b",
-      "title": "In Arctic, US Army researchers test camo that could adapt to changing landscapes",
-      "summary": "Researchers were inspired by Arctic foxes, which change colors over the course of the year – from white in the winter to brown in the summer.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/29/in-arctic-us-army-researchers-test-camo-that-could-adapt-to-changing-landscapes/",
-      "publishedAt": "2026-10-29T16:30:28Z"
-    },
-    {
-      "id": "a4e3e0574d4544be4c342e20",
-      "title": "Pentagon treating military base freezer malfunctions as suspected cyberattack, officials say",
-      "summary": "The Pentagon is treating the spate of mysterious freezer malfunctions that spoiled food at military bases across the United States in August as a suspected hack.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/29/pentagon-treating-military-base-freezer-malfunctions-as-suspected-cyberattack-officials-say/",
-      "publishedAt": "2026-10-29T16:26:56Z"
-    },
-    {
-      "id": "14878e2d194ca4b2235fd380",
-      "title": "Navy Corpsman Finds Purpose in Patient Care and Leadership",
-      "summary": "Hospital Corpsman 3rd Class (HM3) John Christopher Dabu, currently serving as the Medical Home Port direct supervisor at Naval Branch Health Clinic (NBHC) Panama City, has leveraged his Navy enlistment to overcome professional setbacks, secure U.S. citizenship, and establish himself as a vital clinic leader.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578189/navy-corpsman-finds-purpose-patient-care-and-leadership",
-      "publishedAt": "2026-10-29T16:26:31Z"
     }
   ],
   "nextPage": "page-3.json"

@@ -1,5 +1,77 @@
 [
   {
+    "id": "cc361992be1c78392d094aec",
+    "title": "Firearms Sentinel Training",
+    "summary": "ROME, N.Y. Eighty New York Air National Guard members from across the state’s six wings have completed Firearms Sentinel, an innovative course that integrates suicide prevention into standard firearm safety training.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578488/firearms-sentinel-training",
+    "publishedAt": "2026-11-03T17:01:08Z"
+  },
+  {
+    "id": "5daf9b4027dbc0201522d2d1",
+    "title": "Former Walter Reed American Red Cross volunteer joins U.S. Navy Nurse Corps",
+    "summary": "Inspired by her service as an American Red Cross (ARC) volunteer at Walter Reed National Military Medical Center (WRNMMC) and her family’s plight to the United States from Vietnam, Megan Do traded in her scarlet ARC vest for U.S. Navy whites and gold bars to become one of the U.S. Navy Nurse Corps’ newest nurses following her commissioning on Oct.",
+    "category": "Navy",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578500/former-walter-reed-american-red-cross-volunteer-joins-us-navy-nurse-corps",
+    "publishedAt": "2026-11-03T16:17:17Z"
+  },
+  {
+    "id": "ffe5e5a53e989aed8af25501",
+    "title": "Could the DC National Guard mission become the Army’s standard for quality of life?",
+    "summary": "There is an asterisk. This is a high-profile assignment with a budget to match that allows commanders the kind of flexibility to problem-solve that they rarely have in garrison. The post Could the DC National Guard mission become the Army’s standard for quality of life? appeared first on Task & Purpose .",
+    "category": "Army",
+    "sourceName": "Task & Purpose",
+    "sourceUrl": "https://taskandpurpose.com/opinion/quality-of-life-army-dc-national-guard-standard/",
+    "publishedAt": "2026-11-03T16:14:18Z"
+  },
+  {
+    "id": "d434a223b12376b2273db9be",
+    "title": "Lyster Lab Team Earns CAP Accreditation",
+    "summary": "FORT RUCKER, Ala. — The Lyster Army Health Clinic Laboratory has successfully achieved accreditation from the College of American Pathologists (CAP), demonstrating a continued commitment to clinical excellence and patient safety across the Fort Rucker military community.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578496/lyster-lab-team-earns-cap-accreditation",
+    "publishedAt": "2026-11-03T15:57:23Z"
+  },
+  {
+    "id": "3eca99cb02018489144c6405",
+    "title": "\"Plant The Promise\" Event held in Sussex County, NJ in Honor of Red Ribbon Week",
+    "summary": "In recognition of Red Ribbon Week, the Center for Prevention & Counseling (CPC) in Sussex County partnered with participating schools and the New Jersey National Guard Drug Demand Reduction Outreach section of the CounterDrug Task Force for the “Plant the Promise” activity.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578495/plant-promise-event-held-sussex-county-nj-honor-red-ribbon-week",
+    "publishedAt": "2026-11-03T15:40:25Z"
+  },
+  {
+    "id": "20817cd855ae1307a8b61339",
+    "title": "Former Army secretary Dan Driscoll heads to OpenAI",
+    "summary": "“I’m joining OpenAI to help the United States and our allies put this technology to work responsibly, for the people who keep us safe,” Dan Driscoll said in OpenAI’s announcement.",
+    "category": "Army",
+    "sourceName": "Breaking Defense",
+    "sourceUrl": "https://breakingdefense.com/2026/11/former-army-secretary-heads-to-openai/",
+    "publishedAt": "2026-11-03T15:25:12Z"
+  },
+  {
+    "id": "4c7e6a43fa1fbb4258f62bda",
+    "title": "The Congressional ‘right to repair’ solution needs some repairs itself",
+    "summary": "Better licensing and data management would do more for the Pentagon’s maintainers than sweeping new government rights to defense intellectual property, argues Elaine McCusker of AEI.",
+    "category": "Defense",
+    "sourceName": "Breaking Defense",
+    "sourceUrl": "https://breakingdefense.com/2026/11/the-congressional-right-to-repair-solution-needs-some-repairs-itself/",
+    "publishedAt": "2026-11-03T14:30:00Z"
+  },
+  {
+    "id": "5ab0bd24069ec690522d1f82",
+    "title": "USAG Japan trains alongside Sagamihara City partners to ensure community safety",
+    "summary": "SAGAMIHARA, Japan — Firefighters from U.S. Army Garrison Japan participated in the annual Comprehensive Disaster Preparedness Drill Oct. 25 at a joint-use area here near Sagami General Depot.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578478/usag-japan-trains-alongside-sagamihara-city-partners-ensure-community-safety",
+    "publishedAt": "2026-11-03T08:24:26Z"
+  },
+  {
     "id": "3b0edbd7d94e78da87e8426b",
     "title": "Engineer Facilities Detachment Provide Rapid Assessments During CSTX",
     "summary": "U.S. Army Reserve Soldiers participated in Operation Sentinel Justice June 9-17, 2026, at Camp Shelby, Miss. An estimated 12,000 Soldiers participated in the exercise with the 200th Military Police Command and its subordinate units as the focal point of the exercise.",
@@ -1663,14 +1735,5 @@
     "sourceName": "DVIDS U.S. Military News",
     "sourceUrl": "https://www.dvidshub.net/news/577792/usace-completes-temporary-power-mission-rota-supports-recovery-after-super-typhoon-bavi",
     "publishedAt": "2026-10-24T22:49:46Z"
-  },
-  {
-    "id": "0719fc31bf75f26fed0f14a0",
-    "title": "Pentagon bans troops from betting using insider information",
-    "summary": "The new prohibition bars Defense Department personnel from using classified and unclassified info to gamble on prediction markets. The post Pentagon bans troops from betting using insider information appeared first on Task & Purpose .",
-    "category": "Defense",
-    "sourceName": "Task & Purpose",
-    "sourceUrl": "https://taskandpurpose.com/news/pentagon-hegseth-ban-prediction-markets/",
-    "publishedAt": "2026-10-24T15:42:42Z"
   }
 ]
