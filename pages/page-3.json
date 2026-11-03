@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T21:43:52Z",
+  "generatedAt": "2026-11-03T06:53:10Z",
   "articles": [
+    {
+      "id": "8bab7e796c48a8ece43f5c11",
+      "title": "US Navy wants more visible role for drone boats as one deploys for the first time",
+      "summary": "The U.S. Navy's No. 2 officer shed new light on the value that medium unmanned surface vessels could bring to the fleet.",
+      "category": "Navy",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/naval/2026/10/29/us-navy-wants-more-visible-role-for-drone-boats-as-one-deploys-for-the-first-time/",
+      "publishedAt": "2026-10-29T14:04:32Z"
+    },
+    {
+      "id": "f5846cab46902d9329306124",
+      "title": "Report to Congress on the U.S. Army’s Infantry Squad Vehicle",
+      "summary": "The following is the Oct. 22, 2026, Congressional Research Service report, The U.S. Army’s Infantry Squad Vehicle (ISV).",
+      "category": "Army",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/29/report-to-congress-on-the-u-s-armys-infantry-squad-vehicle",
+      "publishedAt": "2026-10-29T13:49:09Z"
+    },
+    {
+      "id": "5e70e09db7b2a8f42f67ff64",
+      "title": "Pentagon will pick new US base location by June 2027, prioritizing 4 requirements",
+      "summary": "In an interview with Breaking Defense, Dale Marks, the assistant secretary of defense for Energy, Installations, and Environment, laid out new details on the effort.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/10/pentagon-will-pick-new-us-base-location-by-june-2027-prioritizing-4-requirements/",
+      "publishedAt": "2026-10-29T12:45:00Z"
+    },
+    {
+      "id": "0c191a8d5ea0fe53c23e4391",
+      "title": "BS27-1: 18th Wing trains for mass passenger arrival",
+      "summary": "U.S. Air Force Airmen assigned to the 18th Wing processed simulated passengers following an aircraft diversion during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 29, 2026. Airmen accounted for passengers, provided tactical combat casualty care and established an area for simulated casualties to receive medical attention and rest.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578143/bs27-1-18th-wing-trains-mass-passenger-arrival",
+      "publishedAt": "2026-10-29T09:06:35Z"
+    },
+    {
+      "id": "5528ebbdcc7ee865f43c7e2a",
+      "title": "SPP Exchange Advances ROK Army’s 2040 Defense Reform",
+      "summary": "The Hawaiʻi and Oregon National Guards, Armed Forces of the Philippines, and U.S. Pacific Command joined the Republic of Korea Army for a multilateral reserve readiness exchange in South Korea, Sept. 8–11, 2026.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578133/spp-exchange-advances-rok-armys-2040-defense-reform",
+      "publishedAt": "2026-10-29T08:29:28Z"
+    },
+    {
+      "id": "84ed48c54d41347c2c431f50",
+      "title": "Hudson Assumes Command of USACE Pacific Ocean Division",
+      "summary": "With the responsibility for close to nine million square miles of the Pacific, Army Col. Timothy P. Hudson assumed command of the U.S. Army Corps of Engineers’ Pacific Ocean Division on Oct. 27 as the 36th commander and division engineer.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578139/hudson-assumes-command-usace-pacific-ocean-division",
+      "publishedAt": "2026-10-29T04:15:34Z"
+    },
+    {
+      "id": "f6912b6e8359c26ac0621365",
+      "title": "Beyond the Uniform: U.S. Marines donate blood to support military readiness",
+      "summary": "U.S. Marines stationed on Camp Hansen donated blood during a blood drive hosted by the Armed Services Blood Bank Center (ASBBC), Oct. 26, 2026, helping sustain a supply essential to emergency medical care and military readiness.",
+      "category": "Marine Corps",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578136/beyond-uniform-us-marines-donate-blood-support-military-readiness",
+      "publishedAt": "2026-10-29T01:21:29Z"
+    },
+    {
+      "id": "f311d938329a48c505a04fff",
+      "title": "US Navy reports highest number of Class A aviation, afloat mishaps in 10 years",
+      "summary": "The U.S. Navy reported a decade-high number of unplanned catastrophic events involving aircraft and vessels.",
+      "category": "Navy",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/naval/2026/10/28/us-navy-reports-highest-number-of-class-a-aviation-afloat-mishaps-in-10-years/",
+      "publishedAt": "2026-10-28T23:02:32Z"
+    },
     {
       "id": "61420957b4700b8ef3ca31d2",
       "title": "BS27-1: No room for error - Kadena EOD keeps the mission moving",
@@ -289,78 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578016/deckplates-dugouts-jfk-sailor-balances-navy-life-and-softball",
       "publishedAt": "2026-10-27T23:01:41Z"
-    },
-    {
-      "id": "994837c4bff2c6cf6f115167",
-      "title": "Treating Guard families with spooktacular fun & resources",
-      "summary": "Over 1,000 Utah National Guard family members came to Camp Wiliams on 17 October, 2026 as the Utah National Guard Child and Youth Programs hosted its annual Trunk or Treat.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578015/treating-guard-families-with-spooktacular-fun-resources",
-      "publishedAt": "2026-10-27T22:22:18Z"
-    },
-    {
-      "id": "a64c4682868bb519f6104f9b",
-      "title": "Guardsmen Push Through the Exhaustion in the 2027 Best Warrior Competition",
-      "summary": "The 2027 Utah Best Warrior Competition brought together 21 Utah Army and Air National Guardsmen at Camp Williams Oct. 19-21, 2026, for three days of challenges testing physical endurance, tactical proficiency and mental resilience.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578009/guardsmen-push-through-exhaustion-2027-best-warrior-competition",
-      "publishedAt": "2026-10-27T21:44:16Z"
-    },
-    {
-      "id": "f26a1b53885c3b3f16d53627",
-      "title": "When the Roads Rumble: U.S. and Panamanian Partner Forces provide Humanitarian Assistance and Disaster Relief",
-      "summary": "On Oct. 9, 2026, the streets of Panama shook as a 7.7-magnitude earthquake hit the country; the epicenter was located at Pitaloza Arria in the Azuero Peninsula. In response, U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578008/roads-rumble-us-and-panamanian-partner-forces-provide-humanitarian-assistance-and-disaster-relief",
-      "publishedAt": "2026-10-27T21:38:33Z"
-    },
-    {
-      "id": "4b31b6136fe421e5434cefc0",
-      "title": "US military’s drug boat strikes have now killed at least 240 people",
-      "summary": "The attack was at least the third deadly strike carried out by U.S. Southern Command this month. The post US military’s drug boat strikes have now killed at least 240 people appeared first on Task & Purpose .",
-      "category": "Defense",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/military-drug-boat-240-killed/",
-      "publishedAt": "2026-10-27T20:31:01Z"
-    },
-    {
-      "id": "d6ae5bb420e8c68343c2b9bc",
-      "title": "US Air Force awards Lockheed Martin $694M hypersonic missile production contract",
-      "summary": "The Air Force granted Lockheed Martin a $694 million contract in late September for the production and fielding of the AGM-183A Air-Launched Rapid Response Weapon, or ARRW.",
-      "category": "Air Force",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-air-force-awards-lockheed-martin-694m-hypersonic-missile-production-contract/",
-      "publishedAt": "2026-10-27T19:53:42Z"
-    },
-    {
-      "id": "6a84ae957adba8dc1ba33f09",
-      "title": "La. Guard leaders address readiness, transformation at annual conference",
-      "summary": "NEW ORLEANS – The Louisiana National Guard held its annual Command and Staff Conference at Jackson Barracks in New Orleans, Oct. 17-18, bringing together brigade and battalion command teams and senior headquarters leaders from across the organization.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578001/la-guard-leaders-address-readiness-transformation-annual-conference",
-      "publishedAt": "2026-10-27T19:53:32Z"
-    },
-    {
-      "id": "059542e421afe3d9032925c4",
-      "title": "Pentagon creates advisory council on human performance, health",
-      "summary": "After creating a new directorate on warfighter optimization within the Department of Defense, the Pentagon announced it will form a federal advisory committee to weigh in on issues affecting troop performance and health.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health/",
-      "publishedAt": "2026-10-27T19:24:01Z"
-    },
-    {
-      "id": "d29324c847211b18ef7d2475",
-      "title": "US Army queries industry’s ability to build 21,000 Infantry Squad Vehicles",
-      "summary": "The U.S. Army published a market survey Monday in an effort to learn whether the defense industrial base could deliver 9,000 ISV-9s and about 12,000 ISV-Us.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles/",
-      "publishedAt": "2026-10-27T19:22:31Z"
     }
   ],
   "nextPage": "page-4.json"
