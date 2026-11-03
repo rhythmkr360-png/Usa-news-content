@@ -1,5 +1,113 @@
 [
   {
+    "id": "0680b3a94a400da6570e4b5b",
+    "title": "Thales subsidiary lands US Navy contract for remote mine hunting modules",
+    "summary": "The contract, awarded to Advanced Acoustic Concepts, is worth $53.9 million and also covers engineering support for the modules.",
+    "category": "Navy",
+    "sourceName": "Breaking Defense",
+    "sourceUrl": "https://breakingdefense.com/2026/11/thales-subsidiary-lands-us-navy-contract-for-remote-mine-hunting-modules/",
+    "publishedAt": "2026-11-03T22:40:45Z"
+  },
+  {
+    "id": "5dac1764fb28b61c7a0f75d3",
+    "title": "Persistence through adversity: 500th Military Intelligence Brigade Soldier earns promotion",
+    "summary": "After an unsuccessful fitness test, a back injury and a six-month delay, U.S. Army Spc. Fernando Banegas-Vasquez reached a long-awaited career milestone when he was promoted from private first class to specialist Oct. 7, 2026.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578546/persistence-through-adversity-500th-military-intelligence-brigade-soldier-earns-promotion",
+    "publishedAt": "2026-11-03T21:42:37Z"
+  },
+  {
+    "id": "284a239c5b60573c22864a6c",
+    "title": "159th Fighter Wing deploys to Japan in support of Theater Security Package",
+    "summary": "BELLE CHASSE, La. – Approximately 300 Airmen from the 159th Fighter Wing, Louisiana Air National Guard, deployed to Kadena Air Base, Japan, in support of a Theater Security Package, Oct. 23.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578545/159th-fighter-wing-deploys-japan-support-theater-security-package",
+    "publishedAt": "2026-11-03T21:27:22Z"
+  },
+  {
+    "id": "37f1820ce331772c85684db6",
+    "title": "Outstanding Service, Lasting Impact",
+    "summary": "For four years at Camp Pendleton, U.S. Marine Corps Staff Sgt. Juan C. Solis Jr. has volunteered to coach young athletes. A Marine, husband, and father, he built afternoons around practices, stayed late to help young athletes, and watched each player grow and apply what they learned.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578535/outstanding-service-lasting-impact",
+    "publishedAt": "2026-11-03T21:26:34Z"
+  },
+  {
+    "id": "c681f9dec63444341f8378f5",
+    "title": "Beyond the Arena: The Military Mounted Battalion Returns to WIHS",
+    "summary": "The U.S. Army Military Mounted Battalion, 3d U.S. Infantry Regiment (The Old Guard), participated in the 2026 Washington International Horse Show on Oct. 22 in Upper Marlboro, Maryland, showcasing the precision, horsemanship and ceremonial excellence of its Soldiers and horses.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578527/beyond-arena-military-mounted-battalion-returns-wihs",
+    "publishedAt": "2026-11-03T21:23:22Z"
+  },
+  {
+    "id": "af0c59aaad504a0d89847098",
+    "title": "After 5,700 flight hours, Nevada Guard aviator completes final flight",
+    "summary": "Chief Warrant Officer 5 Kevin Keeler spent 28 years flying helicopters to evacuate wounded troops, search for missing people and support communities during disasters. On Oct. 23, the Nevada Army National Guard aviator completed his final flight with more than 5,700 flight hours and decades of experience training other pilots.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578538/after-5700-flight-hours-nevada-guard-aviator-completes-final-flight",
+    "publishedAt": "2026-11-03T20:55:50Z"
+  },
+  {
+    "id": "af2103a9d780c20a6b1d5013",
+    "title": "Naval Construction Training Center Port Hueneme Host’s the Society of American Military Engineering (SAME) Camp",
+    "summary": "Naval Base Ventura County hosted 38 high school juniors and seniors for the annual Society of American Military Engineers (SAME) camp.",
+    "category": "Navy",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578536/naval-construction-training-center-port-hueneme-hosts-society-american-military-engineering-same-camp",
+    "publishedAt": "2026-11-03T20:25:53Z"
+  },
+  {
+    "id": "bb2ffbbc8fc502947e3352b4",
+    "title": "US Air Force asks industry for new cruise missile for Ukraine",
+    "summary": "The U.S. Air Force is looking for contractors to mass produce the Extended Range Attack Munition for Ukraine.",
+    "category": "Air Force",
+    "sourceName": "Defense News",
+    "sourceUrl": "https://www.defensenews.com/industry/2026/11/03/us-air-force-asks-industry-for-new-cruise-missile-for-ukraine/",
+    "publishedAt": "2026-11-03T20:14:25Z"
+  },
+  {
+    "id": "77c82a54816cf580c9e1385e",
+    "title": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
+    "summary": "As the American military seeks new capabilities and advanced systems amid rapid change, defense companies of all sizes showcased their solutions at a major defense conference.",
+    "category": "Defense",
+    "sourceName": "Defense News",
+    "sourceUrl": "https://www.defensenews.com/video/2026/11/03/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26/",
+    "publishedAt": "2026-11-03T20:00:49Z"
+  },
+  {
+    "id": "7c7d247700b0c27c8a1a4a6a",
+    "title": "U.S. and Colombian armies officially launch joint exercise to strengthen readiness and regional security",
+    "summary": "U.S. and Colombian armies officially launched Exercise Southern Vanguard 2027 on Nov. 2, bringing together approximately 800 military personnel to strengthen interoperability, readiness, and bilateral security cooperation. The 41st iteration of the annual exercise is hosted by the Colombian Army, sponsored by U.S.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578530/us-and-colombian-armies-officially-launch-joint-exercise-strengthen-readiness-and-regional-security",
+    "publishedAt": "2026-11-03T19:59:26Z"
+  },
+  {
+    "id": "fb0ba9d77c5e0a289b4103ec",
+    "title": "AUSA 2026: The ground truth on the Army’s next chapter",
+    "summary": "From autonomous warfare and drone innovation to acquisition reform and defense industrial base challenges, Breaking Defense examines the key developments and strategic priorities shaping the US Army’s future at AUSA 2026.",
+    "category": "Army",
+    "sourceName": "Breaking Defense",
+    "sourceUrl": "https://breakingdefense.com/2026/11/ausa-2026-the-ground-truth-on-the-armys-next-chapter/",
+    "publishedAt": "2026-11-03T19:56:04Z"
+  },
+  {
+    "id": "3157589998720fa4da49fe90",
+    "title": "Strengthening acquisition, research efforts will support warfighter readiness and military healthcare services",
+    "summary": "After an accomplished, decades-long career with the U.S. Army, retired Army Col. Matthew Clark becomes the assistant director for the Defense Health Agency's research, development, and acquisition enterprise. “Everything we do is about delivering care,” he underscored as a core focus of his new role.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578525/strengthening-acquisition-research-efforts-will-support-warfighter-readiness-and-military-healthcare-services",
+    "publishedAt": "2026-11-03T19:44:25Z"
+  },
+  {
     "id": "cc361992be1c78392d094aec",
     "title": "Firearms Sentinel Training",
     "summary": "ROME, N.Y. Eighty New York Air National Guard members from across the state’s six wings have completed Firearms Sentinel, an innovative course that integrates suicide prevention into standard firearm safety training.",
@@ -1726,14 +1834,5 @@
     "sourceName": "DVIDS U.S. Military News",
     "sourceUrl": "https://www.dvidshub.net/news/577794/japan-philippine-and-us-forces-conduct-multilateral-maritime-cooperative-activity",
     "publishedAt": "2026-10-25T02:06:07Z"
-  },
-  {
-    "id": "2ee1d1c6b77fd0e8c155972f",
-    "title": "USACE Completes Temporary Power Mission on Rota, Supports Recovery After Super Typhoon Bavi",
-    "summary": "The U.S. Army Corps of Engineers completed its temporary emergency power mission on Rota following Super Typhoon Bavi. Through a FEMA mission assignment, USACE completed 54 generator assessments, installed 43 generators and finished deinstalling temporary equipment as it was no longer needed.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577792/usace-completes-temporary-power-mission-rota-supports-recovery-after-super-typhoon-bavi",
-    "publishedAt": "2026-10-24T22:49:46Z"
   }
 ]

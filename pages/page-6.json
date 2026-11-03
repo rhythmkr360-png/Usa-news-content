@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-03T23:26:25Z",
+  "articles": [
+    {
+      "id": "2aa1b09a8f65d596cc4da46b",
+      "title": "JROTC National Raider Challenge | Fall 2026",
+      "summary": "Fort Knox, Ky. – U.S. Army Cadet Command hosted the JROTC National Raider Challenge bringing approximately 4,000 cadets from across the country to Fort Knox, Oct. 22-25 to test their grit as they attempt to bring home the National Raider Champion title.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577803/jrotc-national-raider-challenge-fall-2026",
+      "publishedAt": "2026-10-25T19:38:00Z"
+    },
+    {
+      "id": "750f68cb46b54e5b2a67d874",
+      "title": "121 ARW runs the ramp",
+      "summary": "RICKENBACKER AIR NATIONAL GUARD BASE, Ohio – Airmen with the 121st Air Refueling Wing participated in the Run the Ramp fitness exercise hosted by the 121 ARW Refuel and Recharge Fitness and Wellness Club at Rickenbacker Air National Guard Base, Columbus, Ohio, on October 23, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577796/121-arw-runs-ramp",
+      "publishedAt": "2026-10-25T17:09:08Z"
+    },
+    {
+      "id": "22f0a3a8c98bd4d3b4403603",
+      "title": "West Point to Host Veterans Day Broadcasts and Army-Air Force Weekend Events",
+      "summary": "The U.S. Military Academy at West Point is proud to host a series of athletic competitions and national sports broadcasts Nov. 7–8, including FOX Sports Veterans Day Salute to Service programming and the annual Army–Air Force football game at Michie Stadium.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577800/west-point-host-veterans-day-broadcasts-and-army-air-force-weekend-events",
+      "publishedAt": "2026-10-25T16:47:48Z"
+    },
+    {
+      "id": "9ef4f28a9646776e4bb92bdf",
+      "title": "Japan, Philippine and U.S. forces conduct multilateral Maritime Cooperative Activity",
+      "summary": "The Armed Forces of the Philippines, Japan Maritime Self-Defense Force, and U.S. Coast Guard conducted a multilateral Maritime Cooperative Activity (MCA) within the Philippine Exclusive Economic Zone, Oct. 24, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577794/japan-philippine-and-us-forces-conduct-multilateral-maritime-cooperative-activity",
+      "publishedAt": "2026-10-25T02:06:07Z"
+    }
+  ]
+}
