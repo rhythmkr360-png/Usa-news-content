@@ -1,5 +1,50 @@
 [
   {
+    "id": "4fa11f897f4879b38d88b8e2",
+    "title": "U.S., Republic of Korea navies strengthen alliance through Modernized Strategic Dialogue",
+    "summary": "U.S. Naval Forces Korea and the Republic of Korea Navy concluded their annual strategic dialogue at ROK Navy Headquarters, reaffirming their commitment to strengthening the U.S.-ROK maritime alliance.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578559/us-republic-korea-navies-strengthen-alliance-through-modernized-strategic-dialogue",
+    "publishedAt": "2026-11-04T06:14:06Z"
+  },
+  {
+    "id": "173086330d49359d59546634",
+    "title": "ROK Army 51st Infantry Division Signal Battalion Soldiers Visit 1st Signal Brigade",
+    "summary": "Soldiers from the Republic of Korea (ROK) Army 51st Infantry Division Signal Battalion visited the 41st Signal Battalion and the 304th Signal Battalion—under the 1st Signal Brigade at Camp Humphreys, Republic of Korea, Sept. 29, 2026, for a unit tour and professional exchange event. This exchange was organized to solidify combined ROK and U.S.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578556/rok-army-51st-infantry-division-signal-battalion-soldiers-visit-1st-signal-brigade",
+    "publishedAt": "2026-11-04T02:21:47Z"
+  },
+  {
+    "id": "e784d0cb3fd6e6e8c143a8ff",
+    "title": "US Army Pacific Welcomes Veterans to Headquarters, Honors Their Service",
+    "summary": "FORT SHAFTER, Hawaii — U.S. Army Pacific welcomed veterans to its headquarters on November 3, 2026, for a special event recognizing their service, sacrifice, and lasting contributions to the nation.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578555/us-army-pacific-welcomes-veterans-headquarters-honors-their-service",
+    "publishedAt": "2026-11-04T01:50:06Z"
+  },
+  {
+    "id": "daadef2288d72e2ec2bcec6f",
+    "title": "Navy Aviators Uphold a Legacy of Excellence in Homeland Defense",
+    "summary": "In December 1910, Lt. Theodore Gordon “Spuds” Ellyson forever changed the U.S. Navy when he became the first Navy officer designated as an aviator.",
+    "category": "Navy",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578551/navy-aviators-uphold-legacy-excellence-homeland-defense",
+    "publishedAt": "2026-11-03T23:57:55Z"
+  },
+  {
+    "id": "c2e89bfa694bb0292f64d4b7",
+    "title": "U.S. and Colombian armies officially launch joint exercise to strengthen readiness and regional security",
+    "summary": "U.S. and Colombian armies officially launched Exercise Southern Vanguard 2027 on Nov. 2, bringing together approximately 800 military personnel to strengthen interoperability, readiness, and bilateral security cooperation. The 41st iteration of the annual exercise is hosted by the Colombian Army, sponsored by U.S.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578550/us-and-colombian-armies-officially-launch-joint-exercise-strengthen-readiness-and-regional-security",
+    "publishedAt": "2026-11-03T23:30:38Z"
+  },
+  {
     "id": "0680b3a94a400da6570e4b5b",
     "title": "Thales subsidiary lands US Navy contract for remote mine hunting modules",
     "summary": "The contract, awarded to Advanced Acoustic Concepts, is worth $53.9 million and also covers engineering support for the modules.",
@@ -1825,14 +1870,5 @@
     "sourceName": "DVIDS U.S. Military News",
     "sourceUrl": "https://www.dvidshub.net/news/577800/west-point-host-veterans-day-broadcasts-and-army-air-force-weekend-events",
     "publishedAt": "2026-10-25T16:47:48Z"
-  },
-  {
-    "id": "9ef4f28a9646776e4bb92bdf",
-    "title": "Japan, Philippine and U.S. forces conduct multilateral Maritime Cooperative Activity",
-    "summary": "The Armed Forces of the Philippines, Japan Maritime Self-Defense Force, and U.S. Coast Guard conducted a multilateral Maritime Cooperative Activity (MCA) within the Philippine Exclusive Economic Zone, Oct. 24, 2026.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577794/japan-philippine-and-us-forces-conduct-multilateral-maritime-cooperative-activity",
-    "publishedAt": "2026-10-25T02:06:07Z"
   }
 ]

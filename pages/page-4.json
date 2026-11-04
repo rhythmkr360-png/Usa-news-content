@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T23:26:25Z",
+  "generatedAt": "2026-11-04T06:30:29Z",
   "articles": [
+    {
+      "id": "ad2215f657f977847d118577",
+      "title": "New guide equips Army finance officers to fund the fight faster",
+      "summary": "The Army’s new Financial Management & Comptroller Officer’s Guide establishes a single, authoritative standard for finance and comptroller officers across the active-duty Army, Army Reserve, and National Guard. It builds on the success of the branch's already established enlisted guide, completing a comprehensive framework for financial leadership.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578114/new-guide-equips-army-finance-officers-fund-fight-faster",
+      "publishedAt": "2026-10-28T19:27:27Z"
+    },
+    {
+      "id": "3eca125715893962d9d900ef",
+      "title": "U.S. Army Corps of Engineers Begins Transport of Materials from Shallow Land Disposal Area",
+      "summary": "The U.S. Army Corps of Engineers (USACE) has begun shipping contaminated soil from the Shallow Land Disposal Area (SLDA) site in Vandergrift, Pennsylvania, to an out-of-state licensed disposal facility.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578112/us-army-corps-engineers-begins-transport-materials-shallow-land-disposal-area",
+      "publishedAt": "2026-10-28T19:06:37Z"
+    },
+    {
+      "id": "0bc6a0c7a4c4a4a2e996d345",
+      "title": "Retiree Jamie James receives Distinguished Civilian Employee Recognition Award",
+      "summary": "NASHVILLE, Tenn. (Oct. 28, 2026) – Jamie James, former deputy district engineer for the U.S. Army Corps of Engineers Nashville District, has been honored with the Distinguished Civilian Employee Recognition Award in recognition of two decades of public service, technical excellence, and regional leadership.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578109/retiree-jamie-james-receives-distinguished-civilian-employee-recognition-award",
+      "publishedAt": "2026-10-28T18:49:11Z"
+    },
+    {
+      "id": "de5c10fac6214af2531a0c00",
+      "title": "Religious Ministry Team Leverages Spiritual Readiness Data to Strengthen Warfighter Resilience",
+      "summary": "By Lt. Cmdr. Travis Hurley, U.S. Navy Chaplain, and the TACAMO Religious Ministry Team TINKER AIR FORCE BASE, Okla.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578107/religious-ministry-team-leverages-spiritual-readiness-data-strengthen-warfighter-resilience",
+      "publishedAt": "2026-10-28T18:34:47Z"
+    },
+    {
+      "id": "ac1d509e748d5c3700266f53",
+      "title": "NORAD ENFORCEMENT OF TEMPORARY FLIGHT RESTRICTION AIRSPACE ANNOUNCED OVER MULTIPLE AREAS THIS WEEK",
+      "summary": "Fighter jets from the North American Aerospace Defense Command (NORAD) will enforce the Federal Aviation Administration (FAA) VIP Temporary Flight Restriction (TFR) areas established this week, October 29-30, 2026, over Charlotte, North Carolina; Rock Hill, South Carolina; and Daytona Beach, Florida.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578106/norad-enforcement-temporary-flight-restriction-airspace-announced-over-multiple-areas-week",
+      "publishedAt": "2026-10-28T18:24:02Z"
+    },
     {
       "id": "25a943e88502e1a6f0428265",
       "title": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate",
@@ -316,51 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577967/lost-1942-wwii-soldier-returns-home-albuquerque-final-rest",
       "publishedAt": "2026-10-27T15:08:38Z"
-    },
-    {
-      "id": "af927d60f6f14f958047b285",
-      "title": "U.S. Army, Colombian senior military leaders conclude Fort Bragg engagements",
-      "summary": "FORT BRAGG, N.C. — A Colombian joint-service senior enlisted delegation concluded a series of professional engagements here Oct. 20-23, gaining firsthand exposure to U.S. Army approaches to noncommissioned officer development, airborne readiness, Soldier fitness and innovation.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577965/us-army-colombian-senior-military-leaders-conclude-fort-bragg-engagements",
-      "publishedAt": "2026-10-27T15:04:31Z"
-    },
-    {
-      "id": "be9f0f0abf2ae25c0374a2f2",
-      "title": "USAG Stuttgart Housing Division Chief digs into new role with enthusiasm",
-      "summary": "U.S. Army Garrison Stuttgart is excited to welcome Charmoneaux “Charm” Sutton as the new Housing Division Chief, responsible for the quality and administration of one of the command’s most essential services.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577966/usag-stuttgart-housing-division-chief-digs-into-new-role-with-enthusiasm",
-      "publishedAt": "2026-10-27T14:55:10Z"
-    },
-    {
-      "id": "414c6c7eec878cf9a2650029",
-      "title": "How the Pentagon wants to buy cyber outcomes, not equipment",
-      "summary": "The Pentagon has been exploring a new paradigm dubbed Cyber Effects-as-a-Service, aiming to purchase specific outcomes as opposed to bespoke capabilities.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/how-the-pentagon-wants-to-buy-cyber-outcomes-not-equipment/",
-      "publishedAt": "2026-10-27T14:00:00Z"
-    },
-    {
-      "id": "3947a35b1bd96c215e4a6d9c",
-      "title": "U.S. Naval War College commemorates 80th anniversary of USS Missouri battleship visit to Istanbul",
-      "summary": "A delegation from the U.S. Naval War College visited Istanbul, Turkiye, to commemorate the 80th anniversary of the landmark 1946 visit by the battleship USS Missouri - a visit that was held to repatriate the body of the late Turkish ambassador, and would go on to be seen as the launch of a new era of U.S.-Turkiye bilateral relations.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577954/us-naval-war-college-commemorates-80th-anniversary-uss-missouri-battleship-visit-istanbul",
-      "publishedAt": "2026-10-27T13:50:45Z"
-    },
-    {
-      "id": "ff6f41aa32fdc0b831cd4087",
-      "title": "USAF should buy newly designed air refuelers to meet China threat: Report",
-      "summary": "Although there’s a “temptation” to keep buying KC-46s, a plan to procure 75 more of the Boeing-made tankers should be an “upper limit” followed by a new, longer range tanker, the Hudson Institute’s Timothy Walton told Breaking Defense.",
-      "category": "Air Force",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/usaf-should-buy-newly-designed-air-refuelers-to-meet-china-threat-report/",
-      "publishedAt": "2026-10-27T12:00:00Z"
     }
   ],
   "nextPage": "page-5.json"

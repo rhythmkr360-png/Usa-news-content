@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T23:26:25Z",
+  "generatedAt": "2026-11-04T06:30:29Z",
   "articles": [
+    {
+      "id": "bdca5b161bbb6f7d8b961634",
+      "title": "A new class of blast: DBX 1 compound pushing Army towards cleaner, smarter firepower",
+      "summary": "PICATINNY ARSENAL, N.J. - Engineers at the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center researchers say a new explosive initiator could remove environmental and safety risks from the supply chain.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578445/new-class-blast-dbx-1-compound-pushing-army-towards-cleaner-smarter-firepower",
+      "publishedAt": "2026-11-02T20:19:07Z"
+    },
+    {
+      "id": "5c7b10c3963e3ba4ebab7c78",
+      "title": "NMRDC Shares the Value of Research and Development at Weller Road Career Day",
+      "summary": "SILVER SPRING, Md. – Sailors with Navy Medicine Research and Development Command (NMRDC) took part in Weller Road Elementary School’s annual STEM Career Day on October 23. Weller Road students in 3rd, 4th and 5th grade had the opportunity to speak with active-duty Sailors, to learn how the command’s mission safeguards U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578436/nmrdc-shares-value-research-and-development-weller-road-career-day",
+      "publishedAt": "2026-11-02T19:49:21Z"
+    },
+    {
+      "id": "45bad4ea11d35939dc1d5b3f",
+      "title": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
+      "summary": "As the American military seeks new capabilities and advanced systems amid rapid change, defense companies of all sizes showcased their solutions at a major defense conference.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/video/2026/11/02/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26/",
+      "publishedAt": "2026-11-02T14:42:00Z"
+    },
+    {
+      "id": "8dc236ac44a6c776ce226279",
+      "title": "Big deals in European defense and American fighters | Defense Dollars",
+      "summary": "International weapons makers step forward with new interceptors and deals for armored vehicles, while an American company secures a fighter contract.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/video/2026/11/02/big-deals-in-european-defense-and-american-fighters-defense-dollars/",
+      "publishedAt": "2026-11-02T14:00:00Z"
+    },
+    {
+      "id": "271ed782c0819de27ed8b018",
+      "title": "U.S. Africa Command leadership attends AFRIDEX in Lagos",
+      "summary": "U.S. Africa Command leadership attended the Africa International Defence Exhibition (AFRIDEX) in Lagos, Nigeria Oct. 26–27, 2026 to collaborate with African defense leaders and global partners to advance cooperation across Africa.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578388/us-africa-command-leadership-attends-afridex-lagos",
+      "publishedAt": "2026-11-02T08:14:57Z"
+    },
     {
       "id": "b734bbab344a479ea56c1d71",
       "title": "Exercise Tiger Triumph 2026 Commences in Visakhapatnam to Enhance U.S.-India Combined Interoperability",
@@ -316,51 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578259/us-naval-hospital-okinawa-strengthens-bilateral-medical-readiness-during-keen-sword-27",
       "publishedAt": "2026-10-30T02:11:03Z"
-    },
-    {
-      "id": "1c78dd059992c8d13c7ef126",
-      "title": "NORAD fighter aircraft execute homeland defense mission from austere Eareckson Air Station",
-      "summary": "U.S. Air Force F-16 Fighting Falcons maintained air defense alert at Eareckson Air Station, Alaska, during an Oct. 18–26 deployment before launching a homeland defense mission on Oct. 25, integrating aircraft from two other Alaskan bases and one Canadian base.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578257/norad-fighter-aircraft-execute-homeland-defense-mission-austere-eareckson-air-station",
-      "publishedAt": "2026-10-30T00:19:38Z"
-    },
-    {
-      "id": "b2551d4654108d62dbba9393",
-      "title": "CSAF, CMSAF observe Team Osan mission readiness in action",
-      "summary": "U.S. Air Force Chief of Staff Gen. Ken Wilsbach and Chief Master Sergeant of the Air Force David Wolfe visited Osan Air Base, Republic of Korea, Oct. 22, 2026, gaining firsthand insight into how Team Osan integrates operations, maintenance and support capabilities to sustain readiness on the Korean Peninsula.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578256/csaf-cmsaf-observe-team-osan-mission-readiness-action",
-      "publishedAt": "2026-10-30T00:00:51Z"
-    },
-    {
-      "id": "a4d783ba09989fe1fe2b7798",
-      "title": "Army HF Gateway teams demonstrate communications readiness during Noble Skywave",
-      "summary": "U.S. Army Network Enterprise Technology Command (NETCOM), the 78th Signal Battalion and the 30th Signal Battalion participated in Noble Skywave, a Canadian-hosted high-frequency (HF) communications exercise, last week, testing the skills and adaptability of Army signal professionals operating across a range of communications conditions.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578252/army-hf-gateway-teams-demonstrate-communications-readiness-during-noble-skywave",
-      "publishedAt": "2026-10-29T22:59:15Z"
-    },
-    {
-      "id": "2a92902dd39a2c01f27cdd06",
-      "title": "Guardsman scores 498 on AFT, outscores team of college athletes",
-      "summary": "Idaho Army National Guard Chief Warrant Officer 3 Emily Wood faced off against five Boise State University student-athletes in a friendly competition earlier this month, scoring 498 points on the Army Fitness Test to edge the Broncos’ combined score of 496.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578251/guardsman-scores-498-aft-outscores-team-college-athletes",
-      "publishedAt": "2026-10-29T22:43:21Z"
-    },
-    {
-      "id": "b594d798d61534187f46a3b6",
-      "title": "Hasty US exit from Europe could drive allies away from American arms, RAND says",
-      "summary": "A rapid, uncoordinated U.S. military drawdown from Europe could push key NATO allies further away from American weapons, a RAND study found.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/29/hasty-us-exit-from-europe-could-drive-allies-away-from-american-arms-rand-says/",
-      "publishedAt": "2026-10-29T22:25:13Z"
     }
   ],
   "nextPage": "page-3.json"

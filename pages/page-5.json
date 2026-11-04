@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T23:26:25Z",
+  "generatedAt": "2026-11-04T06:30:29Z",
   "articles": [
+    {
+      "id": "af927d60f6f14f958047b285",
+      "title": "U.S. Army, Colombian senior military leaders conclude Fort Bragg engagements",
+      "summary": "FORT BRAGG, N.C. — A Colombian joint-service senior enlisted delegation concluded a series of professional engagements here Oct. 20-23, gaining firsthand exposure to U.S. Army approaches to noncommissioned officer development, airborne readiness, Soldier fitness and innovation.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577965/us-army-colombian-senior-military-leaders-conclude-fort-bragg-engagements",
+      "publishedAt": "2026-10-27T15:04:31Z"
+    },
+    {
+      "id": "be9f0f0abf2ae25c0374a2f2",
+      "title": "USAG Stuttgart Housing Division Chief digs into new role with enthusiasm",
+      "summary": "U.S. Army Garrison Stuttgart is excited to welcome Charmoneaux “Charm” Sutton as the new Housing Division Chief, responsible for the quality and administration of one of the command’s most essential services.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577966/usag-stuttgart-housing-division-chief-digs-into-new-role-with-enthusiasm",
+      "publishedAt": "2026-10-27T14:55:10Z"
+    },
+    {
+      "id": "414c6c7eec878cf9a2650029",
+      "title": "How the Pentagon wants to buy cyber outcomes, not equipment",
+      "summary": "The Pentagon has been exploring a new paradigm dubbed Cyber Effects-as-a-Service, aiming to purchase specific outcomes as opposed to bespoke capabilities.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/10/how-the-pentagon-wants-to-buy-cyber-outcomes-not-equipment/",
+      "publishedAt": "2026-10-27T14:00:00Z"
+    },
+    {
+      "id": "3947a35b1bd96c215e4a6d9c",
+      "title": "U.S. Naval War College commemorates 80th anniversary of USS Missouri battleship visit to Istanbul",
+      "summary": "A delegation from the U.S. Naval War College visited Istanbul, Turkiye, to commemorate the 80th anniversary of the landmark 1946 visit by the battleship USS Missouri - a visit that was held to repatriate the body of the late Turkish ambassador, and would go on to be seen as the launch of a new era of U.S.-Turkiye bilateral relations.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577954/us-naval-war-college-commemorates-80th-anniversary-uss-missouri-battleship-visit-istanbul",
+      "publishedAt": "2026-10-27T13:50:45Z"
+    },
+    {
+      "id": "ff6f41aa32fdc0b831cd4087",
+      "title": "USAF should buy newly designed air refuelers to meet China threat: Report",
+      "summary": "Although there’s a “temptation” to keep buying KC-46s, a plan to procure 75 more of the Boeing-made tankers should be an “upper limit” followed by a new, longer range tanker, the Hudson Institute’s Timothy Walton told Breaking Defense.",
+      "category": "Air Force",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/10/usaf-should-buy-newly-designed-air-refuelers-to-meet-china-threat-report/",
+      "publishedAt": "2026-10-27T12:00:00Z"
+    },
     {
       "id": "d5a81d52e5687a3586159a64",
       "title": "BS27-1: Rapid repairs, ready runways",
@@ -316,51 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577852/faces-keen-sword-27-joshua-dilone",
       "publishedAt": "2026-10-26T06:49:25Z"
-    },
-    {
-      "id": "8a5d6fcffd6aefb2a7166c5f",
-      "title": "U.S., Japan merge real and virtual skies during KS27",
-      "summary": "High above the Japanese coastline, a Japan Air Self-Defense Force F-35 Lightning II carves through the clouds, its pilot scanning the radar for simulated adversary aircraft. Miles away at Misawa Air Base, Japan, U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577811/us-japan-merge-real-and-virtual-skies-during-ks27",
-      "publishedAt": "2026-10-26T00:10:56Z"
-    },
-    {
-      "id": "2cf33fed6ae93c610684de8f",
-      "title": "U.S. Army and NATO Partners Rehearse War Strategies",
-      "summary": "In Wiesbaden, the U.S. Army and its NATO partners are rehearsing a real-world emergency scenario. A simulated attack on NATO’s eastern flank is designed to test the alliance’s defensive capabilities.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577804/us-army-and-nato-partners-rehearse-war-strategies",
-      "publishedAt": "2026-10-25T23:08:08Z"
-    },
-    {
-      "id": "f82674c257c68727930e7681",
-      "title": "Ballenger Honored, Deal Introduced as Newest Georgia Army National Guard State Command Sgt. Maj.",
-      "summary": "U.S. Army Command Sergeant Major John Ballenger transitions into retirement and passes the torch to U.S. Army Command Sergeant Major Lafayette Deal as the incoming Georgia Army National Guard Command Sergeant Major.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577807/ballenger-honored-deal-introduced-newest-georgia-army-national-guard-state-command-sgt-maj",
-      "publishedAt": "2026-10-25T22:19:11Z"
-    },
-    {
-      "id": "d30e1f8ffb6b9976ea65ac82",
-      "title": "NATO FLF Battle Group-Poland celebrates Romanian Armed Forces Day with sports competition",
-      "summary": "Romanian soldiers deployed with NATO’s Battle Group-Poland marked Romania’s Armed Forces Day with allied U.S., Croatian and British troops at Bemowo Piskie Training Area. A Romanian-led competition featured volleyball, indoor soccer and table tennis, giving soldiers a chance to build camaraderie beyond their regular duties.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577805/nato-flf-battle-group-poland-celebrates-romanian-armed-forces-day-with-sports-competition",
-      "publishedAt": "2026-10-25T21:19:00Z"
-    },
-    {
-      "id": "e71bb1712f6ebab4954d2950",
-      "title": "FOX SPORTS TO HONOR U.S. MILITARY AND VETERANS DURING SPECIAL BROADCASTS AT THE U.S. NAVAL ACADEMY AND WEST POINT",
-      "summary": "In honor of Veterans Day, FOX Sports, in coordination with the U.S. Military Academy and the U.S. Naval Academy, will broadcast two of its flagship sports programs live from West Point and the U.S. Naval Academy over the weekend of Nov. 7–8.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577806/fox-sports-honor-us-military-and-veterans-during-special-broadcasts-us-naval-academy-and-west-point",
-      "publishedAt": "2026-10-25T20:34:50Z"
     }
   ],
   "nextPage": "page-6.json"

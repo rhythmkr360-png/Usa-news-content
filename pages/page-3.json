@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T23:26:25Z",
+  "generatedAt": "2026-11-04T06:30:29Z",
   "articles": [
+    {
+      "id": "1c78dd059992c8d13c7ef126",
+      "title": "NORAD fighter aircraft execute homeland defense mission from austere Eareckson Air Station",
+      "summary": "U.S. Air Force F-16 Fighting Falcons maintained air defense alert at Eareckson Air Station, Alaska, during an Oct. 18–26 deployment before launching a homeland defense mission on Oct. 25, integrating aircraft from two other Alaskan bases and one Canadian base.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578257/norad-fighter-aircraft-execute-homeland-defense-mission-austere-eareckson-air-station",
+      "publishedAt": "2026-10-30T00:19:38Z"
+    },
+    {
+      "id": "b2551d4654108d62dbba9393",
+      "title": "CSAF, CMSAF observe Team Osan mission readiness in action",
+      "summary": "U.S. Air Force Chief of Staff Gen. Ken Wilsbach and Chief Master Sergeant of the Air Force David Wolfe visited Osan Air Base, Republic of Korea, Oct. 22, 2026, gaining firsthand insight into how Team Osan integrates operations, maintenance and support capabilities to sustain readiness on the Korean Peninsula.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578256/csaf-cmsaf-observe-team-osan-mission-readiness-action",
+      "publishedAt": "2026-10-30T00:00:51Z"
+    },
+    {
+      "id": "a4d783ba09989fe1fe2b7798",
+      "title": "Army HF Gateway teams demonstrate communications readiness during Noble Skywave",
+      "summary": "U.S. Army Network Enterprise Technology Command (NETCOM), the 78th Signal Battalion and the 30th Signal Battalion participated in Noble Skywave, a Canadian-hosted high-frequency (HF) communications exercise, last week, testing the skills and adaptability of Army signal professionals operating across a range of communications conditions.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578252/army-hf-gateway-teams-demonstrate-communications-readiness-during-noble-skywave",
+      "publishedAt": "2026-10-29T22:59:15Z"
+    },
+    {
+      "id": "2a92902dd39a2c01f27cdd06",
+      "title": "Guardsman scores 498 on AFT, outscores team of college athletes",
+      "summary": "Idaho Army National Guard Chief Warrant Officer 3 Emily Wood faced off against five Boise State University student-athletes in a friendly competition earlier this month, scoring 498 points on the Army Fitness Test to edge the Broncos’ combined score of 496.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578251/guardsman-scores-498-aft-outscores-team-college-athletes",
+      "publishedAt": "2026-10-29T22:43:21Z"
+    },
+    {
+      "id": "b594d798d61534187f46a3b6",
+      "title": "Hasty US exit from Europe could drive allies away from American arms, RAND says",
+      "summary": "A rapid, uncoordinated U.S. military drawdown from Europe could push key NATO allies further away from American weapons, a RAND study found.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/29/hasty-us-exit-from-europe-could-drive-allies-away-from-american-arms-rand-says/",
+      "publishedAt": "2026-10-29T22:25:13Z"
+    },
     {
       "id": "67579ea660f3de7de49c42e0",
       "title": "Jaelen Johnston reflects on performance at Friday on the Frontier",
@@ -316,51 +361,6 @@
       "sourceName": "USNI News",
       "sourceUrl": "https://news.usni.org/2026/10/28/u-s-marine-drone-detachment-in-the-philippines-operating-from-palawan-airfield",
       "publishedAt": "2026-10-28T19:58:47Z"
-    },
-    {
-      "id": "ad2215f657f977847d118577",
-      "title": "New guide equips Army finance officers to fund the fight faster",
-      "summary": "The Army’s new Financial Management & Comptroller Officer’s Guide establishes a single, authoritative standard for finance and comptroller officers across the active-duty Army, Army Reserve, and National Guard. It builds on the success of the branch's already established enlisted guide, completing a comprehensive framework for financial leadership.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578114/new-guide-equips-army-finance-officers-fund-fight-faster",
-      "publishedAt": "2026-10-28T19:27:27Z"
-    },
-    {
-      "id": "3eca125715893962d9d900ef",
-      "title": "U.S. Army Corps of Engineers Begins Transport of Materials from Shallow Land Disposal Area",
-      "summary": "The U.S. Army Corps of Engineers (USACE) has begun shipping contaminated soil from the Shallow Land Disposal Area (SLDA) site in Vandergrift, Pennsylvania, to an out-of-state licensed disposal facility.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578112/us-army-corps-engineers-begins-transport-materials-shallow-land-disposal-area",
-      "publishedAt": "2026-10-28T19:06:37Z"
-    },
-    {
-      "id": "0bc6a0c7a4c4a4a2e996d345",
-      "title": "Retiree Jamie James receives Distinguished Civilian Employee Recognition Award",
-      "summary": "NASHVILLE, Tenn. (Oct. 28, 2026) – Jamie James, former deputy district engineer for the U.S. Army Corps of Engineers Nashville District, has been honored with the Distinguished Civilian Employee Recognition Award in recognition of two decades of public service, technical excellence, and regional leadership.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578109/retiree-jamie-james-receives-distinguished-civilian-employee-recognition-award",
-      "publishedAt": "2026-10-28T18:49:11Z"
-    },
-    {
-      "id": "de5c10fac6214af2531a0c00",
-      "title": "Religious Ministry Team Leverages Spiritual Readiness Data to Strengthen Warfighter Resilience",
-      "summary": "By Lt. Cmdr. Travis Hurley, U.S. Navy Chaplain, and the TACAMO Religious Ministry Team TINKER AIR FORCE BASE, Okla.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578107/religious-ministry-team-leverages-spiritual-readiness-data-strengthen-warfighter-resilience",
-      "publishedAt": "2026-10-28T18:34:47Z"
-    },
-    {
-      "id": "ac1d509e748d5c3700266f53",
-      "title": "NORAD ENFORCEMENT OF TEMPORARY FLIGHT RESTRICTION AIRSPACE ANNOUNCED OVER MULTIPLE AREAS THIS WEEK",
-      "summary": "Fighter jets from the North American Aerospace Defense Command (NORAD) will enforce the Federal Aviation Administration (FAA) VIP Temporary Flight Restriction (TFR) areas established this week, October 29-30, 2026, over Charlotte, North Carolina; Rock Hill, South Carolina; and Daytona Beach, Florida.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578106/norad-enforcement-temporary-flight-restriction-airspace-announced-over-multiple-areas-week",
-      "publishedAt": "2026-10-28T18:24:02Z"
     }
   ],
   "nextPage": "page-4.json"
