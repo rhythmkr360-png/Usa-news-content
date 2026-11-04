@@ -1,7 +1,106 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T06:30:29Z",
+  "generatedAt": "2026-11-04T17:17:57Z",
   "articles": [
+    {
+      "id": "c7e5cd9639dd2570c649dba6",
+      "title": "Illinois Army National Guard Major Retires After More Than 25 Years of Service",
+      "summary": "Maj. Craig M. Watkins of the Illinois Army National Guard’s 34th Division Sustainment Brigade retired on Saturday, Sept. 12, during a ceremony at the historic Kedzie Avenue Armory, culminating more than 25 years of dedicated military service.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578577/illinois-army-national-guard-major-retires-after-more-than-25-years-service",
+      "publishedAt": "2026-11-04T16:50:24Z"
+    },
+    {
+      "id": "4b7704eb1553e8dcd9c2a866",
+      "title": "Royal Navy Carriers Operate in the High North, Mediterranean",
+      "summary": "Royal Navy aircraft carrier HMS Prince of Wales (R09) is conducting operations across the High North as HMS Queen Elizabeth (RO8) trains in the Mediterranean.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/04/royal-navy-carriers-operate-in-the-high-north-mediterranean",
+      "publishedAt": "2026-11-04T16:45:40Z"
+    },
+    {
+      "id": "86354c8ded32ad30778d44f8",
+      "title": "Lost in 1951, Korean War Soldier Returns Home to Pennsylvania for Final Rest",
+      "summary": "The remains of U.S. Army Sgt. Henry L. Huber, 22, who was killed during the Korean War, will be interred at Ott Cemetery in his hometown of Ridgway, Pennsylvania. Service and interment are being coordinated by Krise Funeral Home & Cremation.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578585/lost-1951-korean-war-soldier-returns-home-pennsylvania-final-rest",
+      "publishedAt": "2026-11-04T16:39:16Z"
+    },
+    {
+      "id": "715ef0c18bcedb9d6fdc3038",
+      "title": "Driven to serve: Wilmington District employee expands emergency response capabilities",
+      "summary": "A U.S. Army Corps of Engineers Wilmington District emergency management specialist recently earned her qualification as a Deployable Tactical Operations System (DTOS) operator, expanding the enterprise's pool of personnel available to support disaster response missions.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578583/driven-serve-wilmington-district-employee-expands-emergency-response-capabilities",
+      "publishedAt": "2026-11-04T16:35:14Z"
+    },
+    {
+      "id": "deef836190e6086500794f8c",
+      "title": "Lost in 1941, WWII Soldier Returns Home to Virginia for Final Rest",
+      "summary": "The remains of U.S. Army Cpl. Byron F. Beard, Jr., 23, who was captured and died as a prisoner of war during World War II, will be interred Nov. 11 at Holston View Cemetery in Weber City, near his hometown of Fort Blackmore, Virginia. Services and interment are being coordinated by Fischer Funeral Services 276-594-1874.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578574/lost-1941-wwii-soldier-returns-home-virginia-final-rest",
+      "publishedAt": "2026-11-04T15:33:53Z"
+    },
+    {
+      "id": "24766bbeb6450dfacb46524a",
+      "title": "U.S. Army Corps of Engineers waives day use fees at recreation areas in observance of Veterans Day",
+      "summary": "The U.S. Army Corps of Engineers Pittsburgh District announces it will waive day-use fees at all district-operated recreation areas in observance of Veterans Day, Nov. 11.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578572/us-army-corps-engineers-waives-day-use-fees-recreation-areas-observance-veterans-day",
+      "publishedAt": "2026-11-04T15:17:31Z"
+    },
+    {
+      "id": "e2c5493e67f64183eedd345f",
+      "title": "New Jersey's 31st National DEA Take Back Day Oct 2026",
+      "summary": "Members of the New Jersey National Guard Counterdrug Program accompany Drug Enforcement Agents in the collection and disposal of prescription medications during Operation Take Back New Jersey, October 26-27, 2026",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578570/new-jerseys-31st-national-dea-take-back-day-oct-2026",
+      "publishedAt": "2026-11-04T14:55:58Z"
+    },
+    {
+      "id": "5da28e964673c9422afa6b18",
+      "title": "AFCENT Commander completes first AOR trip",
+      "summary": "U.S. Air Force Lt. Gen. Daniel Lasica, Ninth Air Force (Air Forces Central) commander, recently concluded a multi-day visit across the U.S. Central Command area of responsibility Oct. 26-28, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578565/afcent-commander-completes-first-aor-trip",
+      "publishedAt": "2026-11-04T14:35:22Z"
+    },
+    {
+      "id": "6c9efdff041cf149f289c865",
+      "title": "U.S. Army Test, Measurement and Diagnostic Equipment Activity hosts Polish delegation to bolster allied readiness, interoperability",
+      "summary": "Two officers from the Polish armed forces visited the U.S. Army Test, Measurement and Diagnostic Equipment Activity, known as USATA, Oct. 20 and 21 to establish bilateral cooperation on the calibration and maintenance of key military systems. Polish army Lt. Col. Przemysław Piróg and Maj. Sławomir Dąbrowski toured the U.S.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578566/us-army-test-measurement-and-diagnostic-equipment-activity-hosts-polish-delegation-bolster-allied-readiness-interoperability",
+      "publishedAt": "2026-11-04T13:36:14Z"
+    },
+    {
+      "id": "9073ca3f38f3e9eaefd3427b",
+      "title": "From the foxhole to flight: Armaments Center’s MALET turns standard rounds into drone munitions",
+      "summary": "PICATINNY ARSENAL, N.J. - The ever-evolving Unmanned Aerial Systems toolbox has grown even stronger with the introduction of the Munitions Air-dropped Lethal Effects Tool (MALET), developed by the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578564/foxhole-flight-armaments-centers-malet-turns-standard-rounds-into-drone-munitions",
+      "publishedAt": "2026-11-04T11:47:08Z"
+    },
+    {
+      "id": "fc318719b3e9f5ab224440c6",
+      "title": "USAG Wiesbaden community steps up to feed the force during precautionary DFAC closure",
+      "summary": "The U.S. Army Garrison Wiesbaden community came together in an installation-wide effort to keep service members fed when the Stronger Together Dining Facility temporarily closed on Sept. 30.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578561/usag-wiesbaden-community-steps-up-feed-force-during-precautionary-dfac-closure",
+      "publishedAt": "2026-11-04T07:36:44Z"
+    },
     {
       "id": "4fa11f897f4879b38d88b8e2",
       "title": "U.S., Republic of Korea navies strengthen alliance through Modernized Strategic Dialogue",
@@ -262,105 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578468/usfk-commander-industry-technet-design-combined-first-line-code",
       "publishedAt": "2026-11-03T01:14:39Z"
-    },
-    {
-      "id": "cb3a3dcd6b18d8ea0bc6542f",
-      "title": "Bangladesh Navy, U.S. Navy kick off CARAT Bangladesh 2026",
-      "summary": "Sailors and maritime forces from the Bangladesh Navy and U.S. Navy gathered in Chattogram, Nov. 2, for an opening ceremony to commence the annual Cooperation Afloat Readiness and Training (CARAT) Bangladesh 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578466/bangladesh-navy-us-navy-kick-off-carat-bangladesh-2026",
-      "publishedAt": "2026-11-03T00:50:12Z"
-    },
-    {
-      "id": "812b44b9c0faf46e9a27759f",
-      "title": "Wisconsin Army National Guard aviation crews continue readiness training at Fort McCoy during October 2026",
-      "summary": "Aircrews from the Wisconsin Army National Guard's 1st Battalion, 147th Aviation Regiment (1-147th Aviation) completed another unit training effort Oct. 9, 2026, at Fort McCoy, continuing a longstanding relationship between the aviation unit and the installation.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578465/wisconsin-army-national-guard-aviation-crews-continue-readiness-training-fort-mccoy-during-october-2026",
-      "publishedAt": "2026-11-02T23:29:53Z"
-    },
-    {
-      "id": "0cf3ad44e84dbfd6fd684ca8",
-      "title": "Keeping Travis healthy: DGMC hosts inaugural community health fair",
-      "summary": "David Grant USAF Medical Center hosted the inaugural 2026 DGMC Community Health Fair at Travis Air Force Base, California, Oct. 23, 2026. The health fair began with a 5K run, aiming to promote good health and fitness, and continued with an array of DGMC booths.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578463/keeping-travis-healthy-dgmc-hosts-inaugural-community-health-fair",
-      "publishedAt": "2026-11-02T23:01:14Z"
-    },
-    {
-      "id": "c433f6c0698796969c09edde",
-      "title": "USNI News Fleet and Marine Tracker: Nov. 2, 2026",
-      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 2, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/02/usni-news-fleet-and-marine-tracker-nov-2-2026",
-      "publishedAt": "2026-11-02T21:46:18Z"
-    },
-    {
-      "id": "716120c90e0bbf663f77c914",
-      "title": "CECOM in 2026: Delivering modernized support where Soldiers need it most",
-      "summary": "Over the past year, the U.S. Army Communications-Electronics Command advanced Army readiness by synchronizing lifecycle support, modernization, and point-of-need maintenance for an Army that increasingly relies on software-defined, interconnected, and rapidly evolving systems.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578453/cecom-2026-delivering-modernized-support-soldiers-need-most",
-      "publishedAt": "2026-11-02T21:18:38Z"
-    },
-    {
-      "id": "3fcf16a4eead1b2f2f086cc7",
-      "title": "Idaho Army National Guard fights Big Grass Fire",
-      "summary": "The Idaho Army National Guard was activated from July 30 to August 21 to support the Idaho Department of Lands and federal partners battle the Big Grass Fire in the Owyhee Mountain Complex.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578455/idaho-army-national-guard-fights-big-grass-fire",
-      "publishedAt": "2026-11-02T21:12:59Z"
-    },
-    {
-      "id": "940fdd6b4de73157e82f96b8",
-      "title": "62d APS Airman Earns the Bronze Star",
-      "summary": "U.S. Air Force Tech. Sgt. Vincent Simmons, 62d Aerial Port Squadron contracting officer representative, was awarded the Bronze Star medal for meritorious achievement during his deployment to the U.S. Central Command area of responsibility.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578439/62d-aps-airman-earns-bronze-star",
-      "publishedAt": "2026-11-02T21:09:16Z"
-    },
-    {
-      "id": "21661d9e8e6ce0f3fe4cde14",
-      "title": "Space Force activates special operations component command in Tampa",
-      "summary": "U.S. Space Forces Special Operations Command, or SPACEFOR-SOC, formally activated today as the newest service component of U.S. Special Operations Command. Headquartered at MacDill Air Force Base, SPACEFOR-SOC organizes and presents specialized forces – known as SOF Guardians – to Theater Special Operations Commands and Joint Task Forces worldwide.",
-      "category": "Space Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578451/space-force-activates-special-operations-component-command-tampa",
-      "publishedAt": "2026-11-02T20:57:07Z"
-    },
-    {
-      "id": "6c05c8b6877cc0aca62bec90",
-      "title": "USS Gridley returns to Everett after seven-months of operations",
-      "summary": "EVERETT, Wash. – Arleigh Burke-class guided-missile destroyer USS Gridley (DDG 101) returned home to Naval Station Everett, Oct. 9, 2026, after a seven-month deployment to the U.S. 4th Fleet area of operations.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578449/uss-gridley-returns-everett-after-seven-months-operations",
-      "publishedAt": "2026-11-02T20:45:59Z"
-    },
-    {
-      "id": "d4706d0c8ad0ce1a92364841",
-      "title": "National Guard troops monitoring ballot boxes in Washington state after threats",
-      "summary": "At least 100 National Guard members were activated to assist with election security in seven counties. The post National Guard troops monitoring ballot boxes in Washington state after threats appeared first on Task & Purpose .",
-      "category": "Army",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/national-guard-washington-state-ballot-boxes/",
-      "publishedAt": "2026-11-02T20:35:09Z"
-    },
-    {
-      "id": "5b3586fb30e0ca85fac7b57b",
-      "title": "Kansas National Guard engineers pave the way for future port in remote Alaskan community",
-      "summary": "The Kansas Army National Guard’s 891st Engineer Battalion recently completed a rigorous Innovative Readiness Training mission in Cordova, Alaska.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578444/kansas-national-guard-engineers-pave-way-future-port-remote-alaskan-community",
-      "publishedAt": "2026-11-02T20:19:42Z"
     }
   ],
   "nextPage": "pages/page-2.json"
