@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T23:42:59Z",
+  "generatedAt": "2026-11-05T06:53:05Z",
   "articles": [
+    {
+      "id": "1bb60f03ef7ad4ea31cb974e",
+      "title": "121st Field Hospital Revives Korean War-Era Rail Evacuation With a Commercial Railcar",
+      "summary": "During exercise Pacific Medic Forge 26-2 in August 2026, Soldiers of the 121st Field Hospital converted a commercial Korean passenger railcar into a casualty evacuation platform, revisiting a practice the U.S. Army used in Korea in 1950.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578651/121st-field-hospital-revives-korean-war-era-rail-evacuation-with-commercial-railcar",
+      "publishedAt": "2026-11-05T06:15:54Z"
+    },
+    {
+      "id": "a240e20a39faf4ffe92b1b74",
+      "title": "Tropic Lightning, Partner Forces Transition to the Close Battle at JPMRC 27-01",
+      "summary": "SCHOFIELD BARRACKS, Hawaii – After days of disciplined preparation and staging across the Hawaiian archipelago, U.S. Army forces and their multinational partners have officially transitioned into active, force-on-force maneuver training during Joint Pacific Multinational Readiness Center Rotation 27-01.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578644/tropic-lightning-partner-forces-transition-close-battle-jpmrc-27-01",
+      "publishedAt": "2026-11-05T03:53:23Z"
+    },
+    {
+      "id": "34ea1f65191bd270088ae0b3",
+      "title": "Oregon National Guard trains with Multnomah County Sheriff's Office SAR MEDEVAC",
+      "summary": "The Oregon National Guard worked with the Multnomah County Sheriff's Office SAR MEDEVAC team members to conduct medical and first aid training on Nov. 1, 2026.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578642/oregon-national-guard-trains-with-multnomah-county-sheriffs-office-sar-medevac",
+      "publishedAt": "2026-11-05T02:06:36Z"
+    },
     {
       "id": "ec1c6dd7324a21e08b99ff37",
       "title": "Amid Iran conflict, ‘non-hostile’ deaths of 2 US airmen raise overseas toll",
@@ -334,33 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578530/us-and-colombian-armies-officially-launch-joint-exercise-strengthen-readiness-and-regional-security",
       "publishedAt": "2026-11-03T19:59:26Z"
-    },
-    {
-      "id": "fb0ba9d77c5e0a289b4103ec",
-      "title": "AUSA 2026: The ground truth on the Army’s next chapter",
-      "summary": "From autonomous warfare and drone innovation to acquisition reform and defense industrial base challenges, Breaking Defense examines the key developments and strategic priorities shaping the US Army’s future at AUSA 2026.",
-      "category": "Army",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/ausa-2026-the-ground-truth-on-the-armys-next-chapter/",
-      "publishedAt": "2026-11-03T19:56:04Z"
-    },
-    {
-      "id": "3157589998720fa4da49fe90",
-      "title": "Strengthening acquisition, research efforts will support warfighter readiness and military healthcare services",
-      "summary": "After an accomplished, decades-long career with the U.S. Army, retired Army Col. Matthew Clark becomes the assistant director for the Defense Health Agency's research, development, and acquisition enterprise. “Everything we do is about delivering care,” he underscored as a core focus of his new role.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578525/strengthening-acquisition-research-efforts-will-support-warfighter-readiness-and-military-healthcare-services",
-      "publishedAt": "2026-11-03T19:44:25Z"
-    },
-    {
-      "id": "cc361992be1c78392d094aec",
-      "title": "Firearms Sentinel Training",
-      "summary": "ROME, N.Y. Eighty New York Air National Guard members from across the state’s six wings have completed Firearms Sentinel, an innovative course that integrates suicide prevention into standard firearm safety training.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578488/firearms-sentinel-training",
-      "publishedAt": "2026-11-03T17:01:08Z"
     }
   ],
   "nextPage": "pages/page-2.json"

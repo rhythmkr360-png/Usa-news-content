@@ -1,5 +1,32 @@
 [
   {
+    "id": "1bb60f03ef7ad4ea31cb974e",
+    "title": "121st Field Hospital Revives Korean War-Era Rail Evacuation With a Commercial Railcar",
+    "summary": "During exercise Pacific Medic Forge 26-2 in August 2026, Soldiers of the 121st Field Hospital converted a commercial Korean passenger railcar into a casualty evacuation platform, revisiting a practice the U.S. Army used in Korea in 1950.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578651/121st-field-hospital-revives-korean-war-era-rail-evacuation-with-commercial-railcar",
+    "publishedAt": "2026-11-05T06:15:54Z"
+  },
+  {
+    "id": "a240e20a39faf4ffe92b1b74",
+    "title": "Tropic Lightning, Partner Forces Transition to the Close Battle at JPMRC 27-01",
+    "summary": "SCHOFIELD BARRACKS, Hawaii – After days of disciplined preparation and staging across the Hawaiian archipelago, U.S. Army forces and their multinational partners have officially transitioned into active, force-on-force maneuver training during Joint Pacific Multinational Readiness Center Rotation 27-01.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578644/tropic-lightning-partner-forces-transition-close-battle-jpmrc-27-01",
+    "publishedAt": "2026-11-05T03:53:23Z"
+  },
+  {
+    "id": "34ea1f65191bd270088ae0b3",
+    "title": "Oregon National Guard trains with Multnomah County Sheriff's Office SAR MEDEVAC",
+    "summary": "The Oregon National Guard worked with the Multnomah County Sheriff's Office SAR MEDEVAC team members to conduct medical and first aid training on Nov. 1, 2026.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578642/oregon-national-guard-trains-with-multnomah-county-sheriffs-office-sar-medevac",
+    "publishedAt": "2026-11-05T02:06:36Z"
+  },
+  {
     "id": "ec1c6dd7324a21e08b99ff37",
     "title": "Amid Iran conflict, ‘non-hostile’ deaths of 2 US airmen raise overseas toll",
     "summary": "Two U.S. airmen supporting operations against Iran died last week in \"non-hostile\" incidents, raising the death toll to 23 since the war began.",
@@ -1978,32 +2005,5 @@
     "sourceName": "DVIDS U.S. Military News",
     "sourceUrl": "https://www.dvidshub.net/news/577854/us-japanese-forces-exercise-rapid-airfield-damage-repair-during-keen-sword-27",
     "publishedAt": "2026-10-26T07:21:25Z"
-  },
-  {
-    "id": "8831989b6676151fa769de50",
-    "title": "Faces of Keen Sword 27 - Cpt. Yuki Sato",
-    "summary": "Japan Air Self-Defense Force Cpt. Yuki Sato, a Kawasaki C-2 Pilot assigned to the 402nd Tactical Airlift Squadron at Iruma Air Base, Japan poses for a feature photo for a Faces of Keen Sword feature story.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577853/faces-keen-sword-27-cpt-yuki-sato",
-    "publishedAt": "2026-10-26T06:50:04Z"
-  },
-  {
-    "id": "601640872811009fc5d0283b",
-    "title": "Faces of Keen Sword 27 - Joshua Dilone",
-    "summary": "U.S. Navy Petty Officer 2nd Class Joshua Dilone, an operational specialist, shares information on his job duties and his experiences in Keen Sword 27. Keen Sword is a multilateral exercise dedicated to preserving peace and stability in the region, and strengthening the ironclad alliance between the U.S. and Japan.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577852/faces-keen-sword-27-joshua-dilone",
-    "publishedAt": "2026-10-26T06:49:25Z"
-  },
-  {
-    "id": "8a5d6fcffd6aefb2a7166c5f",
-    "title": "U.S., Japan merge real and virtual skies during KS27",
-    "summary": "High above the Japanese coastline, a Japan Air Self-Defense Force F-35 Lightning II carves through the clouds, its pilot scanning the radar for simulated adversary aircraft. Miles away at Misawa Air Base, Japan, U.S.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577811/us-japan-merge-real-and-virtual-skies-during-ks27",
-    "publishedAt": "2026-10-26T00:10:56Z"
   }
 ]

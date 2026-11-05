@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T23:42:59Z",
+  "generatedAt": "2026-11-05T06:53:05Z",
   "articles": [
+    {
+      "id": "7f7834b8430e38a22913b915",
+      "title": "Senior US general fired, accused of leaking classified information",
+      "summary": "U.S. Army Lt. Gen. Brett Sylvia, a senior military planner on the Pentagon's Joint Staff, was fired over accusations he leaked classified information to the public.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/29/senior-us-general-fired-accused-of-leaking-classified-information/",
+      "publishedAt": "2026-10-29T18:52:30Z"
+    },
+    {
+      "id": "16c1b41240c3e6e7e7fa5664",
+      "title": "Army Reserve’s 1st Brigade, 78th Training Division welcomes new commander",
+      "summary": "JOINT BASE MCGUIRE-DIX-LAKEHURST, N.J. – The U.S. Army Reserve’s 1st Brigade, 78th Training Division, welcomed its new commander during a traditional change-of-command ceremony Oct. 24 here on Sharp Field.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578213/army-reserves-1st-brigade-78th-training-division-welcomes-new-commander",
+      "publishedAt": "2026-10-29T18:27:12Z"
+    },
+    {
+      "id": "e35ebc65b4c5ae60b3a6fd26",
+      "title": "Naval Health Clinic New England Recognized for Support to DoD Global Respiratory Surveillance Program",
+      "summary": "Naval Health Clinic New England (NHCNE) was formally recognized for its significant contributions to the Department of Defense Global Respiratory Surveillance Program (DoDGRSP) during the 2025–26 respiratory season.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578205/naval-health-clinic-new-england-recognized-support-dod-global-respiratory-surveillance-program",
+      "publishedAt": "2026-10-29T18:07:18Z"
+    },
     {
       "id": "521486b61cc1e4b11b2ea6fc",
       "title": "B4 it’s too late: TRAFC supports Operation Warm Heart",
@@ -334,33 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578045/bs27-1-joint-tactical-fuel-system",
       "publishedAt": "2026-10-28T10:34:35Z"
-    },
-    {
-      "id": "d3e842ebb57726488c9a9dcd",
-      "title": "Public Health Command Europe laboratory earns renewed accreditation, strengthens force health protection",
-      "summary": "LANDSTUHL, Germany — Public Health Command Europe’s Laboratory Sciences Division has renewed its accreditation, reaffirming its ability to deliver reliable scientific data that helps protect service members, families and other military communities across Europe, U.S. Central Command and U.S. Africa Command.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578043/public-health-command-europe-laboratory-earns-renewed-accreditation-strengthens-force-health-protection",
-      "publishedAt": "2026-10-28T09:29:51Z"
-    },
-    {
-      "id": "a7602d4643a6f4625b154d87",
-      "title": "Passing the Watch: A Seabee's 40-Year Journey from the Enlisted Ranks to Commodore",
-      "summary": "Forty years after raising his right hand and enlisting in the United States Navy, Capt. Allen E. Willey stood before family, friends and fellow service members at Naval Construction Battalion Center Gulfport, Mississippi, Oct.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578039/passing-watch-seabees-40-year-journey-enlisted-ranks-commodore",
-      "publishedAt": "2026-10-28T08:32:11Z"
-    },
-    {
-      "id": "26ddecd031c08d08a26126b8",
-      "title": "Freedom Flag 26-2: U.S. Seventh AF, ROK AFOC commanders conduct ‘Friendship Flight’ at Kunsan AB",
-      "summary": "KUNSAN AIR BASE, Republic of Korea – U.S. Air Force Lt. Gen. David Shoemaker, Seventh Air Force commander, and Republic of Korea air force Lt. Gen. Jun-sun Cha, Air Force Operations Command commander, conducted a Friendship Flight during Freedom Flag 26-2 at Kunsan Air Base, ROK, Oct. 27, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578036/freedom-flag-26-2-us-seventh-af-rok-afoc-commanders-conduct-friendship-flight-kunsan-ab",
-      "publishedAt": "2026-10-28T08:08:25Z"
     }
   ],
   "nextPage": "page-5.json"

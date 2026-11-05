@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T23:42:59Z",
+  "generatedAt": "2026-11-05T06:53:05Z",
   "articles": [
+    {
+      "id": "fb0ba9d77c5e0a289b4103ec",
+      "title": "AUSA 2026: The ground truth on the Army’s next chapter",
+      "summary": "From autonomous warfare and drone innovation to acquisition reform and defense industrial base challenges, Breaking Defense examines the key developments and strategic priorities shaping the US Army’s future at AUSA 2026.",
+      "category": "Army",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/ausa-2026-the-ground-truth-on-the-armys-next-chapter/",
+      "publishedAt": "2026-11-03T19:56:04Z"
+    },
+    {
+      "id": "3157589998720fa4da49fe90",
+      "title": "Strengthening acquisition, research efforts will support warfighter readiness and military healthcare services",
+      "summary": "After an accomplished, decades-long career with the U.S. Army, retired Army Col. Matthew Clark becomes the assistant director for the Defense Health Agency's research, development, and acquisition enterprise. “Everything we do is about delivering care,” he underscored as a core focus of his new role.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578525/strengthening-acquisition-research-efforts-will-support-warfighter-readiness-and-military-healthcare-services",
+      "publishedAt": "2026-11-03T19:44:25Z"
+    },
+    {
+      "id": "cc361992be1c78392d094aec",
+      "title": "Firearms Sentinel Training",
+      "summary": "ROME, N.Y. Eighty New York Air National Guard members from across the state’s six wings have completed Firearms Sentinel, an innovative course that integrates suicide prevention into standard firearm safety training.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578488/firearms-sentinel-training",
+      "publishedAt": "2026-11-03T17:01:08Z"
+    },
     {
       "id": "5daf9b4027dbc0201522d2d1",
       "title": "Former Walter Reed American Red Cross volunteer joins U.S. Navy Nurse Corps",
@@ -334,33 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578362/navy-accepts-delivery-ship-shore-connector-landing-craft-air-cushion-118",
       "publishedAt": "2026-10-30T21:35:24Z"
-    },
-    {
-      "id": "808e5f7256624f13520263ec",
-      "title": "Idaho Army National Guard conducts remote search and rescue mission",
-      "summary": "The Idaho Army National Guard assisted with a search and rescue mission Wednesday near New Meadows, marking the second time in as many months the Guard has supported Meadows Valley Fire and EMS in a remote part of the state.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578360/idaho-army-national-guard-conducts-remote-search-and-rescue-mission",
-      "publishedAt": "2026-10-30T21:08:17Z"
-    },
-    {
-      "id": "9b487e105476d327c8925d00",
-      "title": "Pa. Army Guard CSM retires after 39 years of military service",
-      "summary": "FORT INDIANTOWN GAP, Pa. – When Command Sgt. Maj. Oscar M. Laughman III enlisted in the U.S. Marine Corps, he expected his military career to last four years. Thirty-nine years later, Laughman is preparing to retire.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578355/pa-army-guard-csm-retires-after-39-years-military-service",
-      "publishedAt": "2026-10-30T20:48:29Z"
-    },
-    {
-      "id": "f07cfb0c229d710c3f90343d",
-      "title": "USNI News Western Pacific Pulse: Oct. 30, 2026",
-      "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. Around Japan Aircraft carrier USS Theodore Roosevelt (CVN-71) conducted a passenger exchange on Monday with Royal Canadian Navy frigate HMCS Regina (FFH 334) during exercise Keen Sword 27 (KS27).",
-      "category": "Defense",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/30/usni-news-western-pacific-pulse-oct-30-2026",
-      "publishedAt": "2026-10-30T20:40:27Z"
     }
   ],
   "nextPage": "page-3.json"
