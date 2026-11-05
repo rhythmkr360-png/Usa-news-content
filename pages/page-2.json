@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T17:26:32Z",
+  "generatedAt": "2026-11-05T23:40:15Z",
   "articles": [
+    {
+      "id": "173086330d49359d59546634",
+      "title": "ROK Army 51st Infantry Division Signal Battalion Soldiers Visit 1st Signal Brigade",
+      "summary": "Soldiers from the Republic of Korea (ROK) Army 51st Infantry Division Signal Battalion visited the 41st Signal Battalion and the 304th Signal Battalion—under the 1st Signal Brigade at Camp Humphreys, Republic of Korea, Sept. 29, 2026, for a unit tour and professional exchange event. This exchange was organized to solidify combined ROK and U.S.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578556/rok-army-51st-infantry-division-signal-battalion-soldiers-visit-1st-signal-brigade",
+      "publishedAt": "2026-11-04T02:21:47Z"
+    },
+    {
+      "id": "e784d0cb3fd6e6e8c143a8ff",
+      "title": "US Army Pacific Welcomes Veterans to Headquarters, Honors Their Service",
+      "summary": "FORT SHAFTER, Hawaii — U.S. Army Pacific welcomed veterans to its headquarters on November 3, 2026, for a special event recognizing their service, sacrifice, and lasting contributions to the nation.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578555/us-army-pacific-welcomes-veterans-headquarters-honors-their-service",
+      "publishedAt": "2026-11-04T01:50:06Z"
+    },
+    {
+      "id": "daadef2288d72e2ec2bcec6f",
+      "title": "Navy Aviators Uphold a Legacy of Excellence in Homeland Defense",
+      "summary": "In December 1910, Lt. Theodore Gordon “Spuds” Ellyson forever changed the U.S. Navy when he became the first Navy officer designated as an aviator.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578551/navy-aviators-uphold-legacy-excellence-homeland-defense",
+      "publishedAt": "2026-11-03T23:57:55Z"
+    },
+    {
+      "id": "c2e89bfa694bb0292f64d4b7",
+      "title": "U.S. and Colombian armies officially launch joint exercise to strengthen readiness and regional security",
+      "summary": "U.S. and Colombian armies officially launched Exercise Southern Vanguard 2027 on Nov. 2, bringing together approximately 800 military personnel to strengthen interoperability, readiness, and bilateral security cooperation. The 41st iteration of the annual exercise is hosted by the Colombian Army, sponsored by U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578550/us-and-colombian-armies-officially-launch-joint-exercise-strengthen-readiness-and-regional-security",
+      "publishedAt": "2026-11-03T23:30:38Z"
+    },
+    {
+      "id": "0680b3a94a400da6570e4b5b",
+      "title": "Thales subsidiary lands US Navy contract for remote mine hunting modules",
+      "summary": "The contract, awarded to Advanced Acoustic Concepts, is worth $53.9 million and also covers engineering support for the modules.",
+      "category": "Navy",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/thales-subsidiary-lands-us-navy-contract-for-remote-mine-hunting-modules/",
+      "publishedAt": "2026-11-03T22:40:45Z"
+    },
+    {
+      "id": "5dac1764fb28b61c7a0f75d3",
+      "title": "Persistence through adversity: 500th Military Intelligence Brigade Soldier earns promotion",
+      "summary": "After an unsuccessful fitness test, a back injury and a six-month delay, U.S. Army Spc. Fernando Banegas-Vasquez reached a long-awaited career milestone when he was promoted from private first class to specialist Oct. 7, 2026.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578546/persistence-through-adversity-500th-military-intelligence-brigade-soldier-earns-promotion",
+      "publishedAt": "2026-11-03T21:42:37Z"
+    },
+    {
+      "id": "284a239c5b60573c22864a6c",
+      "title": "159th Fighter Wing deploys to Japan in support of Theater Security Package",
+      "summary": "BELLE CHASSE, La. – Approximately 300 Airmen from the 159th Fighter Wing, Louisiana Air National Guard, deployed to Kadena Air Base, Japan, in support of a Theater Security Package, Oct. 23.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578545/159th-fighter-wing-deploys-japan-support-theater-security-package",
+      "publishedAt": "2026-11-03T21:27:22Z"
+    },
+    {
+      "id": "37f1820ce331772c85684db6",
+      "title": "Outstanding Service, Lasting Impact",
+      "summary": "For four years at Camp Pendleton, U.S. Marine Corps Staff Sgt. Juan C. Solis Jr. has volunteered to coach young athletes. A Marine, husband, and father, he built afternoons around practices, stayed late to help young athletes, and watched each player grow and apply what they learned.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578535/outstanding-service-lasting-impact",
+      "publishedAt": "2026-11-03T21:26:34Z"
+    },
     {
       "id": "c681f9dec63444341f8378f5",
       "title": "Beyond the Arena: The Military Mounted Battalion Returns to WIHS",
@@ -289,78 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578445/new-class-blast-dbx-1-compound-pushing-army-towards-cleaner-smarter-firepower",
       "publishedAt": "2026-11-02T20:19:07Z"
-    },
-    {
-      "id": "5c7b10c3963e3ba4ebab7c78",
-      "title": "NMRDC Shares the Value of Research and Development at Weller Road Career Day",
-      "summary": "SILVER SPRING, Md. – Sailors with Navy Medicine Research and Development Command (NMRDC) took part in Weller Road Elementary School’s annual STEM Career Day on October 23. Weller Road students in 3rd, 4th and 5th grade had the opportunity to speak with active-duty Sailors, to learn how the command’s mission safeguards U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578436/nmrdc-shares-value-research-and-development-weller-road-career-day",
-      "publishedAt": "2026-11-02T19:49:21Z"
-    },
-    {
-      "id": "45bad4ea11d35939dc1d5b3f",
-      "title": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
-      "summary": "As the American military seeks new capabilities and advanced systems amid rapid change, defense companies of all sizes showcased their solutions at a major defense conference.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/video/2026/11/02/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26/",
-      "publishedAt": "2026-11-02T14:42:00Z"
-    },
-    {
-      "id": "8dc236ac44a6c776ce226279",
-      "title": "Big deals in European defense and American fighters | Defense Dollars",
-      "summary": "International weapons makers step forward with new interceptors and deals for armored vehicles, while an American company secures a fighter contract.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/video/2026/11/02/big-deals-in-european-defense-and-american-fighters-defense-dollars/",
-      "publishedAt": "2026-11-02T14:00:00Z"
-    },
-    {
-      "id": "271ed782c0819de27ed8b018",
-      "title": "U.S. Africa Command leadership attends AFRIDEX in Lagos",
-      "summary": "U.S. Africa Command leadership attended the Africa International Defence Exhibition (AFRIDEX) in Lagos, Nigeria Oct. 26–27, 2026 to collaborate with African defense leaders and global partners to advance cooperation across Africa.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578388/us-africa-command-leadership-attends-afridex-lagos",
-      "publishedAt": "2026-11-02T08:14:57Z"
-    },
-    {
-      "id": "b734bbab344a479ea56c1d71",
-      "title": "Exercise Tiger Triumph 2026 Commences in Visakhapatnam to Enhance U.S.-India Combined Interoperability",
-      "summary": "VISAKHAPATNAM, India – Service members from the United States and Indian Armed Forces officially commenced Exercise Tiger Triumph 2026 with an opening ceremony in Visakhapatnam, India, on Nov. 2, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578387/exercise-tiger-triumph-2026-commences-visakhapatnam-enhance-us-india-combined-interoperability",
-      "publishedAt": "2026-11-02T05:58:29Z"
-    },
-    {
-      "id": "3f6c2b82afbbc2c4c30e722f",
-      "title": "Tropic Lightning, Joint Partners Set the Theater for JPMRC 27-01",
-      "summary": "SCHOFIELD BARRACKS, Hawaii – Combat credibility begins long before the first round is fired. It starts with disciplined preparation, setting the theater, and establishing the lines of communication necessary to fight and win in a complex archipelagic environment. The division-level Combined Arms Rehearsal on Nov. 1, brought U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578385/tropic-lightning-joint-partners-set-theater-jpmrc-27-01",
-      "publishedAt": "2026-11-02T03:38:48Z"
-    },
-    {
-      "id": "132512bf9f0f39dc40fa4478",
-      "title": "A Legacy of Service: One Family's Generations of Military Honor",
-      "summary": "Not many people decide to join the military; less than 1% of the U.S. population currently serves. However, one family has uniquely dedicated their time to serving this country.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578384/legacy-service-one-familys-generations-military-honor",
-      "publishedAt": "2026-11-02T00:32:10Z"
-    },
-    {
-      "id": "56c1591e0a45d409c8f78a46",
-      "title": "Acting Army Secretary visits Arkansas to strengthen industrial base, forge strategic partnerships",
-      "summary": "Acting Secretary of the Army Adam Telle traveled to Arkansas, Oct. 29 to 30, to meet with leaders at Pine Bluff Arsenal, Walmart’s corporate headquarters, and the University of Arkansas.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578378/acting-army-secretary-visits-arkansas-strengthen-industrial-base-forge-strategic-partnerships",
-      "publishedAt": "2026-11-01T20:14:42Z"
     }
   ],
   "nextPage": "page-3.json"

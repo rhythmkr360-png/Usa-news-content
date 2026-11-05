@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T17:26:32Z",
+  "generatedAt": "2026-11-05T23:40:15Z",
   "articles": [
+    {
+      "id": "3eca125715893962d9d900ef",
+      "title": "U.S. Army Corps of Engineers Begins Transport of Materials from Shallow Land Disposal Area",
+      "summary": "The U.S. Army Corps of Engineers (USACE) has begun shipping contaminated soil from the Shallow Land Disposal Area (SLDA) site in Vandergrift, Pennsylvania, to an out-of-state licensed disposal facility.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578112/us-army-corps-engineers-begins-transport-materials-shallow-land-disposal-area",
+      "publishedAt": "2026-10-28T19:06:37Z"
+    },
+    {
+      "id": "0bc6a0c7a4c4a4a2e996d345",
+      "title": "Retiree Jamie James receives Distinguished Civilian Employee Recognition Award",
+      "summary": "NASHVILLE, Tenn. (Oct. 28, 2026) – Jamie James, former deputy district engineer for the U.S. Army Corps of Engineers Nashville District, has been honored with the Distinguished Civilian Employee Recognition Award in recognition of two decades of public service, technical excellence, and regional leadership.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578109/retiree-jamie-james-receives-distinguished-civilian-employee-recognition-award",
+      "publishedAt": "2026-10-28T18:49:11Z"
+    },
+    {
+      "id": "de5c10fac6214af2531a0c00",
+      "title": "Religious Ministry Team Leverages Spiritual Readiness Data to Strengthen Warfighter Resilience",
+      "summary": "By Lt. Cmdr. Travis Hurley, U.S. Navy Chaplain, and the TACAMO Religious Ministry Team TINKER AIR FORCE BASE, Okla.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578107/religious-ministry-team-leverages-spiritual-readiness-data-strengthen-warfighter-resilience",
+      "publishedAt": "2026-10-28T18:34:47Z"
+    },
+    {
+      "id": "ac1d509e748d5c3700266f53",
+      "title": "NORAD ENFORCEMENT OF TEMPORARY FLIGHT RESTRICTION AIRSPACE ANNOUNCED OVER MULTIPLE AREAS THIS WEEK",
+      "summary": "Fighter jets from the North American Aerospace Defense Command (NORAD) will enforce the Federal Aviation Administration (FAA) VIP Temporary Flight Restriction (TFR) areas established this week, October 29-30, 2026, over Charlotte, North Carolina; Rock Hill, South Carolina; and Daytona Beach, Florida.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578106/norad-enforcement-temporary-flight-restriction-airspace-announced-over-multiple-areas-week",
+      "publishedAt": "2026-10-28T18:24:02Z"
+    },
+    {
+      "id": "25a943e88502e1a6f0428265",
+      "title": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate",
+      "summary": "The U.S. military has spent over $47 billion so far to prosecute the war in Iran, more than 25% higher than the Defense Department's estimate in July.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/28/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate/",
+      "publishedAt": "2026-10-28T18:10:50Z"
+    },
+    {
+      "id": "a2fa07de6e9b682d350fcc1d",
+      "title": "U.S. Marines Deploy Neros Archer Drone in Camp Fuji Exercise",
+      "summary": "The U.S. Marine Corps recently used the Neros Archer First Person View drone in a live-fire exercise at Camp Fuji, Japan, for the first time, the service announced. Marines of Battalion Landing Team 1/1, 31st Marine Expeditionary Unit (MEU) carried out two strike missions on Oct.",
+      "category": "Marine Corps",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/28/u-s-marines-deploy-neros-archer-drone-in-camp-fuji-exercise",
+      "publishedAt": "2026-10-28T17:51:21Z"
+    },
+    {
+      "id": "556620a1e9c2e93a60f2b7fa",
+      "title": "Three U.S. Naval Research Laboratory Experts Receive Sigma Xi Chapter Awards",
+      "summary": "Three U.S. Naval Research Laboratory (NRL) experts received the 2025 NRL Edison Chapter of Sigma Xi awards during a ceremony April 9.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578100/three-us-naval-research-laboratory-experts-receive-sigma-xi-chapter-awards",
+      "publishedAt": "2026-10-28T17:43:22Z"
+    },
+    {
+      "id": "1fec9ae6dd946596273ab978",
+      "title": "Washington National Guard, Tribal Partners Strengthen Counter-UAS Readiness",
+      "summary": "Washington State Counterdrug and the 10th Civil Support Team conducted Tribal Counter-Unmanned Aircraft Systems Fundamentals and Mission Scenarios Training at Yakima Training Center, Wash., Oct. 20–21, 2026.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578097/washington-national-guard-tribal-partners-strengthen-counter-uas-readiness",
+      "publishedAt": "2026-10-28T17:22:48Z"
+    },
     {
       "id": "376ec4285b9683c6896533da",
       "title": "Report to Congress on U.S. Military Operations Against Iran’s Missile, Nuclear Programs",
@@ -289,78 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577965/us-army-colombian-senior-military-leaders-conclude-fort-bragg-engagements",
       "publishedAt": "2026-10-27T15:04:31Z"
-    },
-    {
-      "id": "be9f0f0abf2ae25c0374a2f2",
-      "title": "USAG Stuttgart Housing Division Chief digs into new role with enthusiasm",
-      "summary": "U.S. Army Garrison Stuttgart is excited to welcome Charmoneaux “Charm” Sutton as the new Housing Division Chief, responsible for the quality and administration of one of the command’s most essential services.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577966/usag-stuttgart-housing-division-chief-digs-into-new-role-with-enthusiasm",
-      "publishedAt": "2026-10-27T14:55:10Z"
-    },
-    {
-      "id": "414c6c7eec878cf9a2650029",
-      "title": "How the Pentagon wants to buy cyber outcomes, not equipment",
-      "summary": "The Pentagon has been exploring a new paradigm dubbed Cyber Effects-as-a-Service, aiming to purchase specific outcomes as opposed to bespoke capabilities.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/how-the-pentagon-wants-to-buy-cyber-outcomes-not-equipment/",
-      "publishedAt": "2026-10-27T14:00:00Z"
-    },
-    {
-      "id": "3947a35b1bd96c215e4a6d9c",
-      "title": "U.S. Naval War College commemorates 80th anniversary of USS Missouri battleship visit to Istanbul",
-      "summary": "A delegation from the U.S. Naval War College visited Istanbul, Turkiye, to commemorate the 80th anniversary of the landmark 1946 visit by the battleship USS Missouri - a visit that was held to repatriate the body of the late Turkish ambassador, and would go on to be seen as the launch of a new era of U.S.-Turkiye bilateral relations.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577954/us-naval-war-college-commemorates-80th-anniversary-uss-missouri-battleship-visit-istanbul",
-      "publishedAt": "2026-10-27T13:50:45Z"
-    },
-    {
-      "id": "ff6f41aa32fdc0b831cd4087",
-      "title": "USAF should buy newly designed air refuelers to meet China threat: Report",
-      "summary": "Although there’s a “temptation” to keep buying KC-46s, a plan to procure 75 more of the Boeing-made tankers should be an “upper limit” followed by a new, longer range tanker, the Hudson Institute’s Timothy Walton told Breaking Defense.",
-      "category": "Air Force",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/usaf-should-buy-newly-designed-air-refuelers-to-meet-china-threat-report/",
-      "publishedAt": "2026-10-27T12:00:00Z"
-    },
-    {
-      "id": "d5a81d52e5687a3586159a64",
-      "title": "BS27-1: Rapid repairs, ready runways",
-      "summary": "KADENA AIR BASE, Japan -- U.S. Air Force Airmen assigned to the 18th Civil Engineer Squadron and 718th Civil Engineer Squadron practiced repairing simulated airfield damage during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 27, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577945/bs27-1-rapid-repairs-ready-runways",
-      "publishedAt": "2026-10-27T09:49:23Z"
-    },
-    {
-      "id": "3e6c4a2c81634d9f4da78181",
-      "title": "BS27-1: 18th SFS neutralizes the threat",
-      "summary": "When shots are fired, 18th Security Forces Squadron rushes toward the source. U.S. Air Force Airmen assigned to the 18th SFS responded to a simulated ground attack during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 26, 2026, neutralizing two simulated attackers and testing their ability to respond to evolving threats.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577943/bs27-1-18th-sfs-neutralizes-threat",
-      "publishedAt": "2026-10-27T08:12:33Z"
-    },
-    {
-      "id": "2e65b5b409b44e4e0acd5b1b",
-      "title": "KS27: U.S. and Japanese Airmen build readiness through combined training",
-      "summary": "The 909th Air Refueling Squadron and 718th Expeditionary Aircraft Maintenance Squadron arrived at Komaki Air Base, Japan, for exercise Keen Sword 27, Oct. 16, 2026.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577942/ks27-us-and-japanese-airmen-build-readiness-through-combined-training",
-      "publishedAt": "2026-10-27T07:18:23Z"
-    },
-    {
-      "id": "992c0ec414e9e92bd0d2acbe",
-      "title": "U.S. Navy submarine arrives in Western Australia for Scheduled Maintenance Period in support of AUKUS",
-      "summary": "HMAS STIRLING, Australia — The Virginia-class fast-attack submarine USS Colorado (SSN 788) arrived at HMAS Stirling today to begin a scheduled, monthlong maintenance period.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577941/us-navy-submarine-arrives-western-australia-scheduled-maintenance-period-support-aukus",
-      "publishedAt": "2026-10-27T06:39:06Z"
     }
   ],
   "nextPage": "page-6.json"

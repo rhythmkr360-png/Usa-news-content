@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T17:26:32Z",
+  "generatedAt": "2026-11-05T23:40:15Z",
   "articles": [
+    {
+      "id": "5c7b10c3963e3ba4ebab7c78",
+      "title": "NMRDC Shares the Value of Research and Development at Weller Road Career Day",
+      "summary": "SILVER SPRING, Md. – Sailors with Navy Medicine Research and Development Command (NMRDC) took part in Weller Road Elementary School’s annual STEM Career Day on October 23. Weller Road students in 3rd, 4th and 5th grade had the opportunity to speak with active-duty Sailors, to learn how the command’s mission safeguards U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578436/nmrdc-shares-value-research-and-development-weller-road-career-day",
+      "publishedAt": "2026-11-02T19:49:21Z"
+    },
+    {
+      "id": "45bad4ea11d35939dc1d5b3f",
+      "title": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
+      "summary": "As the American military seeks new capabilities and advanced systems amid rapid change, defense companies of all sizes showcased their solutions at a major defense conference.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/video/2026/11/02/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26/",
+      "publishedAt": "2026-11-02T14:42:00Z"
+    },
+    {
+      "id": "8dc236ac44a6c776ce226279",
+      "title": "Big deals in European defense and American fighters | Defense Dollars",
+      "summary": "International weapons makers step forward with new interceptors and deals for armored vehicles, while an American company secures a fighter contract.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/video/2026/11/02/big-deals-in-european-defense-and-american-fighters-defense-dollars/",
+      "publishedAt": "2026-11-02T14:00:00Z"
+    },
+    {
+      "id": "271ed782c0819de27ed8b018",
+      "title": "U.S. Africa Command leadership attends AFRIDEX in Lagos",
+      "summary": "U.S. Africa Command leadership attended the Africa International Defence Exhibition (AFRIDEX) in Lagos, Nigeria Oct. 26–27, 2026 to collaborate with African defense leaders and global partners to advance cooperation across Africa.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578388/us-africa-command-leadership-attends-afridex-lagos",
+      "publishedAt": "2026-11-02T08:14:57Z"
+    },
+    {
+      "id": "b734bbab344a479ea56c1d71",
+      "title": "Exercise Tiger Triumph 2026 Commences in Visakhapatnam to Enhance U.S.-India Combined Interoperability",
+      "summary": "VISAKHAPATNAM, India – Service members from the United States and Indian Armed Forces officially commenced Exercise Tiger Triumph 2026 with an opening ceremony in Visakhapatnam, India, on Nov. 2, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578387/exercise-tiger-triumph-2026-commences-visakhapatnam-enhance-us-india-combined-interoperability",
+      "publishedAt": "2026-11-02T05:58:29Z"
+    },
+    {
+      "id": "3f6c2b82afbbc2c4c30e722f",
+      "title": "Tropic Lightning, Joint Partners Set the Theater for JPMRC 27-01",
+      "summary": "SCHOFIELD BARRACKS, Hawaii – Combat credibility begins long before the first round is fired. It starts with disciplined preparation, setting the theater, and establishing the lines of communication necessary to fight and win in a complex archipelagic environment. The division-level Combined Arms Rehearsal on Nov. 1, brought U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578385/tropic-lightning-joint-partners-set-theater-jpmrc-27-01",
+      "publishedAt": "2026-11-02T03:38:48Z"
+    },
+    {
+      "id": "132512bf9f0f39dc40fa4478",
+      "title": "A Legacy of Service: One Family's Generations of Military Honor",
+      "summary": "Not many people decide to join the military; less than 1% of the U.S. population currently serves. However, one family has uniquely dedicated their time to serving this country.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578384/legacy-service-one-familys-generations-military-honor",
+      "publishedAt": "2026-11-02T00:32:10Z"
+    },
+    {
+      "id": "56c1591e0a45d409c8f78a46",
+      "title": "Acting Army Secretary visits Arkansas to strengthen industrial base, forge strategic partnerships",
+      "summary": "Acting Secretary of the Army Adam Telle traveled to Arkansas, Oct. 29 to 30, to meet with leaders at Pine Bluff Arsenal, Walmart’s corporate headquarters, and the University of Arkansas.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578378/acting-army-secretary-visits-arkansas-strengthen-industrial-base-forge-strategic-partnerships",
+      "publishedAt": "2026-11-01T20:14:42Z"
+    },
     {
       "id": "ad6e2f0264dbf97deab743f4",
       "title": "Naval Hospital Rota Logistics Team Earns Top European Ranking",
@@ -289,78 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578257/norad-fighter-aircraft-execute-homeland-defense-mission-austere-eareckson-air-station",
       "publishedAt": "2026-10-30T00:19:38Z"
-    },
-    {
-      "id": "b2551d4654108d62dbba9393",
-      "title": "CSAF, CMSAF observe Team Osan mission readiness in action",
-      "summary": "U.S. Air Force Chief of Staff Gen. Ken Wilsbach and Chief Master Sergeant of the Air Force David Wolfe visited Osan Air Base, Republic of Korea, Oct. 22, 2026, gaining firsthand insight into how Team Osan integrates operations, maintenance and support capabilities to sustain readiness on the Korean Peninsula.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578256/csaf-cmsaf-observe-team-osan-mission-readiness-action",
-      "publishedAt": "2026-10-30T00:00:51Z"
-    },
-    {
-      "id": "a4d783ba09989fe1fe2b7798",
-      "title": "Army HF Gateway teams demonstrate communications readiness during Noble Skywave",
-      "summary": "U.S. Army Network Enterprise Technology Command (NETCOM), the 78th Signal Battalion and the 30th Signal Battalion participated in Noble Skywave, a Canadian-hosted high-frequency (HF) communications exercise, last week, testing the skills and adaptability of Army signal professionals operating across a range of communications conditions.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578252/army-hf-gateway-teams-demonstrate-communications-readiness-during-noble-skywave",
-      "publishedAt": "2026-10-29T22:59:15Z"
-    },
-    {
-      "id": "2a92902dd39a2c01f27cdd06",
-      "title": "Guardsman scores 498 on AFT, outscores team of college athletes",
-      "summary": "Idaho Army National Guard Chief Warrant Officer 3 Emily Wood faced off against five Boise State University student-athletes in a friendly competition earlier this month, scoring 498 points on the Army Fitness Test to edge the Broncos’ combined score of 496.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578251/guardsman-scores-498-aft-outscores-team-college-athletes",
-      "publishedAt": "2026-10-29T22:43:21Z"
-    },
-    {
-      "id": "b594d798d61534187f46a3b6",
-      "title": "Hasty US exit from Europe could drive allies away from American arms, RAND says",
-      "summary": "A rapid, uncoordinated U.S. military drawdown from Europe could push key NATO allies further away from American weapons, a RAND study found.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/29/hasty-us-exit-from-europe-could-drive-allies-away-from-american-arms-rand-says/",
-      "publishedAt": "2026-10-29T22:25:13Z"
-    },
-    {
-      "id": "67579ea660f3de7de49c42e0",
-      "title": "Jaelen Johnston reflects on performance at Friday on the Frontier",
-      "summary": "As the sun set on the flight line, Jaelen Johnston, local country music artist, performed a free concert for Airmen and their families during Friday on the Frontier, Oct. 23. Johnston is no stranger to McConnell. He was born in Derby and also worked in construction for the Air National Guard 184th Wing before beginning his music career.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578249/jaelen-johnston-reflects-performance-friday-frontier",
-      "publishedAt": "2026-10-29T22:08:22Z"
-    },
-    {
-      "id": "c615a59b45e00445b45d5723",
-      "title": "Signal staff turns up the heat with chili cook-off",
-      "summary": "The U.S. Army Signal School hosted its 5th Annual Chili Cook-Off, building on camaraderie and friendly competition.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578241/signal-staff-turns-up-heat-with-chili-cook-off",
-      "publishedAt": "2026-10-29T21:03:46Z"
-    },
-    {
-      "id": "5814434c7a484d0ae1a01e95",
-      "title": "Army Assistant Secretary Andersen calls on private capital to rebuild 'Arsenal of Democracy'",
-      "summary": "The U.S. Army is overhauling its Cold War-era funding framework to partner directly with private capital markets, Assistant Secretary of the Army for Financial Management & Comptroller Marc Andersen shared with an audience of founders, startups, subject-matter experts, vice chairs, private equity, defense primes, military leaders, policymakers…",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578243/army-assistant-secretary-andersen-calls-private-capital-rebuild-arsenal-democracy",
-      "publishedAt": "2026-10-29T21:01:39Z"
-    },
-    {
-      "id": "42001de0de5d534c31e85ed5",
-      "title": "Long Deployments to Be Navy Standard For Next Couple Years, MCPON, CNO Say",
-      "summary": "It will take a couple years before deployment lengths shift from the extended 10-11 months back to the normal seven, the Navy’s top enlisted sailor said Wednesday. As sailors deploy with carrier strike groups, they are being told to expect a deployment that is between 10-11 months, MCPON John Perryman said while speaking at the Navy Memorial.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/29/long-deployments-to-be-navy-standard-for-next-couple-years-mcpon-cno-say",
-      "publishedAt": "2026-10-29T20:41:01Z"
     }
   ],
   "nextPage": "page-4.json"
