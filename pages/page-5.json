@@ -1,7 +1,97 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T16:48:00Z",
+  "generatedAt": "2026-11-06T23:12:48Z",
   "articles": [
+    {
+      "id": "ffd5ff7eab87eb610625fa5e",
+      "title": "BS27-1: Defending the base at every level",
+      "summary": "KADENA AIR BASE, Japan — U.S. Air Force Airmen assigned to the 18th Wing were armed with M-4 carbine rifles and tasked to man defensive firing positions outside their work centers during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 28, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578233/bs27-1-defending-base-every-level",
+      "publishedAt": "2026-10-29T20:05:10Z"
+    },
+    {
+      "id": "4357281420045b92b9ccc8b6",
+      "title": "U.S., Partner Nations to Hold Annual Malabar Naval Exercise Near Japan",
+      "summary": "The United States, Australia, India and Japan will carry out this year’s iteration of the annual Malabar naval exercise in the waters near Japan next week. Malabar 2026 will take place south of the Kanto region on the main island of Honshu from Nov. 5-12, according to a Japan Maritime Self-Defense Force news release published on Tuesday.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/29/u-s-partner-nations-to-hold-annual-malabar-naval-exercise-near-japan",
+      "publishedAt": "2026-10-29T20:03:43Z"
+    },
+    {
+      "id": "87582dd69e8519b083d42b47",
+      "title": "From waterways to runways, Tulsa District delivers in fiscal year 2026",
+      "summary": "U.S. Army Corps of Engineers, Tulsa District, provided community support across multiple missions for fiscal year 2026. This article highlights a few of the projects for the year.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578230/waterways-runways-tulsa-district-delivers-fiscal-year-2026",
+      "publishedAt": "2026-10-29T19:52:26Z"
+    },
+    {
+      "id": "05dbca87fbb185b9424688c0",
+      "title": "New tactical comms system for US ground troops aims to break network silos",
+      "summary": "\"We've spent the past 50 years building siloed networks, siloed applications and siloed environments to collaborate internally with our own data. We can no longer do that,\" a Pentagon official said.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
+      "publishedAt": "2026-10-29T19:44:45Z"
+    },
+    {
+      "id": "a514d799806406f886e15ac7",
+      "title": "Record deployment for destroyer USS Spruance casts doubt over US Navy maintenance",
+      "summary": "The Arleigh-Burke class destroyer USS Spruance has set a post-World War II record for a U.S. Navy destroyer deployment and is raising questions about the maintenance work that could follow its eventual return.",
+      "category": "Navy",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/naval/2026/10/29/record-deployment-for-destroyer-uss-spruance-casts-doubt-over-us-navy-maintenance/",
+      "publishedAt": "2026-10-29T19:15:42Z"
+    },
+    {
+      "id": "2e091f2e185fa5947f3c2910",
+      "title": "Pentagon investigates series of commissary freezer failures as possible cyberattack",
+      "summary": "Refrigeration failures spoiled food at military commissaries across the country. Investigators are examining whether hackers were responsible. The post Pentagon investigates series of commissary freezer failures as possible cyberattack appeared first on Task & Purpose .",
+      "category": "Defense",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/military-commissary-cyberattack-pentagon-investigation/",
+      "publishedAt": "2026-10-29T19:11:09Z"
+    },
+    {
+      "id": "7f7834b8430e38a22913b915",
+      "title": "Senior US general fired, accused of leaking classified information",
+      "summary": "U.S. Army Lt. Gen. Brett Sylvia, a senior military planner on the Pentagon's Joint Staff, was fired over accusations he leaked classified information to the public.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/29/senior-us-general-fired-accused-of-leaking-classified-information/",
+      "publishedAt": "2026-10-29T18:52:30Z"
+    },
+    {
+      "id": "16c1b41240c3e6e7e7fa5664",
+      "title": "Army Reserve’s 1st Brigade, 78th Training Division welcomes new commander",
+      "summary": "JOINT BASE MCGUIRE-DIX-LAKEHURST, N.J. – The U.S. Army Reserve’s 1st Brigade, 78th Training Division, welcomed its new commander during a traditional change-of-command ceremony Oct. 24 here on Sharp Field.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578213/army-reserves-1st-brigade-78th-training-division-welcomes-new-commander",
+      "publishedAt": "2026-10-29T18:27:12Z"
+    },
+    {
+      "id": "e35ebc65b4c5ae60b3a6fd26",
+      "title": "Naval Health Clinic New England Recognized for Support to DoD Global Respiratory Surveillance Program",
+      "summary": "Naval Health Clinic New England (NHCNE) was formally recognized for its significant contributions to the Department of Defense Global Respiratory Surveillance Program (DoDGRSP) during the 2025–26 respiratory season.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578205/naval-health-clinic-new-england-recognized-support-dod-global-respiratory-surveillance-program",
+      "publishedAt": "2026-10-29T18:07:18Z"
+    },
+    {
+      "id": "521486b61cc1e4b11b2ea6fc",
+      "title": "B4 it’s too late: TRAFC supports Operation Warm Heart",
+      "summary": "TRAVIS AIR FORCE BASE, Calif. -- The Travis Regional Armed Forces Committee hosted a commanders' visit at Jelly Belly in Fairfield, California, Oct. 20, 2026, in support of Operation Warm Heart.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578196/b4-its-too-late-trafc-supports-operation-warm-heart",
+      "publishedAt": "2026-10-29T17:21:28Z"
+    },
     {
       "id": "f4134df7e7cdd52e37d6e985",
       "title": "Developing leaders through attitude, initiative and commitment at ACC-RSA",
@@ -271,96 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578097/washington-national-guard-tribal-partners-strengthen-counter-uas-readiness",
       "publishedAt": "2026-10-28T17:22:48Z"
-    },
-    {
-      "id": "376ec4285b9683c6896533da",
-      "title": "Report to Congress on U.S. Military Operations Against Iran’s Missile, Nuclear Programs",
-      "summary": "The following is the Oct. 20, 2026, Congressional Research Service report, U.S. Military Operations Against Iran’s Missile and Nuclear Programs. From the Report On February 28, 2026, the United States and Israel launched military operations against Iran.",
-      "category": "Defense",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/28/report-to-congress-on-u-s-military-operations-against-irans-missile-nuclear-programs-2",
-      "publishedAt": "2026-10-28T13:47:47Z"
-    },
-    {
-      "id": "51333bb784a68115d1ae6ad5",
-      "title": "Startup Biosphere wins Pentagon contract to scale up production of key chemicals",
-      "summary": "The biomanufacturing facility will boast 20,000 liters of UV-sterilized vats, able to brew anything from “bio-cement” for helipads to explosives for Hellfire missiles.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/startup-biosphere-wins-pentagon-contract-to-scale-up-production-of-key-chemicals/",
-      "publishedAt": "2026-10-28T13:36:00Z"
-    },
-    {
-      "id": "f4dd0a24f043c6b07ef05e9d",
-      "title": "U.S. Army and DVGW strengthen partnership during municipal water infrastructure visit",
-      "summary": "TRIER, Germany — A group of 15 public health specialists from Public Health Command Europe recently toured regional water facilities in Trier to share best practices and explore innovative approaches to water security and environmental sustainability.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578050/us-army-and-dvgw-strengthen-partnership-during-municipal-water-infrastructure-visit",
-      "publishedAt": "2026-10-28T12:53:41Z"
-    },
-    {
-      "id": "0e22e6fbca3e8b50e60bfac0",
-      "title": "Fort Drum named Best Garrison for IMCOM-Western Hemisphere",
-      "summary": "Fort Drum was recently named 2026 Best Garrison for U.S. Army Installation Management Command-Western Hemisphere, recognizing its exceptional operational readiness, transformative energy resilience, and commitment to Soldiers and their families.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578049/fort-drum-named-best-garrison-imcom-western-hemisphere",
-      "publishedAt": "2026-10-28T12:51:13Z"
-    },
-    {
-      "id": "21943e016322da2db1aba331",
-      "title": "Modernized Wellford Readiness Center Reopens, Strengthening Upstate Readiness and Community Ties",
-      "summary": "The South Carolina National Guard, state legislators and local civic leaders marked the reopening of the renovated Wellford Readiness Center during a ribbon-cutting ceremony on October 23, strengthening training and emergency-response capabilities for South Carolina National Guard Soldiers in the Upstate.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578046/modernized-wellford-readiness-center-reopens-strengthening-upstate-readiness-and-community-ties",
-      "publishedAt": "2026-10-28T12:11:05Z"
-    },
-    {
-      "id": "10e1091e3227fa613fed95b1",
-      "title": "BS27-1: Joint tactical fuel system",
-      "summary": "U.S. Air Force Airmen assigned to the 18th Logistics Readiness Squadron and U.S. Marines assigned to Marine Wing Support Squadron-172 established a joint tactical fuel system using both Air Force and Marine Corps contingency equipment during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 28, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578045/bs27-1-joint-tactical-fuel-system",
-      "publishedAt": "2026-10-28T10:34:35Z"
-    },
-    {
-      "id": "d3e842ebb57726488c9a9dcd",
-      "title": "Public Health Command Europe laboratory earns renewed accreditation, strengthens force health protection",
-      "summary": "LANDSTUHL, Germany — Public Health Command Europe’s Laboratory Sciences Division has renewed its accreditation, reaffirming its ability to deliver reliable scientific data that helps protect service members, families and other military communities across Europe, U.S. Central Command and U.S. Africa Command.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578043/public-health-command-europe-laboratory-earns-renewed-accreditation-strengthens-force-health-protection",
-      "publishedAt": "2026-10-28T09:29:51Z"
-    },
-    {
-      "id": "a7602d4643a6f4625b154d87",
-      "title": "Passing the Watch: A Seabee's 40-Year Journey from the Enlisted Ranks to Commodore",
-      "summary": "Forty years after raising his right hand and enlisting in the United States Navy, Capt. Allen E. Willey stood before family, friends and fellow service members at Naval Construction Battalion Center Gulfport, Mississippi, Oct.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578039/passing-watch-seabees-40-year-journey-enlisted-ranks-commodore",
-      "publishedAt": "2026-10-28T08:32:11Z"
-    },
-    {
-      "id": "26ddecd031c08d08a26126b8",
-      "title": "Freedom Flag 26-2: U.S. Seventh AF, ROK AFOC commanders conduct ‘Friendship Flight’ at Kunsan AB",
-      "summary": "KUNSAN AIR BASE, Republic of Korea – U.S. Air Force Lt. Gen. David Shoemaker, Seventh Air Force commander, and Republic of Korea air force Lt. Gen. Jun-sun Cha, Air Force Operations Command commander, conducted a Friendship Flight during Freedom Flag 26-2 at Kunsan Air Base, ROK, Oct. 27, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578036/freedom-flag-26-2-us-seventh-af-rok-afoc-commanders-conduct-friendship-flight-kunsan-ab",
-      "publishedAt": "2026-10-28T08:08:25Z"
-    },
-    {
-      "id": "50c454840d9d59ce256fe737",
-      "title": "Beyond the comfort zone: 15th OSS Airman completes Army Ranger School",
-      "summary": "For Staff Sgt. Max Fuller, completing the U.S. Army Ranger School meant more than reaching a long-standing personal goal. It meant learning to lead under pressure, recover from setbacks and bring those lessons back to his Air Force mission.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578027/beyond-comfort-zone-15th-oss-airman-completes-army-ranger-school",
-      "publishedAt": "2026-10-28T01:19:20Z"
     }
   ],
   "nextPage": "page-6.json"

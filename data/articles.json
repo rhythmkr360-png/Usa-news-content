@@ -1,5 +1,95 @@
 [
   {
+    "id": "d332a71f2672673caa9f1a79",
+    "title": "The Idaho Army National Guard and Boise Fire Department Train to Enhance Hoist Capabilities",
+    "summary": "The Idaho Army National Guard’s State Aviation Group trained with members of the Boise Fire Department’s swift water dive team this week on Gowen Field.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578850/idaho-army-national-guard-and-boise-fire-department-train-enhance-hoist-capabilities",
+    "publishedAt": "2026-11-06T21:15:16Z"
+  },
+  {
+    "id": "84c417336b0bcb2ecafd11de",
+    "title": "US Army feeds culinary soldiers new job title",
+    "summary": "Formerly known as culinary specialists, a soldier with the 92G occupation identifier will henceforth be known as a “tactical field feeding specialist.”",
+    "category": "Army",
+    "sourceName": "Defense News",
+    "sourceUrl": "https://www.defensenews.com/land/2026/11/06/us-army-feeds-culinary-soldiers-new-job-title/",
+    "publishedAt": "2026-11-06T20:43:37Z"
+  },
+  {
+    "id": "70594ef5ecb7167e90616278",
+    "title": "Cambodia and U.S. Pacific Command participate in a Bilateral Defense Dialogue",
+    "summary": "Senior defense officials from the United States and Cambodia concluded the 2026 Bilateral Defense Discussion (BDD) with the signing of a landmark Terms of Reference (ToR) between the U.S. Pacific Command and Cambodia’s Ministry of National Defense in Phnom Penh, Cambodia, Nov. 4, 2026.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578837/cambodia-and-us-pacific-command-participate-bilateral-defense-dialogue",
+    "publishedAt": "2026-11-06T20:07:31Z"
+  },
+  {
+    "id": "15d030f90fdec35921058072",
+    "title": "Ingenuity on display as students engineer high-flying pumpkin launchers at Armaments Center",
+    "summary": "PICATINNY ARSENAL, N.J. - It was pumpkin seeds aplenty as the annual Pumpkin Sling returned to the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center on Friday, Oct. 30.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578832/ingenuity-display-students-engineer-high-flying-pumpkin-launchers-armaments-center",
+    "publishedAt": "2026-11-06T19:48:23Z"
+  },
+  {
+    "id": "f2b2ccd6c91e827f20b1d741",
+    "title": "Six ‘Warrior Medics’ excel in, graduate from H2F-I course",
+    "summary": "Fourteen U.S. Army Reserve Soldiers throughout the Army Reserve medical enterprise, six of whom are assigned to the Army Reserve Medical Command headquarters here, took part in and graduated from the Holistic Health and Fitness- Integrator, or H2F-I, course held at the C.W. Bill Young Armed Forces Reserve Center here, Oct. 18-30, 2026.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578830/six-warrior-medics-excel-graduate-h2f-course",
+    "publishedAt": "2026-11-06T19:42:51Z"
+  },
+  {
+    "id": "3df9daf952c004184c8465a8",
+    "title": "SOUTHCOM Commander Supports Military Youth at Doral Purple Star School Designation",
+    "summary": "U.S. Marine Corps Gen. Francis L. Donovan, commander of U.S. Southern Command (SOUTHCOM), participated in a Military Child Education Coalition forum, Nov. 5, 2026, at J.C. Bermudez High School to recognize Miami-Dade County Public Schools for their commitment in supporting the unique needs of military-connected children.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578829/southcom-commander-supports-military-youth-doral-purple-star-school-designation",
+    "publishedAt": "2026-11-06T19:34:35Z"
+  },
+  {
+    "id": "2e72a32027f318e3cd77389a",
+    "title": "188th Wing Guardsman brings physical therapy perspective to Air Force fitness effort",
+    "summary": "In 2026, Maj. Isaac Bitter with the 188th Medical Group at Ebbing Air National Guard Base, had an opportunity to bring that perspective to a team working on an Air Force-wide challenge: shaping and supporting the service’s physical fitness program.",
+    "category": "Air Force",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578828/188th-wing-guardsman-brings-physical-therapy-perspective-air-force-fitness-effort",
+    "publishedAt": "2026-11-06T19:30:21Z"
+  },
+  {
+    "id": "cc7a82fdae9cc7f89de0ae9b",
+    "title": "US, Colombian troops kick off exercise amid the Pentagon’s Western Hemisphere pivot",
+    "summary": "Hundreds of American and Colombian troops kicked off a sprawling military exercise in Colombia this week as the U.S. military sharpens its focus on the Western Hemisphere.",
+    "category": "Defense",
+    "sourceName": "Defense News",
+    "sourceUrl": "https://www.defensenews.com/global/the-americas/2026/11/06/us-colombian-troops-kick-off-exercise-amid-the-pentagons-western-hemisphere-pivot/",
+    "publishedAt": "2026-11-06T19:27:32Z"
+  },
+  {
+    "id": "d1536dd3995af28e5e60dabb",
+    "title": "III MEF Extends Curfew for Junior Members in Okinawa Following Murder Indictment",
+    "summary": "The U.S. military extended a curfew on Okinawa for junior service members that was scheduled to expire on Sunday and is continuing to impose restrictions on the purchase and consumption of alcohol. The curfew for grades E-1 through E-4 was extended for 30 days and restricts them to their personal housing from 12 a.m.",
+    "category": "Defense",
+    "sourceName": "USNI News",
+    "sourceUrl": "https://news.usni.org/2026/11/06/iii-mef-extends-curfew-for-junior-members-in-okinawa-following-murder-indictment",
+    "publishedAt": "2026-11-06T19:10:38Z"
+  },
+  {
+    "id": "0b49d9911ce3e7220fa61172",
+    "title": "BCE Consulting outlines the critical elements of layered air defense architecture",
+    "summary": "What does the future of layered air defense look like? BCE Consulting lays out what it will take to protect American forces.",
+    "category": "Defense",
+    "sourceName": "Defense News",
+    "sourceUrl": "https://www.defensenews.com/video/2026/11/06/bce-consulting-outlines-the-critical-elements-of-layered-air-defense-architecture/",
+    "publishedAt": "2026-11-06T17:28:08Z"
+  },
+  {
     "id": "e8a074486d0e866ccde96593",
     "title": "Corps dewaters century-old Allegheny River lock chamber for critical repairs",
     "summary": "At Allegheny River Lock and Dam 4, the U.S. Army Corps of Engineers Pittsburgh District completely drained the lock chamber, deployed dozens of personnel, cranes, boats, barges, and heavy equipment, and halted navigation through the vital inland waterway link for months because of a piece of wood.",
@@ -1843,131 +1933,5 @@
     "sourceName": "DVIDS U.S. Military News",
     "sourceUrl": "https://www.dvidshub.net/news/578019/tamc-physician-honored-30-years-continued-army-service",
     "publishedAt": "2026-10-27T23:27:16Z"
-  },
-  {
-    "id": "c0b01dfb0d1c82fbb7344c22",
-    "title": "Deckplates to Dugouts: JFK Sailor balances Navy life and Softball",
-    "summary": "U.S. Navy Retail Services Specialist (RS) 2nd Class Adrian Ramos, from Puerto Rico, still remembers the electric hum of draft day; the phone call, the handshake, the dream that had carried him from Miami Dade College to the Toronto Blue Jays organization starting in the minor leagues, but life has a way of shifting the field beneath your cleats.",
-    "category": "Navy",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578016/deckplates-dugouts-jfk-sailor-balances-navy-life-and-softball",
-    "publishedAt": "2026-10-27T23:01:41Z"
-  },
-  {
-    "id": "994837c4bff2c6cf6f115167",
-    "title": "Treating Guard families with spooktacular fun & resources",
-    "summary": "Over 1,000 Utah National Guard family members came to Camp Wiliams on 17 October, 2026 as the Utah National Guard Child and Youth Programs hosted its annual Trunk or Treat.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578015/treating-guard-families-with-spooktacular-fun-resources",
-    "publishedAt": "2026-10-27T22:22:18Z"
-  },
-  {
-    "id": "a64c4682868bb519f6104f9b",
-    "title": "Guardsmen Push Through the Exhaustion in the 2027 Best Warrior Competition",
-    "summary": "The 2027 Utah Best Warrior Competition brought together 21 Utah Army and Air National Guardsmen at Camp Williams Oct. 19-21, 2026, for three days of challenges testing physical endurance, tactical proficiency and mental resilience.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578009/guardsmen-push-through-exhaustion-2027-best-warrior-competition",
-    "publishedAt": "2026-10-27T21:44:16Z"
-  },
-  {
-    "id": "f26a1b53885c3b3f16d53627",
-    "title": "When the Roads Rumble: U.S. and Panamanian Partner Forces provide Humanitarian Assistance and Disaster Relief",
-    "summary": "On Oct. 9, 2026, the streets of Panama shook as a 7.7-magnitude earthquake hit the country; the epicenter was located at Pitaloza Arria in the Azuero Peninsula. In response, U.S.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578008/roads-rumble-us-and-panamanian-partner-forces-provide-humanitarian-assistance-and-disaster-relief",
-    "publishedAt": "2026-10-27T21:38:33Z"
-  },
-  {
-    "id": "4b31b6136fe421e5434cefc0",
-    "title": "US military’s drug boat strikes have now killed at least 240 people",
-    "summary": "The attack was at least the third deadly strike carried out by U.S. Southern Command this month. The post US military’s drug boat strikes have now killed at least 240 people appeared first on Task & Purpose .",
-    "category": "Defense",
-    "sourceName": "Task & Purpose",
-    "sourceUrl": "https://taskandpurpose.com/news/military-drug-boat-240-killed/",
-    "publishedAt": "2026-10-27T20:31:01Z"
-  },
-  {
-    "id": "d6ae5bb420e8c68343c2b9bc",
-    "title": "US Air Force awards Lockheed Martin $694M hypersonic missile production contract",
-    "summary": "The Air Force granted Lockheed Martin a $694 million contract in late September for the production and fielding of the AGM-183A Air-Launched Rapid Response Weapon, or ARRW.",
-    "category": "Air Force",
-    "sourceName": "Defense News",
-    "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-air-force-awards-lockheed-martin-694m-hypersonic-missile-production-contract/",
-    "publishedAt": "2026-10-27T19:53:42Z"
-  },
-  {
-    "id": "6a84ae957adba8dc1ba33f09",
-    "title": "La. Guard leaders address readiness, transformation at annual conference",
-    "summary": "NEW ORLEANS – The Louisiana National Guard held its annual Command and Staff Conference at Jackson Barracks in New Orleans, Oct. 17-18, bringing together brigade and battalion command teams and senior headquarters leaders from across the organization.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578001/la-guard-leaders-address-readiness-transformation-annual-conference",
-    "publishedAt": "2026-10-27T19:53:32Z"
-  },
-  {
-    "id": "059542e421afe3d9032925c4",
-    "title": "Pentagon creates advisory council on human performance, health",
-    "summary": "After creating a new directorate on warfighter optimization within the Department of Defense, the Pentagon announced it will form a federal advisory committee to weigh in on issues affecting troop performance and health.",
-    "category": "Defense",
-    "sourceName": "Defense News",
-    "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health/",
-    "publishedAt": "2026-10-27T19:24:01Z"
-  },
-  {
-    "id": "d29324c847211b18ef7d2475",
-    "title": "US Army queries industry’s ability to build 21,000 Infantry Squad Vehicles",
-    "summary": "The U.S. Army published a market survey Monday in an effort to learn whether the defense industrial base could deliver 9,000 ISV-9s and about 12,000 ISV-Us.",
-    "category": "Army",
-    "sourceName": "Defense News",
-    "sourceUrl": "https://www.defensenews.com/industry/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles/",
-    "publishedAt": "2026-10-27T19:22:31Z"
-  },
-  {
-    "id": "a9bf30001ff0f749240c167a",
-    "title": "Corps of Engineers, city of Wabasha, Minnesota, reach milestone with river sand management",
-    "summary": "ST. PAUL, Minn. – The U.S. Army Corps of Engineers, St. Paul District, and the city of Wabasha, Minnesota, reached a major milestone last week in the management of Mississippi River sand removed from the navigation channel.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577994/corps-engineers-city-wabasha-minnesota-reach-milestone-with-river-sand-management",
-    "publishedAt": "2026-10-27T18:58:35Z"
-  },
-  {
-    "id": "8e3cb23fbc13cb4fdd69f3e3",
-    "title": "MV-75 Cheyenne gains Soldier insights during sixth Special User Evaluation",
-    "summary": "Aviators from the Operational Development Team (ODT) and Soldiers representing the National Guard State Army Aviation Office (SAAO) Advisory Council Working Group participated in the sixth MV-75 Cheyenne Special User Evaluation (SUE) Aug. 24–28, 2026.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577991/mv-75-cheyenne-gains-soldier-insights-during-sixth-special-user-evaluation",
-    "publishedAt": "2026-10-27T18:47:26Z"
-  },
-  {
-    "id": "335120dcbc8fe5dbe4a7cb3e",
-    "title": "Col. Brewer assumes command of Fort Buchanan, emphasizes readiness and community partnership",
-    "summary": "Service members, civilians and families gathered at the installation's community club Oct. 27 to witness Col. David L. Brewer assume command of U.S. Army Garrison Fort Buchanan, marking a leadership transition focused on sustaining military readiness and strengthening the installation's strategic role in the Caribbean.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577987/col-brewer-assumes-command-fort-buchanan-emphasizes-readiness-and-community-partnership",
-    "publishedAt": "2026-10-27T18:15:53Z"
-  },
-  {
-    "id": "0ac8f2c51c66dadbe4c85750",
-    "title": "What’s haunting the Pentagon this Halloween?",
-    "summary": "Three special guests, and Mark, share a few frightening mysteries from their beats — from the dangers of war in space to the intricacies of upgrading America’s nuclear weapons.",
-    "category": "Defense",
-    "sourceName": "Breaking Defense",
-    "sourceUrl": "https://breakingdefense.com/2026/10/whats-haunting-the-pentagon-this-halloween/",
-    "publishedAt": "2026-10-27T17:45:00Z"
-  },
-  {
-    "id": "23cd59404116909ab42205e5",
-    "title": "US Army looks to high-flying balloons to help see, strike along front lines with China",
-    "summary": "Amid renewed interest in high-altitude balloons, soldiers are looking to them to extend their reach along the first island chain.",
-    "category": "Army",
-    "sourceName": "Defense News",
-    "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-army-looks-to-high-flying-balloons-to-help-see-strike-along-front-lines-with-china/",
-    "publishedAt": "2026-10-27T17:22:47Z"
   }
 ]
