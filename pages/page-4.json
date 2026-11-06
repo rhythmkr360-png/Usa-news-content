@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T23:40:15Z",
+  "generatedAt": "2026-11-06T06:53:27Z",
   "articles": [
+    {
+      "id": "85980c0a3c0dab541c55696c",
+      "title": "44th Fighter Squadron welcomes new commander",
+      "summary": "U.S. Air Force Lt. Col. Matthew Zipper assumed command of the 44th Fighter Squadron during an assumption of command ceremony at Kadena Air Base, Japan, Oct. 19, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578269/44th-fighter-squadron-welcomes-new-commander",
+      "publishedAt": "2026-10-30T05:23:56Z"
+    },
+    {
+      "id": "9ea31cdb1fee8b12b67954e8",
+      "title": "Mustangs of the Week: 1st Lt. Alfonso Morales & TSgt. Taylor Anderson",
+      "summary": "U.S. Air Force 1st Lt. Alfonso Morales, 51st Security Forces Squadron flight commander, and Tech. Sgt. Taylor Anderson, 51st SFS flight chief, were recognized as Mustangs of the Week at Osan Air Base, Republic of Korea, Oct. 26, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578263/mustangs-week-1st-lt-alfonso-morales-tsgt-taylor-anderson",
+      "publishedAt": "2026-10-30T04:39:32Z"
+    },
+    {
+      "id": "ea6bc53d66c8eb7d0850332d",
+      "title": "Ironclad runways: U.S. and Japan reinforce ExR-ADR capabilities during KS27",
+      "summary": "IRUMA AIR BASE, Japan - U.S., Japan, and Canadian Armed Forces collaborated in expeditionary rapid airfield damage repair (ExR-ADR) training during Exercise Keen Sword 27 at a Japan Air Self-Defense Force (JASDF) installation at Iruma Air Base, Japan, Oct. 22-26.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578261/ironclad-runways-us-and-japan-reinforce-exr-adr-capabilities-during-ks27",
+      "publishedAt": "2026-10-30T03:23:12Z"
+    },
+    {
+      "id": "2aa1710fbf93d30639ca56c3",
+      "title": "U.S. Naval Hospital Okinawa strengthens bilateral medical readiness during Keen Sword 27",
+      "summary": "CAMP FOSTER, Okinawa, Japan — U.S. Naval Hospital Okinawa personnel trained alongside Japan Self-Defense Forces and joint medical partners during Keen Sword 27, a bilateral exercise that tested the hospital’s ability to receive, triage and treat large numbers of simulated casualties Oct. 26-27.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578259/us-naval-hospital-okinawa-strengthens-bilateral-medical-readiness-during-keen-sword-27",
+      "publishedAt": "2026-10-30T02:11:03Z"
+    },
+    {
+      "id": "1c78dd059992c8d13c7ef126",
+      "title": "NORAD fighter aircraft execute homeland defense mission from austere Eareckson Air Station",
+      "summary": "U.S. Air Force F-16 Fighting Falcons maintained air defense alert at Eareckson Air Station, Alaska, during an Oct. 18–26 deployment before launching a homeland defense mission on Oct. 25, integrating aircraft from two other Alaskan bases and one Canadian base.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578257/norad-fighter-aircraft-execute-homeland-defense-mission-austere-eareckson-air-station",
+      "publishedAt": "2026-10-30T00:19:38Z"
+    },
     {
       "id": "b2551d4654108d62dbba9393",
       "title": "CSAF, CMSAF observe Team Osan mission readiness in action",
@@ -316,51 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578127/clear-skies-and-tailwinds-celebrating-legendary-career-marvin-lynn-hanks",
       "publishedAt": "2026-10-28T21:51:51Z"
-    },
-    {
-      "id": "58efb269cb753a05e6b23256",
-      "title": "BS27-1: 18th SFS tests attack response during Beverly Sword",
-      "summary": "KADENA AIR BASE, Japan - U.S. Air Force Airmen assigned to the 18th Security Forces Squadron respond to a simulated missile strike to their building, conducting a sweep and evacuation of personnel during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 28, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578123/bs27-1-18th-sfs-tests-attack-response-during-beverly-sword",
-      "publishedAt": "2026-10-28T20:23:12Z"
-    },
-    {
-      "id": "0cf740a91f271ed60a04eb8e",
-      "title": "Cost estimate for Iran war rises to more than $47 billion",
-      "summary": "The U.S. military has spent about 25% more on the war in Iran than estimates projected in July, according to Pentagon data obtained by Reuters.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/video/2026/10/28/cost-estimate-for-iran-war-rises-to-more-than-47-billion/",
-      "publishedAt": "2026-10-28T20:16:50Z"
-    },
-    {
-      "id": "ee495d94fbbb8ecfc088c423",
-      "title": "U.S. and Mexican Forces Conclude Successful AMALGAM EAGLE 2026 Exercise",
-      "summary": "U.S. and Mexican military forces have successfully concluded Exercise AMALGAM EAGLE 2026, a bilateral live-fly air defense and search-and-rescue exercise held from September 30-Oct 1.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578120/us-and-mexican-forces-conclude-successful-amalgam-eagle-2026-exercise",
-      "publishedAt": "2026-10-28T20:06:16Z"
-    },
-    {
-      "id": "0755a0b2f5edd1cbabb4685c",
-      "title": "U.S. Marine Drone Detachment in the Philippines Operating from Palawan Airfield",
-      "summary": "MANILA, Philippines — A U.S. Marine Corps drone detachment is operating from a Philippine airfield in Palawan near South China Sea flashpoints in the Spratly Islands, USNI News has learned.",
-      "category": "Defense",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/28/u-s-marine-drone-detachment-in-the-philippines-operating-from-palawan-airfield",
-      "publishedAt": "2026-10-28T19:58:47Z"
-    },
-    {
-      "id": "ad2215f657f977847d118577",
-      "title": "New guide equips Army finance officers to fund the fight faster",
-      "summary": "The Army’s new Financial Management & Comptroller Officer’s Guide establishes a single, authoritative standard for finance and comptroller officers across the active-duty Army, Army Reserve, and National Guard. It builds on the success of the branch's already established enlisted guide, completing a comprehensive framework for financial leadership.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578114/new-guide-equips-army-finance-officers-fund-fight-faster",
-      "publishedAt": "2026-10-28T19:27:27Z"
     }
   ],
   "nextPage": "page-5.json"

@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T23:40:15Z",
+  "generatedAt": "2026-11-06T06:53:27Z",
   "articles": [
+    {
+      "id": "21661d9e8e6ce0f3fe4cde14",
+      "title": "Space Force activates special operations component command in Tampa",
+      "summary": "U.S. Space Forces Special Operations Command, or SPACEFOR-SOC, formally activated today as the newest service component of U.S. Special Operations Command. Headquartered at MacDill Air Force Base, SPACEFOR-SOC organizes and presents specialized forces – known as SOF Guardians – to Theater Special Operations Commands and Joint Task Forces worldwide.",
+      "category": "Space Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578451/space-force-activates-special-operations-component-command-tampa",
+      "publishedAt": "2026-11-02T20:57:07Z"
+    },
+    {
+      "id": "6c05c8b6877cc0aca62bec90",
+      "title": "USS Gridley returns to Everett after seven-months of operations",
+      "summary": "EVERETT, Wash. – Arleigh Burke-class guided-missile destroyer USS Gridley (DDG 101) returned home to Naval Station Everett, Oct. 9, 2026, after a seven-month deployment to the U.S. 4th Fleet area of operations.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578449/uss-gridley-returns-everett-after-seven-months-operations",
+      "publishedAt": "2026-11-02T20:45:59Z"
+    },
+    {
+      "id": "d4706d0c8ad0ce1a92364841",
+      "title": "National Guard troops monitoring ballot boxes in Washington state after threats",
+      "summary": "At least 100 National Guard members were activated to assist with election security in seven counties. The post National Guard troops monitoring ballot boxes in Washington state after threats appeared first on Task & Purpose .",
+      "category": "Army",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/national-guard-washington-state-ballot-boxes/",
+      "publishedAt": "2026-11-02T20:35:09Z"
+    },
+    {
+      "id": "5b3586fb30e0ca85fac7b57b",
+      "title": "Kansas National Guard engineers pave the way for future port in remote Alaskan community",
+      "summary": "The Kansas Army National Guard’s 891st Engineer Battalion recently completed a rigorous Innovative Readiness Training mission in Cordova, Alaska.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578444/kansas-national-guard-engineers-pave-way-future-port-remote-alaskan-community",
+      "publishedAt": "2026-11-02T20:19:42Z"
+    },
+    {
+      "id": "bdca5b161bbb6f7d8b961634",
+      "title": "A new class of blast: DBX 1 compound pushing Army towards cleaner, smarter firepower",
+      "summary": "PICATINNY ARSENAL, N.J. - Engineers at the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center researchers say a new explosive initiator could remove environmental and safety risks from the supply chain.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578445/new-class-blast-dbx-1-compound-pushing-army-towards-cleaner-smarter-firepower",
+      "publishedAt": "2026-11-02T20:19:07Z"
+    },
     {
       "id": "5c7b10c3963e3ba4ebab7c78",
       "title": "NMRDC Shares the Value of Research and Development at Weller Road Career Day",
@@ -316,51 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578266/bs27-1-feeding-fight-sustaining-readiness",
       "publishedAt": "2026-10-30T05:24:53Z"
-    },
-    {
-      "id": "85980c0a3c0dab541c55696c",
-      "title": "44th Fighter Squadron welcomes new commander",
-      "summary": "U.S. Air Force Lt. Col. Matthew Zipper assumed command of the 44th Fighter Squadron during an assumption of command ceremony at Kadena Air Base, Japan, Oct. 19, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578269/44th-fighter-squadron-welcomes-new-commander",
-      "publishedAt": "2026-10-30T05:23:56Z"
-    },
-    {
-      "id": "9ea31cdb1fee8b12b67954e8",
-      "title": "Mustangs of the Week: 1st Lt. Alfonso Morales & TSgt. Taylor Anderson",
-      "summary": "U.S. Air Force 1st Lt. Alfonso Morales, 51st Security Forces Squadron flight commander, and Tech. Sgt. Taylor Anderson, 51st SFS flight chief, were recognized as Mustangs of the Week at Osan Air Base, Republic of Korea, Oct. 26, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578263/mustangs-week-1st-lt-alfonso-morales-tsgt-taylor-anderson",
-      "publishedAt": "2026-10-30T04:39:32Z"
-    },
-    {
-      "id": "ea6bc53d66c8eb7d0850332d",
-      "title": "Ironclad runways: U.S. and Japan reinforce ExR-ADR capabilities during KS27",
-      "summary": "IRUMA AIR BASE, Japan - U.S., Japan, and Canadian Armed Forces collaborated in expeditionary rapid airfield damage repair (ExR-ADR) training during Exercise Keen Sword 27 at a Japan Air Self-Defense Force (JASDF) installation at Iruma Air Base, Japan, Oct. 22-26.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578261/ironclad-runways-us-and-japan-reinforce-exr-adr-capabilities-during-ks27",
-      "publishedAt": "2026-10-30T03:23:12Z"
-    },
-    {
-      "id": "2aa1710fbf93d30639ca56c3",
-      "title": "U.S. Naval Hospital Okinawa strengthens bilateral medical readiness during Keen Sword 27",
-      "summary": "CAMP FOSTER, Okinawa, Japan — U.S. Naval Hospital Okinawa personnel trained alongside Japan Self-Defense Forces and joint medical partners during Keen Sword 27, a bilateral exercise that tested the hospital’s ability to receive, triage and treat large numbers of simulated casualties Oct. 26-27.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578259/us-naval-hospital-okinawa-strengthens-bilateral-medical-readiness-during-keen-sword-27",
-      "publishedAt": "2026-10-30T02:11:03Z"
-    },
-    {
-      "id": "1c78dd059992c8d13c7ef126",
-      "title": "NORAD fighter aircraft execute homeland defense mission from austere Eareckson Air Station",
-      "summary": "U.S. Air Force F-16 Fighting Falcons maintained air defense alert at Eareckson Air Station, Alaska, during an Oct. 18–26 deployment before launching a homeland defense mission on Oct. 25, integrating aircraft from two other Alaskan bases and one Canadian base.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578257/norad-fighter-aircraft-execute-homeland-defense-mission-austere-eareckson-air-station",
-      "publishedAt": "2026-10-30T00:19:38Z"
     }
   ],
   "nextPage": "page-4.json"

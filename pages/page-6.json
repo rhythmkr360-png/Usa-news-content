@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T23:40:15Z",
+  "generatedAt": "2026-11-06T06:53:27Z",
   "articles": [
+    {
+      "id": "0ac8f2c51c66dadbe4c85750",
+      "title": "What’s haunting the Pentagon this Halloween?",
+      "summary": "Three special guests, and Mark, share a few frightening mysteries from their beats — from the dangers of war in space to the intricacies of upgrading America’s nuclear weapons.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/10/whats-haunting-the-pentagon-this-halloween/",
+      "publishedAt": "2026-10-27T17:45:00Z"
+    },
+    {
+      "id": "23cd59404116909ab42205e5",
+      "title": "US Army looks to high-flying balloons to help see, strike along front lines with China",
+      "summary": "Amid renewed interest in high-altitude balloons, soldiers are looking to them to extend their reach along the first island chain.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-army-looks-to-high-flying-balloons-to-help-see-strike-along-front-lines-with-china/",
+      "publishedAt": "2026-10-27T17:22:47Z"
+    },
+    {
+      "id": "5279881ab9c9a562d74198bc",
+      "title": "US taps Poland to host European PAC-3 missile maintenance facility",
+      "summary": "The United States government has selected Poland to host a new European maintenance facility for Patriot Advanced Capability-3 (PAC-3) interceptors.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/global/europe/2026/10/27/us-taps-poland-to-host-european-pac-3-missile-maintenance-facility/",
+      "publishedAt": "2026-10-27T16:42:28Z"
+    },
+    {
+      "id": "8c377194c13534d2cb1c2ad3",
+      "title": "Lost in 1942, WWII Soldier Returns Home to Albuquerque for Final Rest",
+      "summary": "FORT KNOX, Ky. – The remains of U.S. Army Pvt. Robert E. Dubois, missing from World War II, will be interred Nov. 7 at Mount Cavalry Cemetery in Albuquerque, New Mexico. Services and interment are being coordinated by French Funerals & Cremations.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577967/lost-1942-wwii-soldier-returns-home-albuquerque-final-rest",
+      "publishedAt": "2026-10-27T15:08:38Z"
+    },
+    {
+      "id": "af927d60f6f14f958047b285",
+      "title": "U.S. Army, Colombian senior military leaders conclude Fort Bragg engagements",
+      "summary": "FORT BRAGG, N.C. — A Colombian joint-service senior enlisted delegation concluded a series of professional engagements here Oct. 20-23, gaining firsthand exposure to U.S. Army approaches to noncommissioned officer development, airborne readiness, Soldier fitness and innovation.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/577965/us-army-colombian-senior-military-leaders-conclude-fort-bragg-engagements",
+      "publishedAt": "2026-10-27T15:04:31Z"
+    },
     {
       "id": "be9f0f0abf2ae25c0374a2f2",
       "title": "USAG Stuttgart Housing Division Chief digs into new role with enthusiasm",
@@ -64,51 +109,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/577942/ks27-us-and-japanese-airmen-build-readiness-through-combined-training",
       "publishedAt": "2026-10-27T07:18:23Z"
-    },
-    {
-      "id": "992c0ec414e9e92bd0d2acbe",
-      "title": "U.S. Navy submarine arrives in Western Australia for Scheduled Maintenance Period in support of AUKUS",
-      "summary": "HMAS STIRLING, Australia — The Virginia-class fast-attack submarine USS Colorado (SSN 788) arrived at HMAS Stirling today to begin a scheduled, monthlong maintenance period.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577941/us-navy-submarine-arrives-western-australia-scheduled-maintenance-period-support-aukus",
-      "publishedAt": "2026-10-27T06:39:06Z"
-    },
-    {
-      "id": "ea916f2cbd46525a222cdbd3",
-      "title": "Keen Sword 27 Week One: Japanese, U.S., and Partners Train on Anti-Ship Operations, Aircraft Maintenance, Drones, Mass Casualty Care, and Airfield Damage Repair",
-      "summary": "Security forces from Japan, the United States, Australia, Canada, France, Germany, the Philippines, and New Zealand have been participating in the Keen Sword 27 in Japan for the past week.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577936/keen-sword-27-week-one-japanese-us-and-partners-train-anti-ship-operations-aircraft-maintenance-drones-mass-casualty-care",
-      "publishedAt": "2026-10-27T06:09:05Z"
-    },
-    {
-      "id": "e7a9da44d09dbaa60084bc89",
-      "title": "Faces of Keen Sword 27 - Head of German DMBV",
-      "summary": "The head of the German Defence Force’s Department of Medical Bioconnaissance and Verification, from the Institute of Microbiology of the German Armed Forces in Munich participates in joint training with U.S. and Japan at Iruma Air Base, Japan on Oct. 23, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577939/faces-keen-sword-27-head-german-dmbv",
-      "publishedAt": "2026-10-27T04:37:14Z"
-    },
-    {
-      "id": "2f330dc56b684ff854cad69c",
-      "title": "USNH Yokosuka Leadership Builds Partnerships With Host-Nation Medical Partners",
-      "summary": "YOKOSUKA, Japan — During a series of orientation visits in September, Capt. Joshua A. Miller, commanding officer, U.S. Navy Medicine Readiness and Training Command Yokosuka (USNMRTC Yokosuka), and director, U.S. Naval Hospital Yokosuka (USNH Yokosuka), met with leaders from Japanese medical facilities that support the U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577940/usnh-yokosuka-leadership-builds-partnerships-with-host-nation-medical-partners",
-      "publishedAt": "2026-10-27T04:31:26Z"
-    },
-    {
-      "id": "92929125d0ae92f9bad5691f",
-      "title": "DINFOS, 1st TIAD workshop strengthens public affairs integration across Information Forces",
-      "summary": "The Defense Information School, supported by the 1st Theater Information Advantage Detachment, hosted a four-day workshop Oct. 20–23, 2026, in Honolulu for 30 U.S. and allied personnel.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/577931/dinfos-1st-tiad-workshop-strengthens-public-affairs-integration-across-information-forces",
-      "publishedAt": "2026-10-27T00:56:36Z"
     }
   ]
 }
