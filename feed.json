@@ -1,7 +1,160 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T06:53:27Z",
+  "generatedAt": "2026-11-06T16:48:00Z",
   "articles": [
+    {
+      "id": "e8a074486d0e866ccde96593",
+      "title": "Corps dewaters century-old Allegheny River lock chamber for critical repairs",
+      "summary": "At Allegheny River Lock and Dam 4, the U.S. Army Corps of Engineers Pittsburgh District completely drained the lock chamber, deployed dozens of personnel, cranes, boats, barges, and heavy equipment, and halted navigation through the vital inland waterway link for months because of a piece of wood.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578805/corps-dewaters-century-old-allegheny-river-lock-chamber-critical-repairs",
+      "publishedAt": "2026-11-06T16:34:39Z"
+    },
+    {
+      "id": "c1ab922aa18a4d79477c1f76",
+      "title": "Two in a row: Armaments Center receives Hopper Award for Software Maintenance Excellence for second straight year",
+      "summary": "PICATINNY ARSENAL, N.J. - For the third year, and second consecutive, the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center has received the prestigious Rear Admiral Grace M. Hopper Award for Software Maintenance Excellence.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578804/two-row-armaments-center-receives-hopper-award-software-maintenance-excellence-second-straight-year",
+      "publishedAt": "2026-11-06T16:30:10Z"
+    },
+    {
+      "id": "b396a6f15334bdfa29988797",
+      "title": "NETCOM engages industry to advance innovation, global network modernization",
+      "summary": "FORT HUACHUCA, Ariz. — As the Army continues to modernize its network and strengthen its ability to operate across multiple domains, leaders from the U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578800/netcom-engages-industry-advance-innovation-global-network-modernization",
+      "publishedAt": "2026-11-06T16:25:13Z"
+    },
+    {
+      "id": "523f1d010a1018db9ff2cf97",
+      "title": "U.S. Army honors Wisconsin son, killed on an Italian battlefield in WWI",
+      "summary": "SAN DONÀ DI PIAVE, Italy – Lt. Edward Michael McKey, an American Red Cross volunteer, arrived in Italy with a simple purpose – to help those caught in the devastation of war. He carried no rifle.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578794/us-army-honors-wisconsin-son-killed-italian-battlefield-wwi",
+      "publishedAt": "2026-11-06T16:11:54Z"
+    },
+    {
+      "id": "fe42ca0acc0b1289df26a76c",
+      "title": "Health Facility Planning Agency cases colors, commemorates decades of service",
+      "summary": "The U.S. Army Health Facility Planning Agency formally cased its colors during an inactivation ceremony at Defense Health Headquarters, Sept. 22, marking the completion of the organization’s service to Army Medicine and the nation.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578798/health-facility-planning-agency-cases-colors-commemorates-decades-service",
+      "publishedAt": "2026-11-06T16:02:47Z"
+    },
+    {
+      "id": "c2e844d865a62dd3a72b0645",
+      "title": "US European Command launches vigilance campaign as hybrid threats mount",
+      "summary": "U.S. European Command is calling on U.S. troops, family members, and civilian employees to stay alert for suspicious behavior and to cover their digital tracks while moving around Europe.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/2026/11/06/us-european-command-launches-vigilance-campaign-as-hybrid-threats-mount/",
+      "publishedAt": "2026-11-06T15:39:51Z"
+    },
+    {
+      "id": "428d203d6f7a84de2b7994a7",
+      "title": "Fort Buchanan firefighters teach fire safety to Coast Guard preschoolers",
+      "summary": "Installation U.S. Army civilian firefighters taught preschoolers to recognize firefighters as trusted helpers in emergencies Oct. 9 at the U.S. Coast Guard Child Development Center in Río Bayamón Housing, reinforcing fire safety awareness and strengthening ties with military families.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578792/fort-buchanan-firefighters-teach-fire-safety-coast-guard-preschoolers",
+      "publishedAt": "2026-11-06T15:28:30Z"
+    },
+    {
+      "id": "c6e9a476adf25a2db76dbfb1",
+      "title": "US Air Force eyes reviving WWII air bases in the Pacific",
+      "summary": "The U.S. Air Force hopes to conduct more than 6,000 aircraft operations annually at airfields on three American islands in the northwest Pacific Ocean.",
+      "category": "Air Force",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/global/asia-pacific/2026/11/06/us-air-force-eyes-reviving-wwii-air-bases-in-the-pacific/",
+      "publishedAt": "2026-11-06T15:28:23Z"
+    },
+    {
+      "id": "133f37e1ed1204a4aa848b4e",
+      "title": "Lost in 1951, Korean War Soldier to be Laid to Rest in Illinois",
+      "summary": "The remains of U.S. Army Sgt. Joseph Alfred Platzkoester, missing from the Korean War, will be interred November 11 at Green Mount Catholic Cemetery in Belleville, Illinois. Services and interment are being coordinated by Renner’s Funeral Home.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578790/lost-1951-korean-war-soldier-laid-rest-illinois",
+      "publishedAt": "2026-11-06T15:12:43Z"
+    },
+    {
+      "id": "6265ba02b3100e9e5344673e",
+      "title": "The Navy’s trainer is now the biggest test of the Pentagon’s acquisition reform efforts",
+      "summary": "With the competition effectively reduced to one bidder, the Navy faces a choice between falling back on old acquisition habits and showing that its reforms can work under pressure, writes Robbin Laird.",
+      "category": "Navy",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/the-navys-trainer-is-now-the-biggest-test-of-the-pentagons-acquisition-reform-efforts/",
+      "publishedAt": "2026-11-06T15:08:00Z"
+    },
+    {
+      "id": "b24a9c6c8b64b7ec1b1ece89",
+      "title": "How World War I advanced U.S. military medicine",
+      "summary": "U.S. military medical teams accelerated lasting innovations during World War I through breakthroughs in combat care, including frontline surgery, blood storage, mental healthcare, physical rehabilitation, and additional innovative treatments of warfighters — transforming military medicine into a collaborative, lifesaving system, laying the…",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578786/world-war-advanced-us-military-medicine",
+      "publishedAt": "2026-11-06T14:58:39Z"
+    },
+    {
+      "id": "c84f68d30dc66a01bbde45e9",
+      "title": "National Guard expands free childcare program for drill weekends, but with some caveats",
+      "summary": "The expansion aims to make it easier for soldiers and their families, but one childcare expert argued that some of the eligibility requirements may limit its effectiveness. The post National Guard expands free childcare program for drill weekends, but with some caveats appeared first on Task & Purpose .",
+      "category": "Army",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/national-guard-childcare-drill-weekend/",
+      "publishedAt": "2026-11-06T14:58:22Z"
+    },
+    {
+      "id": "5b099faeb239efa224039483",
+      "title": "Lost in 1945, WWII Airman Will Be Laid to Rest in Florida",
+      "summary": "The remains of U.S. Army Air Forces Sgt. Leonard J. McNeill, 27, of Orlando, Florida, who died as a prisoner of war during World War II, will be interred Nov. 11 at Greenwood Cemetery in Orlando, Florida. Services and interment are being coordinated by Colonial Funeral Home.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578789/lost-1945-wwii-airman-will-laid-rest-florida",
+      "publishedAt": "2026-11-06T14:54:20Z"
+    },
+    {
+      "id": "65b9fe06afe271ffbe66456d",
+      "title": "DeCA honors 251 years of the U.S. Marine Corps",
+      "summary": "The Defense Commissary Agency honors the U.S. Marine Corps on its 251st birthday Nov. 10, recognizing the Corps’ enduring legacy and DeCA’s long-standing support for Marines and their families.",
+      "category": "Marine Corps",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578787/deca-honors-251-years-us-marine-corps",
+      "publishedAt": "2026-11-06T14:40:58Z"
+    },
+    {
+      "id": "28d7cf677dda767822d1c254",
+      "title": "65th FAB Recognized as Nation’s Top Artillery Battery",
+      "summary": "Soldiers from Headquarters and Headquarters Battery, 65th Field Artillery Brigade gathered at Camp Williams to receive the Alexander Hamilton Award on Thursday, Nov. 5, 2026, officially recognizing the unit as the nation's best Army National Guard battery of 2025. The award was presented by Brig. Gen. Jason T.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578785/65th-fab-recognized-nations-top-artillery-battery",
+      "publishedAt": "2026-11-06T14:35:50Z"
+    },
+    {
+      "id": "59340f148b7da5299bb27399",
+      "title": "Key Space Force satellites can’t talk to each other, likely requiring $1B solution: Sources",
+      "summary": "To translate between the SpaceX-built SDN Backbone and other Pentagon communications and missile tracking satellites, sources said the Space Force is eyeing 12 or 13 Space Exchange Point birds.",
+      "category": "Space Force",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/key-space-force-satellites-cant-talk-to-each-other-likely-requiring-1b-solution-sources/",
+      "publishedAt": "2026-11-06T14:15:00Z"
+    },
+    {
+      "id": "b5da1378f9e12fe86f80e762",
+      "title": "Corps of Engineers, TVA earn national geology award for Chickamauga Lock project",
+      "summary": "The U.S. Army Corps of Engineers Nashville District and the Tennessee Valley Authority received the 2026 Outstanding Environmental and Engineering Geologic Project Award on Sept. 16, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578777/corps-engineers-tva-earn-national-geology-award-chickamauga-lock-project",
+      "publishedAt": "2026-11-06T13:55:43Z"
+    },
     {
       "id": "2a1f36b1dbd2752db4277279",
       "title": "7th Communication Battalion celebrates enduring friendship at Moon Festival",
@@ -208,159 +361,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/11/04/amid-iran-conflict-non-hostile-deaths-of-2-us-airmen-raise-overseas-toll-to-23/",
       "publishedAt": "2026-11-04T23:08:17Z"
-    },
-    {
-      "id": "d631588bb2dea5693430f206",
-      "title": "Fantastic Five: Introducing the TACOM Hall of Fame Class of 2026",
-      "summary": "Five careers. Decades of impact. One enduring legacy. Meet the former Army Civilians whose achievements, leadership and commitment to excellence earned them a spot in the U.S. Army Tank-automotive and Armaments Command Hall of Fame.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578628/fantastic-five-introducing-tacom-hall-fame-class-2026",
-      "publishedAt": "2026-11-04T23:07:48Z"
-    },
-    {
-      "id": "62698550e2c5f96f6b611681",
-      "title": "Michelle Link named TACOM ILSC executive director",
-      "summary": "Michelle A. Link took the helm last month of the U.S. Army Tank-automotive and Armaments Command’s Integrated Logistics Support Center, leveraging decades of logistics and acquisition experience to forge future readiness.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578632/michelle-link-named-tacom-ilsc-executive-director",
-      "publishedAt": "2026-11-04T23:07:48Z"
-    },
-    {
-      "id": "414459ea33457a7ae4bf86b1",
-      "title": "TACOM welcomes newest Hall of Fame inductees",
-      "summary": "Smiles, hugs and happy tears filled the Detroit Arsenal as five people who spent decades shaping the U.S. Army Tank-automotive and Armaments Command took a permanent place in its history. Agnes E. Holley-Smith, David W. Horton, Michele M. Moore, James “Patton” Tidwell and David L. Van Agtmael were inducted Oct. 28 into the TACOM Hall of Fame.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578625/tacom-welcomes-newest-hall-fame-inductees",
-      "publishedAt": "2026-11-04T23:07:47Z"
-    },
-    {
-      "id": "3610e97b9c59d8f8c865dfcc",
-      "title": "Beyond the fence: Army and community partners work together to clean up Dillingham Army Beach",
-      "summary": "U.S. Army Garrison Hawaii joined state agencies, nonprofit organizations and community volunteers for a coordinated cleanup at Dillingham Army Beach on Oct. 24, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578623/beyond-fence-army-and-community-partners-work-together-clean-up-dillingham-army-beach",
-      "publishedAt": "2026-11-04T21:03:11Z"
-    },
-    {
-      "id": "24630e6e4a3a41825242bf55",
-      "title": "Mobile Army Surgical Hospitals: A history of saving lives on the battlefield",
-      "summary": "During World War II, the U.S. Army opened its first Mobile Army Surgical Hospitals, changing the way the wounded were treated in battle for several decades — saving lives and increasing warfighter readiness. Combining mobility, surgery, and post-op care, MASH units were known as the front-line surgical hospitals of the future.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578618/mobile-army-surgical-hospitals-history-saving-lives-battlefield",
-      "publishedAt": "2026-11-04T20:49:20Z"
-    },
-    {
-      "id": "c838c9f2d7ec2ccb3cfbd51f",
-      "title": "Detroit District accepting entries for annual photo contest",
-      "summary": "The Detroit District invites the public to enter its 11th annual photo contest highlighting U.S. Army Corps of Engineers sites across the Great Lakes.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578620/detroit-district-accepting-entries-annual-photo-contest",
-      "publishedAt": "2026-11-04T20:22:07Z"
-    },
-    {
-      "id": "275f2a7a881de77b32f4b831",
-      "title": "Under threat of air strikes, US looks to bolster base infrastructure with 3D printing",
-      "summary": "U.S. Air Force officials conceded that troop housing at Middle East bases was \"never designed for the threat environment now arriving overhead.\"",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/global/mideast-africa/2026/11/04/under-threat-of-air-strikes-us-looks-to-bolster-base-infrastructure-with-3d-printing/",
-      "publishedAt": "2026-11-04T20:16:52Z"
-    },
-    {
-      "id": "53a9135ee8029bb67807b237",
-      "title": "U.S. Naval Academy Launches Inaugural Warfighting Industry Showcase during 16th Annual NASEC to Accelerate Fleet Lethality",
-      "summary": "The U.S. Naval Academy hosted its 16th annual Naval Academy Science and Engineering Conference (NASEC) alongside its inaugural Warfighting Industry Showcase to address strategic competition and accelerate Fleet lethality.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578613/us-naval-academy-launches-inaugural-warfighting-industry-showcase-during-16th-annual-nasec-accelerate-fleet-lethality",
-      "publishedAt": "2026-11-04T19:31:40Z"
-    },
-    {
-      "id": "95eed2d599302cbc6fba4e45",
-      "title": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
-      "summary": "As the American military seeks new capabilities and advanced systems amid rapid change, defense companies of all sizes showcased their solutions at a major defense conference.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/video/2026/11/04/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26/",
-      "publishedAt": "2026-11-04T18:27:06Z"
-    },
-    {
-      "id": "e04046a8501c2a7e76856122",
-      "title": "The Pentagon needs more ammo for the Iran war. Small communities are paying the price.",
-      "summary": "From polluted waterways to repeated safety violations, the Army’s aging ammunition factories have left a troubling legacy, The War Horse reports.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/pentagon/2026/11/04/the-pentagon-needs-more-ammo-for-the-iran-war-small-communities-are-paying-the-price/",
-      "publishedAt": "2026-11-04T17:38:06Z"
-    },
-    {
-      "id": "c7e5cd9639dd2570c649dba6",
-      "title": "Illinois Army National Guard Major Retires After More Than 25 Years of Service",
-      "summary": "Maj. Craig M. Watkins of the Illinois Army National Guard’s 34th Division Sustainment Brigade retired on Saturday, Sept. 12, during a ceremony at the historic Kedzie Avenue Armory, culminating more than 25 years of dedicated military service.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578577/illinois-army-national-guard-major-retires-after-more-than-25-years-service",
-      "publishedAt": "2026-11-04T16:50:24Z"
-    },
-    {
-      "id": "4b7704eb1553e8dcd9c2a866",
-      "title": "Royal Navy Carriers Operate in the High North, Mediterranean",
-      "summary": "Royal Navy aircraft carrier HMS Prince of Wales (R09) is conducting operations across the High North as HMS Queen Elizabeth (RO8) trains in the Mediterranean.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/04/royal-navy-carriers-operate-in-the-high-north-mediterranean",
-      "publishedAt": "2026-11-04T16:45:40Z"
-    },
-    {
-      "id": "86354c8ded32ad30778d44f8",
-      "title": "Lost in 1951, Korean War Soldier Returns Home to Pennsylvania for Final Rest",
-      "summary": "The remains of U.S. Army Sgt. Henry L. Huber, 22, who was killed during the Korean War, will be interred at Ott Cemetery in his hometown of Ridgway, Pennsylvania. Service and interment are being coordinated by Krise Funeral Home & Cremation.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578585/lost-1951-korean-war-soldier-returns-home-pennsylvania-final-rest",
-      "publishedAt": "2026-11-04T16:39:16Z"
-    },
-    {
-      "id": "715ef0c18bcedb9d6fdc3038",
-      "title": "Driven to serve: Wilmington District employee expands emergency response capabilities",
-      "summary": "A U.S. Army Corps of Engineers Wilmington District emergency management specialist recently earned her qualification as a Deployable Tactical Operations System (DTOS) operator, expanding the enterprise's pool of personnel available to support disaster response missions.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578583/driven-serve-wilmington-district-employee-expands-emergency-response-capabilities",
-      "publishedAt": "2026-11-04T16:35:14Z"
-    },
-    {
-      "id": "deef836190e6086500794f8c",
-      "title": "Lost in 1941, WWII Soldier Returns Home to Virginia for Final Rest",
-      "summary": "The remains of U.S. Army Cpl. Byron F. Beard, Jr., 23, who was captured and died as a prisoner of war during World War II, will be interred Nov. 11 at Holston View Cemetery in Weber City, near his hometown of Fort Blackmore, Virginia. Services and interment are being coordinated by Fischer Funeral Services 276-594-1874.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578574/lost-1941-wwii-soldier-returns-home-virginia-final-rest",
-      "publishedAt": "2026-11-04T15:33:53Z"
-    },
-    {
-      "id": "24766bbeb6450dfacb46524a",
-      "title": "U.S. Army Corps of Engineers waives day use fees at recreation areas in observance of Veterans Day",
-      "summary": "The U.S. Army Corps of Engineers Pittsburgh District announces it will waive day-use fees at all district-operated recreation areas in observance of Veterans Day, Nov. 11.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578572/us-army-corps-engineers-waives-day-use-fees-recreation-areas-observance-veterans-day",
-      "publishedAt": "2026-11-04T15:17:31Z"
-    },
-    {
-      "id": "e2c5493e67f64183eedd345f",
-      "title": "New Jersey's 31st National DEA Take Back Day Oct 2026",
-      "summary": "Members of the New Jersey National Guard Counterdrug Program accompany Drug Enforcement Agents in the collection and disposal of prescription medications during Operation Take Back New Jersey, October 26-27, 2026",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578570/new-jerseys-31st-national-dea-take-back-day-oct-2026",
-      "publishedAt": "2026-11-04T14:55:58Z"
     }
   ],
   "nextPage": "pages/page-2.json"

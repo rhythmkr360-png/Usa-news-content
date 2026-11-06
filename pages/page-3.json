@@ -1,7 +1,160 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T06:53:27Z",
+  "generatedAt": "2026-11-06T16:48:00Z",
   "articles": [
+    {
+      "id": "ffe5e5a53e989aed8af25501",
+      "title": "Could the DC National Guard mission become the Army’s standard for quality of life?",
+      "summary": "There is an asterisk. This is a high-profile assignment with a budget to match that allows commanders the kind of flexibility to problem-solve that they rarely have in garrison. The post Could the DC National Guard mission become the Army’s standard for quality of life? appeared first on Task & Purpose .",
+      "category": "Army",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/opinion/quality-of-life-army-dc-national-guard-standard/",
+      "publishedAt": "2026-11-03T16:14:18Z"
+    },
+    {
+      "id": "d434a223b12376b2273db9be",
+      "title": "Lyster Lab Team Earns CAP Accreditation",
+      "summary": "FORT RUCKER, Ala. — The Lyster Army Health Clinic Laboratory has successfully achieved accreditation from the College of American Pathologists (CAP), demonstrating a continued commitment to clinical excellence and patient safety across the Fort Rucker military community.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578496/lyster-lab-team-earns-cap-accreditation",
+      "publishedAt": "2026-11-03T15:57:23Z"
+    },
+    {
+      "id": "3eca99cb02018489144c6405",
+      "title": "\"Plant The Promise\" Event held in Sussex County, NJ in Honor of Red Ribbon Week",
+      "summary": "In recognition of Red Ribbon Week, the Center for Prevention & Counseling (CPC) in Sussex County partnered with participating schools and the New Jersey National Guard Drug Demand Reduction Outreach section of the CounterDrug Task Force for the “Plant the Promise” activity.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578495/plant-promise-event-held-sussex-county-nj-honor-red-ribbon-week",
+      "publishedAt": "2026-11-03T15:40:25Z"
+    },
+    {
+      "id": "20817cd855ae1307a8b61339",
+      "title": "Former Army secretary Dan Driscoll heads to OpenAI",
+      "summary": "“I’m joining OpenAI to help the United States and our allies put this technology to work responsibly, for the people who keep us safe,” Dan Driscoll said in OpenAI’s announcement.",
+      "category": "Army",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/former-army-secretary-heads-to-openai/",
+      "publishedAt": "2026-11-03T15:25:12Z"
+    },
+    {
+      "id": "4c7e6a43fa1fbb4258f62bda",
+      "title": "The Congressional ‘right to repair’ solution needs some repairs itself",
+      "summary": "Better licensing and data management would do more for the Pentagon’s maintainers than sweeping new government rights to defense intellectual property, argues Elaine McCusker of AEI.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/the-congressional-right-to-repair-solution-needs-some-repairs-itself/",
+      "publishedAt": "2026-11-03T14:30:00Z"
+    },
+    {
+      "id": "5ab0bd24069ec690522d1f82",
+      "title": "USAG Japan trains alongside Sagamihara City partners to ensure community safety",
+      "summary": "SAGAMIHARA, Japan — Firefighters from U.S. Army Garrison Japan participated in the annual Comprehensive Disaster Preparedness Drill Oct. 25 at a joint-use area here near Sagami General Depot.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578478/usag-japan-trains-alongside-sagamihara-city-partners-ensure-community-safety",
+      "publishedAt": "2026-11-03T08:24:26Z"
+    },
+    {
+      "id": "3b0edbd7d94e78da87e8426b",
+      "title": "Engineer Facilities Detachment Provide Rapid Assessments During CSTX",
+      "summary": "U.S. Army Reserve Soldiers participated in Operation Sentinel Justice June 9-17, 2026, at Camp Shelby, Miss. An estimated 12,000 Soldiers participated in the exercise with the 200th Military Police Command and its subordinate units as the focal point of the exercise.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578473/engineer-facilities-detachment-provide-rapid-assessments-during-cstx",
+      "publishedAt": "2026-11-03T04:32:21Z"
+    },
+    {
+      "id": "db4b623a079d1138db74382e",
+      "title": "Inside a Contingency Command Post",
+      "summary": "Contingency Command Posts are subordinate to a Theater Engineer Command and assigned an area of focus. In the U.S. Army Reserve there are two Theater Engineer Commands, one west of the Mis-sissippi River and one east of the River. Within the TECs, there are two CCPs.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578474/inside-contingency-command-post",
+      "publishedAt": "2026-11-03T04:25:44Z"
+    },
+    {
+      "id": "bb4b58a0579f53d2a81468a7",
+      "title": "USACE 51C Commissioned Officer of the Year: Far East District's Supnet earns back-to-back recognition",
+      "summary": "CAMP HUMPHREYS, South Korea — Lt. Col. Jason A. Supnet, military deputy chief of contracting for the U.S. Army Corps of Engineers – Far East District (USACE FED), was named the 2026 USACE 51C Commissioned Officer of the Year, earning the recognition for the second consecutive year.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578469/usace-51c-commissioned-officer-year-far-east-districts-supnet-earns-back-back-recognition",
+      "publishedAt": "2026-11-03T01:58:18Z"
+    },
+    {
+      "id": "d467b2945978eb3189647296",
+      "title": "USFK Commander to Industry at TechNet: ‘Design Combined from the First Line of Code’",
+      "summary": "HONOLULU, Hawaii — Gen. Xavier T. Brunson, commander of United Nations Command, Combined Forces Command, and U.S. Forces Korea, urged military and defense industry leaders to prioritize seamless coalition networks during the 2026 TechNet Indo-Pacific conference in Honolulu.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578468/usfk-commander-industry-technet-design-combined-first-line-code",
+      "publishedAt": "2026-11-03T01:14:39Z"
+    },
+    {
+      "id": "cb3a3dcd6b18d8ea0bc6542f",
+      "title": "Bangladesh Navy, U.S. Navy kick off CARAT Bangladesh 2026",
+      "summary": "Sailors and maritime forces from the Bangladesh Navy and U.S. Navy gathered in Chattogram, Nov. 2, for an opening ceremony to commence the annual Cooperation Afloat Readiness and Training (CARAT) Bangladesh 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578466/bangladesh-navy-us-navy-kick-off-carat-bangladesh-2026",
+      "publishedAt": "2026-11-03T00:50:12Z"
+    },
+    {
+      "id": "812b44b9c0faf46e9a27759f",
+      "title": "Wisconsin Army National Guard aviation crews continue readiness training at Fort McCoy during October 2026",
+      "summary": "Aircrews from the Wisconsin Army National Guard's 1st Battalion, 147th Aviation Regiment (1-147th Aviation) completed another unit training effort Oct. 9, 2026, at Fort McCoy, continuing a longstanding relationship between the aviation unit and the installation.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578465/wisconsin-army-national-guard-aviation-crews-continue-readiness-training-fort-mccoy-during-october-2026",
+      "publishedAt": "2026-11-02T23:29:53Z"
+    },
+    {
+      "id": "0cf3ad44e84dbfd6fd684ca8",
+      "title": "Keeping Travis healthy: DGMC hosts inaugural community health fair",
+      "summary": "David Grant USAF Medical Center hosted the inaugural 2026 DGMC Community Health Fair at Travis Air Force Base, California, Oct. 23, 2026. The health fair began with a 5K run, aiming to promote good health and fitness, and continued with an array of DGMC booths.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578463/keeping-travis-healthy-dgmc-hosts-inaugural-community-health-fair",
+      "publishedAt": "2026-11-02T23:01:14Z"
+    },
+    {
+      "id": "c433f6c0698796969c09edde",
+      "title": "USNI News Fleet and Marine Tracker: Nov. 2, 2026",
+      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 2, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/02/usni-news-fleet-and-marine-tracker-nov-2-2026",
+      "publishedAt": "2026-11-02T21:46:18Z"
+    },
+    {
+      "id": "716120c90e0bbf663f77c914",
+      "title": "CECOM in 2026: Delivering modernized support where Soldiers need it most",
+      "summary": "Over the past year, the U.S. Army Communications-Electronics Command advanced Army readiness by synchronizing lifecycle support, modernization, and point-of-need maintenance for an Army that increasingly relies on software-defined, interconnected, and rapidly evolving systems.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578453/cecom-2026-delivering-modernized-support-soldiers-need-most",
+      "publishedAt": "2026-11-02T21:18:38Z"
+    },
+    {
+      "id": "3fcf16a4eead1b2f2f086cc7",
+      "title": "Idaho Army National Guard fights Big Grass Fire",
+      "summary": "The Idaho Army National Guard was activated from July 30 to August 21 to support the Idaho Department of Lands and federal partners battle the Big Grass Fire in the Owyhee Mountain Complex.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578455/idaho-army-national-guard-fights-big-grass-fire",
+      "publishedAt": "2026-11-02T21:12:59Z"
+    },
+    {
+      "id": "940fdd6b4de73157e82f96b8",
+      "title": "62d APS Airman Earns the Bronze Star",
+      "summary": "U.S. Air Force Tech. Sgt. Vincent Simmons, 62d Aerial Port Squadron contracting officer representative, was awarded the Bronze Star medal for meritorious achievement during his deployment to the U.S. Central Command area of responsibility.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578439/62d-aps-airman-earns-bronze-star",
+      "publishedAt": "2026-11-02T21:09:16Z"
+    },
     {
       "id": "21661d9e8e6ce0f3fe4cde14",
       "title": "Space Force activates special operations component command in Tampa",
@@ -208,159 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578347/jrtc-and-fort-polk-welcomes-brig-gen-matthew-j-hardman",
       "publishedAt": "2026-10-30T19:29:26Z"
-    },
-    {
-      "id": "1c28f1ff255f6e90a7982db4",
-      "title": "2 airmen died in noncombat incidents while supporting Iran war operations",
-      "summary": "Two airmen died in non-hostile incidents in October, the Pentagon revealed late on Thursday. The post 2 airmen died in noncombat incidents while supporting Iran war operations appeared first on Task & Purpose .",
-      "category": "Air Force",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/iran-war-death-toll-23-air-force/",
-      "publishedAt": "2026-10-30T17:50:06Z"
-    },
-    {
-      "id": "326ef7c78e0ecef09239c5a2",
-      "title": "Pentagon reveals FY26 intelligence budget at $30.9 billion",
-      "summary": "Meanwhile, the National Intelligence Program budget was revealed at $78.1 billion.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/pentagon-reveals-fy26-intelligence-budget-at-30-9-billion/",
-      "publishedAt": "2026-10-30T17:28:09Z"
-    },
-    {
-      "id": "c4cc223da27ca13a2b7bc87b",
-      "title": "‘The combat capability we need’: Caine touts air reserve components at military, industry-centered gathering",
-      "summary": "More than 20 years after arriving at the Air National Guard Air Force Reserve Command Test Center, U.S. Air Force Gen.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578307/combat-capability-we-need-caine-touts-air-reserve-components-military-industry-centered-gathering",
-      "publishedAt": "2026-10-30T17:24:10Z"
-    },
-    {
-      "id": "a4353164bbbe43a94eeb6077",
-      "title": "Annual Kentucky Guard youth hunt teaches outdoor skills, gun safety",
-      "summary": "The Kentucky National Guard hosted its annual youth hunt Oct. 15-18, 2026, at Wendell H. Ford Regional Training Center in Greenville, Ky., providing military, foster and at-risk youth with hands-on instruction in firearm safety, hunting ethics and outdoor skills.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578326/annual-kentucky-guard-youth-hunt-teaches-outdoor-skills-gun-safety",
-      "publishedAt": "2026-10-30T17:19:19Z"
-    },
-    {
-      "id": "89b9aee17ed9529845f9d2fb",
-      "title": "From Fort to Port: 597th Transportation Brigade Synchronizes with Industry Partners at NDTA 2026",
-      "summary": "FORT EUSTIS, Va.— Senior leaders and logistics planners from the 597th Transportation Brigade, ARTRANS, took center stage as a primary operational benchmark during the 2026 National Defense Transportation Association (NDTA) and U.S. Transportation Command (USTRANSCOM) Fall Meeting, held Oct. 26-29 at the Gaylord Texan Resort in Grapevine, Texas.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578321/fort-port-597th-transportation-brigade-synchronizes-with-industry-partners-ndta-2026",
-      "publishedAt": "2026-10-30T16:18:57Z"
-    },
-    {
-      "id": "959b8e3cbf164f7a954f8707",
-      "title": "Pentagon eyes ‘public-private partnerships’ to help fund FORTRESS America homeland base plan",
-      "summary": "“The model that we’re trying to drive on is not me having to go back up on Capitol Hill with my hand out,” Assistant Secretary of Defense for Energy, Installations, and Environment Dale Marks told Breaking Defense.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/pentagon-eyes-public-private-partnerships-to-help-fund-fortress-america-homeland-base-plan/",
-      "publishedAt": "2026-10-30T15:35:59Z"
-    },
-    {
-      "id": "d50edcd38c205a74f1960298",
-      "title": "U.S. Navy launches Train-REX to address Fleet training gaps",
-      "summary": "In an effort to improve training opportunities for deployed technologies within the Fleet maintenance workforce, Naval Sea Systems Command and Naval Undersea Warfare Center Division, Keyport completed the first phase of the Training Repair Technology Exercise at Naval Undersea Warfare Center Division, Keyport, Sept. 14 - 18.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578290/us-navy-launches-train-rex-address-fleet-training-gaps",
-      "publishedAt": "2026-10-30T15:15:34Z"
-    },
-    {
-      "id": "71ded1f694b4fdaf98e61419",
-      "title": "ACC Employees Selected for Emerging Contract Leaders Seminar",
-      "summary": "Five mid-career U.S. Army Contracting Command professionals have been selected to attend the Emerging Contract Leaders Seminar from November 17-20, 2026, at Warfighting Acquisition University at Ft. Belvoir.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578308/acc-employees-selected-emerging-contract-leaders-seminar",
-      "publishedAt": "2026-10-30T15:12:58Z"
-    },
-    {
-      "id": "4c3d34089a60e44a0096be36",
-      "title": "ASAE case management supports security cooperation with Americas Counter Cartel Coalition partners",
-      "summary": "The U.S. Army Security Assistance Enterprise, or ASAE, recently supported delivery of approved security assistance capabilities to partner nations in the Western Hemisphere. Recipients included Paraguay, Panama, Guatemala, Honduras, and El Salvador, all member nations of the Americas Counter Cartel Coalition, or A3C.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578305/asae-case-management-supports-security-cooperation-with-americas-counter-cartel-coalition-partners",
-      "publishedAt": "2026-10-30T14:56:56Z"
-    },
-    {
-      "id": "4547034519d1a3c354316508",
-      "title": "EOS Defense Systems Prepares to Build Slinger Counter-Drone Systems",
-      "summary": "EOS Defense Systems discusses plans for U.S. production of its Slinger counter-drone system, AI-assisted targeting and adjustable levels of autonomy.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/video/2026/10/30/eos-defense-systems-prepares-to-build-slinger-counter-drone-systems/",
-      "publishedAt": "2026-10-30T14:28:39Z"
-    },
-    {
-      "id": "3b1501622d85ff0c156d186e",
-      "title": "Pentagon tells Europeans to cool their rhetoric on Russia, sources say",
-      "summary": "Pentagon officials have in recent weeks asked several NATO countries to tone down their rhetoric regarding the threat posed by Russia, sources told Reuters.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/global/europe/2026/10/30/pentagon-tells-europeans-to-cool-their-rhetoric-on-russia-sources-say/",
-      "publishedAt": "2026-10-30T10:48:59Z"
-    },
-    {
-      "id": "ff7a96d0efa849b2e30a28a9",
-      "title": "Army CIO, ARCYBER host 2026 Cybersecurity Awareness Forum",
-      "summary": "The Army Office of the Chief Information Officer and U.S. Army Cyber Command co-hosted the 2026 Army Cybersecurity Awareness Forum from Oct. 28 to 29. The two-day virtual event gathered senior Army leaders and cybersecurity professionals to discuss strategies for addressing emerging cyber threats.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578276/army-cio-arcyber-host-2026-cybersecurity-awareness-forum",
-      "publishedAt": "2026-10-30T08:29:22Z"
-    },
-    {
-      "id": "3b04cbfb6827c0e00ef90c8c",
-      "title": "Why I Serve: LRMC Dental Laboratory Specialist Turns Craftsmanship into Military Service",
-      "summary": "Growing up in Lomé, Togo along the coast of Gulf of Guinea, Spc. Koffi Ballogou could not have known that his path would eventually lead him to serve in the U.S. Army.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578275/why-serve-lrmc-dental-laboratory-specialist-turns-craftsmanship-into-military-service",
-      "publishedAt": "2026-10-30T08:10:19Z"
-    },
-    {
-      "id": "5c6d220526a7cc8a60a31d2a",
-      "title": "USNMRTC/USNH Yokosuka Participate in CFAY-Led Keen Sword Exercise",
-      "summary": "YOKOSUKA, Japan — Commander, Fleet Activities Yokosuka (CFAY) led an active shooter response exercise Oct. 27 during Keen Sword 27, with personnel from U.S. Navy Medicine Readiness and Training Command Yokosuka (USNMRTC Yokosuka) and U.S. Naval Hospital Yokosuka (USNH Yokosuka) participating in the installation-wide drill.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578273/usnmrtc-usnh-yokosuka-participate-cfay-led-keen-sword-exercise",
-      "publishedAt": "2026-10-30T06:53:13Z"
-    },
-    {
-      "id": "f59e3c66d86ed13d9fdad7ed",
-      "title": "BS27-1: Financial support drives forward operations",
-      "summary": "IE SHIMA, Okinawa, Japan – U.S. Air Force Airmen assigned to the 18th Contracting Squadron and Marines from the Regional Disbursing Office - Pacific, Combat Logistics Regiment 37, worked together during Exercise Beverly Sword 27-1 to provide financial and logistical support for the 31st and 33rd Rescue Squadrons as they practiced forward…",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578271/bs27-1-financial-support-drives-forward-operations",
-      "publishedAt": "2026-10-30T05:36:01Z"
-    },
-    {
-      "id": "da72d9250c4ecf7bf0d38f5e",
-      "title": "BS27-1: Putting a price on port repairs",
-      "summary": "U.S. Air Force Airmen assigned to the 18th Contracting Squadron and 18th Comptroller Squadron worked together to assess repair costs, negotiate contracts and process payments following simulated damage to Naha Military Port during Exercise Beverly Sword 27-1, Oct. 30, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578270/bs27-1-putting-price-port-repairs",
-      "publishedAt": "2026-10-30T05:35:48Z"
-    },
-    {
-      "id": "2c32bb5d1c3bd3be1680b3b8",
-      "title": "BS27-1: Feeding the fight, sustaining readiness",
-      "summary": "U.S. Air Force Airmen assigned to the 718th Force Support Squadron demonstrated their ability to establish an alternate dining facility using Jack's Place to prepare and serve meals during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 29, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578266/bs27-1-feeding-fight-sustaining-readiness",
-      "publishedAt": "2026-10-30T05:24:53Z"
     }
   ],
   "nextPage": "page-4.json"

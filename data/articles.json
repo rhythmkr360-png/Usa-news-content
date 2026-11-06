@@ -1,5 +1,158 @@
 [
   {
+    "id": "e8a074486d0e866ccde96593",
+    "title": "Corps dewaters century-old Allegheny River lock chamber for critical repairs",
+    "summary": "At Allegheny River Lock and Dam 4, the U.S. Army Corps of Engineers Pittsburgh District completely drained the lock chamber, deployed dozens of personnel, cranes, boats, barges, and heavy equipment, and halted navigation through the vital inland waterway link for months because of a piece of wood.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578805/corps-dewaters-century-old-allegheny-river-lock-chamber-critical-repairs",
+    "publishedAt": "2026-11-06T16:34:39Z"
+  },
+  {
+    "id": "c1ab922aa18a4d79477c1f76",
+    "title": "Two in a row: Armaments Center receives Hopper Award for Software Maintenance Excellence for second straight year",
+    "summary": "PICATINNY ARSENAL, N.J. - For the third year, and second consecutive, the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center has received the prestigious Rear Admiral Grace M. Hopper Award for Software Maintenance Excellence.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578804/two-row-armaments-center-receives-hopper-award-software-maintenance-excellence-second-straight-year",
+    "publishedAt": "2026-11-06T16:30:10Z"
+  },
+  {
+    "id": "b396a6f15334bdfa29988797",
+    "title": "NETCOM engages industry to advance innovation, global network modernization",
+    "summary": "FORT HUACHUCA, Ariz. — As the Army continues to modernize its network and strengthen its ability to operate across multiple domains, leaders from the U.S.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578800/netcom-engages-industry-advance-innovation-global-network-modernization",
+    "publishedAt": "2026-11-06T16:25:13Z"
+  },
+  {
+    "id": "523f1d010a1018db9ff2cf97",
+    "title": "U.S. Army honors Wisconsin son, killed on an Italian battlefield in WWI",
+    "summary": "SAN DONÀ DI PIAVE, Italy – Lt. Edward Michael McKey, an American Red Cross volunteer, arrived in Italy with a simple purpose – to help those caught in the devastation of war. He carried no rifle.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578794/us-army-honors-wisconsin-son-killed-italian-battlefield-wwi",
+    "publishedAt": "2026-11-06T16:11:54Z"
+  },
+  {
+    "id": "fe42ca0acc0b1289df26a76c",
+    "title": "Health Facility Planning Agency cases colors, commemorates decades of service",
+    "summary": "The U.S. Army Health Facility Planning Agency formally cased its colors during an inactivation ceremony at Defense Health Headquarters, Sept. 22, marking the completion of the organization’s service to Army Medicine and the nation.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578798/health-facility-planning-agency-cases-colors-commemorates-decades-service",
+    "publishedAt": "2026-11-06T16:02:47Z"
+  },
+  {
+    "id": "c2e844d865a62dd3a72b0645",
+    "title": "US European Command launches vigilance campaign as hybrid threats mount",
+    "summary": "U.S. European Command is calling on U.S. troops, family members, and civilian employees to stay alert for suspicious behavior and to cover their digital tracks while moving around Europe.",
+    "category": "Defense",
+    "sourceName": "Defense News",
+    "sourceUrl": "https://www.defensenews.com/news/2026/11/06/us-european-command-launches-vigilance-campaign-as-hybrid-threats-mount/",
+    "publishedAt": "2026-11-06T15:39:51Z"
+  },
+  {
+    "id": "428d203d6f7a84de2b7994a7",
+    "title": "Fort Buchanan firefighters teach fire safety to Coast Guard preschoolers",
+    "summary": "Installation U.S. Army civilian firefighters taught preschoolers to recognize firefighters as trusted helpers in emergencies Oct. 9 at the U.S. Coast Guard Child Development Center in Río Bayamón Housing, reinforcing fire safety awareness and strengthening ties with military families.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578792/fort-buchanan-firefighters-teach-fire-safety-coast-guard-preschoolers",
+    "publishedAt": "2026-11-06T15:28:30Z"
+  },
+  {
+    "id": "c6e9a476adf25a2db76dbfb1",
+    "title": "US Air Force eyes reviving WWII air bases in the Pacific",
+    "summary": "The U.S. Air Force hopes to conduct more than 6,000 aircraft operations annually at airfields on three American islands in the northwest Pacific Ocean.",
+    "category": "Air Force",
+    "sourceName": "Defense News",
+    "sourceUrl": "https://www.defensenews.com/global/asia-pacific/2026/11/06/us-air-force-eyes-reviving-wwii-air-bases-in-the-pacific/",
+    "publishedAt": "2026-11-06T15:28:23Z"
+  },
+  {
+    "id": "133f37e1ed1204a4aa848b4e",
+    "title": "Lost in 1951, Korean War Soldier to be Laid to Rest in Illinois",
+    "summary": "The remains of U.S. Army Sgt. Joseph Alfred Platzkoester, missing from the Korean War, will be interred November 11 at Green Mount Catholic Cemetery in Belleville, Illinois. Services and interment are being coordinated by Renner’s Funeral Home.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578790/lost-1951-korean-war-soldier-laid-rest-illinois",
+    "publishedAt": "2026-11-06T15:12:43Z"
+  },
+  {
+    "id": "6265ba02b3100e9e5344673e",
+    "title": "The Navy’s trainer is now the biggest test of the Pentagon’s acquisition reform efforts",
+    "summary": "With the competition effectively reduced to one bidder, the Navy faces a choice between falling back on old acquisition habits and showing that its reforms can work under pressure, writes Robbin Laird.",
+    "category": "Navy",
+    "sourceName": "Breaking Defense",
+    "sourceUrl": "https://breakingdefense.com/2026/11/the-navys-trainer-is-now-the-biggest-test-of-the-pentagons-acquisition-reform-efforts/",
+    "publishedAt": "2026-11-06T15:08:00Z"
+  },
+  {
+    "id": "b24a9c6c8b64b7ec1b1ece89",
+    "title": "How World War I advanced U.S. military medicine",
+    "summary": "U.S. military medical teams accelerated lasting innovations during World War I through breakthroughs in combat care, including frontline surgery, blood storage, mental healthcare, physical rehabilitation, and additional innovative treatments of warfighters — transforming military medicine into a collaborative, lifesaving system, laying the…",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578786/world-war-advanced-us-military-medicine",
+    "publishedAt": "2026-11-06T14:58:39Z"
+  },
+  {
+    "id": "c84f68d30dc66a01bbde45e9",
+    "title": "National Guard expands free childcare program for drill weekends, but with some caveats",
+    "summary": "The expansion aims to make it easier for soldiers and their families, but one childcare expert argued that some of the eligibility requirements may limit its effectiveness. The post National Guard expands free childcare program for drill weekends, but with some caveats appeared first on Task & Purpose .",
+    "category": "Army",
+    "sourceName": "Task & Purpose",
+    "sourceUrl": "https://taskandpurpose.com/news/national-guard-childcare-drill-weekend/",
+    "publishedAt": "2026-11-06T14:58:22Z"
+  },
+  {
+    "id": "5b099faeb239efa224039483",
+    "title": "Lost in 1945, WWII Airman Will Be Laid to Rest in Florida",
+    "summary": "The remains of U.S. Army Air Forces Sgt. Leonard J. McNeill, 27, of Orlando, Florida, who died as a prisoner of war during World War II, will be interred Nov. 11 at Greenwood Cemetery in Orlando, Florida. Services and interment are being coordinated by Colonial Funeral Home.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578789/lost-1945-wwii-airman-will-laid-rest-florida",
+    "publishedAt": "2026-11-06T14:54:20Z"
+  },
+  {
+    "id": "65b9fe06afe271ffbe66456d",
+    "title": "DeCA honors 251 years of the U.S. Marine Corps",
+    "summary": "The Defense Commissary Agency honors the U.S. Marine Corps on its 251st birthday Nov. 10, recognizing the Corps’ enduring legacy and DeCA’s long-standing support for Marines and their families.",
+    "category": "Marine Corps",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578787/deca-honors-251-years-us-marine-corps",
+    "publishedAt": "2026-11-06T14:40:58Z"
+  },
+  {
+    "id": "28d7cf677dda767822d1c254",
+    "title": "65th FAB Recognized as Nation’s Top Artillery Battery",
+    "summary": "Soldiers from Headquarters and Headquarters Battery, 65th Field Artillery Brigade gathered at Camp Williams to receive the Alexander Hamilton Award on Thursday, Nov. 5, 2026, officially recognizing the unit as the nation's best Army National Guard battery of 2025. The award was presented by Brig. Gen. Jason T.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578785/65th-fab-recognized-nations-top-artillery-battery",
+    "publishedAt": "2026-11-06T14:35:50Z"
+  },
+  {
+    "id": "59340f148b7da5299bb27399",
+    "title": "Key Space Force satellites can’t talk to each other, likely requiring $1B solution: Sources",
+    "summary": "To translate between the SpaceX-built SDN Backbone and other Pentagon communications and missile tracking satellites, sources said the Space Force is eyeing 12 or 13 Space Exchange Point birds.",
+    "category": "Space Force",
+    "sourceName": "Breaking Defense",
+    "sourceUrl": "https://breakingdefense.com/2026/11/key-space-force-satellites-cant-talk-to-each-other-likely-requiring-1b-solution-sources/",
+    "publishedAt": "2026-11-06T14:15:00Z"
+  },
+  {
+    "id": "b5da1378f9e12fe86f80e762",
+    "title": "Corps of Engineers, TVA earn national geology award for Chickamauga Lock project",
+    "summary": "The U.S. Army Corps of Engineers Nashville District and the Tennessee Valley Authority received the 2026 Outstanding Environmental and Engineering Geologic Project Award on Sept. 16, 2026.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/578777/corps-engineers-tva-earn-national-geology-award-chickamauga-lock-project",
+    "publishedAt": "2026-11-06T13:55:43Z"
+  },
+  {
     "id": "2a1f36b1dbd2752db4277279",
     "title": "7th Communication Battalion celebrates enduring friendship at Moon Festival",
     "summary": "U.S. Marines with 7th Communication Battalion, III Marine Expeditionary Force Information Group, joined residents, staff and community members for the annual Moon Festival at Hikarigaoka Nursing Home, Oct. 31, 2026, continuing a friendship spanning more than three decades.",
@@ -1816,95 +1969,5 @@
     "sourceName": "Defense News",
     "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-army-looks-to-high-flying-balloons-to-help-see-strike-along-front-lines-with-china/",
     "publishedAt": "2026-10-27T17:22:47Z"
-  },
-  {
-    "id": "5279881ab9c9a562d74198bc",
-    "title": "US taps Poland to host European PAC-3 missile maintenance facility",
-    "summary": "The United States government has selected Poland to host a new European maintenance facility for Patriot Advanced Capability-3 (PAC-3) interceptors.",
-    "category": "Defense",
-    "sourceName": "Defense News",
-    "sourceUrl": "https://www.defensenews.com/global/europe/2026/10/27/us-taps-poland-to-host-european-pac-3-missile-maintenance-facility/",
-    "publishedAt": "2026-10-27T16:42:28Z"
-  },
-  {
-    "id": "8c377194c13534d2cb1c2ad3",
-    "title": "Lost in 1942, WWII Soldier Returns Home to Albuquerque for Final Rest",
-    "summary": "FORT KNOX, Ky. – The remains of U.S. Army Pvt. Robert E. Dubois, missing from World War II, will be interred Nov. 7 at Mount Cavalry Cemetery in Albuquerque, New Mexico. Services and interment are being coordinated by French Funerals & Cremations.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577967/lost-1942-wwii-soldier-returns-home-albuquerque-final-rest",
-    "publishedAt": "2026-10-27T15:08:38Z"
-  },
-  {
-    "id": "af927d60f6f14f958047b285",
-    "title": "U.S. Army, Colombian senior military leaders conclude Fort Bragg engagements",
-    "summary": "FORT BRAGG, N.C. — A Colombian joint-service senior enlisted delegation concluded a series of professional engagements here Oct. 20-23, gaining firsthand exposure to U.S. Army approaches to noncommissioned officer development, airborne readiness, Soldier fitness and innovation.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577965/us-army-colombian-senior-military-leaders-conclude-fort-bragg-engagements",
-    "publishedAt": "2026-10-27T15:04:31Z"
-  },
-  {
-    "id": "be9f0f0abf2ae25c0374a2f2",
-    "title": "USAG Stuttgart Housing Division Chief digs into new role with enthusiasm",
-    "summary": "U.S. Army Garrison Stuttgart is excited to welcome Charmoneaux “Charm” Sutton as the new Housing Division Chief, responsible for the quality and administration of one of the command’s most essential services.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577966/usag-stuttgart-housing-division-chief-digs-into-new-role-with-enthusiasm",
-    "publishedAt": "2026-10-27T14:55:10Z"
-  },
-  {
-    "id": "414c6c7eec878cf9a2650029",
-    "title": "How the Pentagon wants to buy cyber outcomes, not equipment",
-    "summary": "The Pentagon has been exploring a new paradigm dubbed Cyber Effects-as-a-Service, aiming to purchase specific outcomes as opposed to bespoke capabilities.",
-    "category": "Defense",
-    "sourceName": "Breaking Defense",
-    "sourceUrl": "https://breakingdefense.com/2026/10/how-the-pentagon-wants-to-buy-cyber-outcomes-not-equipment/",
-    "publishedAt": "2026-10-27T14:00:00Z"
-  },
-  {
-    "id": "3947a35b1bd96c215e4a6d9c",
-    "title": "U.S. Naval War College commemorates 80th anniversary of USS Missouri battleship visit to Istanbul",
-    "summary": "A delegation from the U.S. Naval War College visited Istanbul, Turkiye, to commemorate the 80th anniversary of the landmark 1946 visit by the battleship USS Missouri - a visit that was held to repatriate the body of the late Turkish ambassador, and would go on to be seen as the launch of a new era of U.S.-Turkiye bilateral relations.",
-    "category": "Navy",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577954/us-naval-war-college-commemorates-80th-anniversary-uss-missouri-battleship-visit-istanbul",
-    "publishedAt": "2026-10-27T13:50:45Z"
-  },
-  {
-    "id": "ff6f41aa32fdc0b831cd4087",
-    "title": "USAF should buy newly designed air refuelers to meet China threat: Report",
-    "summary": "Although there’s a “temptation” to keep buying KC-46s, a plan to procure 75 more of the Boeing-made tankers should be an “upper limit” followed by a new, longer range tanker, the Hudson Institute’s Timothy Walton told Breaking Defense.",
-    "category": "Air Force",
-    "sourceName": "Breaking Defense",
-    "sourceUrl": "https://breakingdefense.com/2026/10/usaf-should-buy-newly-designed-air-refuelers-to-meet-china-threat-report/",
-    "publishedAt": "2026-10-27T12:00:00Z"
-  },
-  {
-    "id": "d5a81d52e5687a3586159a64",
-    "title": "BS27-1: Rapid repairs, ready runways",
-    "summary": "KADENA AIR BASE, Japan -- U.S. Air Force Airmen assigned to the 18th Civil Engineer Squadron and 718th Civil Engineer Squadron practiced repairing simulated airfield damage during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 27, 2026.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577945/bs27-1-rapid-repairs-ready-runways",
-    "publishedAt": "2026-10-27T09:49:23Z"
-  },
-  {
-    "id": "3e6c4a2c81634d9f4da78181",
-    "title": "BS27-1: 18th SFS neutralizes the threat",
-    "summary": "When shots are fired, 18th Security Forces Squadron rushes toward the source. U.S. Air Force Airmen assigned to the 18th SFS responded to a simulated ground attack during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 26, 2026, neutralizing two simulated attackers and testing their ability to respond to evolving threats.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577943/bs27-1-18th-sfs-neutralizes-threat",
-    "publishedAt": "2026-10-27T08:12:33Z"
-  },
-  {
-    "id": "2e65b5b409b44e4e0acd5b1b",
-    "title": "KS27: U.S. and Japanese Airmen build readiness through combined training",
-    "summary": "The 909th Air Refueling Squadron and 718th Expeditionary Aircraft Maintenance Squadron arrived at Komaki Air Base, Japan, for exercise Keen Sword 27, Oct. 16, 2026.",
-    "category": "Air Force",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/577942/ks27-us-and-japanese-airmen-build-readiness-through-combined-training",
-    "publishedAt": "2026-10-27T07:18:23Z"
   }
 ]
