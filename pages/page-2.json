@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T23:12:48Z",
+  "generatedAt": "2026-11-07T06:03:45Z",
   "articles": [
+    {
+      "id": "98b024a60c72468f2369a2c3",
+      "title": "Sandusky Harbor Dredging Completed; Benefits Local Beach Nourishment",
+      "summary": "The U.S. Army Corps of Engineers, Buffalo District, completed dredging on Nov. 5 of approximately 109,000 cubic yards of sediment from Sandusky Harbor, ensuring safe and navigable waterways for Great Lakes commercial vessels, recreational boaters and other harbor users on Lake Erie.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578722/sandusky-harbor-dredging-completed-benefits-local-beach-nourishment",
+      "publishedAt": "2026-11-05T18:17:23Z"
+    },
+    {
+      "id": "67e888c055c14ac40abbcb42",
+      "title": "The military will start paying for troops’ theological degrees so they can become chaplains",
+      "summary": "The Pentagon’s new Chaplain In-Service Procurement Program is meant to extend the pipeline of incoming chaplains. The post The military will start paying for troops’ theological degrees so they can become chaplains appeared first on Task & Purpose .",
+      "category": "Defense",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/pentagon-chaplain-procurement-program/",
+      "publishedAt": "2026-11-05T18:13:50Z"
+    },
     {
       "id": "4291320d4ea4522f764f01f3",
       "title": "Army & Air Force Exchange Service Salutes Veterans with Free Challenge Coins on Veterans Day",
@@ -343,24 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578546/persistence-through-adversity-500th-military-intelligence-brigade-soldier-earns-promotion",
       "publishedAt": "2026-11-03T21:42:37Z"
-    },
-    {
-      "id": "284a239c5b60573c22864a6c",
-      "title": "159th Fighter Wing deploys to Japan in support of Theater Security Package",
-      "summary": "BELLE CHASSE, La. – Approximately 300 Airmen from the 159th Fighter Wing, Louisiana Air National Guard, deployed to Kadena Air Base, Japan, in support of a Theater Security Package, Oct. 23.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578545/159th-fighter-wing-deploys-japan-support-theater-security-package",
-      "publishedAt": "2026-11-03T21:27:22Z"
-    },
-    {
-      "id": "37f1820ce331772c85684db6",
-      "title": "Outstanding Service, Lasting Impact",
-      "summary": "For four years at Camp Pendleton, U.S. Marine Corps Staff Sgt. Juan C. Solis Jr. has volunteered to coach young athletes. A Marine, husband, and father, he built afternoons around practices, stayed late to help young athletes, and watched each player grow and apply what they learned.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578535/outstanding-service-lasting-impact",
-      "publishedAt": "2026-11-03T21:26:34Z"
     }
   ],
   "nextPage": "page-3.json"

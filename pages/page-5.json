@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T23:12:48Z",
+  "generatedAt": "2026-11-07T06:03:45Z",
   "articles": [
+    {
+      "id": "5814434c7a484d0ae1a01e95",
+      "title": "Army Assistant Secretary Andersen calls on private capital to rebuild 'Arsenal of Democracy'",
+      "summary": "The U.S. Army is overhauling its Cold War-era funding framework to partner directly with private capital markets, Assistant Secretary of the Army for Financial Management & Comptroller Marc Andersen shared with an audience of founders, startups, subject-matter experts, vice chairs, private equity, defense primes, military leaders, policymakers…",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578243/army-assistant-secretary-andersen-calls-private-capital-rebuild-arsenal-democracy",
+      "publishedAt": "2026-10-29T21:01:39Z"
+    },
+    {
+      "id": "42001de0de5d534c31e85ed5",
+      "title": "Long Deployments to Be Navy Standard For Next Couple Years, MCPON, CNO Say",
+      "summary": "It will take a couple years before deployment lengths shift from the extended 10-11 months back to the normal seven, the Navy’s top enlisted sailor said Wednesday. As sailors deploy with carrier strike groups, they are being told to expect a deployment that is between 10-11 months, MCPON John Perryman said while speaking at the Navy Memorial.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/10/29/long-deployments-to-be-navy-standard-for-next-couple-years-mcpon-cno-say",
+      "publishedAt": "2026-10-29T20:41:01Z"
+    },
     {
       "id": "ffd5ff7eab87eb610625fa5e",
       "title": "BS27-1: Defending the base at every level",
@@ -343,24 +361,6 @@
       "sourceName": "USNI News",
       "sourceUrl": "https://news.usni.org/2026/10/28/u-s-marines-deploy-neros-archer-drone-in-camp-fuji-exercise",
       "publishedAt": "2026-10-28T17:51:21Z"
-    },
-    {
-      "id": "556620a1e9c2e93a60f2b7fa",
-      "title": "Three U.S. Naval Research Laboratory Experts Receive Sigma Xi Chapter Awards",
-      "summary": "Three U.S. Naval Research Laboratory (NRL) experts received the 2025 NRL Edison Chapter of Sigma Xi awards during a ceremony April 9.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578100/three-us-naval-research-laboratory-experts-receive-sigma-xi-chapter-awards",
-      "publishedAt": "2026-10-28T17:43:22Z"
-    },
-    {
-      "id": "1fec9ae6dd946596273ab978",
-      "title": "Washington National Guard, Tribal Partners Strengthen Counter-UAS Readiness",
-      "summary": "Washington State Counterdrug and the 10th Civil Support Team conducted Tribal Counter-Unmanned Aircraft Systems Fundamentals and Mission Scenarios Training at Yakima Training Center, Wash., Oct. 20–21, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578097/washington-national-guard-tribal-partners-strengthen-counter-uas-readiness",
-      "publishedAt": "2026-10-28T17:22:48Z"
     }
   ],
   "nextPage": "page-6.json"

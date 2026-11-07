@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T23:12:48Z",
+  "generatedAt": "2026-11-07T06:03:45Z",
   "articles": [
+    {
+      "id": "ea611d9f5899cc2554ff5050",
+      "title": "The 28th Thai-American Consultation Senior Staff Talks strengthen Alliance",
+      "summary": "CAMP H.M. SMITH, Hawaii — Senior leaders from the Royal Thai Army and U.S. Pacific Command participated in the 28th Thai-American Consultation Senior Staff Talks at Camp H. M. Smith on Nov. 6, 2026, reinforcing the longstanding military partnership between Thailand and the United States.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578865/28th-thai-american-consultation-senior-staff-talks-strengthen-alliance",
+      "publishedAt": "2026-11-07T01:32:07Z"
+    },
+    {
+      "id": "338df1dce2ebab33d179429a",
+      "title": "CNFJ/RJ Celebrates 100 Years of Heritage Site",
+      "summary": "FLEET ACTIVITIES YOKOSUKA, Japan – Commander U.S. Naval Forces Japan/Navy Region Japan (CNFJ/RJ) commemorated the 100th anniversary of its current Headquarters, historic Building C-1, during a ceremony at Fleet Activities Yokosuka, Nov. 7, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578856/cnfj-rj-celebrates-100-years-heritage-site",
+      "publishedAt": "2026-11-06T23:13:02Z"
+    },
     {
       "id": "d332a71f2672673caa9f1a79",
       "title": "The Idaho Army National Guard and Boise Fire Department Train to Enhance Hoist Capabilities",
@@ -343,24 +361,6 @@
       "sourceName": "Breaking Defense",
       "sourceUrl": "https://breakingdefense.com/2026/11/the-pentagon-wants-a-massive-new-military-base-where-will-it-go/",
       "publishedAt": "2026-11-05T18:55:54Z"
-    },
-    {
-      "id": "98b024a60c72468f2369a2c3",
-      "title": "Sandusky Harbor Dredging Completed; Benefits Local Beach Nourishment",
-      "summary": "The U.S. Army Corps of Engineers, Buffalo District, completed dredging on Nov. 5 of approximately 109,000 cubic yards of sediment from Sandusky Harbor, ensuring safe and navigable waterways for Great Lakes commercial vessels, recreational boaters and other harbor users on Lake Erie.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578722/sandusky-harbor-dredging-completed-benefits-local-beach-nourishment",
-      "publishedAt": "2026-11-05T18:17:23Z"
-    },
-    {
-      "id": "67e888c055c14ac40abbcb42",
-      "title": "The military will start paying for troops’ theological degrees so they can become chaplains",
-      "summary": "The Pentagon’s new Chaplain In-Service Procurement Program is meant to extend the pipeline of incoming chaplains. The post The military will start paying for troops’ theological degrees so they can become chaplains appeared first on Task & Purpose .",
-      "category": "Defense",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/pentagon-chaplain-procurement-program/",
-      "publishedAt": "2026-11-05T18:13:50Z"
     }
   ],
   "nextPage": "pages/page-2.json"
