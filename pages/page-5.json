@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-07T13:08:32Z",
+  "generatedAt": "2026-11-07T19:27:34Z",
   "articles": [
+    {
+      "id": "67579ea660f3de7de49c42e0",
+      "title": "Jaelen Johnston reflects on performance at Friday on the Frontier",
+      "summary": "As the sun set on the flight line, Jaelen Johnston, local country music artist, performed a free concert for Airmen and their families during Friday on the Frontier, Oct. 23. Johnston is no stranger to McConnell. He was born in Derby and also worked in construction for the Air National Guard 184th Wing before beginning his music career.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578249/jaelen-johnston-reflects-performance-friday-frontier",
+      "publishedAt": "2026-10-29T22:08:22Z"
+    },
+    {
+      "id": "c615a59b45e00445b45d5723",
+      "title": "Signal staff turns up the heat with chili cook-off",
+      "summary": "The U.S. Army Signal School hosted its 5th Annual Chili Cook-Off, building on camaraderie and friendly competition.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578241/signal-staff-turns-up-heat-with-chili-cook-off",
+      "publishedAt": "2026-10-29T21:03:46Z"
+    },
     {
       "id": "5814434c7a484d0ae1a01e95",
       "title": "Army Assistant Secretary Andersen calls on private capital to rebuild 'Arsenal of Democracy'",
@@ -298,70 +316,6 @@
       "sourceName": "USNI News",
       "sourceUrl": "https://news.usni.org/2026/10/28/u-s-marine-drone-detachment-in-the-philippines-operating-from-palawan-airfield",
       "publishedAt": "2026-10-28T19:58:47Z"
-    },
-    {
-      "id": "ad2215f657f977847d118577",
-      "title": "New guide equips Army finance officers to fund the fight faster",
-      "summary": "The Army’s new Financial Management & Comptroller Officer’s Guide establishes a single, authoritative standard for finance and comptroller officers across the active-duty Army, Army Reserve, and National Guard. It builds on the success of the branch's already established enlisted guide, completing a comprehensive framework for financial leadership.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578114/new-guide-equips-army-finance-officers-fund-fight-faster",
-      "publishedAt": "2026-10-28T19:27:27Z"
-    },
-    {
-      "id": "3eca125715893962d9d900ef",
-      "title": "U.S. Army Corps of Engineers Begins Transport of Materials from Shallow Land Disposal Area",
-      "summary": "The U.S. Army Corps of Engineers (USACE) has begun shipping contaminated soil from the Shallow Land Disposal Area (SLDA) site in Vandergrift, Pennsylvania, to an out-of-state licensed disposal facility.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578112/us-army-corps-engineers-begins-transport-materials-shallow-land-disposal-area",
-      "publishedAt": "2026-10-28T19:06:37Z"
-    },
-    {
-      "id": "0bc6a0c7a4c4a4a2e996d345",
-      "title": "Retiree Jamie James receives Distinguished Civilian Employee Recognition Award",
-      "summary": "NASHVILLE, Tenn. (Oct. 28, 2026) – Jamie James, former deputy district engineer for the U.S. Army Corps of Engineers Nashville District, has been honored with the Distinguished Civilian Employee Recognition Award in recognition of two decades of public service, technical excellence, and regional leadership.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578109/retiree-jamie-james-receives-distinguished-civilian-employee-recognition-award",
-      "publishedAt": "2026-10-28T18:49:11Z"
-    },
-    {
-      "id": "de5c10fac6214af2531a0c00",
-      "title": "Religious Ministry Team Leverages Spiritual Readiness Data to Strengthen Warfighter Resilience",
-      "summary": "By Lt. Cmdr. Travis Hurley, U.S. Navy Chaplain, and the TACAMO Religious Ministry Team TINKER AIR FORCE BASE, Okla.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578107/religious-ministry-team-leverages-spiritual-readiness-data-strengthen-warfighter-resilience",
-      "publishedAt": "2026-10-28T18:34:47Z"
-    },
-    {
-      "id": "ac1d509e748d5c3700266f53",
-      "title": "NORAD ENFORCEMENT OF TEMPORARY FLIGHT RESTRICTION AIRSPACE ANNOUNCED OVER MULTIPLE AREAS THIS WEEK",
-      "summary": "Fighter jets from the North American Aerospace Defense Command (NORAD) will enforce the Federal Aviation Administration (FAA) VIP Temporary Flight Restriction (TFR) areas established this week, October 29-30, 2026, over Charlotte, North Carolina; Rock Hill, South Carolina; and Daytona Beach, Florida.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578106/norad-enforcement-temporary-flight-restriction-airspace-announced-over-multiple-areas-week",
-      "publishedAt": "2026-10-28T18:24:02Z"
-    },
-    {
-      "id": "25a943e88502e1a6f0428265",
-      "title": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate",
-      "summary": "The U.S. military has spent over $47 billion so far to prosecute the war in Iran, more than 25% higher than the Defense Department's estimate in July.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/28/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate/",
-      "publishedAt": "2026-10-28T18:10:50Z"
-    },
-    {
-      "id": "a2fa07de6e9b682d350fcc1d",
-      "title": "U.S. Marines Deploy Neros Archer Drone in Camp Fuji Exercise",
-      "summary": "The U.S. Marine Corps recently used the Neros Archer First Person View drone in a live-fire exercise at Camp Fuji, Japan, for the first time, the service announced. Marines of Battalion Landing Team 1/1, 31st Marine Expeditionary Unit (MEU) carried out two strike missions on Oct.",
-      "category": "Marine Corps",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/28/u-s-marines-deploy-neros-archer-drone-in-camp-fuji-exercise",
-      "publishedAt": "2026-10-28T17:51:21Z"
     }
-  ],
-  "nextPage": "page-6.json"
+  ]
 }

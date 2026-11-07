@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-07T13:08:32Z",
+  "generatedAt": "2026-11-07T19:27:34Z",
   "articles": [
+    {
+      "id": "0680b3a94a400da6570e4b5b",
+      "title": "Thales subsidiary lands US Navy contract for remote mine hunting modules",
+      "summary": "The contract, awarded to Advanced Acoustic Concepts, is worth $53.9 million and also covers engineering support for the modules.",
+      "category": "Navy",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/thales-subsidiary-lands-us-navy-contract-for-remote-mine-hunting-modules/",
+      "publishedAt": "2026-11-03T22:40:45Z"
+    },
+    {
+      "id": "5dac1764fb28b61c7a0f75d3",
+      "title": "Persistence through adversity: 500th Military Intelligence Brigade Soldier earns promotion",
+      "summary": "After an unsuccessful fitness test, a back injury and a six-month delay, U.S. Army Spc. Fernando Banegas-Vasquez reached a long-awaited career milestone when he was promoted from private first class to specialist Oct. 7, 2026.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578546/persistence-through-adversity-500th-military-intelligence-brigade-soldier-earns-promotion",
+      "publishedAt": "2026-11-03T21:42:37Z"
+    },
     {
       "id": "284a239c5b60573c22864a6c",
       "title": "159th Fighter Wing deploys to Japan in support of Theater Security Package",
@@ -343,24 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578388/us-africa-command-leadership-attends-afridex-lagos",
       "publishedAt": "2026-11-02T08:14:57Z"
-    },
-    {
-      "id": "b734bbab344a479ea56c1d71",
-      "title": "Exercise Tiger Triumph 2026 Commences in Visakhapatnam to Enhance U.S.-India Combined Interoperability",
-      "summary": "VISAKHAPATNAM, India – Service members from the United States and Indian Armed Forces officially commenced Exercise Tiger Triumph 2026 with an opening ceremony in Visakhapatnam, India, on Nov. 2, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578387/exercise-tiger-triumph-2026-commences-visakhapatnam-enhance-us-india-combined-interoperability",
-      "publishedAt": "2026-11-02T05:58:29Z"
-    },
-    {
-      "id": "3f6c2b82afbbc2c4c30e722f",
-      "title": "Tropic Lightning, Joint Partners Set the Theater for JPMRC 27-01",
-      "summary": "SCHOFIELD BARRACKS, Hawaii – Combat credibility begins long before the first round is fired. It starts with disciplined preparation, setting the theater, and establishing the lines of communication necessary to fight and win in a complex archipelagic environment. The division-level Combined Arms Rehearsal on Nov. 1, brought U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578385/tropic-lightning-joint-partners-set-theater-jpmrc-27-01",
-      "publishedAt": "2026-11-02T03:38:48Z"
     }
   ],
   "nextPage": "page-4.json"

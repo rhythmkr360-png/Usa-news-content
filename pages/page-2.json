@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-07T13:08:32Z",
+  "generatedAt": "2026-11-07T19:27:34Z",
   "articles": [
+    {
+      "id": "20c3d5764782577db8406785",
+      "title": "Corps of Engineers increasing flows from Lac qui Parle Dam",
+      "summary": "The U.S. Army Corps of Engineers, St. Paul District, is increasing outflow from the Lac qui Parle Dam, near Watson, Minnesota, due to ongoing rain within the basin.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578728/corps-engineers-increasing-flows-lac-qui-parle-dam",
+      "publishedAt": "2026-11-05T19:11:29Z"
+    },
+    {
+      "id": "cb9390d95fc689348bd99602",
+      "title": "The Pentagon wants a massive new military base. Where will it go?",
+      "summary": "A nationwide search for a new installation and a sweeping base-hardening initiative are taking shape inside the Defense Department.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/the-pentagon-wants-a-massive-new-military-base-where-will-it-go/",
+      "publishedAt": "2026-11-05T18:55:54Z"
+    },
     {
       "id": "98b024a60c72468f2369a2c3",
       "title": "Sandusky Harbor Dredging Completed; Benefits Local Beach Nourishment",
@@ -343,24 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578550/us-and-colombian-armies-officially-launch-joint-exercise-strengthen-readiness-and-regional-security",
       "publishedAt": "2026-11-03T23:30:38Z"
-    },
-    {
-      "id": "0680b3a94a400da6570e4b5b",
-      "title": "Thales subsidiary lands US Navy contract for remote mine hunting modules",
-      "summary": "The contract, awarded to Advanced Acoustic Concepts, is worth $53.9 million and also covers engineering support for the modules.",
-      "category": "Navy",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/thales-subsidiary-lands-us-navy-contract-for-remote-mine-hunting-modules/",
-      "publishedAt": "2026-11-03T22:40:45Z"
-    },
-    {
-      "id": "5dac1764fb28b61c7a0f75d3",
-      "title": "Persistence through adversity: 500th Military Intelligence Brigade Soldier earns promotion",
-      "summary": "After an unsuccessful fitness test, a back injury and a six-month delay, U.S. Army Spc. Fernando Banegas-Vasquez reached a long-awaited career milestone when he was promoted from private first class to specialist Oct. 7, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578546/persistence-through-adversity-500th-military-intelligence-brigade-soldier-earns-promotion",
-      "publishedAt": "2026-11-03T21:42:37Z"
     }
   ],
   "nextPage": "page-3.json"
