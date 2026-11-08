@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-08T10:27:27Z",
+  "generatedAt": "2026-11-08T17:57:14Z",
   "articles": [
+    {
+      "id": "ea6bc53d66c8eb7d0850332d",
+      "title": "Ironclad runways: U.S. and Japan reinforce ExR-ADR capabilities during KS27",
+      "summary": "IRUMA AIR BASE, Japan - U.S., Japan, and Canadian Armed Forces collaborated in expeditionary rapid airfield damage repair (ExR-ADR) training during Exercise Keen Sword 27 at a Japan Air Self-Defense Force (JASDF) installation at Iruma Air Base, Japan, Oct. 22-26.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578261/ironclad-runways-us-and-japan-reinforce-exr-adr-capabilities-during-ks27",
+      "publishedAt": "2026-10-30T03:23:12Z"
+    },
+    {
+      "id": "2aa1710fbf93d30639ca56c3",
+      "title": "U.S. Naval Hospital Okinawa strengthens bilateral medical readiness during Keen Sword 27",
+      "summary": "CAMP FOSTER, Okinawa, Japan — U.S. Naval Hospital Okinawa personnel trained alongside Japan Self-Defense Forces and joint medical partners during Keen Sword 27, a bilateral exercise that tested the hospital’s ability to receive, triage and treat large numbers of simulated casualties Oct. 26-27.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578259/us-naval-hospital-okinawa-strengthens-bilateral-medical-readiness-during-keen-sword-27",
+      "publishedAt": "2026-10-30T02:11:03Z"
+    },
+    {
+      "id": "1c78dd059992c8d13c7ef126",
+      "title": "NORAD fighter aircraft execute homeland defense mission from austere Eareckson Air Station",
+      "summary": "U.S. Air Force F-16 Fighting Falcons maintained air defense alert at Eareckson Air Station, Alaska, during an Oct. 18–26 deployment before launching a homeland defense mission on Oct. 25, integrating aircraft from two other Alaskan bases and one Canadian base.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578257/norad-fighter-aircraft-execute-homeland-defense-mission-austere-eareckson-air-station",
+      "publishedAt": "2026-10-30T00:19:38Z"
+    },
+    {
+      "id": "b2551d4654108d62dbba9393",
+      "title": "CSAF, CMSAF observe Team Osan mission readiness in action",
+      "summary": "U.S. Air Force Chief of Staff Gen. Ken Wilsbach and Chief Master Sergeant of the Air Force David Wolfe visited Osan Air Base, Republic of Korea, Oct. 22, 2026, gaining firsthand insight into how Team Osan integrates operations, maintenance and support capabilities to sustain readiness on the Korean Peninsula.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578256/csaf-cmsaf-observe-team-osan-mission-readiness-action",
+      "publishedAt": "2026-10-30T00:00:51Z"
+    },
     {
       "id": "a4d783ba09989fe1fe2b7798",
       "title": "Army HF Gateway teams demonstrate communications readiness during Noble Skywave",
@@ -145,96 +181,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578205/naval-health-clinic-new-england-recognized-support-dod-global-respiratory-surveillance-program",
       "publishedAt": "2026-10-29T18:07:18Z"
-    },
-    {
-      "id": "521486b61cc1e4b11b2ea6fc",
-      "title": "B4 it’s too late: TRAFC supports Operation Warm Heart",
-      "summary": "TRAVIS AIR FORCE BASE, Calif. -- The Travis Regional Armed Forces Committee hosted a commanders' visit at Jelly Belly in Fairfield, California, Oct. 20, 2026, in support of Operation Warm Heart.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578196/b4-its-too-late-trafc-supports-operation-warm-heart",
-      "publishedAt": "2026-10-29T17:21:28Z"
-    },
-    {
-      "id": "f4134df7e7cdd52e37d6e985",
-      "title": "Developing leaders through attitude, initiative and commitment at ACC-RSA",
-      "summary": "REDSTONE ARSENAL, Ala. – Maj. Gen. Douglas Lowrey, commanding general of U.S. Army Contracting Command, and ACC Command Sgt. Maj. Rachel Harris, emphasized attitude, initiative and commitment to helping others succeed during a discussion with Leadership Development and Readiness Program (LDRP) participants Oct.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578195/developing-leaders-through-attitude-initiative-and-commitment-acc-rsa",
-      "publishedAt": "2026-10-29T17:11:06Z"
-    },
-    {
-      "id": "0baf04d6b61221d5a53331e5",
-      "title": "Mission Driven–People Powered: HMC Jerry Williams",
-      "summary": "The Naval Medical Forces Development Command is Mission-Driven and, most importantly, People-Powered! Today we highlight U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578191/mission-driven-people-powered-hmc-jerry-williams",
-      "publishedAt": "2026-10-29T16:54:24Z"
-    },
-    {
-      "id": "654fdd522eaefe8cf126efa8",
-      "title": "US, Japan reach agreements for AMRAAM assembly, SM-3 production boost: Japanese MoD",
-      "summary": "The “groundbreaking agreement” on AMRAAM production “will not only ensure the acquisition of equipment needed by both Japan and the United States, but will also strengthen Japan’s defense industry base,” said Japanese Defense Minister Shinjiro Koizumi.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/us-japan-ink-agreements-for-amraam-production-sm-3-production-boost-japanese-mod/",
-      "publishedAt": "2026-10-29T16:45:18Z"
-    },
-    {
-      "id": "a76a0a4a93a3325d6eaa9c1b",
-      "title": "In Arctic, US Army researchers test camo that could adapt to changing landscapes",
-      "summary": "Researchers were inspired by Arctic foxes, which change colors over the course of the year – from white in the winter to brown in the summer.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/29/in-arctic-us-army-researchers-test-camo-that-could-adapt-to-changing-landscapes/",
-      "publishedAt": "2026-10-29T16:30:28Z"
-    },
-    {
-      "id": "a4e3e0574d4544be4c342e20",
-      "title": "Pentagon treating military base freezer malfunctions as suspected cyberattack, officials say",
-      "summary": "The Pentagon is treating the spate of mysterious freezer malfunctions that spoiled food at military bases across the United States in August as a suspected hack.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/29/pentagon-treating-military-base-freezer-malfunctions-as-suspected-cyberattack-officials-say/",
-      "publishedAt": "2026-10-29T16:26:56Z"
-    },
-    {
-      "id": "14878e2d194ca4b2235fd380",
-      "title": "Navy Corpsman Finds Purpose in Patient Care and Leadership",
-      "summary": "Hospital Corpsman 3rd Class (HM3) John Christopher Dabu, currently serving as the Medical Home Port direct supervisor at Naval Branch Health Clinic (NBHC) Panama City, has leveraged his Navy enlistment to overcome professional setbacks, secure U.S. citizenship, and establish himself as a vital clinic leader.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578189/navy-corpsman-finds-purpose-patient-care-and-leadership",
-      "publishedAt": "2026-10-29T16:26:31Z"
-    },
-    {
-      "id": "8bab7e796c48a8ece43f5c11",
-      "title": "US Navy wants more visible role for drone boats as one deploys for the first time",
-      "summary": "The U.S. Navy's No. 2 officer shed new light on the value that medium unmanned surface vessels could bring to the fleet.",
-      "category": "Navy",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/naval/2026/10/29/us-navy-wants-more-visible-role-for-drone-boats-as-one-deploys-for-the-first-time/",
-      "publishedAt": "2026-10-29T14:04:32Z"
-    },
-    {
-      "id": "f5846cab46902d9329306124",
-      "title": "Report to Congress on the U.S. Army’s Infantry Squad Vehicle",
-      "summary": "The following is the Oct. 22, 2026, Congressional Research Service report, The U.S. Army’s Infantry Squad Vehicle (ISV).",
-      "category": "Army",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/10/29/report-to-congress-on-the-u-s-armys-infantry-squad-vehicle",
-      "publishedAt": "2026-10-29T13:49:09Z"
-    },
-    {
-      "id": "5e70e09db7b2a8f42f67ff64",
-      "title": "Pentagon will pick new US base location by June 2027, prioritizing 4 requirements",
-      "summary": "In an interview with Breaking Defense, Dale Marks, the assistant secretary of defense for Energy, Installations, and Environment, laid out new details on the effort.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/10/pentagon-will-pick-new-us-base-location-by-june-2027-prioritizing-4-requirements/",
-      "publishedAt": "2026-10-29T12:45:00Z"
     }
   ]
 }

@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-08T10:27:27Z",
+  "generatedAt": "2026-11-08T17:57:14Z",
   "articles": [
+    {
+      "id": "d4706d0c8ad0ce1a92364841",
+      "title": "National Guard troops monitoring ballot boxes in Washington state after threats",
+      "summary": "At least 100 National Guard members were activated to assist with election security in seven counties. The post National Guard troops monitoring ballot boxes in Washington state after threats appeared first on Task & Purpose .",
+      "category": "Army",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/national-guard-washington-state-ballot-boxes/",
+      "publishedAt": "2026-11-02T20:35:09Z"
+    },
+    {
+      "id": "5b3586fb30e0ca85fac7b57b",
+      "title": "Kansas National Guard engineers pave the way for future port in remote Alaskan community",
+      "summary": "The Kansas Army National Guard’s 891st Engineer Battalion recently completed a rigorous Innovative Readiness Training mission in Cordova, Alaska.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578444/kansas-national-guard-engineers-pave-way-future-port-remote-alaskan-community",
+      "publishedAt": "2026-11-02T20:19:42Z"
+    },
+    {
+      "id": "bdca5b161bbb6f7d8b961634",
+      "title": "A new class of blast: DBX 1 compound pushing Army towards cleaner, smarter firepower",
+      "summary": "PICATINNY ARSENAL, N.J. - Engineers at the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center researchers say a new explosive initiator could remove environmental and safety risks from the supply chain.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578445/new-class-blast-dbx-1-compound-pushing-army-towards-cleaner-smarter-firepower",
+      "publishedAt": "2026-11-02T20:19:07Z"
+    },
+    {
+      "id": "5c7b10c3963e3ba4ebab7c78",
+      "title": "NMRDC Shares the Value of Research and Development at Weller Road Career Day",
+      "summary": "SILVER SPRING, Md. – Sailors with Navy Medicine Research and Development Command (NMRDC) took part in Weller Road Elementary School’s annual STEM Career Day on October 23. Weller Road students in 3rd, 4th and 5th grade had the opportunity to speak with active-duty Sailors, to learn how the command’s mission safeguards U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578436/nmrdc-shares-value-research-and-development-weller-road-career-day",
+      "publishedAt": "2026-11-02T19:49:21Z"
+    },
     {
       "id": "45bad4ea11d35939dc1d5b3f",
       "title": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
@@ -325,42 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578263/mustangs-week-1st-lt-alfonso-morales-tsgt-taylor-anderson",
       "publishedAt": "2026-10-30T04:39:32Z"
-    },
-    {
-      "id": "ea6bc53d66c8eb7d0850332d",
-      "title": "Ironclad runways: U.S. and Japan reinforce ExR-ADR capabilities during KS27",
-      "summary": "IRUMA AIR BASE, Japan - U.S., Japan, and Canadian Armed Forces collaborated in expeditionary rapid airfield damage repair (ExR-ADR) training during Exercise Keen Sword 27 at a Japan Air Self-Defense Force (JASDF) installation at Iruma Air Base, Japan, Oct. 22-26.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578261/ironclad-runways-us-and-japan-reinforce-exr-adr-capabilities-during-ks27",
-      "publishedAt": "2026-10-30T03:23:12Z"
-    },
-    {
-      "id": "2aa1710fbf93d30639ca56c3",
-      "title": "U.S. Naval Hospital Okinawa strengthens bilateral medical readiness during Keen Sword 27",
-      "summary": "CAMP FOSTER, Okinawa, Japan — U.S. Naval Hospital Okinawa personnel trained alongside Japan Self-Defense Forces and joint medical partners during Keen Sword 27, a bilateral exercise that tested the hospital’s ability to receive, triage and treat large numbers of simulated casualties Oct. 26-27.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578259/us-naval-hospital-okinawa-strengthens-bilateral-medical-readiness-during-keen-sword-27",
-      "publishedAt": "2026-10-30T02:11:03Z"
-    },
-    {
-      "id": "1c78dd059992c8d13c7ef126",
-      "title": "NORAD fighter aircraft execute homeland defense mission from austere Eareckson Air Station",
-      "summary": "U.S. Air Force F-16 Fighting Falcons maintained air defense alert at Eareckson Air Station, Alaska, during an Oct. 18–26 deployment before launching a homeland defense mission on Oct. 25, integrating aircraft from two other Alaskan bases and one Canadian base.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578257/norad-fighter-aircraft-execute-homeland-defense-mission-austere-eareckson-air-station",
-      "publishedAt": "2026-10-30T00:19:38Z"
-    },
-    {
-      "id": "b2551d4654108d62dbba9393",
-      "title": "CSAF, CMSAF observe Team Osan mission readiness in action",
-      "summary": "U.S. Air Force Chief of Staff Gen. Ken Wilsbach and Chief Master Sergeant of the Air Force David Wolfe visited Osan Air Base, Republic of Korea, Oct. 22, 2026, gaining firsthand insight into how Team Osan integrates operations, maintenance and support capabilities to sustain readiness on the Korean Peninsula.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578256/csaf-cmsaf-observe-team-osan-mission-readiness-action",
-      "publishedAt": "2026-10-30T00:00:51Z"
     }
   ],
   "nextPage": "page-5.json"

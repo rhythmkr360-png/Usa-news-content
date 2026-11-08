@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-08T10:27:27Z",
+  "generatedAt": "2026-11-08T17:57:14Z",
   "articles": [
+    {
+      "id": "9073ca3f38f3e9eaefd3427b",
+      "title": "From the foxhole to flight: Armaments Center’s MALET turns standard rounds into drone munitions",
+      "summary": "PICATINNY ARSENAL, N.J. - The ever-evolving Unmanned Aerial Systems toolbox has grown even stronger with the introduction of the Munitions Air-dropped Lethal Effects Tool (MALET), developed by the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578564/foxhole-flight-armaments-centers-malet-turns-standard-rounds-into-drone-munitions",
+      "publishedAt": "2026-11-04T11:47:08Z"
+    },
+    {
+      "id": "fc318719b3e9f5ab224440c6",
+      "title": "USAG Wiesbaden community steps up to feed the force during precautionary DFAC closure",
+      "summary": "The U.S. Army Garrison Wiesbaden community came together in an installation-wide effort to keep service members fed when the Stronger Together Dining Facility temporarily closed on Sept. 30.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578561/usag-wiesbaden-community-steps-up-feed-force-during-precautionary-dfac-closure",
+      "publishedAt": "2026-11-04T07:36:44Z"
+    },
+    {
+      "id": "4fa11f897f4879b38d88b8e2",
+      "title": "U.S., Republic of Korea navies strengthen alliance through Modernized Strategic Dialogue",
+      "summary": "U.S. Naval Forces Korea and the Republic of Korea Navy concluded their annual strategic dialogue at ROK Navy Headquarters, reaffirming their commitment to strengthening the U.S.-ROK maritime alliance.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578559/us-republic-korea-navies-strengthen-alliance-through-modernized-strategic-dialogue",
+      "publishedAt": "2026-11-04T06:14:06Z"
+    },
+    {
+      "id": "173086330d49359d59546634",
+      "title": "ROK Army 51st Infantry Division Signal Battalion Soldiers Visit 1st Signal Brigade",
+      "summary": "Soldiers from the Republic of Korea (ROK) Army 51st Infantry Division Signal Battalion visited the 41st Signal Battalion and the 304th Signal Battalion—under the 1st Signal Brigade at Camp Humphreys, Republic of Korea, Sept. 29, 2026, for a unit tour and professional exchange event. This exchange was organized to solidify combined ROK and U.S.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578556/rok-army-51st-infantry-division-signal-battalion-soldiers-visit-1st-signal-brigade",
+      "publishedAt": "2026-11-04T02:21:47Z"
+    },
     {
       "id": "e784d0cb3fd6e6e8c143a8ff",
       "title": "US Army Pacific Welcomes Veterans to Headquarters, Honors Their Service",
@@ -325,42 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578449/uss-gridley-returns-everett-after-seven-months-operations",
       "publishedAt": "2026-11-02T20:45:59Z"
-    },
-    {
-      "id": "d4706d0c8ad0ce1a92364841",
-      "title": "National Guard troops monitoring ballot boxes in Washington state after threats",
-      "summary": "At least 100 National Guard members were activated to assist with election security in seven counties. The post National Guard troops monitoring ballot boxes in Washington state after threats appeared first on Task & Purpose .",
-      "category": "Army",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/national-guard-washington-state-ballot-boxes/",
-      "publishedAt": "2026-11-02T20:35:09Z"
-    },
-    {
-      "id": "5b3586fb30e0ca85fac7b57b",
-      "title": "Kansas National Guard engineers pave the way for future port in remote Alaskan community",
-      "summary": "The Kansas Army National Guard’s 891st Engineer Battalion recently completed a rigorous Innovative Readiness Training mission in Cordova, Alaska.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578444/kansas-national-guard-engineers-pave-way-future-port-remote-alaskan-community",
-      "publishedAt": "2026-11-02T20:19:42Z"
-    },
-    {
-      "id": "bdca5b161bbb6f7d8b961634",
-      "title": "A new class of blast: DBX 1 compound pushing Army towards cleaner, smarter firepower",
-      "summary": "PICATINNY ARSENAL, N.J. - Engineers at the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center researchers say a new explosive initiator could remove environmental and safety risks from the supply chain.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578445/new-class-blast-dbx-1-compound-pushing-army-towards-cleaner-smarter-firepower",
-      "publishedAt": "2026-11-02T20:19:07Z"
-    },
-    {
-      "id": "5c7b10c3963e3ba4ebab7c78",
-      "title": "NMRDC Shares the Value of Research and Development at Weller Road Career Day",
-      "summary": "SILVER SPRING, Md. – Sailors with Navy Medicine Research and Development Command (NMRDC) took part in Weller Road Elementary School’s annual STEM Career Day on October 23. Weller Road students in 3rd, 4th and 5th grade had the opportunity to speak with active-duty Sailors, to learn how the command’s mission safeguards U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578436/nmrdc-shares-value-research-and-development-weller-road-career-day",
-      "publishedAt": "2026-11-02T19:49:21Z"
     }
   ],
   "nextPage": "page-4.json"

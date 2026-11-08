@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-08T10:27:27Z",
+  "generatedAt": "2026-11-08T17:57:14Z",
   "articles": [
+    {
+      "id": "6ee00240fb73b3e22bc87da8",
+      "title": "Mustang of the Week: TSgt Wendall Curry",
+      "summary": "U.S. Air Force Tech. Sgt. Wendall Curry, 51st Comptroller Squadron noncommissioned officer in charge of travel, was recognized as Mustang of the Week for his dedication to supporting Airmen, strengthening team morale and demonstrating exceptional leadership while maintaining financial readiness for the 51st Fighter Wing at Osan Air Base, Republic…",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578760/mustang-week-tsgt-wendall-curry",
+      "publishedAt": "2026-11-06T05:01:49Z"
+    },
+    {
+      "id": "ecbd73624e8eb67d8b1e2f25",
+      "title": "Navy, NASA withdraw Final EIS",
+      "summary": "JOINT BASE PEARL HARBOR-HICKAM, Hawaii — The U.S. Navy and the National Aeronautics and Space Administration (NASA) formally withdrew the Final Environmental Impact Statement (EIS) covering Pacific Missile Range Facility (PMRF) and Kokee Park Geophysical Observatory (KPGO) Nov.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578757/navy-nasa-withdraw-final-eis",
+      "publishedAt": "2026-11-06T01:20:27Z"
+    },
+    {
+      "id": "6606a56ff63616b88351c6d6",
+      "title": "Three Generations, One Legacy: The Hernandez Family Continues Marine Corps Tradition",
+      "summary": "Platoon 2115 stands at attention, unmoving in the frigid morning air, patiently waiting to receive the Eagle, Globe and Anchor they’ve all earned after a grueling 54 hours. U.S. Marine Corps Recruit. Noel Hernandez waits among the platoon, not knowing his father, retired Marine Corps 1st Sgt.",
+      "category": "Marine Corps",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578755/three-generations-one-legacy-hernandez-family-continues-marine-corps-tradition",
+      "publishedAt": "2026-11-06T00:17:25Z"
+    },
+    {
+      "id": "f0ec1cc6772d2b40e77dc130",
+      "title": "TEMPORARY FLIGHT RESTRICTION AIRSPACE ANNOUNCED OVER WEST PALM BEACH, FLORIDA THIS WEEKEND",
+      "summary": "Fighter jets from the North American Aerospace Defense Command (NORAD) will enforce the Federal Aviation Administration-established VIP Temporary Flight Restriction (TFR) area for this weekend, Nov. 6 - 8, 2026, over West Palm Beach, Florida.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578748/temporary-flight-restriction-airspace-announced-over-west-palm-beach-florida-weekend",
+      "publishedAt": "2026-11-05T22:21:35Z"
+    },
     {
       "id": "a93f3651f68f583430ea8f43",
       "title": "Hegseth adds more Humvees, patrol cars, boats to DC National Guard law enforcement ‘support’ mission",
@@ -325,42 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578566/us-army-test-measurement-and-diagnostic-equipment-activity-hosts-polish-delegation-bolster-allied-readiness-interoperability",
       "publishedAt": "2026-11-04T13:36:14Z"
-    },
-    {
-      "id": "9073ca3f38f3e9eaefd3427b",
-      "title": "From the foxhole to flight: Armaments Center’s MALET turns standard rounds into drone munitions",
-      "summary": "PICATINNY ARSENAL, N.J. - The ever-evolving Unmanned Aerial Systems toolbox has grown even stronger with the introduction of the Munitions Air-dropped Lethal Effects Tool (MALET), developed by the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578564/foxhole-flight-armaments-centers-malet-turns-standard-rounds-into-drone-munitions",
-      "publishedAt": "2026-11-04T11:47:08Z"
-    },
-    {
-      "id": "fc318719b3e9f5ab224440c6",
-      "title": "USAG Wiesbaden community steps up to feed the force during precautionary DFAC closure",
-      "summary": "The U.S. Army Garrison Wiesbaden community came together in an installation-wide effort to keep service members fed when the Stronger Together Dining Facility temporarily closed on Sept. 30.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578561/usag-wiesbaden-community-steps-up-feed-force-during-precautionary-dfac-closure",
-      "publishedAt": "2026-11-04T07:36:44Z"
-    },
-    {
-      "id": "4fa11f897f4879b38d88b8e2",
-      "title": "U.S., Republic of Korea navies strengthen alliance through Modernized Strategic Dialogue",
-      "summary": "U.S. Naval Forces Korea and the Republic of Korea Navy concluded their annual strategic dialogue at ROK Navy Headquarters, reaffirming their commitment to strengthening the U.S.-ROK maritime alliance.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578559/us-republic-korea-navies-strengthen-alliance-through-modernized-strategic-dialogue",
-      "publishedAt": "2026-11-04T06:14:06Z"
-    },
-    {
-      "id": "173086330d49359d59546634",
-      "title": "ROK Army 51st Infantry Division Signal Battalion Soldiers Visit 1st Signal Brigade",
-      "summary": "Soldiers from the Republic of Korea (ROK) Army 51st Infantry Division Signal Battalion visited the 41st Signal Battalion and the 304th Signal Battalion—under the 1st Signal Brigade at Camp Humphreys, Republic of Korea, Sept. 29, 2026, for a unit tour and professional exchange event. This exchange was organized to solidify combined ROK and U.S.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578556/rok-army-51st-infantry-division-signal-battalion-soldiers-visit-1st-signal-brigade",
-      "publishedAt": "2026-11-04T02:21:47Z"
     }
   ],
   "nextPage": "page-3.json"
