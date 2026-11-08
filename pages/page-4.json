@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-07T19:27:34Z",
+  "generatedAt": "2026-11-08T00:41:09Z",
   "articles": [
+    {
+      "id": "45bad4ea11d35939dc1d5b3f",
+      "title": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
+      "summary": "As the American military seeks new capabilities and advanced systems amid rapid change, defense companies of all sizes showcased their solutions at a major defense conference.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/video/2026/11/02/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26/",
+      "publishedAt": "2026-11-02T14:42:00Z"
+    },
+    {
+      "id": "8dc236ac44a6c776ce226279",
+      "title": "Big deals in European defense and American fighters | Defense Dollars",
+      "summary": "International weapons makers step forward with new interceptors and deals for armored vehicles, while an American company secures a fighter contract.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/video/2026/11/02/big-deals-in-european-defense-and-american-fighters-defense-dollars/",
+      "publishedAt": "2026-11-02T14:00:00Z"
+    },
+    {
+      "id": "271ed782c0819de27ed8b018",
+      "title": "U.S. Africa Command leadership attends AFRIDEX in Lagos",
+      "summary": "U.S. Africa Command leadership attended the Africa International Defence Exhibition (AFRIDEX) in Lagos, Nigeria Oct. 26–27, 2026 to collaborate with African defense leaders and global partners to advance cooperation across Africa.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578388/us-africa-command-leadership-attends-afridex-lagos",
+      "publishedAt": "2026-11-02T08:14:57Z"
+    },
     {
       "id": "b734bbab344a479ea56c1d71",
       "title": "Exercise Tiger Triumph 2026 Commences in Visakhapatnam to Enhance U.S.-India Combined Interoperability",
@@ -334,33 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578256/csaf-cmsaf-observe-team-osan-mission-readiness-action",
       "publishedAt": "2026-10-30T00:00:51Z"
-    },
-    {
-      "id": "a4d783ba09989fe1fe2b7798",
-      "title": "Army HF Gateway teams demonstrate communications readiness during Noble Skywave",
-      "summary": "U.S. Army Network Enterprise Technology Command (NETCOM), the 78th Signal Battalion and the 30th Signal Battalion participated in Noble Skywave, a Canadian-hosted high-frequency (HF) communications exercise, last week, testing the skills and adaptability of Army signal professionals operating across a range of communications conditions.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578252/army-hf-gateway-teams-demonstrate-communications-readiness-during-noble-skywave",
-      "publishedAt": "2026-10-29T22:59:15Z"
-    },
-    {
-      "id": "2a92902dd39a2c01f27cdd06",
-      "title": "Guardsman scores 498 on AFT, outscores team of college athletes",
-      "summary": "Idaho Army National Guard Chief Warrant Officer 3 Emily Wood faced off against five Boise State University student-athletes in a friendly competition earlier this month, scoring 498 points on the Army Fitness Test to edge the Broncos’ combined score of 496.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578251/guardsman-scores-498-aft-outscores-team-college-athletes",
-      "publishedAt": "2026-10-29T22:43:21Z"
-    },
-    {
-      "id": "b594d798d61534187f46a3b6",
-      "title": "Hasty US exit from Europe could drive allies away from American arms, RAND says",
-      "summary": "A rapid, uncoordinated U.S. military drawdown from Europe could push key NATO allies further away from American weapons, a RAND study found.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/pentagon/2026/10/29/hasty-us-exit-from-europe-could-drive-allies-away-from-american-arms-rand-says/",
-      "publishedAt": "2026-10-29T22:25:13Z"
     }
   ],
   "nextPage": "page-5.json"

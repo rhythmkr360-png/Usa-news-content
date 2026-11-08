@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-07T19:27:34Z",
+  "generatedAt": "2026-11-08T00:41:09Z",
   "articles": [
+    {
+      "id": "e784d0cb3fd6e6e8c143a8ff",
+      "title": "US Army Pacific Welcomes Veterans to Headquarters, Honors Their Service",
+      "summary": "FORT SHAFTER, Hawaii — U.S. Army Pacific welcomed veterans to its headquarters on November 3, 2026, for a special event recognizing their service, sacrifice, and lasting contributions to the nation.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578555/us-army-pacific-welcomes-veterans-headquarters-honors-their-service",
+      "publishedAt": "2026-11-04T01:50:06Z"
+    },
+    {
+      "id": "daadef2288d72e2ec2bcec6f",
+      "title": "Navy Aviators Uphold a Legacy of Excellence in Homeland Defense",
+      "summary": "In December 1910, Lt. Theodore Gordon “Spuds” Ellyson forever changed the U.S. Navy when he became the first Navy officer designated as an aviator.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578551/navy-aviators-uphold-legacy-excellence-homeland-defense",
+      "publishedAt": "2026-11-03T23:57:55Z"
+    },
+    {
+      "id": "c2e89bfa694bb0292f64d4b7",
+      "title": "U.S. and Colombian armies officially launch joint exercise to strengthen readiness and regional security",
+      "summary": "U.S. and Colombian armies officially launched Exercise Southern Vanguard 2027 on Nov. 2, bringing together approximately 800 military personnel to strengthen interoperability, readiness, and bilateral security cooperation. The 41st iteration of the annual exercise is hosted by the Colombian Army, sponsored by U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578550/us-and-colombian-armies-officially-launch-joint-exercise-strengthen-readiness-and-regional-security",
+      "publishedAt": "2026-11-03T23:30:38Z"
+    },
     {
       "id": "0680b3a94a400da6570e4b5b",
       "title": "Thales subsidiary lands US Navy contract for remote mine hunting modules",
@@ -334,33 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578436/nmrdc-shares-value-research-and-development-weller-road-career-day",
       "publishedAt": "2026-11-02T19:49:21Z"
-    },
-    {
-      "id": "45bad4ea11d35939dc1d5b3f",
-      "title": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
-      "summary": "As the American military seeks new capabilities and advanced systems amid rapid change, defense companies of all sizes showcased their solutions at a major defense conference.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/video/2026/11/02/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26/",
-      "publishedAt": "2026-11-02T14:42:00Z"
-    },
-    {
-      "id": "8dc236ac44a6c776ce226279",
-      "title": "Big deals in European defense and American fighters | Defense Dollars",
-      "summary": "International weapons makers step forward with new interceptors and deals for armored vehicles, while an American company secures a fighter contract.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/video/2026/11/02/big-deals-in-european-defense-and-american-fighters-defense-dollars/",
-      "publishedAt": "2026-11-02T14:00:00Z"
-    },
-    {
-      "id": "271ed782c0819de27ed8b018",
-      "title": "U.S. Africa Command leadership attends AFRIDEX in Lagos",
-      "summary": "U.S. Africa Command leadership attended the Africa International Defence Exhibition (AFRIDEX) in Lagos, Nigeria Oct. 26–27, 2026 to collaborate with African defense leaders and global partners to advance cooperation across Africa.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578388/us-africa-command-leadership-attends-afridex-lagos",
-      "publishedAt": "2026-11-02T08:14:57Z"
     }
   ],
   "nextPage": "page-4.json"

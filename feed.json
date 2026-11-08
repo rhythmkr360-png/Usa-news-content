@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-07T19:27:34Z",
+  "generatedAt": "2026-11-08T00:41:09Z",
   "articles": [
+    {
+      "id": "fc35d0cda639d1c1afa08871",
+      "title": "High Rollers’ 2026 accomplishments noted during Saturday’s change of command ceremony",
+      "summary": "Col. Erik Brown became the 26th wing commander of the 152nd Airlift Wing, Nevada Air National Guard, during a ceremony Saturday at the air base in Reno.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578885/high-rollers-2026-accomplishments-noted-during-saturdays-change-command-ceremony",
+      "publishedAt": "2026-11-08T00:13:28Z"
+    },
+    {
+      "id": "4aa57be0ae4469645b0d3437",
+      "title": "Georgia Air National Guard adds seven recruits during Ghost Pirates Military Appreciation Game",
+      "summary": "Seven future Airmen took the oath of enlistment during a Savannah Ghost Pirates' Military Appreciation Weekend Nov. 6 at Enmarket Arena, marking a memorable milestone for the 165th Airlift Wing.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578873/georgia-air-national-guard-adds-seven-recruits-during-ghost-pirates-military-appreciation-game",
+      "publishedAt": "2026-11-07T20:54:27Z"
+    },
+    {
+      "id": "34c0730e03232177bf2a5570",
+      "title": "U.S. Forces Disable Cargo Vessel Attempting to Violate Naval Blockade",
+      "summary": "TAMPA, Fla. — U.S. Central Command (CENTCOM) forces disabled a commercial vessel in the Gulf of Oman, Nov. 7, after the ship’s civilian crew ignored repeated warnings and attempted to violate the naval blockade against Iran multiple times.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578872/us-forces-disable-cargo-vessel-attempting-violate-naval-blockade",
+      "publishedAt": "2026-11-07T20:31:51Z"
+    },
     {
       "id": "29c2fbd4111230158cb304bc",
       "title": "Passing on The Tradition: Father, Son Serve Together as Oldest, Youngest Marine at Birthday Ball",
@@ -334,33 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578748/temporary-flight-restriction-airspace-announced-over-west-palm-beach-florida-weekend",
       "publishedAt": "2026-11-05T22:21:35Z"
-    },
-    {
-      "id": "a93f3651f68f583430ea8f43",
-      "title": "Hegseth adds more Humvees, patrol cars, boats to DC National Guard law enforcement ‘support’ mission",
-      "summary": "National Guardsmen in DC will get patrol boats and cars to assist federal and local enforcement operations in the nation's capital. The post Hegseth adds more Humvees, patrol cars, boats to DC National Guard law enforcement ‘support’ mission appeared first on Task & Purpose .",
-      "category": "Army",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/national-guard-law-enforcement-assets/",
-      "publishedAt": "2026-11-05T22:11:29Z"
-    },
-    {
-      "id": "1af14f9117ecbe430d901f3e",
-      "title": "Georgia Guard Officer Wins MacArthur Award",
-      "summary": "A Georgia Army National Guard officer received the prestigious General Douglas MacArthur Leadership Award during a ceremony October 27, 2026, in Arlington, Va. Captain Paul J.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578741/georgia-guard-officer-wins-macarthur-award",
-      "publishedAt": "2026-11-05T20:40:33Z"
-    },
-    {
-      "id": "dfed15ea6707c202b216c1bc",
-      "title": "Corps of Engineers waives day-use fees at recreation areas in observance of Veterans Day",
-      "summary": "The U.S. Army Corps of Engineers Nashville District announces that day-use fees at its USACE-operated recreation areas in the Cumberland River Basin are waived Nov. 11, 2026, in observance of Veterans Day.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578739/corps-engineers-waives-day-use-fees-recreation-areas-observance-veterans-day",
-      "publishedAt": "2026-11-05T20:21:07Z"
     }
   ],
   "nextPage": "pages/page-2.json"
