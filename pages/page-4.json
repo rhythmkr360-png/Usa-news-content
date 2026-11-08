@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-08T17:57:14Z",
+  "generatedAt": "2026-11-08T22:10:19Z",
   "articles": [
+    {
+      "id": "940fdd6b4de73157e82f96b8",
+      "title": "62d APS Airman Earns the Bronze Star",
+      "summary": "U.S. Air Force Tech. Sgt. Vincent Simmons, 62d Aerial Port Squadron contracting officer representative, was awarded the Bronze Star medal for meritorious achievement during his deployment to the U.S. Central Command area of responsibility.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578439/62d-aps-airman-earns-bronze-star",
+      "publishedAt": "2026-11-02T21:09:16Z"
+    },
+    {
+      "id": "21661d9e8e6ce0f3fe4cde14",
+      "title": "Space Force activates special operations component command in Tampa",
+      "summary": "U.S. Space Forces Special Operations Command, or SPACEFOR-SOC, formally activated today as the newest service component of U.S. Special Operations Command. Headquartered at MacDill Air Force Base, SPACEFOR-SOC organizes and presents specialized forces – known as SOF Guardians – to Theater Special Operations Commands and Joint Task Forces worldwide.",
+      "category": "Space Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578451/space-force-activates-special-operations-component-command-tampa",
+      "publishedAt": "2026-11-02T20:57:07Z"
+    },
+    {
+      "id": "6c05c8b6877cc0aca62bec90",
+      "title": "USS Gridley returns to Everett after seven-months of operations",
+      "summary": "EVERETT, Wash. – Arleigh Burke-class guided-missile destroyer USS Gridley (DDG 101) returned home to Naval Station Everett, Oct. 9, 2026, after a seven-month deployment to the U.S. 4th Fleet area of operations.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578449/uss-gridley-returns-everett-after-seven-months-operations",
+      "publishedAt": "2026-11-02T20:45:59Z"
+    },
     {
       "id": "d4706d0c8ad0ce1a92364841",
       "title": "National Guard troops monitoring ballot boxes in Washington state after threats",
@@ -334,33 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578270/bs27-1-putting-price-port-repairs",
       "publishedAt": "2026-10-30T05:35:48Z"
-    },
-    {
-      "id": "2c32bb5d1c3bd3be1680b3b8",
-      "title": "BS27-1: Feeding the fight, sustaining readiness",
-      "summary": "U.S. Air Force Airmen assigned to the 718th Force Support Squadron demonstrated their ability to establish an alternate dining facility using Jack's Place to prepare and serve meals during Exercise Beverly Sword 27-1 at Kadena Air Base, Japan, Oct. 29, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578266/bs27-1-feeding-fight-sustaining-readiness",
-      "publishedAt": "2026-10-30T05:24:53Z"
-    },
-    {
-      "id": "85980c0a3c0dab541c55696c",
-      "title": "44th Fighter Squadron welcomes new commander",
-      "summary": "U.S. Air Force Lt. Col. Matthew Zipper assumed command of the 44th Fighter Squadron during an assumption of command ceremony at Kadena Air Base, Japan, Oct. 19, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578269/44th-fighter-squadron-welcomes-new-commander",
-      "publishedAt": "2026-10-30T05:23:56Z"
-    },
-    {
-      "id": "9ea31cdb1fee8b12b67954e8",
-      "title": "Mustangs of the Week: 1st Lt. Alfonso Morales & TSgt. Taylor Anderson",
-      "summary": "U.S. Air Force 1st Lt. Alfonso Morales, 51st Security Forces Squadron flight commander, and Tech. Sgt. Taylor Anderson, 51st SFS flight chief, were recognized as Mustangs of the Week at Osan Air Base, Republic of Korea, Oct. 26, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578263/mustangs-week-1st-lt-alfonso-morales-tsgt-taylor-anderson",
-      "publishedAt": "2026-10-30T04:39:32Z"
     }
   ],
   "nextPage": "page-5.json"

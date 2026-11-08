@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-08T17:57:14Z",
+  "generatedAt": "2026-11-08T22:10:19Z",
   "articles": [
+    {
+      "id": "d7076b0d7f381d85baf13103",
+      "title": "Tennessee Guard Soldier's promotion reunites former public affairs team",
+      "summary": "Tennessee Army National Guard Master Sgt. Lila A. Walker, a former public affairs specialist with the 118th Mobile Public Affairs Detachment, was promoted during a ceremony at Joint Force Headquarters in Nashville, Tennessee, Nov. 8, 2026.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578890/tennessee-guard-soldiers-promotion-reunites-former-public-affairs-team",
+      "publishedAt": "2026-11-08T21:07:46Z"
+    },
+    {
+      "id": "9852d58308c2e46049351843",
+      "title": "73 APS welcomes new commander",
+      "summary": "U.S. Air Force Maj. Charles Smith assumed command of the 73rd Aerial Port Squadron during a ceremony here Nov. 7, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578903/73-aps-welcomes-new-commander",
+      "publishedAt": "2026-11-08T20:57:46Z"
+    },
+    {
+      "id": "f9c3b1226228d7606072013d",
+      "title": "Ohio National Guard launches new partnership during inaugural visit to Angola",
+      "summary": "LUANDA, Angola — Ohio National Guard leaders traveled to Angola from June 29 to July 3, 2026, for the organization’s first official visit since Ohio and Angola were paired through the State Partnership Program.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578905/ohio-national-guard-launches-new-partnership-during-inaugural-visit-angola",
+      "publishedAt": "2026-11-08T19:38:36Z"
+    },
     {
       "id": "ada3eefed907aad49a67b9ea",
       "title": "Behind the Flight Line: 162nd Wing AGE Airmen Power the Mission",
@@ -334,33 +361,6 @@
       "sourceName": "Breaking Defense",
       "sourceUrl": "https://breakingdefense.com/2026/11/key-space-force-satellites-cant-talk-to-each-other-likely-requiring-1b-solution-sources/",
       "publishedAt": "2026-11-06T14:15:00Z"
-    },
-    {
-      "id": "b5da1378f9e12fe86f80e762",
-      "title": "Corps of Engineers, TVA earn national geology award for Chickamauga Lock project",
-      "summary": "The U.S. Army Corps of Engineers Nashville District and the Tennessee Valley Authority received the 2026 Outstanding Environmental and Engineering Geologic Project Award on Sept. 16, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578777/corps-engineers-tva-earn-national-geology-award-chickamauga-lock-project",
-      "publishedAt": "2026-11-06T13:55:43Z"
-    },
-    {
-      "id": "2a1f36b1dbd2752db4277279",
-      "title": "7th Communication Battalion celebrates enduring friendship at Moon Festival",
-      "summary": "U.S. Marines with 7th Communication Battalion, III Marine Expeditionary Force Information Group, joined residents, staff and community members for the annual Moon Festival at Hikarigaoka Nursing Home, Oct. 31, 2026, continuing a friendship spanning more than three decades.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578761/7th-communication-battalion-celebrates-enduring-friendship-moon-festival",
-      "publishedAt": "2026-11-06T06:12:19Z"
-    },
-    {
-      "id": "b23f729996da222fa97f0ea2",
-      "title": "Joint effort prepares military housing for incoming families",
-      "summary": "KADENA AIR BASE, Japan — U.S. Air Force Airmen assigned to the 18th Civil Engineer Group and U.S. Marines worked together over six weeks across Okinawa, Japan, to prepare more than 120 military homes for incoming families, combining maintenance support and administrative changes to improve housing operations.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578762/joint-effort-prepares-military-housing-incoming-families",
-      "publishedAt": "2026-11-06T06:01:57Z"
     }
   ],
   "nextPage": "pages/page-2.json"

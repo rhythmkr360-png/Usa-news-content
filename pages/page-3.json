@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-08T17:57:14Z",
+  "generatedAt": "2026-11-08T22:10:19Z",
   "articles": [
+    {
+      "id": "e2c5493e67f64183eedd345f",
+      "title": "New Jersey's 31st National DEA Take Back Day Oct 2026",
+      "summary": "Members of the New Jersey National Guard Counterdrug Program accompany Drug Enforcement Agents in the collection and disposal of prescription medications during Operation Take Back New Jersey, October 26-27, 2026",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578570/new-jerseys-31st-national-dea-take-back-day-oct-2026",
+      "publishedAt": "2026-11-04T14:55:58Z"
+    },
+    {
+      "id": "5da28e964673c9422afa6b18",
+      "title": "AFCENT Commander completes first AOR trip",
+      "summary": "U.S. Air Force Lt. Gen. Daniel Lasica, Ninth Air Force (Air Forces Central) commander, recently concluded a multi-day visit across the U.S. Central Command area of responsibility Oct. 26-28, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578565/afcent-commander-completes-first-aor-trip",
+      "publishedAt": "2026-11-04T14:35:22Z"
+    },
+    {
+      "id": "6c9efdff041cf149f289c865",
+      "title": "U.S. Army Test, Measurement and Diagnostic Equipment Activity hosts Polish delegation to bolster allied readiness, interoperability",
+      "summary": "Two officers from the Polish armed forces visited the U.S. Army Test, Measurement and Diagnostic Equipment Activity, known as USATA, Oct. 20 and 21 to establish bilateral cooperation on the calibration and maintenance of key military systems. Polish army Lt. Col. Przemysław Piróg and Maj. Sławomir Dąbrowski toured the U.S.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578566/us-army-test-measurement-and-diagnostic-equipment-activity-hosts-polish-delegation-bolster-allied-readiness-interoperability",
+      "publishedAt": "2026-11-04T13:36:14Z"
+    },
     {
       "id": "9073ca3f38f3e9eaefd3427b",
       "title": "From the foxhole to flight: Armaments Center’s MALET turns standard rounds into drone munitions",
@@ -334,33 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578455/idaho-army-national-guard-fights-big-grass-fire",
       "publishedAt": "2026-11-02T21:12:59Z"
-    },
-    {
-      "id": "940fdd6b4de73157e82f96b8",
-      "title": "62d APS Airman Earns the Bronze Star",
-      "summary": "U.S. Air Force Tech. Sgt. Vincent Simmons, 62d Aerial Port Squadron contracting officer representative, was awarded the Bronze Star medal for meritorious achievement during his deployment to the U.S. Central Command area of responsibility.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578439/62d-aps-airman-earns-bronze-star",
-      "publishedAt": "2026-11-02T21:09:16Z"
-    },
-    {
-      "id": "21661d9e8e6ce0f3fe4cde14",
-      "title": "Space Force activates special operations component command in Tampa",
-      "summary": "U.S. Space Forces Special Operations Command, or SPACEFOR-SOC, formally activated today as the newest service component of U.S. Special Operations Command. Headquartered at MacDill Air Force Base, SPACEFOR-SOC organizes and presents specialized forces – known as SOF Guardians – to Theater Special Operations Commands and Joint Task Forces worldwide.",
-      "category": "Space Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578451/space-force-activates-special-operations-component-command-tampa",
-      "publishedAt": "2026-11-02T20:57:07Z"
-    },
-    {
-      "id": "6c05c8b6877cc0aca62bec90",
-      "title": "USS Gridley returns to Everett after seven-months of operations",
-      "summary": "EVERETT, Wash. – Arleigh Burke-class guided-missile destroyer USS Gridley (DDG 101) returned home to Naval Station Everett, Oct. 9, 2026, after a seven-month deployment to the U.S. 4th Fleet area of operations.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578449/uss-gridley-returns-everett-after-seven-months-operations",
-      "publishedAt": "2026-11-02T20:45:59Z"
     }
   ],
   "nextPage": "page-4.json"

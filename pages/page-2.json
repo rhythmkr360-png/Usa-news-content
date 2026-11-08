@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-08T17:57:14Z",
+  "generatedAt": "2026-11-08T22:10:19Z",
   "articles": [
+    {
+      "id": "b5da1378f9e12fe86f80e762",
+      "title": "Corps of Engineers, TVA earn national geology award for Chickamauga Lock project",
+      "summary": "The U.S. Army Corps of Engineers Nashville District and the Tennessee Valley Authority received the 2026 Outstanding Environmental and Engineering Geologic Project Award on Sept. 16, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578777/corps-engineers-tva-earn-national-geology-award-chickamauga-lock-project",
+      "publishedAt": "2026-11-06T13:55:43Z"
+    },
+    {
+      "id": "2a1f36b1dbd2752db4277279",
+      "title": "7th Communication Battalion celebrates enduring friendship at Moon Festival",
+      "summary": "U.S. Marines with 7th Communication Battalion, III Marine Expeditionary Force Information Group, joined residents, staff and community members for the annual Moon Festival at Hikarigaoka Nursing Home, Oct. 31, 2026, continuing a friendship spanning more than three decades.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578761/7th-communication-battalion-celebrates-enduring-friendship-moon-festival",
+      "publishedAt": "2026-11-06T06:12:19Z"
+    },
+    {
+      "id": "b23f729996da222fa97f0ea2",
+      "title": "Joint effort prepares military housing for incoming families",
+      "summary": "KADENA AIR BASE, Japan — U.S. Air Force Airmen assigned to the 18th Civil Engineer Group and U.S. Marines worked together over six weeks across Okinawa, Japan, to prepare more than 120 military homes for incoming families, combining maintenance support and administrative changes to improve housing operations.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578762/joint-effort-prepares-military-housing-incoming-families",
+      "publishedAt": "2026-11-06T06:01:57Z"
+    },
     {
       "id": "6ee00240fb73b3e22bc87da8",
       "title": "Mustang of the Week: TSgt Wendall Curry",
@@ -334,33 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578572/us-army-corps-engineers-waives-day-use-fees-recreation-areas-observance-veterans-day",
       "publishedAt": "2026-11-04T15:17:31Z"
-    },
-    {
-      "id": "e2c5493e67f64183eedd345f",
-      "title": "New Jersey's 31st National DEA Take Back Day Oct 2026",
-      "summary": "Members of the New Jersey National Guard Counterdrug Program accompany Drug Enforcement Agents in the collection and disposal of prescription medications during Operation Take Back New Jersey, October 26-27, 2026",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578570/new-jerseys-31st-national-dea-take-back-day-oct-2026",
-      "publishedAt": "2026-11-04T14:55:58Z"
-    },
-    {
-      "id": "5da28e964673c9422afa6b18",
-      "title": "AFCENT Commander completes first AOR trip",
-      "summary": "U.S. Air Force Lt. Gen. Daniel Lasica, Ninth Air Force (Air Forces Central) commander, recently concluded a multi-day visit across the U.S. Central Command area of responsibility Oct. 26-28, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578565/afcent-commander-completes-first-aor-trip",
-      "publishedAt": "2026-11-04T14:35:22Z"
-    },
-    {
-      "id": "6c9efdff041cf149f289c865",
-      "title": "U.S. Army Test, Measurement and Diagnostic Equipment Activity hosts Polish delegation to bolster allied readiness, interoperability",
-      "summary": "Two officers from the Polish armed forces visited the U.S. Army Test, Measurement and Diagnostic Equipment Activity, known as USATA, Oct. 20 and 21 to establish bilateral cooperation on the calibration and maintenance of key military systems. Polish army Lt. Col. Przemysław Piróg and Maj. Sławomir Dąbrowski toured the U.S.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578566/us-army-test-measurement-and-diagnostic-equipment-activity-hosts-polish-delegation-bolster-allied-readiness-interoperability",
-      "publishedAt": "2026-11-04T13:36:14Z"
     }
   ],
   "nextPage": "page-3.json"
