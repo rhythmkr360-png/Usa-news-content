@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-09T06:41:06Z",
+  "generatedAt": "2026-11-09T19:51:47Z",
   "articles": [
+    {
+      "id": "d55fe219520b53f2bd99f777",
+      "title": "Pentagon can’t track thousands of F-35 parts: GAO",
+      "summary": "The government watchdog found that more than 17,000 F-35 fighter jet parts worth an estimated $1.3 billion were missing from the program’s inventory system.",
+      "category": "Air Force",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/pentagon-cant-track-thousands-of-f-35-parts-gao/",
+      "publishedAt": "2026-11-09T19:41:23Z"
+    },
+    {
+      "id": "643a9bbdbc6eb5ac02fa5008",
+      "title": "USS Lenah Sutcliffe Higbee holds change of command ceremony",
+      "summary": "NAVAL BASE SAN DIEGO (Nov. 6, 2026) - U.S. Navy Cmdr. Osei Asante relieved U.S. Navy Cmdr. Jack Skahen as commanding officer of Arleigh Burke-class guided-missile destroyer USS Lenah Sutcliffe Higbee (DDG 123) during a change of command ceremony at the USS Midway Museum on Nov. 6, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578995/uss-lenah-sutcliffe-higbee-holds-change-command-ceremony",
+      "publishedAt": "2026-11-09T19:29:55Z"
+    },
+    {
+      "id": "4f78c1dc6af44a738a7c343d",
+      "title": "USNI News Fleet and Marine Tracker: Nov. 9, 2026",
+      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 9, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/09/usni-news-fleet-and-marine-tracker-nov-9-2026",
+      "publishedAt": "2026-11-09T19:18:38Z"
+    },
+    {
+      "id": "1186fd95795b57d3f24918da",
+      "title": "PAE C2/CC2 - ST3 Celebrates Teamwork and Morale at Annual Organization Day",
+      "summary": "Soldiers, Army civilians and contractors from the U.S. Army’s Portfolio Acquisition Executive Command and Control/Counter Command and Control - Simulation, Training, Test and Threat (PAE C2/CC2 – ST3) gathered Nov.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578982/pae-c2-cc2-st3-celebrates-teamwork-and-morale-annual-organization-day",
+      "publishedAt": "2026-11-09T18:20:37Z"
+    },
+    {
+      "id": "c1493df90ed285bbbb4696d5",
+      "title": "UTEP AIAA Students Explore WSMR’s Historic Sites and Career Opportunities",
+      "summary": "On Nov. 6, UTEP’s American Institute of Aeronautics and Astronautics or AIAA students visited White Sands Missile Range.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578978/utep-aiaa-students-explore-wsmrs-historic-sites-and-career-opportunities",
+      "publishedAt": "2026-11-09T17:14:01Z"
+    },
+    {
+      "id": "1eda4c4ab2c6721ecbec7295",
+      "title": "Mount Morris Dam expands public engagement during 2026 visitor season",
+      "summary": "New York — The Mount Morris Dam and Recreation Area expanded public engagement during its 2026 visitor season, increasing participation in ranger-led dam tours, special events, educational programs and volunteer service while continuing to deliver flood risk management and environmental stewardship for the Genesee River Valley.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578977/mount-morris-dam-expands-public-engagement-during-2026-visitor-season",
+      "publishedAt": "2026-11-09T17:07:01Z"
+    },
+    {
+      "id": "6d6582913880b299e5db0bfe",
+      "title": "ACC-RSA Acting Executive Director Jeffrey Caldwell selected for Senior Executive Service",
+      "summary": "ACC-RSA Acting Executive Director Jeffrey L. Caldwell has been selected for the Senior Executive Service and appointed executive director of U.S. Army Contracting Command-Redstone Arsenal, effective Dec. 13, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578975/acc-rsa-acting-executive-director-jeffrey-caldwell-selected-senior-executive-service",
+      "publishedAt": "2026-11-09T17:03:15Z"
+    },
+    {
+      "id": "46f9ca2b3d607cb6cd1334e7",
+      "title": "Neros to expand domestic drone production with $450M Pentagon loan",
+      "summary": "The company is a frontrunner in a Defense Department competition to find the best quality, most affordable small drone for combat.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/11/09/neros-to-expand-domestic-drone-production-with-450m-pentagon-loan/",
+      "publishedAt": "2026-11-09T15:45:23Z"
+    },
     {
       "id": "d437bd7dbf443c5b41884a9b",
       "title": "Gen. Brunson Thanks Japan's Defense Minister for Support to UNC-Rear",
@@ -289,78 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578805/corps-dewaters-century-old-allegheny-river-lock-chamber-critical-repairs",
       "publishedAt": "2026-11-06T16:34:39Z"
-    },
-    {
-      "id": "c1ab922aa18a4d79477c1f76",
-      "title": "Two in a row: Armaments Center receives Hopper Award for Software Maintenance Excellence for second straight year",
-      "summary": "PICATINNY ARSENAL, N.J. - For the third year, and second consecutive, the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center has received the prestigious Rear Admiral Grace M. Hopper Award for Software Maintenance Excellence.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578804/two-row-armaments-center-receives-hopper-award-software-maintenance-excellence-second-straight-year",
-      "publishedAt": "2026-11-06T16:30:10Z"
-    },
-    {
-      "id": "b396a6f15334bdfa29988797",
-      "title": "NETCOM engages industry to advance innovation, global network modernization",
-      "summary": "FORT HUACHUCA, Ariz. — As the Army continues to modernize its network and strengthen its ability to operate across multiple domains, leaders from the U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578800/netcom-engages-industry-advance-innovation-global-network-modernization",
-      "publishedAt": "2026-11-06T16:25:13Z"
-    },
-    {
-      "id": "523f1d010a1018db9ff2cf97",
-      "title": "U.S. Army honors Wisconsin son, killed on an Italian battlefield in WWI",
-      "summary": "SAN DONÀ DI PIAVE, Italy – Lt. Edward Michael McKey, an American Red Cross volunteer, arrived in Italy with a simple purpose – to help those caught in the devastation of war. He carried no rifle.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578794/us-army-honors-wisconsin-son-killed-italian-battlefield-wwi",
-      "publishedAt": "2026-11-06T16:11:54Z"
-    },
-    {
-      "id": "fe42ca0acc0b1289df26a76c",
-      "title": "Health Facility Planning Agency cases colors, commemorates decades of service",
-      "summary": "The U.S. Army Health Facility Planning Agency formally cased its colors during an inactivation ceremony at Defense Health Headquarters, Sept. 22, marking the completion of the organization’s service to Army Medicine and the nation.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578798/health-facility-planning-agency-cases-colors-commemorates-decades-service",
-      "publishedAt": "2026-11-06T16:02:47Z"
-    },
-    {
-      "id": "c2e844d865a62dd3a72b0645",
-      "title": "US European Command launches vigilance campaign as hybrid threats mount",
-      "summary": "U.S. European Command is calling on U.S. troops, family members, and civilian employees to stay alert for suspicious behavior and to cover their digital tracks while moving around Europe.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/2026/11/06/us-european-command-launches-vigilance-campaign-as-hybrid-threats-mount/",
-      "publishedAt": "2026-11-06T15:39:51Z"
-    },
-    {
-      "id": "428d203d6f7a84de2b7994a7",
-      "title": "Fort Buchanan firefighters teach fire safety to Coast Guard preschoolers",
-      "summary": "Installation U.S. Army civilian firefighters taught preschoolers to recognize firefighters as trusted helpers in emergencies Oct. 9 at the U.S. Coast Guard Child Development Center in Río Bayamón Housing, reinforcing fire safety awareness and strengthening ties with military families.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578792/fort-buchanan-firefighters-teach-fire-safety-coast-guard-preschoolers",
-      "publishedAt": "2026-11-06T15:28:30Z"
-    },
-    {
-      "id": "c6e9a476adf25a2db76dbfb1",
-      "title": "US Air Force eyes reviving WWII air bases in the Pacific",
-      "summary": "The U.S. Air Force hopes to conduct more than 6,000 aircraft operations annually at airfields on three American islands in the northwest Pacific Ocean.",
-      "category": "Air Force",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/global/asia-pacific/2026/11/06/us-air-force-eyes-reviving-wwii-air-bases-in-the-pacific/",
-      "publishedAt": "2026-11-06T15:28:23Z"
-    },
-    {
-      "id": "133f37e1ed1204a4aa848b4e",
-      "title": "Lost in 1951, Korean War Soldier to be Laid to Rest in Illinois",
-      "summary": "The remains of U.S. Army Sgt. Joseph Alfred Platzkoester, missing from the Korean War, will be interred November 11 at Green Mount Catholic Cemetery in Belleville, Illinois. Services and interment are being coordinated by Renner’s Funeral Home.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578790/lost-1951-korean-war-soldier-laid-rest-illinois",
-      "publishedAt": "2026-11-06T15:12:43Z"
     }
   ],
   "nextPage": "pages/page-2.json"
