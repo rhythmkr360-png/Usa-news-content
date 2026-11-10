@@ -1,7 +1,97 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-10T14:57:11Z",
+  "generatedAt": "2026-11-10T21:19:20Z",
   "articles": [
+    {
+      "id": "b5da1378f9e12fe86f80e762",
+      "title": "Corps of Engineers, TVA earn national geology award for Chickamauga Lock project",
+      "summary": "The U.S. Army Corps of Engineers Nashville District and the Tennessee Valley Authority received the 2026 Outstanding Environmental and Engineering Geologic Project Award on Sept. 16, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578777/corps-engineers-tva-earn-national-geology-award-chickamauga-lock-project",
+      "publishedAt": "2026-11-06T13:55:43Z"
+    },
+    {
+      "id": "2a1f36b1dbd2752db4277279",
+      "title": "7th Communication Battalion celebrates enduring friendship at Moon Festival",
+      "summary": "U.S. Marines with 7th Communication Battalion, III Marine Expeditionary Force Information Group, joined residents, staff and community members for the annual Moon Festival at Hikarigaoka Nursing Home, Oct. 31, 2026, continuing a friendship spanning more than three decades.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578761/7th-communication-battalion-celebrates-enduring-friendship-moon-festival",
+      "publishedAt": "2026-11-06T06:12:19Z"
+    },
+    {
+      "id": "b23f729996da222fa97f0ea2",
+      "title": "Joint effort prepares military housing for incoming families",
+      "summary": "KADENA AIR BASE, Japan — U.S. Air Force Airmen assigned to the 18th Civil Engineer Group and U.S. Marines worked together over six weeks across Okinawa, Japan, to prepare more than 120 military homes for incoming families, combining maintenance support and administrative changes to improve housing operations.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578762/joint-effort-prepares-military-housing-incoming-families",
+      "publishedAt": "2026-11-06T06:01:57Z"
+    },
+    {
+      "id": "6ee00240fb73b3e22bc87da8",
+      "title": "Mustang of the Week: TSgt Wendall Curry",
+      "summary": "U.S. Air Force Tech. Sgt. Wendall Curry, 51st Comptroller Squadron noncommissioned officer in charge of travel, was recognized as Mustang of the Week for his dedication to supporting Airmen, strengthening team morale and demonstrating exceptional leadership while maintaining financial readiness for the 51st Fighter Wing at Osan Air Base, Republic…",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578760/mustang-week-tsgt-wendall-curry",
+      "publishedAt": "2026-11-06T05:01:49Z"
+    },
+    {
+      "id": "ecbd73624e8eb67d8b1e2f25",
+      "title": "Navy, NASA withdraw Final EIS",
+      "summary": "JOINT BASE PEARL HARBOR-HICKAM, Hawaii — The U.S. Navy and the National Aeronautics and Space Administration (NASA) formally withdrew the Final Environmental Impact Statement (EIS) covering Pacific Missile Range Facility (PMRF) and Kokee Park Geophysical Observatory (KPGO) Nov.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578757/navy-nasa-withdraw-final-eis",
+      "publishedAt": "2026-11-06T01:20:27Z"
+    },
+    {
+      "id": "6606a56ff63616b88351c6d6",
+      "title": "Three Generations, One Legacy: The Hernandez Family Continues Marine Corps Tradition",
+      "summary": "Platoon 2115 stands at attention, unmoving in the frigid morning air, patiently waiting to receive the Eagle, Globe and Anchor they’ve all earned after a grueling 54 hours. U.S. Marine Corps Recruit. Noel Hernandez waits among the platoon, not knowing his father, retired Marine Corps 1st Sgt.",
+      "category": "Marine Corps",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578755/three-generations-one-legacy-hernandez-family-continues-marine-corps-tradition",
+      "publishedAt": "2026-11-06T00:17:25Z"
+    },
+    {
+      "id": "f0ec1cc6772d2b40e77dc130",
+      "title": "TEMPORARY FLIGHT RESTRICTION AIRSPACE ANNOUNCED OVER WEST PALM BEACH, FLORIDA THIS WEEKEND",
+      "summary": "Fighter jets from the North American Aerospace Defense Command (NORAD) will enforce the Federal Aviation Administration-established VIP Temporary Flight Restriction (TFR) area for this weekend, Nov. 6 - 8, 2026, over West Palm Beach, Florida.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578748/temporary-flight-restriction-airspace-announced-over-west-palm-beach-florida-weekend",
+      "publishedAt": "2026-11-05T22:21:35Z"
+    },
+    {
+      "id": "a93f3651f68f583430ea8f43",
+      "title": "Hegseth adds more Humvees, patrol cars, boats to DC National Guard law enforcement ‘support’ mission",
+      "summary": "National Guardsmen in DC will get patrol boats and cars to assist federal and local enforcement operations in the nation's capital. The post Hegseth adds more Humvees, patrol cars, boats to DC National Guard law enforcement ‘support’ mission appeared first on Task & Purpose .",
+      "category": "Army",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/national-guard-law-enforcement-assets/",
+      "publishedAt": "2026-11-05T22:11:29Z"
+    },
+    {
+      "id": "1af14f9117ecbe430d901f3e",
+      "title": "Georgia Guard Officer Wins MacArthur Award",
+      "summary": "A Georgia Army National Guard officer received the prestigious General Douglas MacArthur Leadership Award during a ceremony October 27, 2026, in Arlington, Va. Captain Paul J.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578741/georgia-guard-officer-wins-macarthur-award",
+      "publishedAt": "2026-11-05T20:40:33Z"
+    },
+    {
+      "id": "dfed15ea6707c202b216c1bc",
+      "title": "Corps of Engineers waives day-use fees at recreation areas in observance of Veterans Day",
+      "summary": "The U.S. Army Corps of Engineers Nashville District announces that day-use fees at its USACE-operated recreation areas in the Cumberland River Basin are waived Nov. 11, 2026, in observance of Veterans Day.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578739/corps-engineers-waives-day-use-fees-recreation-areas-observance-veterans-day",
+      "publishedAt": "2026-11-05T20:21:07Z"
+    },
     {
       "id": "20c3d5764782577db8406785",
       "title": "Corps of Engineers increasing flows from Lac qui Parle Dam",
@@ -271,96 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578572/us-army-corps-engineers-waives-day-use-fees-recreation-areas-observance-veterans-day",
       "publishedAt": "2026-11-04T15:17:31Z"
-    },
-    {
-      "id": "e2c5493e67f64183eedd345f",
-      "title": "New Jersey's 31st National DEA Take Back Day Oct 2026",
-      "summary": "Members of the New Jersey National Guard Counterdrug Program accompany Drug Enforcement Agents in the collection and disposal of prescription medications during Operation Take Back New Jersey, October 26-27, 2026",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578570/new-jerseys-31st-national-dea-take-back-day-oct-2026",
-      "publishedAt": "2026-11-04T14:55:58Z"
-    },
-    {
-      "id": "5da28e964673c9422afa6b18",
-      "title": "AFCENT Commander completes first AOR trip",
-      "summary": "U.S. Air Force Lt. Gen. Daniel Lasica, Ninth Air Force (Air Forces Central) commander, recently concluded a multi-day visit across the U.S. Central Command area of responsibility Oct. 26-28, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578565/afcent-commander-completes-first-aor-trip",
-      "publishedAt": "2026-11-04T14:35:22Z"
-    },
-    {
-      "id": "6c9efdff041cf149f289c865",
-      "title": "U.S. Army Test, Measurement and Diagnostic Equipment Activity hosts Polish delegation to bolster allied readiness, interoperability",
-      "summary": "Two officers from the Polish armed forces visited the U.S. Army Test, Measurement and Diagnostic Equipment Activity, known as USATA, Oct. 20 and 21 to establish bilateral cooperation on the calibration and maintenance of key military systems. Polish army Lt. Col. Przemysław Piróg and Maj. Sławomir Dąbrowski toured the U.S.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578566/us-army-test-measurement-and-diagnostic-equipment-activity-hosts-polish-delegation-bolster-allied-readiness-interoperability",
-      "publishedAt": "2026-11-04T13:36:14Z"
-    },
-    {
-      "id": "9073ca3f38f3e9eaefd3427b",
-      "title": "From the foxhole to flight: Armaments Center’s MALET turns standard rounds into drone munitions",
-      "summary": "PICATINNY ARSENAL, N.J. - The ever-evolving Unmanned Aerial Systems toolbox has grown even stronger with the introduction of the Munitions Air-dropped Lethal Effects Tool (MALET), developed by the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578564/foxhole-flight-armaments-centers-malet-turns-standard-rounds-into-drone-munitions",
-      "publishedAt": "2026-11-04T11:47:08Z"
-    },
-    {
-      "id": "fc318719b3e9f5ab224440c6",
-      "title": "USAG Wiesbaden community steps up to feed the force during precautionary DFAC closure",
-      "summary": "The U.S. Army Garrison Wiesbaden community came together in an installation-wide effort to keep service members fed when the Stronger Together Dining Facility temporarily closed on Sept. 30.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578561/usag-wiesbaden-community-steps-up-feed-force-during-precautionary-dfac-closure",
-      "publishedAt": "2026-11-04T07:36:44Z"
-    },
-    {
-      "id": "4fa11f897f4879b38d88b8e2",
-      "title": "U.S., Republic of Korea navies strengthen alliance through Modernized Strategic Dialogue",
-      "summary": "U.S. Naval Forces Korea and the Republic of Korea Navy concluded their annual strategic dialogue at ROK Navy Headquarters, reaffirming their commitment to strengthening the U.S.-ROK maritime alliance.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578559/us-republic-korea-navies-strengthen-alliance-through-modernized-strategic-dialogue",
-      "publishedAt": "2026-11-04T06:14:06Z"
-    },
-    {
-      "id": "173086330d49359d59546634",
-      "title": "ROK Army 51st Infantry Division Signal Battalion Soldiers Visit 1st Signal Brigade",
-      "summary": "Soldiers from the Republic of Korea (ROK) Army 51st Infantry Division Signal Battalion visited the 41st Signal Battalion and the 304th Signal Battalion—under the 1st Signal Brigade at Camp Humphreys, Republic of Korea, Sept. 29, 2026, for a unit tour and professional exchange event. This exchange was organized to solidify combined ROK and U.S.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578556/rok-army-51st-infantry-division-signal-battalion-soldiers-visit-1st-signal-brigade",
-      "publishedAt": "2026-11-04T02:21:47Z"
-    },
-    {
-      "id": "e784d0cb3fd6e6e8c143a8ff",
-      "title": "US Army Pacific Welcomes Veterans to Headquarters, Honors Their Service",
-      "summary": "FORT SHAFTER, Hawaii — U.S. Army Pacific welcomed veterans to its headquarters on November 3, 2026, for a special event recognizing their service, sacrifice, and lasting contributions to the nation.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578555/us-army-pacific-welcomes-veterans-headquarters-honors-their-service",
-      "publishedAt": "2026-11-04T01:50:06Z"
-    },
-    {
-      "id": "daadef2288d72e2ec2bcec6f",
-      "title": "Navy Aviators Uphold a Legacy of Excellence in Homeland Defense",
-      "summary": "In December 1910, Lt. Theodore Gordon “Spuds” Ellyson forever changed the U.S. Navy when he became the first Navy officer designated as an aviator.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578551/navy-aviators-uphold-legacy-excellence-homeland-defense",
-      "publishedAt": "2026-11-03T23:57:55Z"
-    },
-    {
-      "id": "c2e89bfa694bb0292f64d4b7",
-      "title": "U.S. and Colombian armies officially launch joint exercise to strengthen readiness and regional security",
-      "summary": "U.S. and Colombian armies officially launched Exercise Southern Vanguard 2027 on Nov. 2, bringing together approximately 800 military personnel to strengthen interoperability, readiness, and bilateral security cooperation. The 41st iteration of the annual exercise is hosted by the Colombian Army, sponsored by U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578550/us-and-colombian-armies-officially-launch-joint-exercise-strengthen-readiness-and-regional-security",
-      "publishedAt": "2026-11-03T23:30:38Z"
     }
   ],
   "nextPage": "page-4.json"

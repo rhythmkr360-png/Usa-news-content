@@ -1,7 +1,97 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-10T14:57:11Z",
+  "generatedAt": "2026-11-10T21:19:20Z",
   "articles": [
+    {
+      "id": "940fdd6b4de73157e82f96b8",
+      "title": "62d APS Airman Earns the Bronze Star",
+      "summary": "U.S. Air Force Tech. Sgt. Vincent Simmons, 62d Aerial Port Squadron contracting officer representative, was awarded the Bronze Star medal for meritorious achievement during his deployment to the U.S. Central Command area of responsibility.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578439/62d-aps-airman-earns-bronze-star",
+      "publishedAt": "2026-11-02T21:09:16Z"
+    },
+    {
+      "id": "21661d9e8e6ce0f3fe4cde14",
+      "title": "Space Force activates special operations component command in Tampa",
+      "summary": "U.S. Space Forces Special Operations Command, or SPACEFOR-SOC, formally activated today as the newest service component of U.S. Special Operations Command. Headquartered at MacDill Air Force Base, SPACEFOR-SOC organizes and presents specialized forces – known as SOF Guardians – to Theater Special Operations Commands and Joint Task Forces worldwide.",
+      "category": "Space Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578451/space-force-activates-special-operations-component-command-tampa",
+      "publishedAt": "2026-11-02T20:57:07Z"
+    },
+    {
+      "id": "6c05c8b6877cc0aca62bec90",
+      "title": "USS Gridley returns to Everett after seven-months of operations",
+      "summary": "EVERETT, Wash. – Arleigh Burke-class guided-missile destroyer USS Gridley (DDG 101) returned home to Naval Station Everett, Oct. 9, 2026, after a seven-month deployment to the U.S. 4th Fleet area of operations.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578449/uss-gridley-returns-everett-after-seven-months-operations",
+      "publishedAt": "2026-11-02T20:45:59Z"
+    },
+    {
+      "id": "d4706d0c8ad0ce1a92364841",
+      "title": "National Guard troops monitoring ballot boxes in Washington state after threats",
+      "summary": "At least 100 National Guard members were activated to assist with election security in seven counties. The post National Guard troops monitoring ballot boxes in Washington state after threats appeared first on Task & Purpose .",
+      "category": "Army",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/national-guard-washington-state-ballot-boxes/",
+      "publishedAt": "2026-11-02T20:35:09Z"
+    },
+    {
+      "id": "5b3586fb30e0ca85fac7b57b",
+      "title": "Kansas National Guard engineers pave the way for future port in remote Alaskan community",
+      "summary": "The Kansas Army National Guard’s 891st Engineer Battalion recently completed a rigorous Innovative Readiness Training mission in Cordova, Alaska.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578444/kansas-national-guard-engineers-pave-way-future-port-remote-alaskan-community",
+      "publishedAt": "2026-11-02T20:19:42Z"
+    },
+    {
+      "id": "bdca5b161bbb6f7d8b961634",
+      "title": "A new class of blast: DBX 1 compound pushing Army towards cleaner, smarter firepower",
+      "summary": "PICATINNY ARSENAL, N.J. - Engineers at the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center researchers say a new explosive initiator could remove environmental and safety risks from the supply chain.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578445/new-class-blast-dbx-1-compound-pushing-army-towards-cleaner-smarter-firepower",
+      "publishedAt": "2026-11-02T20:19:07Z"
+    },
+    {
+      "id": "5c7b10c3963e3ba4ebab7c78",
+      "title": "NMRDC Shares the Value of Research and Development at Weller Road Career Day",
+      "summary": "SILVER SPRING, Md. – Sailors with Navy Medicine Research and Development Command (NMRDC) took part in Weller Road Elementary School’s annual STEM Career Day on October 23. Weller Road students in 3rd, 4th and 5th grade had the opportunity to speak with active-duty Sailors, to learn how the command’s mission safeguards U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578436/nmrdc-shares-value-research-and-development-weller-road-career-day",
+      "publishedAt": "2026-11-02T19:49:21Z"
+    },
+    {
+      "id": "45bad4ea11d35939dc1d5b3f",
+      "title": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
+      "summary": "As the American military seeks new capabilities and advanced systems amid rapid change, defense companies of all sizes showcased their solutions at a major defense conference.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/video/2026/11/02/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26/",
+      "publishedAt": "2026-11-02T14:42:00Z"
+    },
+    {
+      "id": "8dc236ac44a6c776ce226279",
+      "title": "Big deals in European defense and American fighters | Defense Dollars",
+      "summary": "International weapons makers step forward with new interceptors and deals for armored vehicles, while an American company secures a fighter contract.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/video/2026/11/02/big-deals-in-european-defense-and-american-fighters-defense-dollars/",
+      "publishedAt": "2026-11-02T14:00:00Z"
+    },
+    {
+      "id": "271ed782c0819de27ed8b018",
+      "title": "U.S. Africa Command leadership attends AFRIDEX in Lagos",
+      "summary": "U.S. Africa Command leadership attended the Africa International Defence Exhibition (AFRIDEX) in Lagos, Nigeria Oct. 26–27, 2026 to collaborate with African defense leaders and global partners to advance cooperation across Africa.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578388/us-africa-command-leadership-attends-afridex-lagos",
+      "publishedAt": "2026-11-02T08:14:57Z"
+    },
     {
       "id": "b734bbab344a479ea56c1d71",
       "title": "Exercise Tiger Triumph 2026 Commences in Visakhapatnam to Enhance U.S.-India Combined Interoperability",
