@@ -1,7 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-10T03:36:21Z",
+  "generatedAt": "2026-11-10T14:57:11Z",
   "articles": [
+    {
+      "id": "b734bbab344a479ea56c1d71",
+      "title": "Exercise Tiger Triumph 2026 Commences in Visakhapatnam to Enhance U.S.-India Combined Interoperability",
+      "summary": "VISAKHAPATNAM, India – Service members from the United States and Indian Armed Forces officially commenced Exercise Tiger Triumph 2026 with an opening ceremony in Visakhapatnam, India, on Nov. 2, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578387/exercise-tiger-triumph-2026-commences-visakhapatnam-enhance-us-india-combined-interoperability",
+      "publishedAt": "2026-11-02T05:58:29Z"
+    },
+    {
+      "id": "3f6c2b82afbbc2c4c30e722f",
+      "title": "Tropic Lightning, Joint Partners Set the Theater for JPMRC 27-01",
+      "summary": "SCHOFIELD BARRACKS, Hawaii – Combat credibility begins long before the first round is fired. It starts with disciplined preparation, setting the theater, and establishing the lines of communication necessary to fight and win in a complex archipelagic environment. The division-level Combined Arms Rehearsal on Nov. 1, brought U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578385/tropic-lightning-joint-partners-set-theater-jpmrc-27-01",
+      "publishedAt": "2026-11-02T03:38:48Z"
+    },
+    {
+      "id": "132512bf9f0f39dc40fa4478",
+      "title": "A Legacy of Service: One Family's Generations of Military Honor",
+      "summary": "Not many people decide to join the military; less than 1% of the U.S. population currently serves. However, one family has uniquely dedicated their time to serving this country.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578384/legacy-service-one-familys-generations-military-honor",
+      "publishedAt": "2026-11-02T00:32:10Z"
+    },
+    {
+      "id": "56c1591e0a45d409c8f78a46",
+      "title": "Acting Army Secretary visits Arkansas to strengthen industrial base, forge strategic partnerships",
+      "summary": "Acting Secretary of the Army Adam Telle traveled to Arkansas, Oct. 29 to 30, to meet with leaders at Pine Bluff Arsenal, Walmart’s corporate headquarters, and the University of Arkansas.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578378/acting-army-secretary-visits-arkansas-strengthen-industrial-base-forge-strategic-partnerships",
+      "publishedAt": "2026-11-01T20:14:42Z"
+    },
+    {
+      "id": "ad6e2f0264dbf97deab743f4",
+      "title": "Naval Hospital Rota Logistics Team Earns Top European Ranking",
+      "summary": "ROTA, Spain — U.S. Naval Hospital Rota announced Oct. 5, 2026, that its Medical Logistics Department and Directorate of Resource Management achieved a 99.99 percent budget execution rate for fiscal year 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578382/naval-hospital-rota-logistics-team-earns-top-european-ranking",
+      "publishedAt": "2026-11-01T18:28:41Z"
+    },
+    {
+      "id": "59fb4d26ff9a565fa734a7da",
+      "title": "U.S. Army WCAP women wrestlers make history, help Team USA capture first world title since 1999",
+      "summary": "Readiness and resiliency, and key contributions from the U.S. Army World Class Athlete Program, led Team USA to its first women's world title for the first time since 1999.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578381/us-army-wcap-women-wrestlers-make-history-help-team-usa-capture-first-world-title-since-1999",
+      "publishedAt": "2026-11-01T18:20:05Z"
+    },
     {
       "id": "86df242d42291a3c6f66aa41",
       "title": "U.S. Navy Assists Mariners Experiencing Engine Trouble in Arabian Sea",

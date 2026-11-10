@@ -1,7 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-10T03:36:21Z",
+  "generatedAt": "2026-11-10T14:57:11Z",
   "articles": [
+    {
+      "id": "0680b3a94a400da6570e4b5b",
+      "title": "Thales subsidiary lands US Navy contract for remote mine hunting modules",
+      "summary": "The contract, awarded to Advanced Acoustic Concepts, is worth $53.9 million and also covers engineering support for the modules.",
+      "category": "Navy",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/thales-subsidiary-lands-us-navy-contract-for-remote-mine-hunting-modules/",
+      "publishedAt": "2026-11-03T22:40:45Z"
+    },
+    {
+      "id": "5dac1764fb28b61c7a0f75d3",
+      "title": "Persistence through adversity: 500th Military Intelligence Brigade Soldier earns promotion",
+      "summary": "After an unsuccessful fitness test, a back injury and a six-month delay, U.S. Army Spc. Fernando Banegas-Vasquez reached a long-awaited career milestone when he was promoted from private first class to specialist Oct. 7, 2026.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578546/persistence-through-adversity-500th-military-intelligence-brigade-soldier-earns-promotion",
+      "publishedAt": "2026-11-03T21:42:37Z"
+    },
+    {
+      "id": "284a239c5b60573c22864a6c",
+      "title": "159th Fighter Wing deploys to Japan in support of Theater Security Package",
+      "summary": "BELLE CHASSE, La. – Approximately 300 Airmen from the 159th Fighter Wing, Louisiana Air National Guard, deployed to Kadena Air Base, Japan, in support of a Theater Security Package, Oct. 23.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578545/159th-fighter-wing-deploys-japan-support-theater-security-package",
+      "publishedAt": "2026-11-03T21:27:22Z"
+    },
+    {
+      "id": "37f1820ce331772c85684db6",
+      "title": "Outstanding Service, Lasting Impact",
+      "summary": "For four years at Camp Pendleton, U.S. Marine Corps Staff Sgt. Juan C. Solis Jr. has volunteered to coach young athletes. A Marine, husband, and father, he built afternoons around practices, stayed late to help young athletes, and watched each player grow and apply what they learned.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578535/outstanding-service-lasting-impact",
+      "publishedAt": "2026-11-03T21:26:34Z"
+    },
+    {
+      "id": "c681f9dec63444341f8378f5",
+      "title": "Beyond the Arena: The Military Mounted Battalion Returns to WIHS",
+      "summary": "The U.S. Army Military Mounted Battalion, 3d U.S. Infantry Regiment (The Old Guard), participated in the 2026 Washington International Horse Show on Oct. 22 in Upper Marlboro, Maryland, showcasing the precision, horsemanship and ceremonial excellence of its Soldiers and horses.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578527/beyond-arena-military-mounted-battalion-returns-wihs",
+      "publishedAt": "2026-11-03T21:23:22Z"
+    },
+    {
+      "id": "af0c59aaad504a0d89847098",
+      "title": "After 5,700 flight hours, Nevada Guard aviator completes final flight",
+      "summary": "Chief Warrant Officer 5 Kevin Keeler spent 28 years flying helicopters to evacuate wounded troops, search for missing people and support communities during disasters. On Oct. 23, the Nevada Army National Guard aviator completed his final flight with more than 5,700 flight hours and decades of experience training other pilots.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578538/after-5700-flight-hours-nevada-guard-aviator-completes-final-flight",
+      "publishedAt": "2026-11-03T20:55:50Z"
+    },
     {
       "id": "af2103a9d780c20a6b1d5013",
       "title": "Naval Construction Training Center Port Hueneme Host’s the Society of American Military Engineering (SAME) Camp",
@@ -307,60 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578388/us-africa-command-leadership-attends-afridex-lagos",
       "publishedAt": "2026-11-02T08:14:57Z"
-    },
-    {
-      "id": "b734bbab344a479ea56c1d71",
-      "title": "Exercise Tiger Triumph 2026 Commences in Visakhapatnam to Enhance U.S.-India Combined Interoperability",
-      "summary": "VISAKHAPATNAM, India – Service members from the United States and Indian Armed Forces officially commenced Exercise Tiger Triumph 2026 with an opening ceremony in Visakhapatnam, India, on Nov. 2, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578387/exercise-tiger-triumph-2026-commences-visakhapatnam-enhance-us-india-combined-interoperability",
-      "publishedAt": "2026-11-02T05:58:29Z"
-    },
-    {
-      "id": "3f6c2b82afbbc2c4c30e722f",
-      "title": "Tropic Lightning, Joint Partners Set the Theater for JPMRC 27-01",
-      "summary": "SCHOFIELD BARRACKS, Hawaii – Combat credibility begins long before the first round is fired. It starts with disciplined preparation, setting the theater, and establishing the lines of communication necessary to fight and win in a complex archipelagic environment. The division-level Combined Arms Rehearsal on Nov. 1, brought U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578385/tropic-lightning-joint-partners-set-theater-jpmrc-27-01",
-      "publishedAt": "2026-11-02T03:38:48Z"
-    },
-    {
-      "id": "132512bf9f0f39dc40fa4478",
-      "title": "A Legacy of Service: One Family's Generations of Military Honor",
-      "summary": "Not many people decide to join the military; less than 1% of the U.S. population currently serves. However, one family has uniquely dedicated their time to serving this country.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578384/legacy-service-one-familys-generations-military-honor",
-      "publishedAt": "2026-11-02T00:32:10Z"
-    },
-    {
-      "id": "56c1591e0a45d409c8f78a46",
-      "title": "Acting Army Secretary visits Arkansas to strengthen industrial base, forge strategic partnerships",
-      "summary": "Acting Secretary of the Army Adam Telle traveled to Arkansas, Oct. 29 to 30, to meet with leaders at Pine Bluff Arsenal, Walmart’s corporate headquarters, and the University of Arkansas.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578378/acting-army-secretary-visits-arkansas-strengthen-industrial-base-forge-strategic-partnerships",
-      "publishedAt": "2026-11-01T20:14:42Z"
-    },
-    {
-      "id": "ad6e2f0264dbf97deab743f4",
-      "title": "Naval Hospital Rota Logistics Team Earns Top European Ranking",
-      "summary": "ROTA, Spain — U.S. Naval Hospital Rota announced Oct. 5, 2026, that its Medical Logistics Department and Directorate of Resource Management achieved a 99.99 percent budget execution rate for fiscal year 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578382/naval-hospital-rota-logistics-team-earns-top-european-ranking",
-      "publishedAt": "2026-11-01T18:28:41Z"
-    },
-    {
-      "id": "59fb4d26ff9a565fa734a7da",
-      "title": "U.S. Army WCAP women wrestlers make history, help Team USA capture first world title since 1999",
-      "summary": "Readiness and resiliency, and key contributions from the U.S. Army World Class Athlete Program, led Team USA to its first women's world title for the first time since 1999.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578381/us-army-wcap-women-wrestlers-make-history-help-team-usa-capture-first-world-title-since-1999",
-      "publishedAt": "2026-11-01T18:20:05Z"
     }
   ],
   "nextPage": "page-5.json"
