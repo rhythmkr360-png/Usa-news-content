@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-11T06:31:15Z",
+  "generatedAt": "2026-11-11T17:12:17Z",
   "articles": [
+    {
+      "id": "6265ba02b3100e9e5344673e",
+      "title": "The Navy’s trainer is now the biggest test of the Pentagon’s acquisition reform efforts",
+      "summary": "With the competition effectively reduced to one bidder, the Navy faces a choice between falling back on old acquisition habits and showing that its reforms can work under pressure, writes Robbin Laird.",
+      "category": "Navy",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/the-navys-trainer-is-now-the-biggest-test-of-the-pentagons-acquisition-reform-efforts/",
+      "publishedAt": "2026-11-06T15:08:00Z"
+    },
     {
       "id": "b24a9c6c8b64b7ec1b1ece89",
       "title": "How World War I advanced U.S. military medicine",
@@ -352,15 +361,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/video/2026/11/04/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26/",
       "publishedAt": "2026-11-04T18:27:06Z"
-    },
-    {
-      "id": "e04046a8501c2a7e76856122",
-      "title": "The Pentagon needs more ammo for the Iran war. Small communities are paying the price.",
-      "summary": "From polluted waterways to repeated safety violations, the Army’s aging ammunition factories have left a troubling legacy, The War Horse reports.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/pentagon/2026/11/04/the-pentagon-needs-more-ammo-for-the-iran-war-small-communities-are-paying-the-price/",
-      "publishedAt": "2026-11-04T17:38:06Z"
     }
   ],
   "nextPage": "page-4.json"

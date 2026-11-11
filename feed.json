@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-11T06:31:15Z",
+  "generatedAt": "2026-11-11T17:12:17Z",
   "articles": [
+    {
+      "id": "6b3f01d55895e75c4aef7dfc",
+      "title": "Report to Congress on Strategic Stability of the Golden Dome",
+      "summary": "The following is the Nov. 4, 2026, Congressional Research Service report, Golden Dome: Potential Strategic Stability Considerations for Congress.",
+      "category": "Defense",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/11/report-to-congress-on-strategic-stability-of-the-golden-dome",
+      "publishedAt": "2026-11-11T12:22:07Z"
+    },
     {
       "id": "cdfd5ee2419cc41ef6f4e515",
       "title": "Projecting Precision: 25th Infantry Division Executes HIMARS Rapid Infiltration at JPMRC 27-01",
@@ -352,15 +361,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/11/09/neros-to-expand-domestic-drone-production-with-450m-pentagon-loan/",
       "publishedAt": "2026-11-09T15:45:23Z"
-    },
-    {
-      "id": "d437bd7dbf443c5b41884a9b",
-      "title": "Gen. Brunson Thanks Japan's Defense Minister for Support to UNC-Rear",
-      "summary": "TOKYO, Japan - Gen. Xavier T. Brunson, commander of United Nations Command, Combined Forces Command and U.S. Forces Korea, met with Japanese Defense Minister Shinjiro Koizumi at the Ministry of Defense in Tokyo on Nov. 5 to thank Japan for its continued support to UNC-Rear and to reaffirm the U.S.-Japan Alliance.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578931/gen-brunson-thanks-japans-defense-minister-support-unc-rear",
-      "publishedAt": "2026-11-09T06:38:25Z"
     }
   ],
   "nextPage": "pages/page-2.json"

@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-11T06:31:15Z",
+  "generatedAt": "2026-11-11T17:12:17Z",
   "articles": [
+    {
+      "id": "d437bd7dbf443c5b41884a9b",
+      "title": "Gen. Brunson Thanks Japan's Defense Minister for Support to UNC-Rear",
+      "summary": "TOKYO, Japan - Gen. Xavier T. Brunson, commander of United Nations Command, Combined Forces Command and U.S. Forces Korea, met with Japanese Defense Minister Shinjiro Koizumi at the Ministry of Defense in Tokyo on Nov. 5 to thank Japan for its continued support to UNC-Rear and to reaffirm the U.S.-Japan Alliance.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578931/gen-brunson-thanks-japans-defense-minister-support-unc-rear",
+      "publishedAt": "2026-11-09T06:38:25Z"
+    },
     {
       "id": "e1cfc0849d71e52e286bacbf",
       "title": "Fort McCoy advances 2026–2030 strategic plan as new fiscal year begins",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578790/lost-1951-korean-war-soldier-laid-rest-illinois",
       "publishedAt": "2026-11-06T15:12:43Z"
-    },
-    {
-      "id": "6265ba02b3100e9e5344673e",
-      "title": "The Navy’s trainer is now the biggest test of the Pentagon’s acquisition reform efforts",
-      "summary": "With the competition effectively reduced to one bidder, the Navy faces a choice between falling back on old acquisition habits and showing that its reforms can work under pressure, writes Robbin Laird.",
-      "category": "Navy",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/the-navys-trainer-is-now-the-biggest-test-of-the-pentagons-acquisition-reform-efforts/",
-      "publishedAt": "2026-11-06T15:08:00Z"
     }
   ],
   "nextPage": "page-3.json"
