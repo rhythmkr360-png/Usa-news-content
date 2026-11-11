@@ -1,7 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-10T21:19:20Z",
+  "generatedAt": "2026-11-11T06:31:15Z",
   "articles": [
+    {
+      "id": "b24a9c6c8b64b7ec1b1ece89",
+      "title": "How World War I advanced U.S. military medicine",
+      "summary": "U.S. military medical teams accelerated lasting innovations during World War I through breakthroughs in combat care, including frontline surgery, blood storage, mental healthcare, physical rehabilitation, and additional innovative treatments of warfighters — transforming military medicine into a collaborative, lifesaving system, laying the…",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578786/world-war-advanced-us-military-medicine",
+      "publishedAt": "2026-11-06T14:58:39Z"
+    },
+    {
+      "id": "c84f68d30dc66a01bbde45e9",
+      "title": "National Guard expands free childcare program for drill weekends, but with some caveats",
+      "summary": "The expansion aims to make it easier for soldiers and their families, but one childcare expert argued that some of the eligibility requirements may limit its effectiveness. The post National Guard expands free childcare program for drill weekends, but with some caveats appeared first on Task & Purpose .",
+      "category": "Army",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/national-guard-childcare-drill-weekend/",
+      "publishedAt": "2026-11-06T14:58:22Z"
+    },
+    {
+      "id": "5b099faeb239efa224039483",
+      "title": "Lost in 1945, WWII Airman Will Be Laid to Rest in Florida",
+      "summary": "The remains of U.S. Army Air Forces Sgt. Leonard J. McNeill, 27, of Orlando, Florida, who died as a prisoner of war during World War II, will be interred Nov. 11 at Greenwood Cemetery in Orlando, Florida. Services and interment are being coordinated by Colonial Funeral Home.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578789/lost-1945-wwii-airman-will-laid-rest-florida",
+      "publishedAt": "2026-11-06T14:54:20Z"
+    },
+    {
+      "id": "65b9fe06afe271ffbe66456d",
+      "title": "DeCA honors 251 years of the U.S. Marine Corps",
+      "summary": "The Defense Commissary Agency honors the U.S. Marine Corps on its 251st birthday Nov. 10, recognizing the Corps’ enduring legacy and DeCA’s long-standing support for Marines and their families.",
+      "category": "Marine Corps",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578787/deca-honors-251-years-us-marine-corps",
+      "publishedAt": "2026-11-06T14:40:58Z"
+    },
+    {
+      "id": "28d7cf677dda767822d1c254",
+      "title": "65th FAB Recognized as Nation’s Top Artillery Battery",
+      "summary": "Soldiers from Headquarters and Headquarters Battery, 65th Field Artillery Brigade gathered at Camp Williams to receive the Alexander Hamilton Award on Thursday, Nov. 5, 2026, officially recognizing the unit as the nation's best Army National Guard battery of 2025. The award was presented by Brig. Gen. Jason T.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578785/65th-fab-recognized-nations-top-artillery-battery",
+      "publishedAt": "2026-11-06T14:35:50Z"
+    },
+    {
+      "id": "59340f148b7da5299bb27399",
+      "title": "Key Space Force satellites can’t talk to each other, likely requiring $1B solution: Sources",
+      "summary": "To translate between the SpaceX-built SDN Backbone and other Pentagon communications and missile tracking satellites, sources said the Space Force is eyeing 12 or 13 Space Exchange Point birds.",
+      "category": "Space Force",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/key-space-force-satellites-cant-talk-to-each-other-likely-requiring-1b-solution-sources/",
+      "publishedAt": "2026-11-06T14:15:00Z"
+    },
     {
       "id": "b5da1378f9e12fe86f80e762",
       "title": "Corps of Engineers, TVA earn national geology award for Chickamauga Lock project",
@@ -307,60 +361,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/pentagon/2026/11/04/the-pentagon-needs-more-ammo-for-the-iran-war-small-communities-are-paying-the-price/",
       "publishedAt": "2026-11-04T17:38:06Z"
-    },
-    {
-      "id": "c7e5cd9639dd2570c649dba6",
-      "title": "Illinois Army National Guard Major Retires After More Than 25 Years of Service",
-      "summary": "Maj. Craig M. Watkins of the Illinois Army National Guard’s 34th Division Sustainment Brigade retired on Saturday, Sept. 12, during a ceremony at the historic Kedzie Avenue Armory, culminating more than 25 years of dedicated military service.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578577/illinois-army-national-guard-major-retires-after-more-than-25-years-service",
-      "publishedAt": "2026-11-04T16:50:24Z"
-    },
-    {
-      "id": "4b7704eb1553e8dcd9c2a866",
-      "title": "Royal Navy Carriers Operate in the High North, Mediterranean",
-      "summary": "Royal Navy aircraft carrier HMS Prince of Wales (R09) is conducting operations across the High North as HMS Queen Elizabeth (RO8) trains in the Mediterranean.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/04/royal-navy-carriers-operate-in-the-high-north-mediterranean",
-      "publishedAt": "2026-11-04T16:45:40Z"
-    },
-    {
-      "id": "86354c8ded32ad30778d44f8",
-      "title": "Lost in 1951, Korean War Soldier Returns Home to Pennsylvania for Final Rest",
-      "summary": "The remains of U.S. Army Sgt. Henry L. Huber, 22, who was killed during the Korean War, will be interred at Ott Cemetery in his hometown of Ridgway, Pennsylvania. Service and interment are being coordinated by Krise Funeral Home & Cremation.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578585/lost-1951-korean-war-soldier-returns-home-pennsylvania-final-rest",
-      "publishedAt": "2026-11-04T16:39:16Z"
-    },
-    {
-      "id": "715ef0c18bcedb9d6fdc3038",
-      "title": "Driven to serve: Wilmington District employee expands emergency response capabilities",
-      "summary": "A U.S. Army Corps of Engineers Wilmington District emergency management specialist recently earned her qualification as a Deployable Tactical Operations System (DTOS) operator, expanding the enterprise's pool of personnel available to support disaster response missions.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578583/driven-serve-wilmington-district-employee-expands-emergency-response-capabilities",
-      "publishedAt": "2026-11-04T16:35:14Z"
-    },
-    {
-      "id": "deef836190e6086500794f8c",
-      "title": "Lost in 1941, WWII Soldier Returns Home to Virginia for Final Rest",
-      "summary": "The remains of U.S. Army Cpl. Byron F. Beard, Jr., 23, who was captured and died as a prisoner of war during World War II, will be interred Nov. 11 at Holston View Cemetery in Weber City, near his hometown of Fort Blackmore, Virginia. Services and interment are being coordinated by Fischer Funeral Services 276-594-1874.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578574/lost-1941-wwii-soldier-returns-home-virginia-final-rest",
-      "publishedAt": "2026-11-04T15:33:53Z"
-    },
-    {
-      "id": "24766bbeb6450dfacb46524a",
-      "title": "U.S. Army Corps of Engineers waives day use fees at recreation areas in observance of Veterans Day",
-      "summary": "The U.S. Army Corps of Engineers Pittsburgh District announces it will waive day-use fees at all district-operated recreation areas in observance of Veterans Day, Nov. 11.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578572/us-army-corps-engineers-waives-day-use-fees-recreation-areas-observance-veterans-day",
-      "publishedAt": "2026-11-04T15:17:31Z"
     }
   ],
   "nextPage": "page-4.json"

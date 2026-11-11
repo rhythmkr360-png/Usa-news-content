@@ -1,5 +1,59 @@
 [
   {
+    "id": "cdfd5ee2419cc41ef6f4e515",
+    "title": "Projecting Precision: 25th Infantry Division Executes HIMARS Rapid Infiltration at JPMRC 27-01",
+    "summary": "SCHOFIELD BARRACKS, Hawaii — Mastering the ability to rapidly project lethal, long-range fires across the expanse of the Pacific Ocean is a defining capability of the modern U.S. Army.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579136/projecting-precision-25th-infantry-division-executes-himars-rapid-infiltration-jpmrc-27-01",
+    "publishedAt": "2026-11-11T04:25:33Z"
+  },
+  {
+    "id": "4e445cb232d7035101f8fa6c",
+    "title": "Dedication to Duty: Sgt. Charles E. Needles' Journey as an Air Defender",
+    "summary": "U.S. Army Sgt. Charles E. Needles, an Air Defense Enhanced Early Warning Systems Operator assigned to the 4th Battalion, 3rd Air Defense Artillery Regiment, 31st Air Defense Artillery Brigade, carries forward a family legacy of military service spanning generations.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579134/dedication-duty-sgt-charles-e-needles-journey-air-defender",
+    "publishedAt": "2026-11-11T03:48:14Z"
+  },
+  {
+    "id": "2381c775ab754e2a1e390fae",
+    "title": "10th Civil Support Team Strengthens International Response at Maple Mayhem",
+    "summary": "Washington National Guard’s 10th Civil Support Team provided hazardous-material detection and decontamination support to FBI investigators during Exercise Maple Mayhem in Chilliwack, British Columbia, Oct. 24–30, 2026.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579131/10th-civil-support-team-strengthens-international-response-maple-mayhem",
+    "publishedAt": "2026-11-10T23:18:03Z"
+  },
+  {
+    "id": "f8cb85cfaf523b17fbd7a723",
+    "title": "Saildrone, Blue Water Autonomy Ruling Adds Restrictions to OTA Funding Model",
+    "summary": "PARIS — An acquisition tool that the Pentagon has recently favored now comes with more strings attached following a late October ruling from a federal judge on a Navy drone boat program.",
+    "category": "Defense",
+    "sourceName": "USNI News",
+    "sourceUrl": "https://news.usni.org/2026/11/10/saildrone-blue-water-autonomy-ruling-adds-restrictions-to-ota-funding-model",
+    "publishedAt": "2026-11-10T22:07:42Z"
+  },
+  {
+    "id": "7cbdce73d758ebf70e25f63f",
+    "title": "Yuma Proving Ground’s Ammunition & Armaments Division provides full cycle handling of ammunition",
+    "summary": "U.S. Army Yuma Proving Ground (YPG) Ammunition & Armaments Division has the dynamic critical responsibility of handling every piece of ammunition at YPG.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579121/yuma-proving-grounds-ammunition-armaments-division-provides-full-cycle-handling-ammunition",
+    "publishedAt": "2026-11-10T21:32:25Z"
+  },
+  {
+    "id": "36a10dc3b0ef8a685c829fec",
+    "title": "US soldier arrested in UK for suspected ‘espionage’ for Russia",
+    "summary": "A senior U.S. soldier was arrested in Britain on suspicion of assisting Russian ​intelligence, British police said on Tuesday.",
+    "category": "Army",
+    "sourceName": "Defense News",
+    "sourceUrl": "https://www.defensenews.com/global/europe/2026/11/10/us-soldier-arrested-in-uk-for-suspected-espionage-for-russia/",
+    "publishedAt": "2026-11-10T21:24:11Z"
+  },
+  {
     "id": "2297edc32041224ec8888bf1",
     "title": "Reserve IW Sailors sharpen fleet readiness during MAKO Sentry",
     "summary": "NAVAL AMPHIBIOUS BASE CORONADO, Calif. (Nov. 7, 2026) -- Over 100 Sailors newly gained to U.S. Pacific Command, U.S. Pacific Fleet, U.S. 3rd Fleet and U.S. 7th Fleet, attended MAKO Sentry training onboard Naval Amphibious Base Coronado (NAB Coronado) Nov.",

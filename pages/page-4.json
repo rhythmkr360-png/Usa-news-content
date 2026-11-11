@@ -1,7 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-10T21:19:20Z",
+  "generatedAt": "2026-11-11T06:31:15Z",
   "articles": [
+    {
+      "id": "c7e5cd9639dd2570c649dba6",
+      "title": "Illinois Army National Guard Major Retires After More Than 25 Years of Service",
+      "summary": "Maj. Craig M. Watkins of the Illinois Army National Guard’s 34th Division Sustainment Brigade retired on Saturday, Sept. 12, during a ceremony at the historic Kedzie Avenue Armory, culminating more than 25 years of dedicated military service.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578577/illinois-army-national-guard-major-retires-after-more-than-25-years-service",
+      "publishedAt": "2026-11-04T16:50:24Z"
+    },
+    {
+      "id": "4b7704eb1553e8dcd9c2a866",
+      "title": "Royal Navy Carriers Operate in the High North, Mediterranean",
+      "summary": "Royal Navy aircraft carrier HMS Prince of Wales (R09) is conducting operations across the High North as HMS Queen Elizabeth (RO8) trains in the Mediterranean.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/04/royal-navy-carriers-operate-in-the-high-north-mediterranean",
+      "publishedAt": "2026-11-04T16:45:40Z"
+    },
+    {
+      "id": "86354c8ded32ad30778d44f8",
+      "title": "Lost in 1951, Korean War Soldier Returns Home to Pennsylvania for Final Rest",
+      "summary": "The remains of U.S. Army Sgt. Henry L. Huber, 22, who was killed during the Korean War, will be interred at Ott Cemetery in his hometown of Ridgway, Pennsylvania. Service and interment are being coordinated by Krise Funeral Home & Cremation.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578585/lost-1951-korean-war-soldier-returns-home-pennsylvania-final-rest",
+      "publishedAt": "2026-11-04T16:39:16Z"
+    },
+    {
+      "id": "715ef0c18bcedb9d6fdc3038",
+      "title": "Driven to serve: Wilmington District employee expands emergency response capabilities",
+      "summary": "A U.S. Army Corps of Engineers Wilmington District emergency management specialist recently earned her qualification as a Deployable Tactical Operations System (DTOS) operator, expanding the enterprise's pool of personnel available to support disaster response missions.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578583/driven-serve-wilmington-district-employee-expands-emergency-response-capabilities",
+      "publishedAt": "2026-11-04T16:35:14Z"
+    },
+    {
+      "id": "deef836190e6086500794f8c",
+      "title": "Lost in 1941, WWII Soldier Returns Home to Virginia for Final Rest",
+      "summary": "The remains of U.S. Army Cpl. Byron F. Beard, Jr., 23, who was captured and died as a prisoner of war during World War II, will be interred Nov. 11 at Holston View Cemetery in Weber City, near his hometown of Fort Blackmore, Virginia. Services and interment are being coordinated by Fischer Funeral Services 276-594-1874.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578574/lost-1941-wwii-soldier-returns-home-virginia-final-rest",
+      "publishedAt": "2026-11-04T15:33:53Z"
+    },
+    {
+      "id": "24766bbeb6450dfacb46524a",
+      "title": "U.S. Army Corps of Engineers waives day use fees at recreation areas in observance of Veterans Day",
+      "summary": "The U.S. Army Corps of Engineers Pittsburgh District announces it will waive day-use fees at all district-operated recreation areas in observance of Veterans Day, Nov. 11.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578572/us-army-corps-engineers-waives-day-use-fees-recreation-areas-observance-veterans-day",
+      "publishedAt": "2026-11-04T15:17:31Z"
+    },
     {
       "id": "e2c5493e67f64183eedd345f",
       "title": "New Jersey's 31st National DEA Take Back Day Oct 2026",
@@ -307,60 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578468/usfk-commander-industry-technet-design-combined-first-line-code",
       "publishedAt": "2026-11-03T01:14:39Z"
-    },
-    {
-      "id": "cb3a3dcd6b18d8ea0bc6542f",
-      "title": "Bangladesh Navy, U.S. Navy kick off CARAT Bangladesh 2026",
-      "summary": "Sailors and maritime forces from the Bangladesh Navy and U.S. Navy gathered in Chattogram, Nov. 2, for an opening ceremony to commence the annual Cooperation Afloat Readiness and Training (CARAT) Bangladesh 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578466/bangladesh-navy-us-navy-kick-off-carat-bangladesh-2026",
-      "publishedAt": "2026-11-03T00:50:12Z"
-    },
-    {
-      "id": "812b44b9c0faf46e9a27759f",
-      "title": "Wisconsin Army National Guard aviation crews continue readiness training at Fort McCoy during October 2026",
-      "summary": "Aircrews from the Wisconsin Army National Guard's 1st Battalion, 147th Aviation Regiment (1-147th Aviation) completed another unit training effort Oct. 9, 2026, at Fort McCoy, continuing a longstanding relationship between the aviation unit and the installation.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578465/wisconsin-army-national-guard-aviation-crews-continue-readiness-training-fort-mccoy-during-october-2026",
-      "publishedAt": "2026-11-02T23:29:53Z"
-    },
-    {
-      "id": "0cf3ad44e84dbfd6fd684ca8",
-      "title": "Keeping Travis healthy: DGMC hosts inaugural community health fair",
-      "summary": "David Grant USAF Medical Center hosted the inaugural 2026 DGMC Community Health Fair at Travis Air Force Base, California, Oct. 23, 2026. The health fair began with a 5K run, aiming to promote good health and fitness, and continued with an array of DGMC booths.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578463/keeping-travis-healthy-dgmc-hosts-inaugural-community-health-fair",
-      "publishedAt": "2026-11-02T23:01:14Z"
-    },
-    {
-      "id": "c433f6c0698796969c09edde",
-      "title": "USNI News Fleet and Marine Tracker: Nov. 2, 2026",
-      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 2, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/02/usni-news-fleet-and-marine-tracker-nov-2-2026",
-      "publishedAt": "2026-11-02T21:46:18Z"
-    },
-    {
-      "id": "716120c90e0bbf663f77c914",
-      "title": "CECOM in 2026: Delivering modernized support where Soldiers need it most",
-      "summary": "Over the past year, the U.S. Army Communications-Electronics Command advanced Army readiness by synchronizing lifecycle support, modernization, and point-of-need maintenance for an Army that increasingly relies on software-defined, interconnected, and rapidly evolving systems.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578453/cecom-2026-delivering-modernized-support-soldiers-need-most",
-      "publishedAt": "2026-11-02T21:18:38Z"
-    },
-    {
-      "id": "3fcf16a4eead1b2f2f086cc7",
-      "title": "Idaho Army National Guard fights Big Grass Fire",
-      "summary": "The Idaho Army National Guard was activated from July 30 to August 21 to support the Idaho Department of Lands and federal partners battle the Big Grass Fire in the Owyhee Mountain Complex.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578455/idaho-army-national-guard-fights-big-grass-fire",
-      "publishedAt": "2026-11-02T21:12:59Z"
     }
   ],
   "nextPage": "page-5.json"

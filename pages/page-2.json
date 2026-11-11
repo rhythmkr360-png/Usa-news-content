@@ -1,7 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-10T21:19:20Z",
+  "generatedAt": "2026-11-11T06:31:15Z",
   "articles": [
+    {
+      "id": "e1cfc0849d71e52e286bacbf",
+      "title": "Fort McCoy advances 2026–2030 strategic plan as new fiscal year begins",
+      "summary": "As fiscal year 2027 moves forward, U.S. Army Garrison-Fort McCoy is continuing to implement a long-range strategic plan designed to guide installation operations, strengthen military readiness, modernize infrastructure, and prepare the installation for the Army's evolving requirements through 2030.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578929/fort-mccoy-advances-2026-2030-strategic-plan-new-fiscal-year-begins",
+      "publishedAt": "2026-11-09T05:47:37Z"
+    },
+    {
+      "id": "6d0a51c83a6c24c6300d839b",
+      "title": "5th Air Force hosts JAAGA, strengthening U.S.-Japan bilateral operations at Yokota",
+      "summary": "5th Air Force hosted 36 members of the Japan-America Air Force Goodwill Association, or JAAGA, during a visit to Yokota Air Base Nov. 5, 2026, reinforcing the longstanding relationship among U.S. Air Force personnel, Japan Air Self-Defense Force members and Japanese community leaders.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578924/5th-air-force-hosts-jaaga-strengthening-us-japan-bilateral-operations-yokota",
+      "publishedAt": "2026-11-09T04:59:19Z"
+    },
+    {
+      "id": "ca2c82382c0382c7c4b328be",
+      "title": "403rd Army Field Support Brigade Personality Spotlight: Ms. Pak, Hye Yong – LRC-North",
+      "summary": "Ms. Pak, Hye Yong began her career with the U.S. Army in February 2014 at LRC-North. She started as a Supply Technician and has served as the Quartermaster Laundry (QML) Manager at Yongsan since April 2022. In her current role, she oversees overall QML operations, staff management, and budget execution.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578927/403rd-army-field-support-brigade-personality-spotlight-ms-pak-hye-yong-lrc-north",
+      "publishedAt": "2026-11-09T03:54:52Z"
+    },
+    {
+      "id": "04cb54658d7f389de6fd3c9b",
+      "title": "Red, Blue & Camo: One State, Two Teams, One Guard",
+      "summary": "The Utah National Guard supported the University of Utah-BYU football rivalry game Nov. 7, 2026, at Rice-Eccles Stadium through a series of military appreciation activities that brought together service members, fans and students from both schools.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578923/red-blue-camo-one-state-two-teams-one-guard",
+      "publishedAt": "2026-11-09T01:32:38Z"
+    },
+    {
+      "id": "f3b658ea3937bbca4292ce77",
+      "title": "Georgia Guardsmen battle in combined-MSC competition",
+      "summary": "Eight Georgia Army National Guard Soldiers competed in the Fiscal Year 2027 Combined Best Warrior Competition Nov. 6–8, 2026, at Fort Stewart, Georgia. The 78th Troop Command named U.S. Army Sgt. 1st Class Jeremy Nicoli its Noncommissioned Officer of the Year and U.S. Army Spc. Clinet Reier its Soldier of the Year.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578911/georgia-guardsmen-battle-combined-msc-competition",
+      "publishedAt": "2026-11-09T00:16:41Z"
+    },
+    {
+      "id": "25feaedae85e0e25891c5823",
+      "title": "ROK-U.S. Combined Forces Command Marks 48 Years of Combined Defense",
+      "summary": "CFC commemorates 48 years of strengthening the ROK-U.S. alliance and maintaining readiness on the Korean Peninsula",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578914/rok-us-combined-forces-command-marks-48-years-combined-defense",
+      "publishedAt": "2026-11-08T23:21:12Z"
+    },
     {
       "id": "d7076b0d7f381d85baf13103",
       "title": "Tennessee Guard Soldier's promotion reunites former public affairs team",
@@ -307,60 +361,6 @@
       "sourceName": "Breaking Defense",
       "sourceUrl": "https://breakingdefense.com/2026/11/the-navys-trainer-is-now-the-biggest-test-of-the-pentagons-acquisition-reform-efforts/",
       "publishedAt": "2026-11-06T15:08:00Z"
-    },
-    {
-      "id": "b24a9c6c8b64b7ec1b1ece89",
-      "title": "How World War I advanced U.S. military medicine",
-      "summary": "U.S. military medical teams accelerated lasting innovations during World War I through breakthroughs in combat care, including frontline surgery, blood storage, mental healthcare, physical rehabilitation, and additional innovative treatments of warfighters — transforming military medicine into a collaborative, lifesaving system, laying the…",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578786/world-war-advanced-us-military-medicine",
-      "publishedAt": "2026-11-06T14:58:39Z"
-    },
-    {
-      "id": "c84f68d30dc66a01bbde45e9",
-      "title": "National Guard expands free childcare program for drill weekends, but with some caveats",
-      "summary": "The expansion aims to make it easier for soldiers and their families, but one childcare expert argued that some of the eligibility requirements may limit its effectiveness. The post National Guard expands free childcare program for drill weekends, but with some caveats appeared first on Task & Purpose .",
-      "category": "Army",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/national-guard-childcare-drill-weekend/",
-      "publishedAt": "2026-11-06T14:58:22Z"
-    },
-    {
-      "id": "5b099faeb239efa224039483",
-      "title": "Lost in 1945, WWII Airman Will Be Laid to Rest in Florida",
-      "summary": "The remains of U.S. Army Air Forces Sgt. Leonard J. McNeill, 27, of Orlando, Florida, who died as a prisoner of war during World War II, will be interred Nov. 11 at Greenwood Cemetery in Orlando, Florida. Services and interment are being coordinated by Colonial Funeral Home.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578789/lost-1945-wwii-airman-will-laid-rest-florida",
-      "publishedAt": "2026-11-06T14:54:20Z"
-    },
-    {
-      "id": "65b9fe06afe271ffbe66456d",
-      "title": "DeCA honors 251 years of the U.S. Marine Corps",
-      "summary": "The Defense Commissary Agency honors the U.S. Marine Corps on its 251st birthday Nov. 10, recognizing the Corps’ enduring legacy and DeCA’s long-standing support for Marines and their families.",
-      "category": "Marine Corps",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578787/deca-honors-251-years-us-marine-corps",
-      "publishedAt": "2026-11-06T14:40:58Z"
-    },
-    {
-      "id": "28d7cf677dda767822d1c254",
-      "title": "65th FAB Recognized as Nation’s Top Artillery Battery",
-      "summary": "Soldiers from Headquarters and Headquarters Battery, 65th Field Artillery Brigade gathered at Camp Williams to receive the Alexander Hamilton Award on Thursday, Nov. 5, 2026, officially recognizing the unit as the nation's best Army National Guard battery of 2025. The award was presented by Brig. Gen. Jason T.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578785/65th-fab-recognized-nations-top-artillery-battery",
-      "publishedAt": "2026-11-06T14:35:50Z"
-    },
-    {
-      "id": "59340f148b7da5299bb27399",
-      "title": "Key Space Force satellites can’t talk to each other, likely requiring $1B solution: Sources",
-      "summary": "To translate between the SpaceX-built SDN Backbone and other Pentagon communications and missile tracking satellites, sources said the Space Force is eyeing 12 or 13 Space Exchange Point birds.",
-      "category": "Space Force",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/key-space-force-satellites-cant-talk-to-each-other-likely-requiring-1b-solution-sources/",
-      "publishedAt": "2026-11-06T14:15:00Z"
     }
   ],
   "nextPage": "page-3.json"
