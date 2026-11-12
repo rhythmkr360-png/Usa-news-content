@@ -1,7 +1,88 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-12T11:21:10Z",
+  "generatedAt": "2026-11-12T19:58:52Z",
   "articles": [
+    {
+      "id": "ee1c123e21bf3739307c45d4",
+      "title": "Ayala takes command of VX-30 ‘Bloodhounds’",
+      "summary": "U.S. Navy Cmdr. J. Anderson Ayala took command of the “Bloodhounds” of Air Test and Evaluation Squadron (VX) 30 from Capt. Barry Carmody during a Nov. 10 ceremony at Point Mugu.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579213/ayala-takes-command-vx-30-bloodhounds",
+      "publishedAt": "2026-11-12T19:55:22Z"
+    },
+    {
+      "id": "8db36328717303ddb398656e",
+      "title": "Cleveland Harbor Fall Dredging Completed in Just Over Two Weeks; Completes $11.7M Annual Operation",
+      "summary": "The U.S. Army Corps of Engineers, Buffalo District, completed fall dredging of Cleveland Harbor in just over two weeks, ensuring safe and navigable waterways for Great Lakes commercial vessels, recreational boaters and other harbor users on Lake Erie.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579219/cleveland-harbor-fall-dredging-completed-just-over-two-weeks-completes-117m-annual-operation",
+      "publishedAt": "2026-11-12T19:54:43Z"
+    },
+    {
+      "id": "99551cb39ca864a695d21a3d",
+      "title": "103-year-old D-Day vet receives French Legion of Honor Medal",
+      "summary": "The French government bestowed its highest medals for honor to a 103-year-old World War II veteran during a ceremony held at the U.S. Army Institute for Religious Leadership, Nov. 10.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579216/103-year-old-d-day-vet-receives-french-legion-honor-medal",
+      "publishedAt": "2026-11-12T19:53:37Z"
+    },
+    {
+      "id": "fccd50d06375e0a97333771f",
+      "title": "Vets groups slam House for quietly passing divisive benefits bill on Veterans Day",
+      "summary": "\"On a day when America honors the brave men and women who stepped forward to defend our freedom, House leaders chose to sneak through legislation threatening earned benefits for millions of veterans,” the head of Disabled American Veterans said.",
+      "category": "Defense",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/take-care-americas-veterans-act-benefits-cuts-controversy/",
+      "publishedAt": "2026-11-12T19:27:15Z"
+    },
+    {
+      "id": "df8562092ea524e04b993fe8",
+      "title": "Fort A.P. Hill commander strengthens community ties through Veterans Day outreach in Bowling Green, Richmond",
+      "summary": "Lieutenant Colonel Isaac Howard, the garrison commander of Fort A.P. Hill, highlighted the enduring bond between the U.S. military and the surrounding Virginia communities during Veterans Day engagements in Bowling Green and Richmond.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579210/fort-ap-hill-commander-strengthens-community-ties-through-veterans-day-outreach-bowling-green-richmond",
+      "publishedAt": "2026-11-12T19:16:24Z"
+    },
+    {
+      "id": "0714a0fbb77270060d89fca9",
+      "title": "Veterans continue to inspire",
+      "summary": "The legacy of American military service is a continuous chain, with each generation drawing inspiration from those who served before them. That was the message from Maj. Gen. Gavin Gardner, special assistant to the deputy commanding general of Army Materiel Command, when he visited the residents of the Floyd E.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579209/veterans-continue-inspire",
+      "publishedAt": "2026-11-12T19:08:12Z"
+    },
+    {
+      "id": "c6bd82175038cafac1d634d2",
+      "title": "Oregon National Guard honors veterans at Albany memorial service, 75th annual parade",
+      "summary": "The Oregon National Guard joined veterans, families and community members in Albany on Wednesday, Nov. 11, 2026, for a memorial service at the Linn County Veterans Memorial and the 75th Annual Linn County Veterans Day Parade.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579208/oregon-national-guard-honors-veterans-albany-memorial-service-75th-annual-parade",
+      "publishedAt": "2026-11-12T18:57:20Z"
+    },
+    {
+      "id": "b439a061205d90cbf87a78d4",
+      "title": "Repairing the HUEY on a Stick",
+      "summary": "Soldiers from the North Dakota Army National Guard Aviation Support Facility worked together Oct. 30 to repair and replace the tail rotor on a UH-1H Iroquois helicopter, nicknamed “Huey,” which marks the facility’s entrance.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579207/repairing-huey-stick",
+      "publishedAt": "2026-11-12T18:52:50Z"
+    },
+    {
+      "id": "0653e0e315777eb61545050f",
+      "title": "NATO Forward Land Forces Battle Group-Poland welcomes new U.S. Army commander during Transfer of Authority Ceremony at BPTA",
+      "summary": "U.S. Army Lt. Col. Jeremy Herron assumed command of the NATO Forward Land Forces Battle Group-Poland from Lt. Col. Steven Saxion during a transfer of authority ceremony at Bemowo Piskie Training Area, Poland, Nov. 12, 2026.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579199/nato-forward-land-forces-battle-group-poland-welcomes-new-us-army-commander-during-transfer-authority-ceremony-bpta",
+      "publishedAt": "2026-11-12T18:50:59Z"
+    },
     {
       "id": "1f3b9e0806df4a7dbe94f9cf",
       "title": "New York Army National Guard Soldiers honor fellow Soldier during memorial ceremony",
@@ -280,87 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579044/130th-airlift-wing-dedicates-airman-and-family-readiness-center-honor-elisabeth-melton",
       "publishedAt": "2026-11-10T13:21:05Z"
-    },
-    {
-      "id": "0fd265cd77c8564394833d03",
-      "title": "Hegseth vows to fight impeachment ‘spectacle’",
-      "summary": "“What one disgruntled and defeated congressman is attempting is not oversight, and it’s not accountability. It’s a political spectacle, a personal manifesto driven by ego and resentment,” Hegseth told reporters at the Pentagon this morning.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/hegseth-vows-to-fight-impeachment-spectacle/",
-      "publishedAt": "2026-11-10T13:17:55Z"
-    },
-    {
-      "id": "5370f0d9c0d336e2fa107a18",
-      "title": "USAG Stuttgart commander conducts oath of enlistment and welcomes new Army recruit",
-      "summary": "For a moment, U.S. Army Garrison Stuttgart was home to the U.S. Army’s newest recruit following an Oath of Enlistment Ceremony on Panzer Kaserne, Nov. 6. Before administering the oath of enlistment, USAG Stuttgart Commander Col. Edward J.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579038/usag-stuttgart-commander-conducts-oath-enlistment-and-welcomes-new-army-recruit",
-      "publishedAt": "2026-11-10T11:01:27Z"
-    },
-    {
-      "id": "dadde75194e3658233259dd1",
-      "title": "Lake Jackson Native Serving with Navy in Cuba Promoted to Senior Chief",
-      "summary": "Courtesy story by By Chief Mass Communication Specialist Sean Furey, Navy Office of Community Outreach MILLINGTON, Tenn. — Senior Chief Petty Officer Arland Yancey, a native of Lake Jackson, Texas, was recently promoted to his current rank while stationed at U.S. Navy Medicine Readiness and Training Command (USNMRTC) Guantanamo Bay.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579028/lake-jackson-native-serving-with-navy-cuba-promoted-senior-chief",
-      "publishedAt": "2026-11-09T23:30:33Z"
-    },
-    {
-      "id": "53332e7dc51aa8149e1e909b",
-      "title": "USS Lenah Sutcliffe Higbee holds change of command ceremony",
-      "summary": "U.S. Navy Cmdr. Osei Asante relieved U.S. Navy Cmdr. Jack Skahen as commanding officer of Arleigh Burke-class guided-missile destroyer USS Lenah Sutcliffe Higbee (DDG 123) during a change of command ceremony at the USS Midway Museum on Nov. 6, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579024/uss-lenah-sutcliffe-higbee-holds-change-command-ceremony",
-      "publishedAt": "2026-11-09T22:52:23Z"
-    },
-    {
-      "id": "b56a2a962b145ed7f322d639",
-      "title": "Fueling Air Dominance: 593rd CSC Supports F-22 Operations During Keen Sword 27",
-      "summary": "During Keen Sword, Soldiers from the 593rd Corps Sustainment Command, headquartered at Joint Base Lewis-McChord, Wash., played a critical sustainment role by supporting fuel operations that enabled the successful employment of U.S. Air Force F-22 Raptor aircraft.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579022/fueling-air-dominance-593rd-csc-supports-f-22-operations-during-keen-sword-27",
-      "publishedAt": "2026-11-09T22:48:48Z"
-    },
-    {
-      "id": "c86d2659ee20cb9619b34ef1",
-      "title": "Air Guard’s mobility, global reach is combat tested, combat proven",
-      "summary": "The Air National Guard is a combat force in daily use – asked to deter, defend, deploy and fight around the world, and its demand to project power forward by way of airlift planes and air tankers is not slowing down.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579017/air-guards-mobility-global-reach-combat-tested-combat-proven",
-      "publishedAt": "2026-11-09T22:45:50Z"
-    },
-    {
-      "id": "50eeb27f47c12b9414293715",
-      "title": "Cpl. Nathan Armstrong - A Marine Willing to Charge into Fire",
-      "summary": "MARINE CORPS BASE CAMP LEJEUNE, N.C. – A normal evening with friends quickly turned into an adrenaline filled night for U.S. Marine Corps Cpl. Nathan Armstrong, who found himself inside a burning vehicle, pulling a man to safety on Aug. 3, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579011/cpl-nathan-armstrong-marine-willing-charge-into-fire",
-      "publishedAt": "2026-11-09T21:48:11Z"
-    },
-    {
-      "id": "fc1fa4202958aeea06d4caba",
-      "title": "Secretary of War visits U.S. Naval War College, announces reforms to ensure senior service colleges are ‘teaching victory’",
-      "summary": "The Honorable Pete Hegseth, U.S. Secretary of War, visited the U.S. Naval War College (NWC) in Newport, Rhode Island, on Nov. 9, 2026, to announce a comprehensive overhaul of the Department of War’s Professional Military Education (PME) system.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579014/secretary-war-visits-us-naval-war-college-announces-reforms-ensure-senior-service-colleges-teaching-victory",
-      "publishedAt": "2026-11-09T21:39:08Z"
-    },
-    {
-      "id": "5c4778d3e26244f2cd7b3781",
-      "title": "Corps to host public meeting, comment period for Berlin Lake Shoreline Management Plan update",
-      "summary": "The U.S. Army Corps of Engineers Pittsburgh District is hosting an open house-style public meeting to review proposed updates to the Berlin Lake Shoreline Management Plan.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579013/corps-host-public-meeting-comment-period-berlin-lake-shoreline-management-plan-update",
-      "publishedAt": "2026-11-09T21:30:58Z"
     }
   ],
   "nextPage": "pages/page-2.json"
