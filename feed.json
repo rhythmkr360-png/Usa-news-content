@@ -1,7 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-11T17:12:17Z",
+  "generatedAt": "2026-11-12T00:46:52Z",
   "articles": [
+    {
+      "id": "10328451be76c94f25e8b1ed",
+      "title": "CH-47: The Hook That Connects Generations",
+      "summary": "More than 50 years after serving in separate combat tours in Vietnam, with the same Army Aviation unit, former CH-47 Chinook pilot Mike Mackey and former flight engineer Bob Roy met for the first time on Aug. 20, 2026, at a South Carolina Army National Guard aviation event.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579137/ch-47-hook-connects-generations",
+      "publishedAt": "2026-11-11T21:56:10Z"
+    },
+    {
+      "id": "00a62673e3f8e9e7c7b77fb9",
+      "title": "Naval District Washington Honors Veterans at U.S. Navy Memorial Wreath-Laying Ceremony",
+      "summary": "Naval District Washington honored the men and women who served in the U.S. armed forces during a Veterans Day wreath-laying ceremony at the U.S. Navy Memorial.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579148/naval-district-washington-honors-veterans-us-navy-memorial-wreath-laying-ceremony",
+      "publishedAt": "2026-11-11T21:02:10Z"
+    },
+    {
+      "id": "9fa41ec8cb1e42029a6900c9",
+      "title": "U.S. and 21 Partner Nations Bolster Maritime Security at NWC CFMCC Flag Course",
+      "summary": "Senior military leaders from 21 partner nations and the U.S. strengthened maritime partnerships through executive education during the U.S. Naval War College’s (NWC) Combined Force Maritime Component Commander (CFMCC) flag course, hosted by Rear Adm. Carlos Sardiello, Commander, U.S. Naval Forces Southern Command, Commander U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579146/us-and-21-partner-nations-bolster-maritime-security-nwc-cfmcc-flag-course",
+      "publishedAt": "2026-11-11T20:23:55Z"
+    },
+    {
+      "id": "cb6630124111316143a08830",
+      "title": "DoD pushes out 3 loans totaling $450M to bolster US space companies",
+      "summary": "One industry source told Breaking Defense that the reason for the spate of new loan announcements is that the Pentagon “needed to finalize loans by the end of the fiscal year.”",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/dod-pushes-out-3-loans-totally-450m-to-bolster-us-space-companies/",
+      "publishedAt": "2026-11-11T20:15:00Z"
+    },
+    {
+      "id": "b8aeba1fef1b3c2a938175b0",
+      "title": "Poland says Pentagon supports permanent US base, with decision expected in December",
+      "summary": "Warsaw has identified four potential locations for a base that could accommodate 5,000 US troops and their families, and is offering to spend up to $4.4 billion on supporting infrastructure.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/poland-says-pentagon-supports-permanent-us-base-with-decision-expected-in-december/",
+      "publishedAt": "2026-11-11T19:09:00Z"
+    },
+    {
+      "id": "df37536c824e31a69a40fd81",
+      "title": "Safe water, safe food, ready force: JB MDL turns field sanitation into force protection",
+      "summary": "At Joint Base McGuire-Dix-Lakehurst, New Jersey, a team of instructors teach the 40-hour U.S. Army Field Sanitation Team Certification Course, arming service members with the necessary skills to identify environmental health hazards and protect the health of their units, particularly when deployed conditions leave little room for established…",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579142/safe-water-safe-food-ready-force-jb-mdl-turns-field-sanitation-into-force-protection",
+      "publishedAt": "2026-11-11T18:05:32Z"
+    },
     {
       "id": "6b3f01d55895e75c4aef7dfc",
       "title": "Report to Congress on Strategic Stability of the Golden Dome",
@@ -307,60 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578995/uss-lenah-sutcliffe-higbee-holds-change-command-ceremony",
       "publishedAt": "2026-11-09T19:29:55Z"
-    },
-    {
-      "id": "4f78c1dc6af44a738a7c343d",
-      "title": "USNI News Fleet and Marine Tracker: Nov. 9, 2026",
-      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 9, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/09/usni-news-fleet-and-marine-tracker-nov-9-2026",
-      "publishedAt": "2026-11-09T19:18:38Z"
-    },
-    {
-      "id": "1186fd95795b57d3f24918da",
-      "title": "PAE C2/CC2 - ST3 Celebrates Teamwork and Morale at Annual Organization Day",
-      "summary": "Soldiers, Army civilians and contractors from the U.S. Army’s Portfolio Acquisition Executive Command and Control/Counter Command and Control - Simulation, Training, Test and Threat (PAE C2/CC2 – ST3) gathered Nov.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578982/pae-c2-cc2-st3-celebrates-teamwork-and-morale-annual-organization-day",
-      "publishedAt": "2026-11-09T18:20:37Z"
-    },
-    {
-      "id": "c1493df90ed285bbbb4696d5",
-      "title": "UTEP AIAA Students Explore WSMR’s Historic Sites and Career Opportunities",
-      "summary": "On Nov. 6, UTEP’s American Institute of Aeronautics and Astronautics or AIAA students visited White Sands Missile Range.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578978/utep-aiaa-students-explore-wsmrs-historic-sites-and-career-opportunities",
-      "publishedAt": "2026-11-09T17:14:01Z"
-    },
-    {
-      "id": "1eda4c4ab2c6721ecbec7295",
-      "title": "Mount Morris Dam expands public engagement during 2026 visitor season",
-      "summary": "New York — The Mount Morris Dam and Recreation Area expanded public engagement during its 2026 visitor season, increasing participation in ranger-led dam tours, special events, educational programs and volunteer service while continuing to deliver flood risk management and environmental stewardship for the Genesee River Valley.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578977/mount-morris-dam-expands-public-engagement-during-2026-visitor-season",
-      "publishedAt": "2026-11-09T17:07:01Z"
-    },
-    {
-      "id": "6d6582913880b299e5db0bfe",
-      "title": "ACC-RSA Acting Executive Director Jeffrey Caldwell selected for Senior Executive Service",
-      "summary": "ACC-RSA Acting Executive Director Jeffrey L. Caldwell has been selected for the Senior Executive Service and appointed executive director of U.S. Army Contracting Command-Redstone Arsenal, effective Dec. 13, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578975/acc-rsa-acting-executive-director-jeffrey-caldwell-selected-senior-executive-service",
-      "publishedAt": "2026-11-09T17:03:15Z"
-    },
-    {
-      "id": "46f9ca2b3d607cb6cd1334e7",
-      "title": "Neros to expand domestic drone production with $450M Pentagon loan",
-      "summary": "The company is a frontrunner in a Defense Department competition to find the best quality, most affordable small drone for combat.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/11/09/neros-to-expand-domestic-drone-production-with-450m-pentagon-loan/",
-      "publishedAt": "2026-11-09T15:45:23Z"
     }
   ],
   "nextPage": "pages/page-2.json"

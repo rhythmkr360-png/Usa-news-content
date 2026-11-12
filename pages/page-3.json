@@ -1,7 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-11T17:12:17Z",
+  "generatedAt": "2026-11-12T00:46:52Z",
   "articles": [
+    {
+      "id": "523f1d010a1018db9ff2cf97",
+      "title": "U.S. Army honors Wisconsin son, killed on an Italian battlefield in WWI",
+      "summary": "SAN DONÀ DI PIAVE, Italy – Lt. Edward Michael McKey, an American Red Cross volunteer, arrived in Italy with a simple purpose – to help those caught in the devastation of war. He carried no rifle.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578794/us-army-honors-wisconsin-son-killed-italian-battlefield-wwi",
+      "publishedAt": "2026-11-06T16:11:54Z"
+    },
+    {
+      "id": "fe42ca0acc0b1289df26a76c",
+      "title": "Health Facility Planning Agency cases colors, commemorates decades of service",
+      "summary": "The U.S. Army Health Facility Planning Agency formally cased its colors during an inactivation ceremony at Defense Health Headquarters, Sept. 22, marking the completion of the organization’s service to Army Medicine and the nation.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578798/health-facility-planning-agency-cases-colors-commemorates-decades-service",
+      "publishedAt": "2026-11-06T16:02:47Z"
+    },
+    {
+      "id": "c2e844d865a62dd3a72b0645",
+      "title": "US European Command launches vigilance campaign as hybrid threats mount",
+      "summary": "U.S. European Command is calling on U.S. troops, family members, and civilian employees to stay alert for suspicious behavior and to cover their digital tracks while moving around Europe.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/2026/11/06/us-european-command-launches-vigilance-campaign-as-hybrid-threats-mount/",
+      "publishedAt": "2026-11-06T15:39:51Z"
+    },
+    {
+      "id": "428d203d6f7a84de2b7994a7",
+      "title": "Fort Buchanan firefighters teach fire safety to Coast Guard preschoolers",
+      "summary": "Installation U.S. Army civilian firefighters taught preschoolers to recognize firefighters as trusted helpers in emergencies Oct. 9 at the U.S. Coast Guard Child Development Center in Río Bayamón Housing, reinforcing fire safety awareness and strengthening ties with military families.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578792/fort-buchanan-firefighters-teach-fire-safety-coast-guard-preschoolers",
+      "publishedAt": "2026-11-06T15:28:30Z"
+    },
+    {
+      "id": "c6e9a476adf25a2db76dbfb1",
+      "title": "US Air Force eyes reviving WWII air bases in the Pacific",
+      "summary": "The U.S. Air Force hopes to conduct more than 6,000 aircraft operations annually at airfields on three American islands in the northwest Pacific Ocean.",
+      "category": "Air Force",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/global/asia-pacific/2026/11/06/us-air-force-eyes-reviving-wwii-air-bases-in-the-pacific/",
+      "publishedAt": "2026-11-06T15:28:23Z"
+    },
+    {
+      "id": "133f37e1ed1204a4aa848b4e",
+      "title": "Lost in 1951, Korean War Soldier to be Laid to Rest in Illinois",
+      "summary": "The remains of U.S. Army Sgt. Joseph Alfred Platzkoester, missing from the Korean War, will be interred November 11 at Green Mount Catholic Cemetery in Belleville, Illinois. Services and interment are being coordinated by Renner’s Funeral Home.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578790/lost-1951-korean-war-soldier-laid-rest-illinois",
+      "publishedAt": "2026-11-06T15:12:43Z"
+    },
     {
       "id": "6265ba02b3100e9e5344673e",
       "title": "The Navy’s trainer is now the biggest test of the Pentagon’s acquisition reform efforts",
@@ -307,60 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578625/tacom-welcomes-newest-hall-fame-inductees",
       "publishedAt": "2026-11-04T23:07:47Z"
-    },
-    {
-      "id": "3610e97b9c59d8f8c865dfcc",
-      "title": "Beyond the fence: Army and community partners work together to clean up Dillingham Army Beach",
-      "summary": "U.S. Army Garrison Hawaii joined state agencies, nonprofit organizations and community volunteers for a coordinated cleanup at Dillingham Army Beach on Oct. 24, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578623/beyond-fence-army-and-community-partners-work-together-clean-up-dillingham-army-beach",
-      "publishedAt": "2026-11-04T21:03:11Z"
-    },
-    {
-      "id": "24630e6e4a3a41825242bf55",
-      "title": "Mobile Army Surgical Hospitals: A history of saving lives on the battlefield",
-      "summary": "During World War II, the U.S. Army opened its first Mobile Army Surgical Hospitals, changing the way the wounded were treated in battle for several decades — saving lives and increasing warfighter readiness. Combining mobility, surgery, and post-op care, MASH units were known as the front-line surgical hospitals of the future.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578618/mobile-army-surgical-hospitals-history-saving-lives-battlefield",
-      "publishedAt": "2026-11-04T20:49:20Z"
-    },
-    {
-      "id": "c838c9f2d7ec2ccb3cfbd51f",
-      "title": "Detroit District accepting entries for annual photo contest",
-      "summary": "The Detroit District invites the public to enter its 11th annual photo contest highlighting U.S. Army Corps of Engineers sites across the Great Lakes.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578620/detroit-district-accepting-entries-annual-photo-contest",
-      "publishedAt": "2026-11-04T20:22:07Z"
-    },
-    {
-      "id": "275f2a7a881de77b32f4b831",
-      "title": "Under threat of air strikes, US looks to bolster base infrastructure with 3D printing",
-      "summary": "U.S. Air Force officials conceded that troop housing at Middle East bases was \"never designed for the threat environment now arriving overhead.\"",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/global/mideast-africa/2026/11/04/under-threat-of-air-strikes-us-looks-to-bolster-base-infrastructure-with-3d-printing/",
-      "publishedAt": "2026-11-04T20:16:52Z"
-    },
-    {
-      "id": "53a9135ee8029bb67807b237",
-      "title": "U.S. Naval Academy Launches Inaugural Warfighting Industry Showcase during 16th Annual NASEC to Accelerate Fleet Lethality",
-      "summary": "The U.S. Naval Academy hosted its 16th annual Naval Academy Science and Engineering Conference (NASEC) alongside its inaugural Warfighting Industry Showcase to address strategic competition and accelerate Fleet lethality.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578613/us-naval-academy-launches-inaugural-warfighting-industry-showcase-during-16th-annual-nasec-accelerate-fleet-lethality",
-      "publishedAt": "2026-11-04T19:31:40Z"
-    },
-    {
-      "id": "95eed2d599302cbc6fba4e45",
-      "title": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
-      "summary": "As the American military seeks new capabilities and advanced systems amid rapid change, defense companies of all sizes showcased their solutions at a major defense conference.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/video/2026/11/04/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26/",
-      "publishedAt": "2026-11-04T18:27:06Z"
     }
   ],
   "nextPage": "page-4.json"
