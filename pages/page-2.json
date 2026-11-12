@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-12T00:46:52Z",
+  "generatedAt": "2026-11-12T11:21:10Z",
   "articles": [
+    {
+      "id": "8c19602074b87fd13d5cd136",
+      "title": "Saundersville Boat Ramp at Old Hickory Lake temporarily closing for repairs",
+      "summary": "HENDERSONVILLE, Tenn. (Nov. 9, 2026) – The U.S. Army Corps of Engineers at Old Hickory Lake have scheduled repairs to the Saundersville Boat Ramp at the Saundersville Access Area, located at 106 Caudill Drive.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579008/saundersville-boat-ramp-old-hickory-lake-temporarily-closing-repairs",
+      "publishedAt": "2026-11-09T20:31:35Z"
+    },
+    {
+      "id": "e49f990cdae365844e15bcb8",
+      "title": "Army medical maintainers support joint force readiness through quick-turn repair",
+      "summary": "FORT DETRICK, Md. – A specialized team of U.S. Army medical maintenance technicians recently deployed on short notice to the U.S. Africa Command area of responsibility, restoring a critical imaging device for a joint force partner to full operational status in less than 24 hours.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579006/army-medical-maintainers-support-joint-force-readiness-through-quick-turn-repair",
+      "publishedAt": "2026-11-09T20:21:20Z"
+    },
+    {
+      "id": "d55fe219520b53f2bd99f777",
+      "title": "Pentagon can’t track thousands of F-35 parts: GAO",
+      "summary": "The government watchdog found that more than 17,000 F-35 fighter jet parts worth an estimated $1.3 billion were missing from the program’s inventory system.",
+      "category": "Air Force",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/pentagon-cant-track-thousands-of-f-35-parts-gao/",
+      "publishedAt": "2026-11-09T19:41:23Z"
+    },
+    {
+      "id": "643a9bbdbc6eb5ac02fa5008",
+      "title": "USS Lenah Sutcliffe Higbee holds change of command ceremony",
+      "summary": "NAVAL BASE SAN DIEGO (Nov. 6, 2026) - U.S. Navy Cmdr. Osei Asante relieved U.S. Navy Cmdr. Jack Skahen as commanding officer of Arleigh Burke-class guided-missile destroyer USS Lenah Sutcliffe Higbee (DDG 123) during a change of command ceremony at the USS Midway Museum on Nov. 6, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578995/uss-lenah-sutcliffe-higbee-holds-change-command-ceremony",
+      "publishedAt": "2026-11-09T19:29:55Z"
+    },
     {
       "id": "4f78c1dc6af44a738a7c343d",
       "title": "USNI News Fleet and Marine Tracker: Nov. 9, 2026",
@@ -325,42 +361,6 @@
       "sourceName": "USNI News",
       "sourceUrl": "https://news.usni.org/2026/11/06/iii-mef-extends-curfew-for-junior-members-in-okinawa-following-murder-indictment",
       "publishedAt": "2026-11-06T19:10:38Z"
-    },
-    {
-      "id": "0b49d9911ce3e7220fa61172",
-      "title": "BCE Consulting outlines the critical elements of layered air defense architecture",
-      "summary": "What does the future of layered air defense look like? BCE Consulting lays out what it will take to protect American forces.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/video/2026/11/06/bce-consulting-outlines-the-critical-elements-of-layered-air-defense-architecture/",
-      "publishedAt": "2026-11-06T17:28:08Z"
-    },
-    {
-      "id": "e8a074486d0e866ccde96593",
-      "title": "Corps dewaters century-old Allegheny River lock chamber for critical repairs",
-      "summary": "At Allegheny River Lock and Dam 4, the U.S. Army Corps of Engineers Pittsburgh District completely drained the lock chamber, deployed dozens of personnel, cranes, boats, barges, and heavy equipment, and halted navigation through the vital inland waterway link for months because of a piece of wood.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578805/corps-dewaters-century-old-allegheny-river-lock-chamber-critical-repairs",
-      "publishedAt": "2026-11-06T16:34:39Z"
-    },
-    {
-      "id": "c1ab922aa18a4d79477c1f76",
-      "title": "Two in a row: Armaments Center receives Hopper Award for Software Maintenance Excellence for second straight year",
-      "summary": "PICATINNY ARSENAL, N.J. - For the third year, and second consecutive, the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center has received the prestigious Rear Admiral Grace M. Hopper Award for Software Maintenance Excellence.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578804/two-row-armaments-center-receives-hopper-award-software-maintenance-excellence-second-straight-year",
-      "publishedAt": "2026-11-06T16:30:10Z"
-    },
-    {
-      "id": "b396a6f15334bdfa29988797",
-      "title": "NETCOM engages industry to advance innovation, global network modernization",
-      "summary": "FORT HUACHUCA, Ariz. — As the Army continues to modernize its network and strengthen its ability to operate across multiple domains, leaders from the U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578800/netcom-engages-industry-advance-innovation-global-network-modernization",
-      "publishedAt": "2026-11-06T16:25:13Z"
     }
   ],
   "nextPage": "page-3.json"

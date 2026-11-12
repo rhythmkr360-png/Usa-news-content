@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-12T00:46:52Z",
+  "generatedAt": "2026-11-12T11:21:10Z",
   "articles": [
+    {
+      "id": "1f3b9e0806df4a7dbe94f9cf",
+      "title": "New York Army National Guard Soldiers honor fellow Soldier during memorial ceremony",
+      "summary": "LATHAM, N.Y. __–New York Army National Guard Soldiers remembered the life of Spc. Hunter Hennessey during a Nov.8, 2026 memorial service at New York National Guard headquarters in Latham, New York.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579158/new-york-army-national-guard-soldiers-honor-fellow-soldier-during-memorial-ceremony",
+      "publishedAt": "2026-11-12T10:28:48Z"
+    },
+    {
+      "id": "2dee3d9fd17192d11b4662b1",
+      "title": "ROK-U.S. Alliance Strengthened Through Sportsmanship and Camaraderie",
+      "summary": "PAJU, South Korea — More than 5,000 Republic of Korea and U.S. service members and Korean civilians gathered at Imjingak Peace Nuri Park on Nov. 7, 2026, to commemorate the 73rd anniversary of the ROK-U.S. Alliance through sportsmanship, camaraderie and community engagement.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579155/rok-us-alliance-strengthened-through-sportsmanship-and-camaraderie",
+      "publishedAt": "2026-11-12T06:29:30Z"
+    },
+    {
+      "id": "794af324ba9cce1dc409d339",
+      "title": "Guard appears to rebuke Hegseth’s delegation at Tomb of the Unknown Soldier",
+      "summary": "The U.S. Army sentinel moved toward the group and, from a distance, shouted toward them: \"All visitors will maintain an atmosphere of silence and respect at all times.\"",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/11/11/guard-appears-to-rebuke-hegseths-delegation-at-tomb-of-the-unknown-soldier/",
+      "publishedAt": "2026-11-12T03:32:11Z"
+    },
+    {
+      "id": "d6fd8981320c484a94eccbc5",
+      "title": "From Juneau to the Skies: An Alaska Aviator’s Journey of Military Service in the Navy and Alaska Air Guard",
+      "summary": "For Lt. Col. Rick Walsh, a Juneau, Alaska, native, a career in military aviation was not a straight path. It was an unexpected adventure that took him around the world, from Navy flight school to the Pacific, and eventually back home to Alaska as a pilot in the Alaska Air National Guard.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579154/juneau-skies-alaska-aviators-journey-military-service-navy-and-alaska-air-guard",
+      "publishedAt": "2026-11-12T02:31:02Z"
+    },
     {
       "id": "10328451be76c94f25e8b1ed",
       "title": "CH-47: The Hook That Connects Generations",
@@ -325,42 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579013/corps-host-public-meeting-comment-period-berlin-lake-shoreline-management-plan-update",
       "publishedAt": "2026-11-09T21:30:58Z"
-    },
-    {
-      "id": "8c19602074b87fd13d5cd136",
-      "title": "Saundersville Boat Ramp at Old Hickory Lake temporarily closing for repairs",
-      "summary": "HENDERSONVILLE, Tenn. (Nov. 9, 2026) – The U.S. Army Corps of Engineers at Old Hickory Lake have scheduled repairs to the Saundersville Boat Ramp at the Saundersville Access Area, located at 106 Caudill Drive.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579008/saundersville-boat-ramp-old-hickory-lake-temporarily-closing-repairs",
-      "publishedAt": "2026-11-09T20:31:35Z"
-    },
-    {
-      "id": "e49f990cdae365844e15bcb8",
-      "title": "Army medical maintainers support joint force readiness through quick-turn repair",
-      "summary": "FORT DETRICK, Md. – A specialized team of U.S. Army medical maintenance technicians recently deployed on short notice to the U.S. Africa Command area of responsibility, restoring a critical imaging device for a joint force partner to full operational status in less than 24 hours.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579006/army-medical-maintainers-support-joint-force-readiness-through-quick-turn-repair",
-      "publishedAt": "2026-11-09T20:21:20Z"
-    },
-    {
-      "id": "d55fe219520b53f2bd99f777",
-      "title": "Pentagon can’t track thousands of F-35 parts: GAO",
-      "summary": "The government watchdog found that more than 17,000 F-35 fighter jet parts worth an estimated $1.3 billion were missing from the program’s inventory system.",
-      "category": "Air Force",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/pentagon-cant-track-thousands-of-f-35-parts-gao/",
-      "publishedAt": "2026-11-09T19:41:23Z"
-    },
-    {
-      "id": "643a9bbdbc6eb5ac02fa5008",
-      "title": "USS Lenah Sutcliffe Higbee holds change of command ceremony",
-      "summary": "NAVAL BASE SAN DIEGO (Nov. 6, 2026) - U.S. Navy Cmdr. Osei Asante relieved U.S. Navy Cmdr. Jack Skahen as commanding officer of Arleigh Burke-class guided-missile destroyer USS Lenah Sutcliffe Higbee (DDG 123) during a change of command ceremony at the USS Midway Museum on Nov. 6, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578995/uss-lenah-sutcliffe-higbee-holds-change-command-ceremony",
-      "publishedAt": "2026-11-09T19:29:55Z"
     }
   ],
   "nextPage": "pages/page-2.json"

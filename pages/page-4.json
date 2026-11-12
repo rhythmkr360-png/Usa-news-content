@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-12T00:46:52Z",
+  "generatedAt": "2026-11-12T11:21:10Z",
   "articles": [
+    {
+      "id": "ec1c6dd7324a21e08b99ff37",
+      "title": "Amid Iran conflict, ‘non-hostile’ deaths of 2 US airmen raise overseas toll",
+      "summary": "Two U.S. airmen supporting operations against Iran died last week in \"non-hostile\" incidents, raising the death toll to 23 since the war began.",
+      "category": "Air Force",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/11/04/amid-iran-conflict-non-hostile-deaths-of-2-us-airmen-raise-overseas-toll-to-23/",
+      "publishedAt": "2026-11-04T23:08:17Z"
+    },
+    {
+      "id": "d631588bb2dea5693430f206",
+      "title": "Fantastic Five: Introducing the TACOM Hall of Fame Class of 2026",
+      "summary": "Five careers. Decades of impact. One enduring legacy. Meet the former Army Civilians whose achievements, leadership and commitment to excellence earned them a spot in the U.S. Army Tank-automotive and Armaments Command Hall of Fame.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578628/fantastic-five-introducing-tacom-hall-fame-class-2026",
+      "publishedAt": "2026-11-04T23:07:48Z"
+    },
+    {
+      "id": "62698550e2c5f96f6b611681",
+      "title": "Michelle Link named TACOM ILSC executive director",
+      "summary": "Michelle A. Link took the helm last month of the U.S. Army Tank-automotive and Armaments Command’s Integrated Logistics Support Center, leveraging decades of logistics and acquisition experience to forge future readiness.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578632/michelle-link-named-tacom-ilsc-executive-director",
+      "publishedAt": "2026-11-04T23:07:48Z"
+    },
+    {
+      "id": "414459ea33457a7ae4bf86b1",
+      "title": "TACOM welcomes newest Hall of Fame inductees",
+      "summary": "Smiles, hugs and happy tears filled the Detroit Arsenal as five people who spent decades shaping the U.S. Army Tank-automotive and Armaments Command took a permanent place in its history. Agnes E. Holley-Smith, David W. Horton, Michele M. Moore, James “Patton” Tidwell and David L. Van Agtmael were inducted Oct. 28 into the TACOM Hall of Fame.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578625/tacom-welcomes-newest-hall-fame-inductees",
+      "publishedAt": "2026-11-04T23:07:47Z"
+    },
     {
       "id": "3610e97b9c59d8f8c865dfcc",
       "title": "Beyond the fence: Army and community partners work together to clean up Dillingham Army Beach",
@@ -325,42 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578488/firearms-sentinel-training",
       "publishedAt": "2026-11-03T17:01:08Z"
-    },
-    {
-      "id": "5daf9b4027dbc0201522d2d1",
-      "title": "Former Walter Reed American Red Cross volunteer joins U.S. Navy Nurse Corps",
-      "summary": "Inspired by her service as an American Red Cross (ARC) volunteer at Walter Reed National Military Medical Center (WRNMMC) and her family’s plight to the United States from Vietnam, Megan Do traded in her scarlet ARC vest for U.S. Navy whites and gold bars to become one of the U.S. Navy Nurse Corps’ newest nurses following her commissioning on Oct.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578500/former-walter-reed-american-red-cross-volunteer-joins-us-navy-nurse-corps",
-      "publishedAt": "2026-11-03T16:17:17Z"
-    },
-    {
-      "id": "ffe5e5a53e989aed8af25501",
-      "title": "Could the DC National Guard mission become the Army’s standard for quality of life?",
-      "summary": "There is an asterisk. This is a high-profile assignment with a budget to match that allows commanders the kind of flexibility to problem-solve that they rarely have in garrison. The post Could the DC National Guard mission become the Army’s standard for quality of life? appeared first on Task & Purpose .",
-      "category": "Army",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/opinion/quality-of-life-army-dc-national-guard-standard/",
-      "publishedAt": "2026-11-03T16:14:18Z"
-    },
-    {
-      "id": "d434a223b12376b2273db9be",
-      "title": "Lyster Lab Team Earns CAP Accreditation",
-      "summary": "FORT RUCKER, Ala. — The Lyster Army Health Clinic Laboratory has successfully achieved accreditation from the College of American Pathologists (CAP), demonstrating a continued commitment to clinical excellence and patient safety across the Fort Rucker military community.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578496/lyster-lab-team-earns-cap-accreditation",
-      "publishedAt": "2026-11-03T15:57:23Z"
-    },
-    {
-      "id": "3eca99cb02018489144c6405",
-      "title": "\"Plant The Promise\" Event held in Sussex County, NJ in Honor of Red Ribbon Week",
-      "summary": "In recognition of Red Ribbon Week, the Center for Prevention & Counseling (CPC) in Sussex County partnered with participating schools and the New Jersey National Guard Drug Demand Reduction Outreach section of the CounterDrug Task Force for the “Plant the Promise” activity.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578495/plant-promise-event-held-sussex-county-nj-honor-red-ribbon-week",
-      "publishedAt": "2026-11-03T15:40:25Z"
     }
   ],
   "nextPage": "page-5.json"

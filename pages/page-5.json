@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-12T00:46:52Z",
+  "generatedAt": "2026-11-12T11:21:10Z",
   "articles": [
+    {
+      "id": "5daf9b4027dbc0201522d2d1",
+      "title": "Former Walter Reed American Red Cross volunteer joins U.S. Navy Nurse Corps",
+      "summary": "Inspired by her service as an American Red Cross (ARC) volunteer at Walter Reed National Military Medical Center (WRNMMC) and her family’s plight to the United States from Vietnam, Megan Do traded in her scarlet ARC vest for U.S. Navy whites and gold bars to become one of the U.S. Navy Nurse Corps’ newest nurses following her commissioning on Oct.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578500/former-walter-reed-american-red-cross-volunteer-joins-us-navy-nurse-corps",
+      "publishedAt": "2026-11-03T16:17:17Z"
+    },
+    {
+      "id": "ffe5e5a53e989aed8af25501",
+      "title": "Could the DC National Guard mission become the Army’s standard for quality of life?",
+      "summary": "There is an asterisk. This is a high-profile assignment with a budget to match that allows commanders the kind of flexibility to problem-solve that they rarely have in garrison. The post Could the DC National Guard mission become the Army’s standard for quality of life? appeared first on Task & Purpose .",
+      "category": "Army",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/opinion/quality-of-life-army-dc-national-guard-standard/",
+      "publishedAt": "2026-11-03T16:14:18Z"
+    },
+    {
+      "id": "d434a223b12376b2273db9be",
+      "title": "Lyster Lab Team Earns CAP Accreditation",
+      "summary": "FORT RUCKER, Ala. — The Lyster Army Health Clinic Laboratory has successfully achieved accreditation from the College of American Pathologists (CAP), demonstrating a continued commitment to clinical excellence and patient safety across the Fort Rucker military community.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578496/lyster-lab-team-earns-cap-accreditation",
+      "publishedAt": "2026-11-03T15:57:23Z"
+    },
+    {
+      "id": "3eca99cb02018489144c6405",
+      "title": "\"Plant The Promise\" Event held in Sussex County, NJ in Honor of Red Ribbon Week",
+      "summary": "In recognition of Red Ribbon Week, the Center for Prevention & Counseling (CPC) in Sussex County partnered with participating schools and the New Jersey National Guard Drug Demand Reduction Outreach section of the CounterDrug Task Force for the “Plant the Promise” activity.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578495/plant-promise-event-held-sussex-county-nj-honor-red-ribbon-week",
+      "publishedAt": "2026-11-03T15:40:25Z"
+    },
     {
       "id": "20817cd855ae1307a8b61339",
       "title": "Former Army secretary Dan Driscoll heads to OpenAI",
@@ -199,33 +235,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/video/2026/11/02/big-deals-in-european-defense-and-american-fighters-defense-dollars/",
       "publishedAt": "2026-11-02T14:00:00Z"
-    },
-    {
-      "id": "271ed782c0819de27ed8b018",
-      "title": "U.S. Africa Command leadership attends AFRIDEX in Lagos",
-      "summary": "U.S. Africa Command leadership attended the Africa International Defence Exhibition (AFRIDEX) in Lagos, Nigeria Oct. 26–27, 2026 to collaborate with African defense leaders and global partners to advance cooperation across Africa.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578388/us-africa-command-leadership-attends-afridex-lagos",
-      "publishedAt": "2026-11-02T08:14:57Z"
-    },
-    {
-      "id": "b734bbab344a479ea56c1d71",
-      "title": "Exercise Tiger Triumph 2026 Commences in Visakhapatnam to Enhance U.S.-India Combined Interoperability",
-      "summary": "VISAKHAPATNAM, India – Service members from the United States and Indian Armed Forces officially commenced Exercise Tiger Triumph 2026 with an opening ceremony in Visakhapatnam, India, on Nov. 2, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578387/exercise-tiger-triumph-2026-commences-visakhapatnam-enhance-us-india-combined-interoperability",
-      "publishedAt": "2026-11-02T05:58:29Z"
-    },
-    {
-      "id": "3f6c2b82afbbc2c4c30e722f",
-      "title": "Tropic Lightning, Joint Partners Set the Theater for JPMRC 27-01",
-      "summary": "SCHOFIELD BARRACKS, Hawaii – Combat credibility begins long before the first round is fired. It starts with disciplined preparation, setting the theater, and establishing the lines of communication necessary to fight and win in a complex archipelagic environment. The division-level Combined Arms Rehearsal on Nov. 1, brought U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578385/tropic-lightning-joint-partners-set-theater-jpmrc-27-01",
-      "publishedAt": "2026-11-02T03:38:48Z"
     }
   ]
 }

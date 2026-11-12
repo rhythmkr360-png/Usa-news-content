@@ -1,5 +1,41 @@
 [
   {
+    "id": "1f3b9e0806df4a7dbe94f9cf",
+    "title": "New York Army National Guard Soldiers honor fellow Soldier during memorial ceremony",
+    "summary": "LATHAM, N.Y. __–New York Army National Guard Soldiers remembered the life of Spc. Hunter Hennessey during a Nov.8, 2026 memorial service at New York National Guard headquarters in Latham, New York.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579158/new-york-army-national-guard-soldiers-honor-fellow-soldier-during-memorial-ceremony",
+    "publishedAt": "2026-11-12T10:28:48Z"
+  },
+  {
+    "id": "2dee3d9fd17192d11b4662b1",
+    "title": "ROK-U.S. Alliance Strengthened Through Sportsmanship and Camaraderie",
+    "summary": "PAJU, South Korea — More than 5,000 Republic of Korea and U.S. service members and Korean civilians gathered at Imjingak Peace Nuri Park on Nov. 7, 2026, to commemorate the 73rd anniversary of the ROK-U.S. Alliance through sportsmanship, camaraderie and community engagement.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579155/rok-us-alliance-strengthened-through-sportsmanship-and-camaraderie",
+    "publishedAt": "2026-11-12T06:29:30Z"
+  },
+  {
+    "id": "794af324ba9cce1dc409d339",
+    "title": "Guard appears to rebuke Hegseth’s delegation at Tomb of the Unknown Soldier",
+    "summary": "The U.S. Army sentinel moved toward the group and, from a distance, shouted toward them: \"All visitors will maintain an atmosphere of silence and respect at all times.\"",
+    "category": "Army",
+    "sourceName": "Defense News",
+    "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/11/11/guard-appears-to-rebuke-hegseths-delegation-at-tomb-of-the-unknown-soldier/",
+    "publishedAt": "2026-11-12T03:32:11Z"
+  },
+  {
+    "id": "d6fd8981320c484a94eccbc5",
+    "title": "From Juneau to the Skies: An Alaska Aviator’s Journey of Military Service in the Navy and Alaska Air Guard",
+    "summary": "For Lt. Col. Rick Walsh, a Juneau, Alaska, native, a career in military aviation was not a straight path. It was an unexpected adventure that took him around the world, from Navy flight school to the Pacific, and eventually back home to Alaska as a pilot in the Alaska Air National Guard.",
+    "category": "Navy",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579154/juneau-skies-alaska-aviators-journey-military-service-navy-and-alaska-air-guard",
+    "publishedAt": "2026-11-12T02:31:02Z"
+  },
+  {
     "id": "10328451be76c94f25e8b1ed",
     "title": "CH-47: The Hook That Connects Generations",
     "summary": "More than 50 years after serving in separate combat tours in Vietnam, with the same Army Aviation unit, former CH-47 Chinook pilot Mike Mackey and former flight engineer Bob Roy met for the first time on Aug. 20, 2026, at a South Carolina Army National Guard aviation event.",
@@ -1636,32 +1672,5 @@
     "sourceName": "Defense News",
     "sourceUrl": "https://www.defensenews.com/video/2026/11/02/big-deals-in-european-defense-and-american-fighters-defense-dollars/",
     "publishedAt": "2026-11-02T14:00:00Z"
-  },
-  {
-    "id": "271ed782c0819de27ed8b018",
-    "title": "U.S. Africa Command leadership attends AFRIDEX in Lagos",
-    "summary": "U.S. Africa Command leadership attended the Africa International Defence Exhibition (AFRIDEX) in Lagos, Nigeria Oct. 26–27, 2026 to collaborate with African defense leaders and global partners to advance cooperation across Africa.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578388/us-africa-command-leadership-attends-afridex-lagos",
-    "publishedAt": "2026-11-02T08:14:57Z"
-  },
-  {
-    "id": "b734bbab344a479ea56c1d71",
-    "title": "Exercise Tiger Triumph 2026 Commences in Visakhapatnam to Enhance U.S.-India Combined Interoperability",
-    "summary": "VISAKHAPATNAM, India – Service members from the United States and Indian Armed Forces officially commenced Exercise Tiger Triumph 2026 with an opening ceremony in Visakhapatnam, India, on Nov. 2, 2026.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578387/exercise-tiger-triumph-2026-commences-visakhapatnam-enhance-us-india-combined-interoperability",
-    "publishedAt": "2026-11-02T05:58:29Z"
-  },
-  {
-    "id": "3f6c2b82afbbc2c4c30e722f",
-    "title": "Tropic Lightning, Joint Partners Set the Theater for JPMRC 27-01",
-    "summary": "SCHOFIELD BARRACKS, Hawaii – Combat credibility begins long before the first round is fired. It starts with disciplined preparation, setting the theater, and establishing the lines of communication necessary to fight and win in a complex archipelagic environment. The division-level Combined Arms Rehearsal on Nov. 1, brought U.S.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578385/tropic-lightning-joint-partners-set-theater-jpmrc-27-01",
-    "publishedAt": "2026-11-02T03:38:48Z"
   }
 ]

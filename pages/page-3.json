@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-12T00:46:52Z",
+  "generatedAt": "2026-11-12T11:21:10Z",
   "articles": [
+    {
+      "id": "0b49d9911ce3e7220fa61172",
+      "title": "BCE Consulting outlines the critical elements of layered air defense architecture",
+      "summary": "What does the future of layered air defense look like? BCE Consulting lays out what it will take to protect American forces.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/video/2026/11/06/bce-consulting-outlines-the-critical-elements-of-layered-air-defense-architecture/",
+      "publishedAt": "2026-11-06T17:28:08Z"
+    },
+    {
+      "id": "e8a074486d0e866ccde96593",
+      "title": "Corps dewaters century-old Allegheny River lock chamber for critical repairs",
+      "summary": "At Allegheny River Lock and Dam 4, the U.S. Army Corps of Engineers Pittsburgh District completely drained the lock chamber, deployed dozens of personnel, cranes, boats, barges, and heavy equipment, and halted navigation through the vital inland waterway link for months because of a piece of wood.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578805/corps-dewaters-century-old-allegheny-river-lock-chamber-critical-repairs",
+      "publishedAt": "2026-11-06T16:34:39Z"
+    },
+    {
+      "id": "c1ab922aa18a4d79477c1f76",
+      "title": "Two in a row: Armaments Center receives Hopper Award for Software Maintenance Excellence for second straight year",
+      "summary": "PICATINNY ARSENAL, N.J. - For the third year, and second consecutive, the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center has received the prestigious Rear Admiral Grace M. Hopper Award for Software Maintenance Excellence.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578804/two-row-armaments-center-receives-hopper-award-software-maintenance-excellence-second-straight-year",
+      "publishedAt": "2026-11-06T16:30:10Z"
+    },
+    {
+      "id": "b396a6f15334bdfa29988797",
+      "title": "NETCOM engages industry to advance innovation, global network modernization",
+      "summary": "FORT HUACHUCA, Ariz. — As the Army continues to modernize its network and strengthen its ability to operate across multiple domains, leaders from the U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578800/netcom-engages-industry-advance-innovation-global-network-modernization",
+      "publishedAt": "2026-11-06T16:25:13Z"
+    },
     {
       "id": "523f1d010a1018db9ff2cf97",
       "title": "U.S. Army honors Wisconsin son, killed on an Italian battlefield in WWI",
@@ -325,42 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578642/oregon-national-guard-trains-with-multnomah-county-sheriffs-office-sar-medevac",
       "publishedAt": "2026-11-05T02:06:36Z"
-    },
-    {
-      "id": "ec1c6dd7324a21e08b99ff37",
-      "title": "Amid Iran conflict, ‘non-hostile’ deaths of 2 US airmen raise overseas toll",
-      "summary": "Two U.S. airmen supporting operations against Iran died last week in \"non-hostile\" incidents, raising the death toll to 23 since the war began.",
-      "category": "Air Force",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/11/04/amid-iran-conflict-non-hostile-deaths-of-2-us-airmen-raise-overseas-toll-to-23/",
-      "publishedAt": "2026-11-04T23:08:17Z"
-    },
-    {
-      "id": "d631588bb2dea5693430f206",
-      "title": "Fantastic Five: Introducing the TACOM Hall of Fame Class of 2026",
-      "summary": "Five careers. Decades of impact. One enduring legacy. Meet the former Army Civilians whose achievements, leadership and commitment to excellence earned them a spot in the U.S. Army Tank-automotive and Armaments Command Hall of Fame.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578628/fantastic-five-introducing-tacom-hall-fame-class-2026",
-      "publishedAt": "2026-11-04T23:07:48Z"
-    },
-    {
-      "id": "62698550e2c5f96f6b611681",
-      "title": "Michelle Link named TACOM ILSC executive director",
-      "summary": "Michelle A. Link took the helm last month of the U.S. Army Tank-automotive and Armaments Command’s Integrated Logistics Support Center, leveraging decades of logistics and acquisition experience to forge future readiness.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578632/michelle-link-named-tacom-ilsc-executive-director",
-      "publishedAt": "2026-11-04T23:07:48Z"
-    },
-    {
-      "id": "414459ea33457a7ae4bf86b1",
-      "title": "TACOM welcomes newest Hall of Fame inductees",
-      "summary": "Smiles, hugs and happy tears filled the Detroit Arsenal as five people who spent decades shaping the U.S. Army Tank-automotive and Armaments Command took a permanent place in its history. Agnes E. Holley-Smith, David W. Horton, Michele M. Moore, James “Patton” Tidwell and David L. Van Agtmael were inducted Oct. 28 into the TACOM Hall of Fame.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578625/tacom-welcomes-newest-hall-fame-inductees",
-      "publishedAt": "2026-11-04T23:07:47Z"
     }
   ],
   "nextPage": "page-4.json"
