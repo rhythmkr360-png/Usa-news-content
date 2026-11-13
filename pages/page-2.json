@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-13T01:51:33Z",
+  "generatedAt": "2026-11-13T11:04:49Z",
   "articles": [
+    {
+      "id": "0ea48878f69712033e0ae15e",
+      "title": "USAWHC Commander Visits Southern Vanguard 2027 in Tolemaida, Colombia",
+      "summary": "Gen. Joseph A. Ryan, U.S. Army Western Hemisphere Command (USAWHC) Commanding General, visited Tolemaida, Colombia, on Nov. 9, 2026, to meet with U.S. and Colombian soldiers participating in Southern Vanguard 2027 (SV27), an annual exercise focused on strengthening interoperability, readiness, and bilateral security cooperation.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579113/usawhc-commander-visits-southern-vanguard-2027-tolemaida-colombia",
+      "publishedAt": "2026-11-10T21:04:35Z"
+    },
+    {
+      "id": "59374aa24c42301fc4c7615b",
+      "title": "Allen Control Systems launches new division to develop counter-drone lasers",
+      "summary": "The announcement comes amid the Pentagon’s growing interest in laser weapons, which use concentrated beams of energy to heat and destroy targets.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/allen-control-systems-launches-new-division-to-develop-counter-drone-lasers/",
+      "publishedAt": "2026-11-10T20:56:37Z"
+    },
+    {
+      "id": "d567e7b559a36a242d635a26",
+      "title": "U.S. Marines rehearse distributed, assured command and control across Oahu",
+      "summary": "U.S. Marines assigned to 3rd Marine Littoral Regiment, 3rd Marine Division, successfully concluded a dynamic command and control exercise across Oahu, Hawaii, Nov. 6, 2026.",
+      "category": "Marine Corps",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579107/us-marines-rehearse-distributed-assured-command-and-control-across-oahu",
+      "publishedAt": "2026-11-10T20:18:42Z"
+    },
+    {
+      "id": "89c02644bf29728210820aa2",
+      "title": "Nevada Army Guard honors 11 Soldiers and their families at retirement ceremony",
+      "summary": "Applause and cheers filled the room as the Nevada Army National Guard honored 11 retired and soon-to-retire Soldiers and the families who supported them during its third retirement ceremony Nov. 8.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579106/nevada-army-guard-honors-11-soldiers-and-their-families-retirement-ceremony",
+      "publishedAt": "2026-11-10T20:08:05Z"
+    },
     {
       "id": "f524c34cd563cb845ce5b2bb",
       "title": "Warrant Officers focus on innovation and a transforming Army during Professional Development Symposium",
@@ -325,42 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578890/tennessee-guard-soldiers-promotion-reunites-former-public-affairs-team",
       "publishedAt": "2026-11-08T21:07:46Z"
-    },
-    {
-      "id": "9852d58308c2e46049351843",
-      "title": "73 APS welcomes new commander",
-      "summary": "U.S. Air Force Maj. Charles Smith assumed command of the 73rd Aerial Port Squadron during a ceremony here Nov. 7, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578903/73-aps-welcomes-new-commander",
-      "publishedAt": "2026-11-08T20:57:46Z"
-    },
-    {
-      "id": "f9c3b1226228d7606072013d",
-      "title": "Ohio National Guard launches new partnership during inaugural visit to Angola",
-      "summary": "LUANDA, Angola — Ohio National Guard leaders traveled to Angola from June 29 to July 3, 2026, for the organization’s first official visit since Ohio and Angola were paired through the State Partnership Program.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578905/ohio-national-guard-launches-new-partnership-during-inaugural-visit-angola",
-      "publishedAt": "2026-11-08T19:38:36Z"
-    },
-    {
-      "id": "ada3eefed907aad49a67b9ea",
-      "title": "Behind the Flight Line: 162nd Wing AGE Airmen Power the Mission",
-      "summary": "Aerospace Ground Equipment Airmen assigned to the 162nd Wing, Arizona Air National Guard, maintain essential ground support equipment at Morris Air National Guard Base, Arizona.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578901/behind-flight-line-162nd-wing-age-airmen-power-mission",
-      "publishedAt": "2026-11-08T16:08:58Z"
-    },
-    {
-      "id": "a1f4212a5f61a879030f80cd",
-      "title": "Keeping the Mission Moving: Staff Sgt. Ryon Grant",
-      "summary": "U.S. Air National Guard Staff Sgt. Ryon Grant, a vehicle maintenance technician assigned to the 162nd Logistics Readiness Squadron, Arizona Air National Guard, plays a vital role in maintaining mission readiness at Morris Air National Guard Base, Arizona.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578900/keeping-mission-moving-staff-sgt-ryon-grant",
-      "publishedAt": "2026-11-08T16:08:57Z"
     }
   ],
   "nextPage": "page-3.json"

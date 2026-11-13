@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-13T01:51:33Z",
+  "generatedAt": "2026-11-13T11:04:49Z",
   "articles": [
+    {
+      "id": "5b5f595d9c340ecd4f4ae4ed",
+      "title": "Joint Forces Strengthen Aerial Sustainment Capabilities During JPMRC",
+      "summary": "Across the Indo-Pacific, the ability to deliver critical supplies and equipment to dispersed forces is essential to maintaining combat readiness. During Joint Pacific Multinational Readiness Center (JPMRC) 27-01, U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579251/joint-forces-strengthen-aerial-sustainment-capabilities-during-jpmrc",
+      "publishedAt": "2026-11-13T04:37:28Z"
+    },
+    {
+      "id": "c1ae5e4c1d2c2e92dcefdeaa",
+      "title": "T-19A Kestrel makes debut flyover at U.S. Air Force Academy",
+      "summary": "U.S. Air Force Academy cadets were treated to a historic aerial display today as the Air Force’s newest aircraft, the T-19A Kestrel, made its official public debut during a flyover of the Cadet Wing’s noon meal formation.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579253/t-19a-kestrel-makes-debut-flyover-us-air-force-academy",
+      "publishedAt": "2026-11-13T04:24:10Z"
+    },
+    {
+      "id": "695652166e8f0bbf1e1059af",
+      "title": "ACC-RSA celebrates Leadership Development and Readiness Program Graduates",
+      "summary": "U.S. Army Contracting Command-Redstone Arsenal recognized 21 employees who completed the Leadership Development and Readiness Program's Level II Practitioner Course during a Nov. 4, 2026 ceremony at Toftoy Hall on Redstone Arsenal, Alabama.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579252/acc-rsa-celebrates-leadership-development-and-readiness-program-graduates",
+      "publishedAt": "2026-11-13T03:51:13Z"
+    },
+    {
+      "id": "6acbeaa2655d97548c8eda38",
+      "title": "ACC-RSA Green Platoon graduation honors 33 contracting fellows",
+      "summary": "Thirty-three contracting fellows graduated from U.S. Army Contracting Command-Redstone Arsenal’s Green Platoon program during a ceremony on Oct. 5 at Heiser Hall on Redstone Arsenal, Ala.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579240/acc-rsa-green-platoon-graduation-honors-33-contracting-fellows",
+      "publishedAt": "2026-11-13T02:37:07Z"
+    },
     {
       "id": "15669a97cf196053348fa929",
       "title": "SSN(X) Attack Boat Will be a Swift, Lethal Mothership for Undersea Drones, Navy Says",
@@ -325,42 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579111/reserve-iw-sailors-sharpen-fleet-readiness-during-mako-sentry",
       "publishedAt": "2026-11-10T21:08:30Z"
-    },
-    {
-      "id": "0ea48878f69712033e0ae15e",
-      "title": "USAWHC Commander Visits Southern Vanguard 2027 in Tolemaida, Colombia",
-      "summary": "Gen. Joseph A. Ryan, U.S. Army Western Hemisphere Command (USAWHC) Commanding General, visited Tolemaida, Colombia, on Nov. 9, 2026, to meet with U.S. and Colombian soldiers participating in Southern Vanguard 2027 (SV27), an annual exercise focused on strengthening interoperability, readiness, and bilateral security cooperation.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579113/usawhc-commander-visits-southern-vanguard-2027-tolemaida-colombia",
-      "publishedAt": "2026-11-10T21:04:35Z"
-    },
-    {
-      "id": "59374aa24c42301fc4c7615b",
-      "title": "Allen Control Systems launches new division to develop counter-drone lasers",
-      "summary": "The announcement comes amid the Pentagon’s growing interest in laser weapons, which use concentrated beams of energy to heat and destroy targets.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/allen-control-systems-launches-new-division-to-develop-counter-drone-lasers/",
-      "publishedAt": "2026-11-10T20:56:37Z"
-    },
-    {
-      "id": "d567e7b559a36a242d635a26",
-      "title": "U.S. Marines rehearse distributed, assured command and control across Oahu",
-      "summary": "U.S. Marines assigned to 3rd Marine Littoral Regiment, 3rd Marine Division, successfully concluded a dynamic command and control exercise across Oahu, Hawaii, Nov. 6, 2026.",
-      "category": "Marine Corps",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579107/us-marines-rehearse-distributed-assured-command-and-control-across-oahu",
-      "publishedAt": "2026-11-10T20:18:42Z"
-    },
-    {
-      "id": "89c02644bf29728210820aa2",
-      "title": "Nevada Army Guard honors 11 Soldiers and their families at retirement ceremony",
-      "summary": "Applause and cheers filled the room as the Nevada Army National Guard honored 11 retired and soon-to-retire Soldiers and the families who supported them during its third retirement ceremony Nov. 8.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579106/nevada-army-guard-honors-11-soldiers-and-their-families-retirement-ceremony",
-      "publishedAt": "2026-11-10T20:08:05Z"
     }
   ],
   "nextPage": "pages/page-2.json"

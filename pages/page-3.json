@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-13T01:51:33Z",
+  "generatedAt": "2026-11-13T11:04:49Z",
   "articles": [
+    {
+      "id": "9852d58308c2e46049351843",
+      "title": "73 APS welcomes new commander",
+      "summary": "U.S. Air Force Maj. Charles Smith assumed command of the 73rd Aerial Port Squadron during a ceremony here Nov. 7, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578903/73-aps-welcomes-new-commander",
+      "publishedAt": "2026-11-08T20:57:46Z"
+    },
+    {
+      "id": "f9c3b1226228d7606072013d",
+      "title": "Ohio National Guard launches new partnership during inaugural visit to Angola",
+      "summary": "LUANDA, Angola — Ohio National Guard leaders traveled to Angola from June 29 to July 3, 2026, for the organization’s first official visit since Ohio and Angola were paired through the State Partnership Program.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578905/ohio-national-guard-launches-new-partnership-during-inaugural-visit-angola",
+      "publishedAt": "2026-11-08T19:38:36Z"
+    },
+    {
+      "id": "ada3eefed907aad49a67b9ea",
+      "title": "Behind the Flight Line: 162nd Wing AGE Airmen Power the Mission",
+      "summary": "Aerospace Ground Equipment Airmen assigned to the 162nd Wing, Arizona Air National Guard, maintain essential ground support equipment at Morris Air National Guard Base, Arizona.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578901/behind-flight-line-162nd-wing-age-airmen-power-mission",
+      "publishedAt": "2026-11-08T16:08:58Z"
+    },
+    {
+      "id": "a1f4212a5f61a879030f80cd",
+      "title": "Keeping the Mission Moving: Staff Sgt. Ryon Grant",
+      "summary": "U.S. Air National Guard Staff Sgt. Ryon Grant, a vehicle maintenance technician assigned to the 162nd Logistics Readiness Squadron, Arizona Air National Guard, plays a vital role in maintaining mission readiness at Morris Air National Guard Base, Arizona.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578900/keeping-mission-moving-staff-sgt-ryon-grant",
+      "publishedAt": "2026-11-08T16:08:57Z"
+    },
     {
       "id": "8ee74310deeb765c29d1404b",
       "title": "Kentucky Air Guard stands up dedicated recruiting flight",
@@ -325,42 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578777/corps-engineers-tva-earn-national-geology-award-chickamauga-lock-project",
       "publishedAt": "2026-11-06T13:55:43Z"
-    },
-    {
-      "id": "2a1f36b1dbd2752db4277279",
-      "title": "7th Communication Battalion celebrates enduring friendship at Moon Festival",
-      "summary": "U.S. Marines with 7th Communication Battalion, III Marine Expeditionary Force Information Group, joined residents, staff and community members for the annual Moon Festival at Hikarigaoka Nursing Home, Oct. 31, 2026, continuing a friendship spanning more than three decades.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578761/7th-communication-battalion-celebrates-enduring-friendship-moon-festival",
-      "publishedAt": "2026-11-06T06:12:19Z"
-    },
-    {
-      "id": "b23f729996da222fa97f0ea2",
-      "title": "Joint effort prepares military housing for incoming families",
-      "summary": "KADENA AIR BASE, Japan — U.S. Air Force Airmen assigned to the 18th Civil Engineer Group and U.S. Marines worked together over six weeks across Okinawa, Japan, to prepare more than 120 military homes for incoming families, combining maintenance support and administrative changes to improve housing operations.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578762/joint-effort-prepares-military-housing-incoming-families",
-      "publishedAt": "2026-11-06T06:01:57Z"
-    },
-    {
-      "id": "6ee00240fb73b3e22bc87da8",
-      "title": "Mustang of the Week: TSgt Wendall Curry",
-      "summary": "U.S. Air Force Tech. Sgt. Wendall Curry, 51st Comptroller Squadron noncommissioned officer in charge of travel, was recognized as Mustang of the Week for his dedication to supporting Airmen, strengthening team morale and demonstrating exceptional leadership while maintaining financial readiness for the 51st Fighter Wing at Osan Air Base, Republic…",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578760/mustang-week-tsgt-wendall-curry",
-      "publishedAt": "2026-11-06T05:01:49Z"
-    },
-    {
-      "id": "ecbd73624e8eb67d8b1e2f25",
-      "title": "Navy, NASA withdraw Final EIS",
-      "summary": "JOINT BASE PEARL HARBOR-HICKAM, Hawaii — The U.S. Navy and the National Aeronautics and Space Administration (NASA) formally withdrew the Final Environmental Impact Statement (EIS) covering Pacific Missile Range Facility (PMRF) and Kokee Park Geophysical Observatory (KPGO) Nov.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578757/navy-nasa-withdraw-final-eis",
-      "publishedAt": "2026-11-06T01:20:27Z"
     }
   ],
   "nextPage": "page-4.json"
