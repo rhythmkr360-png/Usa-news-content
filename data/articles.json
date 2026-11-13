@@ -1,5 +1,122 @@
 [
   {
+    "id": "d11ae36023f3eb76ea4ef6f1",
+    "title": "C. J. Graham Visits USS Essex (LHD 2)",
+    "summary": "SAN DIEGO (Oct. 29, 2026) Actor C. J. Graham visited Wasp-class amphibious assault ship USS Essex (LHD 2) to tour the ship and meet with U.S. Navy Sailors.",
+    "category": "Navy",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579310/c-j-graham-visits-uss-essex-lhd-2",
+    "publishedAt": "2026-11-13T19:10:52Z"
+  },
+  {
+    "id": "46f6b0f77352f3d4820438e8",
+    "title": "National Guard Office of Special Victims' Counsel provides legal advocacy when victims need it most",
+    "summary": "or victims of sexual assault or domestic violence, one of the hardest questions can be what to do next. Understanding their rights, deciding whether to report and navigating unfamiliar legal processes can feel overwhelming. However, National Guard members do not have to navigate the process alone.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579309/national-guard-office-special-victims-counsel-provides-legal-advocacy-victims-need-most",
+    "publishedAt": "2026-11-13T19:09:32Z"
+  },
+  {
+    "id": "90ad881f9167f1130ed4a102",
+    "title": "USNI News Western Pacific Pulse: Nov. 13, 2026",
+    "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In Singapore The Theodore Roosevelt Carrier Strike Group departed on Sunday from Singapore.",
+    "category": "Defense",
+    "sourceName": "USNI News",
+    "sourceUrl": "https://news.usni.org/2026/11/13/usni-news-western-pacific-pulse-nov-13-2026",
+    "publishedAt": "2026-11-13T18:56:52Z"
+  },
+  {
+    "id": "de48f65184e98b95c6fcda86",
+    "title": "The Pentagon brings back World War II-era OSS for special operations missions, funding",
+    "summary": "The plan could improve civilian oversight of special operations and make more room at the budget bargaining table, but much of it will require congressional approval. The post The Pentagon brings back World War II-era OSS for special operations missions, funding appeared first on Task & Purpose .",
+    "category": "Defense",
+    "sourceName": "Task & Purpose",
+    "sourceUrl": "https://taskandpurpose.com/news/hegseth-oss-special-operations/",
+    "publishedAt": "2026-11-13T18:51:27Z"
+  },
+  {
+    "id": "967a6c54de84ded4daa66588",
+    "title": "US Air Force adopts new Force Design focusing on sensors and autonomy",
+    "summary": "The Air Force's new Force Design 2026 outlines a shift toward artificial intelligence, autonomy and integrated sensors to counter emerging threats.",
+    "category": "Air Force",
+    "sourceName": "Defense News",
+    "sourceUrl": "https://www.defensenews.com/air/2026/11/13/us-air-force-adopts-new-force-design-focusing-on-sensors-and-autonomy/",
+    "publishedAt": "2026-11-13T18:43:45Z"
+  },
+  {
+    "id": "519bb05d9faddae77ec696d4",
+    "title": "New Hampshire National Guard breaks ground on new Plymouth Readiness Center",
+    "summary": "The New Hampshire Army National Guard broke ground Nov. 12 on the Plymouth Readiness Center, beginning a $31 million project to replace the community’s 1957 armory with a modern, secure facility built for current and future missions.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579307/new-hampshire-national-guard-breaks-ground-new-plymouth-readiness-center",
+    "publishedAt": "2026-11-13T18:20:50Z"
+  },
+  {
+    "id": "204fd1240237516a8dc99703",
+    "title": "Air Force Band ensembles honor veterans across the nation",
+    "summary": "The U.S. Air Force Band's Ceremonial Brass performed live at NBC's TODAY Show plaza, Nov. 11, 2026, anchoring a series of nationwide performances honoring America’s veterans through music.",
+    "category": "Air Force",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579305/air-force-band-ensembles-honor-veterans-across-nation",
+    "publishedAt": "2026-11-13T18:00:48Z"
+  },
+  {
+    "id": "517ed16a0c1dcfaf2f0260c1",
+    "title": "Judges close part of ICC Afghanistan investigations that could look at US troops",
+    "summary": "The International Criminal Court will close investigations into Afghanistan that previously looked at alleged crimes by U.S. troops and focus only on actions of the Taliban.",
+    "category": "Defense",
+    "sourceName": "Defense News",
+    "sourceUrl": "https://www.defensenews.com/global/mideast-africa/2026/11/13/judges-close-part-of-icc-afghanistan-investigations-that-could-look-at-us-troops/",
+    "publishedAt": "2026-11-13T17:55:28Z"
+  },
+  {
+    "id": "b743b199fca752ba8e1e720a",
+    "title": "WHY I Serve: Soldier’s Determination Leads Her to Army Service at 41",
+    "summary": "At 41, many people have settled into established careers and routines. Pfc. Olivia Kabre, a nutrition care specialist at Landstuhl Regional Medical Center, chose a different path: She enlisted in the U.S. Army and completed basic combat training, pursuing a goal she had held for years.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579298/why-serve-soldiers-determination-leads-her-army-service-41",
+    "publishedAt": "2026-11-13T17:39:36Z"
+  },
+  {
+    "id": "227bddeee7b3e3d5e9539bfa",
+    "title": "Oregon Guard Soldiers bring Army fitness, Veterans Day lesson to Salem middle school",
+    "summary": "Three Oregon Army National Guard Soldiers spent the day before Veterans Day at Crossler Middle School, leading students through Army-style physical training and talking with them about the veterans in their own families.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579300/oregon-guard-soldiers-bring-army-fitness-veterans-day-lesson-salem-middle-school",
+    "publishedAt": "2026-11-13T17:19:05Z"
+  },
+  {
+    "id": "0e8986d2a106dea0fd094617",
+    "title": "WRAIR-AFRIMS protects force health at Super Garuda Shield 2026",
+    "summary": "The Walter Reed Army Institute of Research – Armed Forces Research Institute of Medical Sciences, in partnership with the Australian Defence Force Malaria and Infectious Diseases Institute, conducted real-time infectious disease surveillance in support of Super Garuda Shield 2026.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579297/wrair-afrims-protects-force-health-super-garuda-shield-2026",
+    "publishedAt": "2026-11-13T17:12:24Z"
+  },
+  {
+    "id": "07b0d4bcc9c4f5b3e44c9722",
+    "title": "Pentagon rebrands principle AI shop as ‘Super Intelligence Office’",
+    "summary": "The redesignation follows President Donald Trump’s push to replace references to artificial intelligence with “super intelligence” across the federal government.",
+    "category": "Defense",
+    "sourceName": "Breaking Defense",
+    "sourceUrl": "https://breakingdefense.com/2026/11/pentagon-rebrands-principle-ai-shop-as-super-intelligence-office/",
+    "publishedAt": "2026-11-13T17:00:00Z"
+  },
+  {
+    "id": "de7fdef47f527f35fcbaabf3",
+    "title": "US Army names officer held on ‘allegations of espionage’",
+    "summary": "Lt. Col. Brandon Carroll Tyner has been identified as the U.S. soldier arrested earlier this week in the UK for reportedly assisting Russian intelligence.",
+    "category": "Army",
+    "sourceName": "Defense News",
+    "sourceUrl": "https://www.defensenews.com/global/europe/2026/11/13/us-army-names-officer-held-on-allegations-of-espionage/",
+    "publishedAt": "2026-11-13T16:32:38Z"
+  },
+  {
     "id": "5b5f595d9c340ecd4f4ae4ed",
     "title": "Joint Forces Strengthen Aerial Sustainment Capabilities During JPMRC",
     "summary": "Across the Indo-Pacific, the ability to deliver critical supplies and equipment to dispersed forces is essential to maintaining combat readiness. During Joint Pacific Multinational Readiness Center (JPMRC) 27-01, U.S.",
@@ -1618,77 +1735,5 @@
     "sourceName": "Breaking Defense",
     "sourceUrl": "https://breakingdefense.com/2026/11/ausa-2026-the-ground-truth-on-the-armys-next-chapter/",
     "publishedAt": "2026-11-03T19:56:04Z"
-  },
-  {
-    "id": "3157589998720fa4da49fe90",
-    "title": "Strengthening acquisition, research efforts will support warfighter readiness and military healthcare services",
-    "summary": "After an accomplished, decades-long career with the U.S. Army, retired Army Col. Matthew Clark becomes the assistant director for the Defense Health Agency's research, development, and acquisition enterprise. “Everything we do is about delivering care,” he underscored as a core focus of his new role.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578525/strengthening-acquisition-research-efforts-will-support-warfighter-readiness-and-military-healthcare-services",
-    "publishedAt": "2026-11-03T19:44:25Z"
-  },
-  {
-    "id": "cc361992be1c78392d094aec",
-    "title": "Firearms Sentinel Training",
-    "summary": "ROME, N.Y. Eighty New York Air National Guard members from across the state’s six wings have completed Firearms Sentinel, an innovative course that integrates suicide prevention into standard firearm safety training.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578488/firearms-sentinel-training",
-    "publishedAt": "2026-11-03T17:01:08Z"
-  },
-  {
-    "id": "5daf9b4027dbc0201522d2d1",
-    "title": "Former Walter Reed American Red Cross volunteer joins U.S. Navy Nurse Corps",
-    "summary": "Inspired by her service as an American Red Cross (ARC) volunteer at Walter Reed National Military Medical Center (WRNMMC) and her family’s plight to the United States from Vietnam, Megan Do traded in her scarlet ARC vest for U.S. Navy whites and gold bars to become one of the U.S. Navy Nurse Corps’ newest nurses following her commissioning on Oct.",
-    "category": "Navy",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578500/former-walter-reed-american-red-cross-volunteer-joins-us-navy-nurse-corps",
-    "publishedAt": "2026-11-03T16:17:17Z"
-  },
-  {
-    "id": "ffe5e5a53e989aed8af25501",
-    "title": "Could the DC National Guard mission become the Army’s standard for quality of life?",
-    "summary": "There is an asterisk. This is a high-profile assignment with a budget to match that allows commanders the kind of flexibility to problem-solve that they rarely have in garrison. The post Could the DC National Guard mission become the Army’s standard for quality of life? appeared first on Task & Purpose .",
-    "category": "Army",
-    "sourceName": "Task & Purpose",
-    "sourceUrl": "https://taskandpurpose.com/opinion/quality-of-life-army-dc-national-guard-standard/",
-    "publishedAt": "2026-11-03T16:14:18Z"
-  },
-  {
-    "id": "d434a223b12376b2273db9be",
-    "title": "Lyster Lab Team Earns CAP Accreditation",
-    "summary": "FORT RUCKER, Ala. — The Lyster Army Health Clinic Laboratory has successfully achieved accreditation from the College of American Pathologists (CAP), demonstrating a continued commitment to clinical excellence and patient safety across the Fort Rucker military community.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578496/lyster-lab-team-earns-cap-accreditation",
-    "publishedAt": "2026-11-03T15:57:23Z"
-  },
-  {
-    "id": "3eca99cb02018489144c6405",
-    "title": "\"Plant The Promise\" Event held in Sussex County, NJ in Honor of Red Ribbon Week",
-    "summary": "In recognition of Red Ribbon Week, the Center for Prevention & Counseling (CPC) in Sussex County partnered with participating schools and the New Jersey National Guard Drug Demand Reduction Outreach section of the CounterDrug Task Force for the “Plant the Promise” activity.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578495/plant-promise-event-held-sussex-county-nj-honor-red-ribbon-week",
-    "publishedAt": "2026-11-03T15:40:25Z"
-  },
-  {
-    "id": "20817cd855ae1307a8b61339",
-    "title": "Former Army secretary Dan Driscoll heads to OpenAI",
-    "summary": "“I’m joining OpenAI to help the United States and our allies put this technology to work responsibly, for the people who keep us safe,” Dan Driscoll said in OpenAI’s announcement.",
-    "category": "Army",
-    "sourceName": "Breaking Defense",
-    "sourceUrl": "https://breakingdefense.com/2026/11/former-army-secretary-heads-to-openai/",
-    "publishedAt": "2026-11-03T15:25:12Z"
-  },
-  {
-    "id": "4c7e6a43fa1fbb4258f62bda",
-    "title": "The Congressional ‘right to repair’ solution needs some repairs itself",
-    "summary": "Better licensing and data management would do more for the Pentagon’s maintainers than sweeping new government rights to defense intellectual property, argues Elaine McCusker of AEI.",
-    "category": "Defense",
-    "sourceName": "Breaking Defense",
-    "sourceUrl": "https://breakingdefense.com/2026/11/the-congressional-right-to-repair-solution-needs-some-repairs-itself/",
-    "publishedAt": "2026-11-03T14:30:00Z"
   }
 ]

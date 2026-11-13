@@ -1,7 +1,124 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-13T11:04:49Z",
+  "generatedAt": "2026-11-13T19:46:06Z",
   "articles": [
+    {
+      "id": "24630e6e4a3a41825242bf55",
+      "title": "Mobile Army Surgical Hospitals: A history of saving lives on the battlefield",
+      "summary": "During World War II, the U.S. Army opened its first Mobile Army Surgical Hospitals, changing the way the wounded were treated in battle for several decades — saving lives and increasing warfighter readiness. Combining mobility, surgery, and post-op care, MASH units were known as the front-line surgical hospitals of the future.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578618/mobile-army-surgical-hospitals-history-saving-lives-battlefield",
+      "publishedAt": "2026-11-04T20:49:20Z"
+    },
+    {
+      "id": "c838c9f2d7ec2ccb3cfbd51f",
+      "title": "Detroit District accepting entries for annual photo contest",
+      "summary": "The Detroit District invites the public to enter its 11th annual photo contest highlighting U.S. Army Corps of Engineers sites across the Great Lakes.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578620/detroit-district-accepting-entries-annual-photo-contest",
+      "publishedAt": "2026-11-04T20:22:07Z"
+    },
+    {
+      "id": "275f2a7a881de77b32f4b831",
+      "title": "Under threat of air strikes, US looks to bolster base infrastructure with 3D printing",
+      "summary": "U.S. Air Force officials conceded that troop housing at Middle East bases was \"never designed for the threat environment now arriving overhead.\"",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/global/mideast-africa/2026/11/04/under-threat-of-air-strikes-us-looks-to-bolster-base-infrastructure-with-3d-printing/",
+      "publishedAt": "2026-11-04T20:16:52Z"
+    },
+    {
+      "id": "53a9135ee8029bb67807b237",
+      "title": "U.S. Naval Academy Launches Inaugural Warfighting Industry Showcase during 16th Annual NASEC to Accelerate Fleet Lethality",
+      "summary": "The U.S. Naval Academy hosted its 16th annual Naval Academy Science and Engineering Conference (NASEC) alongside its inaugural Warfighting Industry Showcase to address strategic competition and accelerate Fleet lethality.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578613/us-naval-academy-launches-inaugural-warfighting-industry-showcase-during-16th-annual-nasec-accelerate-fleet-lethality",
+      "publishedAt": "2026-11-04T19:31:40Z"
+    },
+    {
+      "id": "95eed2d599302cbc6fba4e45",
+      "title": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
+      "summary": "As the American military seeks new capabilities and advanced systems amid rapid change, defense companies of all sizes showcased their solutions at a major defense conference.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/video/2026/11/04/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26/",
+      "publishedAt": "2026-11-04T18:27:06Z"
+    },
+    {
+      "id": "e04046a8501c2a7e76856122",
+      "title": "The Pentagon needs more ammo for the Iran war. Small communities are paying the price.",
+      "summary": "From polluted waterways to repeated safety violations, the Army’s aging ammunition factories have left a troubling legacy, The War Horse reports.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/pentagon/2026/11/04/the-pentagon-needs-more-ammo-for-the-iran-war-small-communities-are-paying-the-price/",
+      "publishedAt": "2026-11-04T17:38:06Z"
+    },
+    {
+      "id": "c7e5cd9639dd2570c649dba6",
+      "title": "Illinois Army National Guard Major Retires After More Than 25 Years of Service",
+      "summary": "Maj. Craig M. Watkins of the Illinois Army National Guard’s 34th Division Sustainment Brigade retired on Saturday, Sept. 12, during a ceremony at the historic Kedzie Avenue Armory, culminating more than 25 years of dedicated military service.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578577/illinois-army-national-guard-major-retires-after-more-than-25-years-service",
+      "publishedAt": "2026-11-04T16:50:24Z"
+    },
+    {
+      "id": "4b7704eb1553e8dcd9c2a866",
+      "title": "Royal Navy Carriers Operate in the High North, Mediterranean",
+      "summary": "Royal Navy aircraft carrier HMS Prince of Wales (R09) is conducting operations across the High North as HMS Queen Elizabeth (RO8) trains in the Mediterranean.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/04/royal-navy-carriers-operate-in-the-high-north-mediterranean",
+      "publishedAt": "2026-11-04T16:45:40Z"
+    },
+    {
+      "id": "86354c8ded32ad30778d44f8",
+      "title": "Lost in 1951, Korean War Soldier Returns Home to Pennsylvania for Final Rest",
+      "summary": "The remains of U.S. Army Sgt. Henry L. Huber, 22, who was killed during the Korean War, will be interred at Ott Cemetery in his hometown of Ridgway, Pennsylvania. Service and interment are being coordinated by Krise Funeral Home & Cremation.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578585/lost-1951-korean-war-soldier-returns-home-pennsylvania-final-rest",
+      "publishedAt": "2026-11-04T16:39:16Z"
+    },
+    {
+      "id": "715ef0c18bcedb9d6fdc3038",
+      "title": "Driven to serve: Wilmington District employee expands emergency response capabilities",
+      "summary": "A U.S. Army Corps of Engineers Wilmington District emergency management specialist recently earned her qualification as a Deployable Tactical Operations System (DTOS) operator, expanding the enterprise's pool of personnel available to support disaster response missions.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578583/driven-serve-wilmington-district-employee-expands-emergency-response-capabilities",
+      "publishedAt": "2026-11-04T16:35:14Z"
+    },
+    {
+      "id": "deef836190e6086500794f8c",
+      "title": "Lost in 1941, WWII Soldier Returns Home to Virginia for Final Rest",
+      "summary": "The remains of U.S. Army Cpl. Byron F. Beard, Jr., 23, who was captured and died as a prisoner of war during World War II, will be interred Nov. 11 at Holston View Cemetery in Weber City, near his hometown of Fort Blackmore, Virginia. Services and interment are being coordinated by Fischer Funeral Services 276-594-1874.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578574/lost-1941-wwii-soldier-returns-home-virginia-final-rest",
+      "publishedAt": "2026-11-04T15:33:53Z"
+    },
+    {
+      "id": "24766bbeb6450dfacb46524a",
+      "title": "U.S. Army Corps of Engineers waives day use fees at recreation areas in observance of Veterans Day",
+      "summary": "The U.S. Army Corps of Engineers Pittsburgh District announces it will waive day-use fees at all district-operated recreation areas in observance of Veterans Day, Nov. 11.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578572/us-army-corps-engineers-waives-day-use-fees-recreation-areas-observance-veterans-day",
+      "publishedAt": "2026-11-04T15:17:31Z"
+    },
+    {
+      "id": "e2c5493e67f64183eedd345f",
+      "title": "New Jersey's 31st National DEA Take Back Day Oct 2026",
+      "summary": "Members of the New Jersey National Guard Counterdrug Program accompany Drug Enforcement Agents in the collection and disposal of prescription medications during Operation Take Back New Jersey, October 26-27, 2026",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578570/new-jerseys-31st-national-dea-take-back-day-oct-2026",
+      "publishedAt": "2026-11-04T14:55:58Z"
+    },
     {
       "id": "5da28e964673c9422afa6b18",
       "title": "AFCENT Commander completes first AOR trip",
@@ -181,78 +298,6 @@
       "sourceName": "Breaking Defense",
       "sourceUrl": "https://breakingdefense.com/2026/11/ausa-2026-the-ground-truth-on-the-armys-next-chapter/",
       "publishedAt": "2026-11-03T19:56:04Z"
-    },
-    {
-      "id": "3157589998720fa4da49fe90",
-      "title": "Strengthening acquisition, research efforts will support warfighter readiness and military healthcare services",
-      "summary": "After an accomplished, decades-long career with the U.S. Army, retired Army Col. Matthew Clark becomes the assistant director for the Defense Health Agency's research, development, and acquisition enterprise. “Everything we do is about delivering care,” he underscored as a core focus of his new role.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578525/strengthening-acquisition-research-efforts-will-support-warfighter-readiness-and-military-healthcare-services",
-      "publishedAt": "2026-11-03T19:44:25Z"
-    },
-    {
-      "id": "cc361992be1c78392d094aec",
-      "title": "Firearms Sentinel Training",
-      "summary": "ROME, N.Y. Eighty New York Air National Guard members from across the state’s six wings have completed Firearms Sentinel, an innovative course that integrates suicide prevention into standard firearm safety training.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578488/firearms-sentinel-training",
-      "publishedAt": "2026-11-03T17:01:08Z"
-    },
-    {
-      "id": "5daf9b4027dbc0201522d2d1",
-      "title": "Former Walter Reed American Red Cross volunteer joins U.S. Navy Nurse Corps",
-      "summary": "Inspired by her service as an American Red Cross (ARC) volunteer at Walter Reed National Military Medical Center (WRNMMC) and her family’s plight to the United States from Vietnam, Megan Do traded in her scarlet ARC vest for U.S. Navy whites and gold bars to become one of the U.S. Navy Nurse Corps’ newest nurses following her commissioning on Oct.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578500/former-walter-reed-american-red-cross-volunteer-joins-us-navy-nurse-corps",
-      "publishedAt": "2026-11-03T16:17:17Z"
-    },
-    {
-      "id": "ffe5e5a53e989aed8af25501",
-      "title": "Could the DC National Guard mission become the Army’s standard for quality of life?",
-      "summary": "There is an asterisk. This is a high-profile assignment with a budget to match that allows commanders the kind of flexibility to problem-solve that they rarely have in garrison. The post Could the DC National Guard mission become the Army’s standard for quality of life? appeared first on Task & Purpose .",
-      "category": "Army",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/opinion/quality-of-life-army-dc-national-guard-standard/",
-      "publishedAt": "2026-11-03T16:14:18Z"
-    },
-    {
-      "id": "d434a223b12376b2273db9be",
-      "title": "Lyster Lab Team Earns CAP Accreditation",
-      "summary": "FORT RUCKER, Ala. — The Lyster Army Health Clinic Laboratory has successfully achieved accreditation from the College of American Pathologists (CAP), demonstrating a continued commitment to clinical excellence and patient safety across the Fort Rucker military community.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578496/lyster-lab-team-earns-cap-accreditation",
-      "publishedAt": "2026-11-03T15:57:23Z"
-    },
-    {
-      "id": "3eca99cb02018489144c6405",
-      "title": "\"Plant The Promise\" Event held in Sussex County, NJ in Honor of Red Ribbon Week",
-      "summary": "In recognition of Red Ribbon Week, the Center for Prevention & Counseling (CPC) in Sussex County partnered with participating schools and the New Jersey National Guard Drug Demand Reduction Outreach section of the CounterDrug Task Force for the “Plant the Promise” activity.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578495/plant-promise-event-held-sussex-county-nj-honor-red-ribbon-week",
-      "publishedAt": "2026-11-03T15:40:25Z"
-    },
-    {
-      "id": "20817cd855ae1307a8b61339",
-      "title": "Former Army secretary Dan Driscoll heads to OpenAI",
-      "summary": "“I’m joining OpenAI to help the United States and our allies put this technology to work responsibly, for the people who keep us safe,” Dan Driscoll said in OpenAI’s announcement.",
-      "category": "Army",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/former-army-secretary-heads-to-openai/",
-      "publishedAt": "2026-11-03T15:25:12Z"
-    },
-    {
-      "id": "4c7e6a43fa1fbb4258f62bda",
-      "title": "The Congressional ‘right to repair’ solution needs some repairs itself",
-      "summary": "Better licensing and data management would do more for the Pentagon’s maintainers than sweeping new government rights to defense intellectual property, argues Elaine McCusker of AEI.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/the-congressional-right-to-repair-solution-needs-some-repairs-itself/",
-      "publishedAt": "2026-11-03T14:30:00Z"
     }
   ]
 }

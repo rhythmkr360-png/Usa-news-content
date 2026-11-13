@@ -1,7 +1,124 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-13T11:04:49Z",
+  "generatedAt": "2026-11-13T19:46:06Z",
   "articles": [
+    {
+      "id": "d11ae36023f3eb76ea4ef6f1",
+      "title": "C. J. Graham Visits USS Essex (LHD 2)",
+      "summary": "SAN DIEGO (Oct. 29, 2026) Actor C. J. Graham visited Wasp-class amphibious assault ship USS Essex (LHD 2) to tour the ship and meet with U.S. Navy Sailors.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579310/c-j-graham-visits-uss-essex-lhd-2",
+      "publishedAt": "2026-11-13T19:10:52Z"
+    },
+    {
+      "id": "46f6b0f77352f3d4820438e8",
+      "title": "National Guard Office of Special Victims' Counsel provides legal advocacy when victims need it most",
+      "summary": "or victims of sexual assault or domestic violence, one of the hardest questions can be what to do next. Understanding their rights, deciding whether to report and navigating unfamiliar legal processes can feel overwhelming. However, National Guard members do not have to navigate the process alone.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579309/national-guard-office-special-victims-counsel-provides-legal-advocacy-victims-need-most",
+      "publishedAt": "2026-11-13T19:09:32Z"
+    },
+    {
+      "id": "90ad881f9167f1130ed4a102",
+      "title": "USNI News Western Pacific Pulse: Nov. 13, 2026",
+      "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In Singapore The Theodore Roosevelt Carrier Strike Group departed on Sunday from Singapore.",
+      "category": "Defense",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/13/usni-news-western-pacific-pulse-nov-13-2026",
+      "publishedAt": "2026-11-13T18:56:52Z"
+    },
+    {
+      "id": "de48f65184e98b95c6fcda86",
+      "title": "The Pentagon brings back World War II-era OSS for special operations missions, funding",
+      "summary": "The plan could improve civilian oversight of special operations and make more room at the budget bargaining table, but much of it will require congressional approval. The post The Pentagon brings back World War II-era OSS for special operations missions, funding appeared first on Task & Purpose .",
+      "category": "Defense",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/hegseth-oss-special-operations/",
+      "publishedAt": "2026-11-13T18:51:27Z"
+    },
+    {
+      "id": "967a6c54de84ded4daa66588",
+      "title": "US Air Force adopts new Force Design focusing on sensors and autonomy",
+      "summary": "The Air Force's new Force Design 2026 outlines a shift toward artificial intelligence, autonomy and integrated sensors to counter emerging threats.",
+      "category": "Air Force",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/air/2026/11/13/us-air-force-adopts-new-force-design-focusing-on-sensors-and-autonomy/",
+      "publishedAt": "2026-11-13T18:43:45Z"
+    },
+    {
+      "id": "519bb05d9faddae77ec696d4",
+      "title": "New Hampshire National Guard breaks ground on new Plymouth Readiness Center",
+      "summary": "The New Hampshire Army National Guard broke ground Nov. 12 on the Plymouth Readiness Center, beginning a $31 million project to replace the community’s 1957 armory with a modern, secure facility built for current and future missions.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579307/new-hampshire-national-guard-breaks-ground-new-plymouth-readiness-center",
+      "publishedAt": "2026-11-13T18:20:50Z"
+    },
+    {
+      "id": "204fd1240237516a8dc99703",
+      "title": "Air Force Band ensembles honor veterans across the nation",
+      "summary": "The U.S. Air Force Band's Ceremonial Brass performed live at NBC's TODAY Show plaza, Nov. 11, 2026, anchoring a series of nationwide performances honoring America’s veterans through music.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579305/air-force-band-ensembles-honor-veterans-across-nation",
+      "publishedAt": "2026-11-13T18:00:48Z"
+    },
+    {
+      "id": "517ed16a0c1dcfaf2f0260c1",
+      "title": "Judges close part of ICC Afghanistan investigations that could look at US troops",
+      "summary": "The International Criminal Court will close investigations into Afghanistan that previously looked at alleged crimes by U.S. troops and focus only on actions of the Taliban.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/global/mideast-africa/2026/11/13/judges-close-part-of-icc-afghanistan-investigations-that-could-look-at-us-troops/",
+      "publishedAt": "2026-11-13T17:55:28Z"
+    },
+    {
+      "id": "b743b199fca752ba8e1e720a",
+      "title": "WHY I Serve: Soldier’s Determination Leads Her to Army Service at 41",
+      "summary": "At 41, many people have settled into established careers and routines. Pfc. Olivia Kabre, a nutrition care specialist at Landstuhl Regional Medical Center, chose a different path: She enlisted in the U.S. Army and completed basic combat training, pursuing a goal she had held for years.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579298/why-serve-soldiers-determination-leads-her-army-service-41",
+      "publishedAt": "2026-11-13T17:39:36Z"
+    },
+    {
+      "id": "227bddeee7b3e3d5e9539bfa",
+      "title": "Oregon Guard Soldiers bring Army fitness, Veterans Day lesson to Salem middle school",
+      "summary": "Three Oregon Army National Guard Soldiers spent the day before Veterans Day at Crossler Middle School, leading students through Army-style physical training and talking with them about the veterans in their own families.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579300/oregon-guard-soldiers-bring-army-fitness-veterans-day-lesson-salem-middle-school",
+      "publishedAt": "2026-11-13T17:19:05Z"
+    },
+    {
+      "id": "0e8986d2a106dea0fd094617",
+      "title": "WRAIR-AFRIMS protects force health at Super Garuda Shield 2026",
+      "summary": "The Walter Reed Army Institute of Research – Armed Forces Research Institute of Medical Sciences, in partnership with the Australian Defence Force Malaria and Infectious Diseases Institute, conducted real-time infectious disease surveillance in support of Super Garuda Shield 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579297/wrair-afrims-protects-force-health-super-garuda-shield-2026",
+      "publishedAt": "2026-11-13T17:12:24Z"
+    },
+    {
+      "id": "07b0d4bcc9c4f5b3e44c9722",
+      "title": "Pentagon rebrands principle AI shop as ‘Super Intelligence Office’",
+      "summary": "The redesignation follows President Donald Trump’s push to replace references to artificial intelligence with “super intelligence” across the federal government.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/pentagon-rebrands-principle-ai-shop-as-super-intelligence-office/",
+      "publishedAt": "2026-11-13T17:00:00Z"
+    },
+    {
+      "id": "de7fdef47f527f35fcbaabf3",
+      "title": "US Army names officer held on ‘allegations of espionage’",
+      "summary": "Lt. Col. Brandon Carroll Tyner has been identified as the U.S. soldier arrested earlier this week in the UK for reportedly assisting Russian intelligence.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/global/europe/2026/11/13/us-army-names-officer-held-on-allegations-of-espionage/",
+      "publishedAt": "2026-11-13T16:32:38Z"
+    },
     {
       "id": "5b5f595d9c340ecd4f4ae4ed",
       "title": "Joint Forces Strengthen Aerial Sustainment Capabilities During JPMRC",
@@ -244,123 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579137/ch-47-hook-connects-generations",
       "publishedAt": "2026-11-11T21:56:10Z"
-    },
-    {
-      "id": "00a62673e3f8e9e7c7b77fb9",
-      "title": "Naval District Washington Honors Veterans at U.S. Navy Memorial Wreath-Laying Ceremony",
-      "summary": "Naval District Washington honored the men and women who served in the U.S. armed forces during a Veterans Day wreath-laying ceremony at the U.S. Navy Memorial.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579148/naval-district-washington-honors-veterans-us-navy-memorial-wreath-laying-ceremony",
-      "publishedAt": "2026-11-11T21:02:10Z"
-    },
-    {
-      "id": "9fa41ec8cb1e42029a6900c9",
-      "title": "U.S. and 21 Partner Nations Bolster Maritime Security at NWC CFMCC Flag Course",
-      "summary": "Senior military leaders from 21 partner nations and the U.S. strengthened maritime partnerships through executive education during the U.S. Naval War College’s (NWC) Combined Force Maritime Component Commander (CFMCC) flag course, hosted by Rear Adm. Carlos Sardiello, Commander, U.S. Naval Forces Southern Command, Commander U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579146/us-and-21-partner-nations-bolster-maritime-security-nwc-cfmcc-flag-course",
-      "publishedAt": "2026-11-11T20:23:55Z"
-    },
-    {
-      "id": "cb6630124111316143a08830",
-      "title": "DoD pushes out 3 loans totaling $450M to bolster US space companies",
-      "summary": "One industry source told Breaking Defense that the reason for the spate of new loan announcements is that the Pentagon “needed to finalize loans by the end of the fiscal year.”",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/dod-pushes-out-3-loans-totally-450m-to-bolster-us-space-companies/",
-      "publishedAt": "2026-11-11T20:15:00Z"
-    },
-    {
-      "id": "b8aeba1fef1b3c2a938175b0",
-      "title": "Poland says Pentagon supports permanent US base, with decision expected in December",
-      "summary": "Warsaw has identified four potential locations for a base that could accommodate 5,000 US troops and their families, and is offering to spend up to $4.4 billion on supporting infrastructure.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/poland-says-pentagon-supports-permanent-us-base-with-decision-expected-in-december/",
-      "publishedAt": "2026-11-11T19:09:00Z"
-    },
-    {
-      "id": "df37536c824e31a69a40fd81",
-      "title": "Safe water, safe food, ready force: JB MDL turns field sanitation into force protection",
-      "summary": "At Joint Base McGuire-Dix-Lakehurst, New Jersey, a team of instructors teach the 40-hour U.S. Army Field Sanitation Team Certification Course, arming service members with the necessary skills to identify environmental health hazards and protect the health of their units, particularly when deployed conditions leave little room for established…",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579142/safe-water-safe-food-ready-force-jb-mdl-turns-field-sanitation-into-force-protection",
-      "publishedAt": "2026-11-11T18:05:32Z"
-    },
-    {
-      "id": "6b3f01d55895e75c4aef7dfc",
-      "title": "Report to Congress on Strategic Stability of the Golden Dome",
-      "summary": "The following is the Nov. 4, 2026, Congressional Research Service report, Golden Dome: Potential Strategic Stability Considerations for Congress.",
-      "category": "Defense",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/11/report-to-congress-on-strategic-stability-of-the-golden-dome",
-      "publishedAt": "2026-11-11T12:22:07Z"
-    },
-    {
-      "id": "cdfd5ee2419cc41ef6f4e515",
-      "title": "Projecting Precision: 25th Infantry Division Executes HIMARS Rapid Infiltration at JPMRC 27-01",
-      "summary": "SCHOFIELD BARRACKS, Hawaii — Mastering the ability to rapidly project lethal, long-range fires across the expanse of the Pacific Ocean is a defining capability of the modern U.S. Army.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579136/projecting-precision-25th-infantry-division-executes-himars-rapid-infiltration-jpmrc-27-01",
-      "publishedAt": "2026-11-11T04:25:33Z"
-    },
-    {
-      "id": "4e445cb232d7035101f8fa6c",
-      "title": "Dedication to Duty: Sgt. Charles E. Needles' Journey as an Air Defender",
-      "summary": "U.S. Army Sgt. Charles E. Needles, an Air Defense Enhanced Early Warning Systems Operator assigned to the 4th Battalion, 3rd Air Defense Artillery Regiment, 31st Air Defense Artillery Brigade, carries forward a family legacy of military service spanning generations.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579134/dedication-duty-sgt-charles-e-needles-journey-air-defender",
-      "publishedAt": "2026-11-11T03:48:14Z"
-    },
-    {
-      "id": "2381c775ab754e2a1e390fae",
-      "title": "10th Civil Support Team Strengthens International Response at Maple Mayhem",
-      "summary": "Washington National Guard’s 10th Civil Support Team provided hazardous-material detection and decontamination support to FBI investigators during Exercise Maple Mayhem in Chilliwack, British Columbia, Oct. 24–30, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579131/10th-civil-support-team-strengthens-international-response-maple-mayhem",
-      "publishedAt": "2026-11-10T23:18:03Z"
-    },
-    {
-      "id": "f8cb85cfaf523b17fbd7a723",
-      "title": "Saildrone, Blue Water Autonomy Ruling Adds Restrictions to OTA Funding Model",
-      "summary": "PARIS — An acquisition tool that the Pentagon has recently favored now comes with more strings attached following a late October ruling from a federal judge on a Navy drone boat program.",
-      "category": "Defense",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/10/saildrone-blue-water-autonomy-ruling-adds-restrictions-to-ota-funding-model",
-      "publishedAt": "2026-11-10T22:07:42Z"
-    },
-    {
-      "id": "7cbdce73d758ebf70e25f63f",
-      "title": "Yuma Proving Ground’s Ammunition & Armaments Division provides full cycle handling of ammunition",
-      "summary": "U.S. Army Yuma Proving Ground (YPG) Ammunition & Armaments Division has the dynamic critical responsibility of handling every piece of ammunition at YPG.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579121/yuma-proving-grounds-ammunition-armaments-division-provides-full-cycle-handling-ammunition",
-      "publishedAt": "2026-11-10T21:32:25Z"
-    },
-    {
-      "id": "36a10dc3b0ef8a685c829fec",
-      "title": "US soldier arrested in UK for suspected ‘espionage’ for Russia",
-      "summary": "A senior U.S. soldier was arrested in Britain on suspicion of assisting Russian ​intelligence, British police said on Tuesday.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/global/europe/2026/11/10/us-soldier-arrested-in-uk-for-suspected-espionage-for-russia/",
-      "publishedAt": "2026-11-10T21:24:11Z"
-    },
-    {
-      "id": "2297edc32041224ec8888bf1",
-      "title": "Reserve IW Sailors sharpen fleet readiness during MAKO Sentry",
-      "summary": "NAVAL AMPHIBIOUS BASE CORONADO, Calif. (Nov. 7, 2026) -- Over 100 Sailors newly gained to U.S. Pacific Command, U.S. Pacific Fleet, U.S. 3rd Fleet and U.S. 7th Fleet, attended MAKO Sentry training onboard Naval Amphibious Base Coronado (NAB Coronado) Nov.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579111/reserve-iw-sailors-sharpen-fleet-readiness-during-mako-sentry",
-      "publishedAt": "2026-11-10T21:08:30Z"
     }
   ],
   "nextPage": "pages/page-2.json"

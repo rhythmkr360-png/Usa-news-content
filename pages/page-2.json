@@ -1,7 +1,124 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-13T11:04:49Z",
+  "generatedAt": "2026-11-13T19:46:06Z",
   "articles": [
+    {
+      "id": "00a62673e3f8e9e7c7b77fb9",
+      "title": "Naval District Washington Honors Veterans at U.S. Navy Memorial Wreath-Laying Ceremony",
+      "summary": "Naval District Washington honored the men and women who served in the U.S. armed forces during a Veterans Day wreath-laying ceremony at the U.S. Navy Memorial.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579148/naval-district-washington-honors-veterans-us-navy-memorial-wreath-laying-ceremony",
+      "publishedAt": "2026-11-11T21:02:10Z"
+    },
+    {
+      "id": "9fa41ec8cb1e42029a6900c9",
+      "title": "U.S. and 21 Partner Nations Bolster Maritime Security at NWC CFMCC Flag Course",
+      "summary": "Senior military leaders from 21 partner nations and the U.S. strengthened maritime partnerships through executive education during the U.S. Naval War College’s (NWC) Combined Force Maritime Component Commander (CFMCC) flag course, hosted by Rear Adm. Carlos Sardiello, Commander, U.S. Naval Forces Southern Command, Commander U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579146/us-and-21-partner-nations-bolster-maritime-security-nwc-cfmcc-flag-course",
+      "publishedAt": "2026-11-11T20:23:55Z"
+    },
+    {
+      "id": "cb6630124111316143a08830",
+      "title": "DoD pushes out 3 loans totaling $450M to bolster US space companies",
+      "summary": "One industry source told Breaking Defense that the reason for the spate of new loan announcements is that the Pentagon “needed to finalize loans by the end of the fiscal year.”",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/dod-pushes-out-3-loans-totally-450m-to-bolster-us-space-companies/",
+      "publishedAt": "2026-11-11T20:15:00Z"
+    },
+    {
+      "id": "b8aeba1fef1b3c2a938175b0",
+      "title": "Poland says Pentagon supports permanent US base, with decision expected in December",
+      "summary": "Warsaw has identified four potential locations for a base that could accommodate 5,000 US troops and their families, and is offering to spend up to $4.4 billion on supporting infrastructure.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/poland-says-pentagon-supports-permanent-us-base-with-decision-expected-in-december/",
+      "publishedAt": "2026-11-11T19:09:00Z"
+    },
+    {
+      "id": "df37536c824e31a69a40fd81",
+      "title": "Safe water, safe food, ready force: JB MDL turns field sanitation into force protection",
+      "summary": "At Joint Base McGuire-Dix-Lakehurst, New Jersey, a team of instructors teach the 40-hour U.S. Army Field Sanitation Team Certification Course, arming service members with the necessary skills to identify environmental health hazards and protect the health of their units, particularly when deployed conditions leave little room for established…",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579142/safe-water-safe-food-ready-force-jb-mdl-turns-field-sanitation-into-force-protection",
+      "publishedAt": "2026-11-11T18:05:32Z"
+    },
+    {
+      "id": "6b3f01d55895e75c4aef7dfc",
+      "title": "Report to Congress on Strategic Stability of the Golden Dome",
+      "summary": "The following is the Nov. 4, 2026, Congressional Research Service report, Golden Dome: Potential Strategic Stability Considerations for Congress.",
+      "category": "Defense",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/11/report-to-congress-on-strategic-stability-of-the-golden-dome",
+      "publishedAt": "2026-11-11T12:22:07Z"
+    },
+    {
+      "id": "cdfd5ee2419cc41ef6f4e515",
+      "title": "Projecting Precision: 25th Infantry Division Executes HIMARS Rapid Infiltration at JPMRC 27-01",
+      "summary": "SCHOFIELD BARRACKS, Hawaii — Mastering the ability to rapidly project lethal, long-range fires across the expanse of the Pacific Ocean is a defining capability of the modern U.S. Army.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579136/projecting-precision-25th-infantry-division-executes-himars-rapid-infiltration-jpmrc-27-01",
+      "publishedAt": "2026-11-11T04:25:33Z"
+    },
+    {
+      "id": "4e445cb232d7035101f8fa6c",
+      "title": "Dedication to Duty: Sgt. Charles E. Needles' Journey as an Air Defender",
+      "summary": "U.S. Army Sgt. Charles E. Needles, an Air Defense Enhanced Early Warning Systems Operator assigned to the 4th Battalion, 3rd Air Defense Artillery Regiment, 31st Air Defense Artillery Brigade, carries forward a family legacy of military service spanning generations.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579134/dedication-duty-sgt-charles-e-needles-journey-air-defender",
+      "publishedAt": "2026-11-11T03:48:14Z"
+    },
+    {
+      "id": "2381c775ab754e2a1e390fae",
+      "title": "10th Civil Support Team Strengthens International Response at Maple Mayhem",
+      "summary": "Washington National Guard’s 10th Civil Support Team provided hazardous-material detection and decontamination support to FBI investigators during Exercise Maple Mayhem in Chilliwack, British Columbia, Oct. 24–30, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579131/10th-civil-support-team-strengthens-international-response-maple-mayhem",
+      "publishedAt": "2026-11-10T23:18:03Z"
+    },
+    {
+      "id": "f8cb85cfaf523b17fbd7a723",
+      "title": "Saildrone, Blue Water Autonomy Ruling Adds Restrictions to OTA Funding Model",
+      "summary": "PARIS — An acquisition tool that the Pentagon has recently favored now comes with more strings attached following a late October ruling from a federal judge on a Navy drone boat program.",
+      "category": "Defense",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/10/saildrone-blue-water-autonomy-ruling-adds-restrictions-to-ota-funding-model",
+      "publishedAt": "2026-11-10T22:07:42Z"
+    },
+    {
+      "id": "7cbdce73d758ebf70e25f63f",
+      "title": "Yuma Proving Ground’s Ammunition & Armaments Division provides full cycle handling of ammunition",
+      "summary": "U.S. Army Yuma Proving Ground (YPG) Ammunition & Armaments Division has the dynamic critical responsibility of handling every piece of ammunition at YPG.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579121/yuma-proving-grounds-ammunition-armaments-division-provides-full-cycle-handling-ammunition",
+      "publishedAt": "2026-11-10T21:32:25Z"
+    },
+    {
+      "id": "36a10dc3b0ef8a685c829fec",
+      "title": "US soldier arrested in UK for suspected ‘espionage’ for Russia",
+      "summary": "A senior U.S. soldier was arrested in Britain on suspicion of assisting Russian ​intelligence, British police said on Tuesday.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/global/europe/2026/11/10/us-soldier-arrested-in-uk-for-suspected-espionage-for-russia/",
+      "publishedAt": "2026-11-10T21:24:11Z"
+    },
+    {
+      "id": "2297edc32041224ec8888bf1",
+      "title": "Reserve IW Sailors sharpen fleet readiness during MAKO Sentry",
+      "summary": "NAVAL AMPHIBIOUS BASE CORONADO, Calif. (Nov. 7, 2026) -- Over 100 Sailors newly gained to U.S. Pacific Command, U.S. Pacific Fleet, U.S. 3rd Fleet and U.S. 7th Fleet, attended MAKO Sentry training onboard Naval Amphibious Base Coronado (NAB Coronado) Nov.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579111/reserve-iw-sailors-sharpen-fleet-readiness-during-mako-sentry",
+      "publishedAt": "2026-11-10T21:08:30Z"
+    },
     {
       "id": "0ea48878f69712033e0ae15e",
       "title": "USAWHC Commander Visits Southern Vanguard 2027 in Tolemaida, Colombia",
@@ -244,123 +361,6 @@
       "sourceName": "USNI News",
       "sourceUrl": "https://news.usni.org/2026/11/09/usni-news-fleet-and-marine-tracker-nov-9-2026",
       "publishedAt": "2026-11-09T19:18:38Z"
-    },
-    {
-      "id": "1186fd95795b57d3f24918da",
-      "title": "PAE C2/CC2 - ST3 Celebrates Teamwork and Morale at Annual Organization Day",
-      "summary": "Soldiers, Army civilians and contractors from the U.S. Army’s Portfolio Acquisition Executive Command and Control/Counter Command and Control - Simulation, Training, Test and Threat (PAE C2/CC2 – ST3) gathered Nov.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578982/pae-c2-cc2-st3-celebrates-teamwork-and-morale-annual-organization-day",
-      "publishedAt": "2026-11-09T18:20:37Z"
-    },
-    {
-      "id": "c1493df90ed285bbbb4696d5",
-      "title": "UTEP AIAA Students Explore WSMR’s Historic Sites and Career Opportunities",
-      "summary": "On Nov. 6, UTEP’s American Institute of Aeronautics and Astronautics or AIAA students visited White Sands Missile Range.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578978/utep-aiaa-students-explore-wsmrs-historic-sites-and-career-opportunities",
-      "publishedAt": "2026-11-09T17:14:01Z"
-    },
-    {
-      "id": "1eda4c4ab2c6721ecbec7295",
-      "title": "Mount Morris Dam expands public engagement during 2026 visitor season",
-      "summary": "New York — The Mount Morris Dam and Recreation Area expanded public engagement during its 2026 visitor season, increasing participation in ranger-led dam tours, special events, educational programs and volunteer service while continuing to deliver flood risk management and environmental stewardship for the Genesee River Valley.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578977/mount-morris-dam-expands-public-engagement-during-2026-visitor-season",
-      "publishedAt": "2026-11-09T17:07:01Z"
-    },
-    {
-      "id": "6d6582913880b299e5db0bfe",
-      "title": "ACC-RSA Acting Executive Director Jeffrey Caldwell selected for Senior Executive Service",
-      "summary": "ACC-RSA Acting Executive Director Jeffrey L. Caldwell has been selected for the Senior Executive Service and appointed executive director of U.S. Army Contracting Command-Redstone Arsenal, effective Dec. 13, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578975/acc-rsa-acting-executive-director-jeffrey-caldwell-selected-senior-executive-service",
-      "publishedAt": "2026-11-09T17:03:15Z"
-    },
-    {
-      "id": "46f9ca2b3d607cb6cd1334e7",
-      "title": "Neros to expand domestic drone production with $450M Pentagon loan",
-      "summary": "The company is a frontrunner in a Defense Department competition to find the best quality, most affordable small drone for combat.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/11/09/neros-to-expand-domestic-drone-production-with-450m-pentagon-loan/",
-      "publishedAt": "2026-11-09T15:45:23Z"
-    },
-    {
-      "id": "d437bd7dbf443c5b41884a9b",
-      "title": "Gen. Brunson Thanks Japan's Defense Minister for Support to UNC-Rear",
-      "summary": "TOKYO, Japan - Gen. Xavier T. Brunson, commander of United Nations Command, Combined Forces Command and U.S. Forces Korea, met with Japanese Defense Minister Shinjiro Koizumi at the Ministry of Defense in Tokyo on Nov. 5 to thank Japan for its continued support to UNC-Rear and to reaffirm the U.S.-Japan Alliance.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578931/gen-brunson-thanks-japans-defense-minister-support-unc-rear",
-      "publishedAt": "2026-11-09T06:38:25Z"
-    },
-    {
-      "id": "e1cfc0849d71e52e286bacbf",
-      "title": "Fort McCoy advances 2026–2030 strategic plan as new fiscal year begins",
-      "summary": "As fiscal year 2027 moves forward, U.S. Army Garrison-Fort McCoy is continuing to implement a long-range strategic plan designed to guide installation operations, strengthen military readiness, modernize infrastructure, and prepare the installation for the Army's evolving requirements through 2030.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578929/fort-mccoy-advances-2026-2030-strategic-plan-new-fiscal-year-begins",
-      "publishedAt": "2026-11-09T05:47:37Z"
-    },
-    {
-      "id": "6d0a51c83a6c24c6300d839b",
-      "title": "5th Air Force hosts JAAGA, strengthening U.S.-Japan bilateral operations at Yokota",
-      "summary": "5th Air Force hosted 36 members of the Japan-America Air Force Goodwill Association, or JAAGA, during a visit to Yokota Air Base Nov. 5, 2026, reinforcing the longstanding relationship among U.S. Air Force personnel, Japan Air Self-Defense Force members and Japanese community leaders.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578924/5th-air-force-hosts-jaaga-strengthening-us-japan-bilateral-operations-yokota",
-      "publishedAt": "2026-11-09T04:59:19Z"
-    },
-    {
-      "id": "ca2c82382c0382c7c4b328be",
-      "title": "403rd Army Field Support Brigade Personality Spotlight: Ms. Pak, Hye Yong – LRC-North",
-      "summary": "Ms. Pak, Hye Yong began her career with the U.S. Army in February 2014 at LRC-North. She started as a Supply Technician and has served as the Quartermaster Laundry (QML) Manager at Yongsan since April 2022. In her current role, she oversees overall QML operations, staff management, and budget execution.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578927/403rd-army-field-support-brigade-personality-spotlight-ms-pak-hye-yong-lrc-north",
-      "publishedAt": "2026-11-09T03:54:52Z"
-    },
-    {
-      "id": "04cb54658d7f389de6fd3c9b",
-      "title": "Red, Blue & Camo: One State, Two Teams, One Guard",
-      "summary": "The Utah National Guard supported the University of Utah-BYU football rivalry game Nov. 7, 2026, at Rice-Eccles Stadium through a series of military appreciation activities that brought together service members, fans and students from both schools.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578923/red-blue-camo-one-state-two-teams-one-guard",
-      "publishedAt": "2026-11-09T01:32:38Z"
-    },
-    {
-      "id": "f3b658ea3937bbca4292ce77",
-      "title": "Georgia Guardsmen battle in combined-MSC competition",
-      "summary": "Eight Georgia Army National Guard Soldiers competed in the Fiscal Year 2027 Combined Best Warrior Competition Nov. 6–8, 2026, at Fort Stewart, Georgia. The 78th Troop Command named U.S. Army Sgt. 1st Class Jeremy Nicoli its Noncommissioned Officer of the Year and U.S. Army Spc. Clinet Reier its Soldier of the Year.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578911/georgia-guardsmen-battle-combined-msc-competition",
-      "publishedAt": "2026-11-09T00:16:41Z"
-    },
-    {
-      "id": "25feaedae85e0e25891c5823",
-      "title": "ROK-U.S. Combined Forces Command Marks 48 Years of Combined Defense",
-      "summary": "CFC commemorates 48 years of strengthening the ROK-U.S. alliance and maintaining readiness on the Korean Peninsula",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578914/rok-us-combined-forces-command-marks-48-years-combined-defense",
-      "publishedAt": "2026-11-08T23:21:12Z"
-    },
-    {
-      "id": "d7076b0d7f381d85baf13103",
-      "title": "Tennessee Guard Soldier's promotion reunites former public affairs team",
-      "summary": "Tennessee Army National Guard Master Sgt. Lila A. Walker, a former public affairs specialist with the 118th Mobile Public Affairs Detachment, was promoted during a ceremony at Joint Force Headquarters in Nashville, Tennessee, Nov. 8, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578890/tennessee-guard-soldiers-promotion-reunites-former-public-affairs-team",
-      "publishedAt": "2026-11-08T21:07:46Z"
     }
   ],
   "nextPage": "page-3.json"
