@@ -1,5 +1,86 @@
 [
   {
+    "id": "15669a97cf196053348fa929",
+    "title": "SSN(X) Attack Boat Will be a Swift, Lethal Mothership for Undersea Drones, Navy Says",
+    "summary": "ARLINGTON, Va. — The next American nuclear attack submarine design will be faster, take less time to repair and serve as a mothership for a constellation of undersea drones, the Navy’s head of requirements for submarines said on Thursday.",
+    "category": "Navy",
+    "sourceName": "USNI News",
+    "sourceUrl": "https://news.usni.org/2026/11/12/ssnx-attack-boat-will-be-a-swift-lethal-mothership-for-undersea-drones-navy-says",
+    "publishedAt": "2026-11-12T23:00:43Z"
+  },
+  {
+    "id": "67423c2244e0373fbd13075c",
+    "title": "Democrats push to remove US-Israel tech measure from defense bill",
+    "summary": "The measures call for enhanced cooperation between the U.S. and Israel on weapons technology development.",
+    "category": "Defense",
+    "sourceName": "Defense News",
+    "sourceUrl": "https://www.defensenews.com/congress/2026/11/12/democrats-push-to-remove-us-israel-tech-measure-from-defense-bill/",
+    "publishedAt": "2026-11-12T22:21:53Z"
+  },
+  {
+    "id": "2a06156f761d71b73915706e",
+    "title": "Washington Artillery marks 188 years at annual Pass in Review",
+    "summary": "NEW ORLEANS – The Louisiana National Guard’s 1st Battalion, 141st Field Artillery Regiment, Washington Artillery, commemorated 188 years of service during its annual Pass in Review ceremony in New Orleans, Nov. 8.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579233/washington-artillery-marks-188-years-annual-pass-review",
+    "publishedAt": "2026-11-12T21:46:57Z"
+  },
+  {
+    "id": "7dd21a3571d07e70e9d54f46",
+    "title": "U.S. Transfers Unmanned Surface Vessels to Philippine Marine Corps",
+    "summary": "The Philippine Marine Corps received two American-made unmanned surface vessels last week at Subic Bay as part of Washington’s efforts to bolster Manila’s asymmetric capabilities in the South China Sea and Luzon Strait. On Nov. 4, two Maritime Tactical Systems T38 Devil Ray USVs were transferred to the Philippine Marine Corps at Subic Bay.",
+    "category": "Marine Corps",
+    "sourceName": "USNI News",
+    "sourceUrl": "https://news.usni.org/2026/11/12/u-s-transfers-unmanned-surface-vessels-to-philippine-marine-corps",
+    "publishedAt": "2026-11-12T21:24:58Z"
+  },
+  {
+    "id": "3ae1f49eeda6a75dde967d34",
+    "title": "Pentagon ‘greenlit’ permanent presence of US troops in Poland, official says",
+    "summary": "The Pentagon “greenlit” the permanent presence of U.S. troops in Poland, with the final decision to be made by the White House in early December, Poland's defense minister said.",
+    "category": "Defense",
+    "sourceName": "Defense News",
+    "sourceUrl": "https://www.defensenews.com/global/europe/2026/11/12/pentagon-greenlit-permanent-presence-of-us-troops-in-poland-official-says/",
+    "publishedAt": "2026-11-12T21:22:17Z"
+  },
+  {
+    "id": "fb3eb0547d521517b3cac2ce",
+    "title": "USS Michael Murphy Returns to Pearl Harbor Following an 11-Month Combat Deployment",
+    "summary": "PEARL HARBOR, Hawaii — Arleigh Burke-class guided-missile destroyer USS Michael Murphy (DDG 112), with embarked Helicopter Maritime Strike Squadron (HSM) 71 Detachment 2, returned to its homeport of Joint Base Pearl Harbor-Hickam, Hawaii following an 11-month deployment to the U.S.",
+    "category": "Navy",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579226/uss-michael-murphy-returns-pearl-harbor-following-11-month-combat-deployment",
+    "publishedAt": "2026-11-12T20:39:18Z"
+  },
+  {
+    "id": "58749b7d56d0e70643ea8254",
+    "title": "Atkinson joins Drill Sergeant Academy as 34th commandant",
+    "summary": "“This is an important occasion for the U.S. Army Drill Sergeant Academy and Fort Jackson,” said Brig. Gen. Jeremy Wilson, Fort Jackson commander. “A change in commandant represents more than a change in leadership.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579227/atkinson-joins-drill-sergeant-academy-34th-commandant",
+    "publishedAt": "2026-11-12T20:36:32Z"
+  },
+  {
+    "id": "ea353827b1128e8cce3e2225",
+    "title": "Facility technology medical program ends sunsets",
+    "summary": "For more than 10 years, the FTI-MED program provided technical expertise in the design, development, procurement, integration, installation, and project management oversight for the implementation of Facility Communications Distribution Systems (FCDS) for the Department of Defense medical community.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579223/facility-technology-medical-program-ends-sunsets",
+    "publishedAt": "2026-11-12T20:14:00Z"
+  },
+  {
+    "id": "cb5721241e642216906aeb67",
+    "title": "Giant salvinia discovered on Millwood Lake",
+    "summary": "The U.S. Army Corps of Engineers is alerting Millwood Lake visitors that giant salvinia, an invasive aquatic plant, was discovered in the lake in late October 2026.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579221/giant-salvinia-discovered-millwood-lake",
+    "publishedAt": "2026-11-12T20:00:46Z"
+  },
+  {
     "id": "ee1c123e21bf3739307c45d4",
     "title": "Ayala takes command of VX-30 ‘Bloodhounds’",
     "summary": "U.S. Navy Cmdr. J. Anderson Ayala took command of the “Bloodhounds” of Air Test and Evaluation Squadron (VX) 30 from Capt. Barry Carmody during a Nov. 10 ceremony at Point Mugu.",
@@ -1609,122 +1690,5 @@
     "sourceName": "DVIDS U.S. Military News",
     "sourceUrl": "https://www.dvidshub.net/news/578469/usace-51c-commissioned-officer-year-far-east-districts-supnet-earns-back-back-recognition",
     "publishedAt": "2026-11-03T01:58:18Z"
-  },
-  {
-    "id": "d467b2945978eb3189647296",
-    "title": "USFK Commander to Industry at TechNet: ‘Design Combined from the First Line of Code’",
-    "summary": "HONOLULU, Hawaii — Gen. Xavier T. Brunson, commander of United Nations Command, Combined Forces Command, and U.S. Forces Korea, urged military and defense industry leaders to prioritize seamless coalition networks during the 2026 TechNet Indo-Pacific conference in Honolulu.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578468/usfk-commander-industry-technet-design-combined-first-line-code",
-    "publishedAt": "2026-11-03T01:14:39Z"
-  },
-  {
-    "id": "cb3a3dcd6b18d8ea0bc6542f",
-    "title": "Bangladesh Navy, U.S. Navy kick off CARAT Bangladesh 2026",
-    "summary": "Sailors and maritime forces from the Bangladesh Navy and U.S. Navy gathered in Chattogram, Nov. 2, for an opening ceremony to commence the annual Cooperation Afloat Readiness and Training (CARAT) Bangladesh 2026.",
-    "category": "Navy",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578466/bangladesh-navy-us-navy-kick-off-carat-bangladesh-2026",
-    "publishedAt": "2026-11-03T00:50:12Z"
-  },
-  {
-    "id": "812b44b9c0faf46e9a27759f",
-    "title": "Wisconsin Army National Guard aviation crews continue readiness training at Fort McCoy during October 2026",
-    "summary": "Aircrews from the Wisconsin Army National Guard's 1st Battalion, 147th Aviation Regiment (1-147th Aviation) completed another unit training effort Oct. 9, 2026, at Fort McCoy, continuing a longstanding relationship between the aviation unit and the installation.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578465/wisconsin-army-national-guard-aviation-crews-continue-readiness-training-fort-mccoy-during-october-2026",
-    "publishedAt": "2026-11-02T23:29:53Z"
-  },
-  {
-    "id": "0cf3ad44e84dbfd6fd684ca8",
-    "title": "Keeping Travis healthy: DGMC hosts inaugural community health fair",
-    "summary": "David Grant USAF Medical Center hosted the inaugural 2026 DGMC Community Health Fair at Travis Air Force Base, California, Oct. 23, 2026. The health fair began with a 5K run, aiming to promote good health and fitness, and continued with an array of DGMC booths.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578463/keeping-travis-healthy-dgmc-hosts-inaugural-community-health-fair",
-    "publishedAt": "2026-11-02T23:01:14Z"
-  },
-  {
-    "id": "c433f6c0698796969c09edde",
-    "title": "USNI News Fleet and Marine Tracker: Nov. 2, 2026",
-    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 2, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.",
-    "category": "Navy",
-    "sourceName": "USNI News",
-    "sourceUrl": "https://news.usni.org/2026/11/02/usni-news-fleet-and-marine-tracker-nov-2-2026",
-    "publishedAt": "2026-11-02T21:46:18Z"
-  },
-  {
-    "id": "716120c90e0bbf663f77c914",
-    "title": "CECOM in 2026: Delivering modernized support where Soldiers need it most",
-    "summary": "Over the past year, the U.S. Army Communications-Electronics Command advanced Army readiness by synchronizing lifecycle support, modernization, and point-of-need maintenance for an Army that increasingly relies on software-defined, interconnected, and rapidly evolving systems.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578453/cecom-2026-delivering-modernized-support-soldiers-need-most",
-    "publishedAt": "2026-11-02T21:18:38Z"
-  },
-  {
-    "id": "3fcf16a4eead1b2f2f086cc7",
-    "title": "Idaho Army National Guard fights Big Grass Fire",
-    "summary": "The Idaho Army National Guard was activated from July 30 to August 21 to support the Idaho Department of Lands and federal partners battle the Big Grass Fire in the Owyhee Mountain Complex.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578455/idaho-army-national-guard-fights-big-grass-fire",
-    "publishedAt": "2026-11-02T21:12:59Z"
-  },
-  {
-    "id": "940fdd6b4de73157e82f96b8",
-    "title": "62d APS Airman Earns the Bronze Star",
-    "summary": "U.S. Air Force Tech. Sgt. Vincent Simmons, 62d Aerial Port Squadron contracting officer representative, was awarded the Bronze Star medal for meritorious achievement during his deployment to the U.S. Central Command area of responsibility.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578439/62d-aps-airman-earns-bronze-star",
-    "publishedAt": "2026-11-02T21:09:16Z"
-  },
-  {
-    "id": "21661d9e8e6ce0f3fe4cde14",
-    "title": "Space Force activates special operations component command in Tampa",
-    "summary": "U.S. Space Forces Special Operations Command, or SPACEFOR-SOC, formally activated today as the newest service component of U.S. Special Operations Command. Headquartered at MacDill Air Force Base, SPACEFOR-SOC organizes and presents specialized forces – known as SOF Guardians – to Theater Special Operations Commands and Joint Task Forces worldwide.",
-    "category": "Space Force",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578451/space-force-activates-special-operations-component-command-tampa",
-    "publishedAt": "2026-11-02T20:57:07Z"
-  },
-  {
-    "id": "6c05c8b6877cc0aca62bec90",
-    "title": "USS Gridley returns to Everett after seven-months of operations",
-    "summary": "EVERETT, Wash. – Arleigh Burke-class guided-missile destroyer USS Gridley (DDG 101) returned home to Naval Station Everett, Oct. 9, 2026, after a seven-month deployment to the U.S. 4th Fleet area of operations.",
-    "category": "Navy",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578449/uss-gridley-returns-everett-after-seven-months-operations",
-    "publishedAt": "2026-11-02T20:45:59Z"
-  },
-  {
-    "id": "d4706d0c8ad0ce1a92364841",
-    "title": "National Guard troops monitoring ballot boxes in Washington state after threats",
-    "summary": "At least 100 National Guard members were activated to assist with election security in seven counties. The post National Guard troops monitoring ballot boxes in Washington state after threats appeared first on Task & Purpose .",
-    "category": "Army",
-    "sourceName": "Task & Purpose",
-    "sourceUrl": "https://taskandpurpose.com/news/national-guard-washington-state-ballot-boxes/",
-    "publishedAt": "2026-11-02T20:35:09Z"
-  },
-  {
-    "id": "5b3586fb30e0ca85fac7b57b",
-    "title": "Kansas National Guard engineers pave the way for future port in remote Alaskan community",
-    "summary": "The Kansas Army National Guard’s 891st Engineer Battalion recently completed a rigorous Innovative Readiness Training mission in Cordova, Alaska.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578444/kansas-national-guard-engineers-pave-way-future-port-remote-alaskan-community",
-    "publishedAt": "2026-11-02T20:19:42Z"
-  },
-  {
-    "id": "bdca5b161bbb6f7d8b961634",
-    "title": "A new class of blast: DBX 1 compound pushing Army towards cleaner, smarter firepower",
-    "summary": "PICATINNY ARSENAL, N.J. - Engineers at the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center researchers say a new explosive initiator could remove environmental and safety risks from the supply chain.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578445/new-class-blast-dbx-1-compound-pushing-army-towards-cleaner-smarter-firepower",
-    "publishedAt": "2026-11-02T20:19:07Z"
   }
 ]

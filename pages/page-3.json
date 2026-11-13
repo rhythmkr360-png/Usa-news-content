@@ -1,7 +1,88 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-12T19:58:52Z",
+  "generatedAt": "2026-11-13T01:51:33Z",
   "articles": [
+    {
+      "id": "8ee74310deeb765c29d1404b",
+      "title": "Kentucky Air Guard stands up dedicated recruiting flight",
+      "summary": "The Kentucky Air National Guard has activated a new unit dedicated to recruiting the next generation of Guard Airmen across the Commonwealth.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578898/kentucky-air-guard-stands-up-dedicated-recruiting-flight",
+      "publishedAt": "2026-11-08T13:17:35Z"
+    },
+    {
+      "id": "71499f89cdd53e4ede608f7a",
+      "title": "Contingency Response Group stages defender training for multiple units in Puerto Rico",
+      "summary": "Airmen from the Kentucky Air National Guard’s 123rd Contingency Response Group staged security forces training in Puerto Rico recently to benefit more than 30 Guard defenders from multiple units.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578897/contingency-response-group-stages-defender-training-multiple-units-puerto-rico",
+      "publishedAt": "2026-11-08T13:11:35Z"
+    },
+    {
+      "id": "fc35d0cda639d1c1afa08871",
+      "title": "High Rollers’ 2026 accomplishments noted during Saturday’s change of command ceremony",
+      "summary": "Col. Erik Brown became the 26th wing commander of the 152nd Airlift Wing, Nevada Air National Guard, during a ceremony Saturday at the air base in Reno.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578885/high-rollers-2026-accomplishments-noted-during-saturdays-change-command-ceremony",
+      "publishedAt": "2026-11-08T00:13:28Z"
+    },
+    {
+      "id": "4aa57be0ae4469645b0d3437",
+      "title": "Georgia Air National Guard adds seven recruits during Ghost Pirates Military Appreciation Game",
+      "summary": "Seven future Airmen took the oath of enlistment during a Savannah Ghost Pirates' Military Appreciation Weekend Nov. 6 at Enmarket Arena, marking a memorable milestone for the 165th Airlift Wing.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578873/georgia-air-national-guard-adds-seven-recruits-during-ghost-pirates-military-appreciation-game",
+      "publishedAt": "2026-11-07T20:54:27Z"
+    },
+    {
+      "id": "34c0730e03232177bf2a5570",
+      "title": "U.S. Forces Disable Cargo Vessel Attempting to Violate Naval Blockade",
+      "summary": "TAMPA, Fla. — U.S. Central Command (CENTCOM) forces disabled a commercial vessel in the Gulf of Oman, Nov. 7, after the ship’s civilian crew ignored repeated warnings and attempted to violate the naval blockade against Iran multiple times.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578872/us-forces-disable-cargo-vessel-attempting-violate-naval-blockade",
+      "publishedAt": "2026-11-07T20:31:51Z"
+    },
+    {
+      "id": "29c2fbd4111230158cb304bc",
+      "title": "Passing on The Tradition: Father, Son Serve Together as Oldest, Youngest Marine at Birthday Ball",
+      "summary": "MYRTLE BEACH, S.C. – The passing of U.S. Marine Corps tradition and legacy took on a special polish for Marines and Sailors with Combat Logistics Battalion 26, 2nd Marine Logistics Group, during the battalion’s 251st Marine Corps birthday ball, Nov. 6, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578869/passing-tradition-father-son-serve-together-oldest-youngest-marine-birthday-ball",
+      "publishedAt": "2026-11-07T15:27:49Z"
+    },
+    {
+      "id": "85b8a8ca16646fda5a85567d",
+      "title": "CENTCOM Launches Task Force to Disrupt Iranian Ground Transit Routes Supporting Illegal Shipments",
+      "summary": "TAMPA, Fla. — On Nov. 7, the commander of U.S. Central Command (CENTCOM) directed the establishment of a task force that will support ongoing U.S. government efforts to prevent Iran from using ground routes to transport advanced weapons and other materials.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578868/centcom-launches-task-force-disrupt-iranian-ground-transit-routes-supporting-illegal-shipments",
+      "publishedAt": "2026-11-07T13:31:30Z"
+    },
+    {
+      "id": "ea611d9f5899cc2554ff5050",
+      "title": "The 28th Thai-American Consultation Senior Staff Talks strengthen Alliance",
+      "summary": "CAMP H.M. SMITH, Hawaii — Senior leaders from the Royal Thai Army and U.S. Pacific Command participated in the 28th Thai-American Consultation Senior Staff Talks at Camp H. M. Smith on Nov. 6, 2026, reinforcing the longstanding military partnership between Thailand and the United States.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578865/28th-thai-american-consultation-senior-staff-talks-strengthen-alliance",
+      "publishedAt": "2026-11-07T01:32:07Z"
+    },
+    {
+      "id": "338df1dce2ebab33d179429a",
+      "title": "CNFJ/RJ Celebrates 100 Years of Heritage Site",
+      "summary": "FLEET ACTIVITIES YOKOSUKA, Japan – Commander U.S. Naval Forces Japan/Navy Region Japan (CNFJ/RJ) commemorated the 100th anniversary of its current Headquarters, historic Building C-1, during a ceremony at Fleet Activities Yokosuka, Nov. 7, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578856/cnfj-rj-celebrates-100-years-heritage-site",
+      "publishedAt": "2026-11-06T23:13:02Z"
+    },
     {
       "id": "d332a71f2672673caa9f1a79",
       "title": "The Idaho Army National Guard and Boise Fire Department Train to Enhance Hoist Capabilities",
@@ -280,87 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578757/navy-nasa-withdraw-final-eis",
       "publishedAt": "2026-11-06T01:20:27Z"
-    },
-    {
-      "id": "6606a56ff63616b88351c6d6",
-      "title": "Three Generations, One Legacy: The Hernandez Family Continues Marine Corps Tradition",
-      "summary": "Platoon 2115 stands at attention, unmoving in the frigid morning air, patiently waiting to receive the Eagle, Globe and Anchor they’ve all earned after a grueling 54 hours. U.S. Marine Corps Recruit. Noel Hernandez waits among the platoon, not knowing his father, retired Marine Corps 1st Sgt.",
-      "category": "Marine Corps",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578755/three-generations-one-legacy-hernandez-family-continues-marine-corps-tradition",
-      "publishedAt": "2026-11-06T00:17:25Z"
-    },
-    {
-      "id": "f0ec1cc6772d2b40e77dc130",
-      "title": "TEMPORARY FLIGHT RESTRICTION AIRSPACE ANNOUNCED OVER WEST PALM BEACH, FLORIDA THIS WEEKEND",
-      "summary": "Fighter jets from the North American Aerospace Defense Command (NORAD) will enforce the Federal Aviation Administration-established VIP Temporary Flight Restriction (TFR) area for this weekend, Nov. 6 - 8, 2026, over West Palm Beach, Florida.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578748/temporary-flight-restriction-airspace-announced-over-west-palm-beach-florida-weekend",
-      "publishedAt": "2026-11-05T22:21:35Z"
-    },
-    {
-      "id": "a93f3651f68f583430ea8f43",
-      "title": "Hegseth adds more Humvees, patrol cars, boats to DC National Guard law enforcement ‘support’ mission",
-      "summary": "National Guardsmen in DC will get patrol boats and cars to assist federal and local enforcement operations in the nation's capital. The post Hegseth adds more Humvees, patrol cars, boats to DC National Guard law enforcement ‘support’ mission appeared first on Task & Purpose .",
-      "category": "Army",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/national-guard-law-enforcement-assets/",
-      "publishedAt": "2026-11-05T22:11:29Z"
-    },
-    {
-      "id": "1af14f9117ecbe430d901f3e",
-      "title": "Georgia Guard Officer Wins MacArthur Award",
-      "summary": "A Georgia Army National Guard officer received the prestigious General Douglas MacArthur Leadership Award during a ceremony October 27, 2026, in Arlington, Va. Captain Paul J.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578741/georgia-guard-officer-wins-macarthur-award",
-      "publishedAt": "2026-11-05T20:40:33Z"
-    },
-    {
-      "id": "dfed15ea6707c202b216c1bc",
-      "title": "Corps of Engineers waives day-use fees at recreation areas in observance of Veterans Day",
-      "summary": "The U.S. Army Corps of Engineers Nashville District announces that day-use fees at its USACE-operated recreation areas in the Cumberland River Basin are waived Nov. 11, 2026, in observance of Veterans Day.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578739/corps-engineers-waives-day-use-fees-recreation-areas-observance-veterans-day",
-      "publishedAt": "2026-11-05T20:21:07Z"
-    },
-    {
-      "id": "20c3d5764782577db8406785",
-      "title": "Corps of Engineers increasing flows from Lac qui Parle Dam",
-      "summary": "The U.S. Army Corps of Engineers, St. Paul District, is increasing outflow from the Lac qui Parle Dam, near Watson, Minnesota, due to ongoing rain within the basin.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578728/corps-engineers-increasing-flows-lac-qui-parle-dam",
-      "publishedAt": "2026-11-05T19:11:29Z"
-    },
-    {
-      "id": "cb9390d95fc689348bd99602",
-      "title": "The Pentagon wants a massive new military base. Where will it go?",
-      "summary": "A nationwide search for a new installation and a sweeping base-hardening initiative are taking shape inside the Defense Department.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/the-pentagon-wants-a-massive-new-military-base-where-will-it-go/",
-      "publishedAt": "2026-11-05T18:55:54Z"
-    },
-    {
-      "id": "98b024a60c72468f2369a2c3",
-      "title": "Sandusky Harbor Dredging Completed; Benefits Local Beach Nourishment",
-      "summary": "The U.S. Army Corps of Engineers, Buffalo District, completed dredging on Nov. 5 of approximately 109,000 cubic yards of sediment from Sandusky Harbor, ensuring safe and navigable waterways for Great Lakes commercial vessels, recreational boaters and other harbor users on Lake Erie.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578722/sandusky-harbor-dredging-completed-benefits-local-beach-nourishment",
-      "publishedAt": "2026-11-05T18:17:23Z"
-    },
-    {
-      "id": "67e888c055c14ac40abbcb42",
-      "title": "The military will start paying for troops’ theological degrees so they can become chaplains",
-      "summary": "The Pentagon’s new Chaplain In-Service Procurement Program is meant to extend the pipeline of incoming chaplains. The post The military will start paying for troops’ theological degrees so they can become chaplains appeared first on Task & Purpose .",
-      "category": "Defense",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/pentagon-chaplain-procurement-program/",
-      "publishedAt": "2026-11-05T18:13:50Z"
     }
   ],
   "nextPage": "page-4.json"

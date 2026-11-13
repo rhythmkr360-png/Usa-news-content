@@ -1,7 +1,88 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-12T19:58:52Z",
+  "generatedAt": "2026-11-13T01:51:33Z",
   "articles": [
+    {
+      "id": "f524c34cd563cb845ce5b2bb",
+      "title": "Warrant Officers focus on innovation and a transforming Army during Professional Development Symposium",
+      "summary": "For the first time in eight years, Washington Army National Guard warrant officers gathered for a state-level Warrant Officer Professional Development event, focusing on how their technical expertise can help commanders adapt to a transforming Army.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579104/warrant-officers-focus-innovation-and-transforming-army-during-professional-development-symposium",
+      "publishedAt": "2026-11-10T20:05:59Z"
+    },
+    {
+      "id": "dff5c190fd50b01060f5be71",
+      "title": "Maintaining the Foundation Drainage System Inside Mount Morris Dam",
+      "summary": "The U.S. Army Corps of Engineers, Buffalo District, is conducting foundation drain cleaning at the Mount Morris Dam to remove buildup, relieve water pressure beneath the structure and maintain its long-term safety. The recurring maintenance helps ensure the dam continues reducing flood risks for communities along the Genesee River.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579098/maintaining-foundation-drainage-system-inside-mount-morris-dam",
+      "publishedAt": "2026-11-10T19:11:37Z"
+    },
+    {
+      "id": "543fac7ad1dc0ce0192ed1ea",
+      "title": "PACFLT-NPS Agreement Strengthens Link Between Fleet Requirements, Graduate Education",
+      "summary": "U.S. Navy Adm. Steve. Koehler, commander, U.S. Pacific Fleet, and retired U.S. Navy Vice Adm. Ann E. Rondeau, president of the Naval Postgraduate School (NPS), signed a memorandum of agreement at Pacific Fleet headquarters, formalizing support for an NPS fleet liaison officer embedded with the Pacific Fleet staff. Nov. 2, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579095/pacflt-nps-agreement-strengthens-link-between-fleet-requirements-graduate-education",
+      "publishedAt": "2026-11-10T19:09:24Z"
+    },
+    {
+      "id": "0e1f04aa223a1e965dbaea93",
+      "title": "Family sues Air Force over daughter’s brain injury from birth overseas",
+      "summary": "The Walker family lawyer said military families suing for medical malpractice could receive “much better treatment” if the case happened in the U.S. rather than overseas. The post Family sues Air Force over daughter’s brain injury from birth overseas appeared first on Task & Purpose .",
+      "category": "Air Force",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/air-force-medical-malpractice-lawsuit/",
+      "publishedAt": "2026-11-10T16:22:58Z"
+    },
+    {
+      "id": "f5de6ca3caaf3cd54f951a33",
+      "title": "Pentagon can’t track millions of F-35 spare parts, watchdog finds",
+      "summary": "The GAO reported that while the DoD's F-35 program \"is the costliest in its history,\" the department \"struggles to account\" for its parts.",
+      "category": "Air Force",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/pentagon/2026/11/10/pentagon-cant-track-millions-of-f-35-spare-parts-watchdog-finds/",
+      "publishedAt": "2026-11-10T15:41:12Z"
+    },
+    {
+      "id": "09e90d0eb72de405e56f085e",
+      "title": "African Lion 2027: Allies and partners set the stage for joint warfighting readiness",
+      "summary": "VICENZA, Italy — The success of any multinational military exercise begins long before the first troops arrive at a training area. For African Lion 2027, the main planning event held in Vicenza, Italy, Nov. 3–6, represents a critical step in preparing the Tunisian portion of the U.S. Africa Command’s largest annual joint exercise led by U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579037/african-lion-2027-allies-and-partners-set-stage-joint-warfighting-readiness",
+      "publishedAt": "2026-11-10T14:50:53Z"
+    },
+    {
+      "id": "f93fbcf6c8f7b3eb9b776acc",
+      "title": "A Pentagon impeachment showdown, plus defense funding in limbo",
+      "summary": "Hegseth could face a high-profile impeachment battle as Congress struggles to settle major defense spending decisions before the new year.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/a-pentagon-impeachment-showdown-plus-defense-funding-in-limbo/",
+      "publishedAt": "2026-11-10T14:22:50Z"
+    },
+    {
+      "id": "8d543884c956b7cbbcd3e7d8",
+      "title": "Naval War College's Maritime Advanced Warfighting School studies American Revolution operations, visits multiple battlefields",
+      "summary": "The U.S. Naval War College (NWC) Maritime Advanced Warfighting School (MAWS) conducted a staff ride with students, staff, and faculty to battlefields in upstate New York and Vermont, Oct. 13-16, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579046/naval-war-colleges-maritime-advanced-warfighting-school-studies-american-revolution-operations-visits-multiple-battlefields",
+      "publishedAt": "2026-11-10T13:32:15Z"
+    },
+    {
+      "id": "f6b7b2ee72bf36d841a4e2dd",
+      "title": "130th Airlift Wing dedicates Airman and Family Readiness Center in honor of Elisabeth Melton",
+      "summary": "The 130th Airlift Wing dedicated its Airman and Family Readiness Center at McLaughlin Air National Guard Base on Nov. 7, 2026, in honor of Elisabeth “Beth” Melton, whose work supporting Airmen and their families left a lasting mark on the wing.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579044/130th-airlift-wing-dedicates-airman-and-family-readiness-center-honor-elisabeth-melton",
+      "publishedAt": "2026-11-10T13:21:05Z"
+    },
     {
       "id": "0fd265cd77c8564394833d03",
       "title": "Hegseth vows to fight impeachment ‘spectacle’",
@@ -280,87 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578900/keeping-mission-moving-staff-sgt-ryon-grant",
       "publishedAt": "2026-11-08T16:08:57Z"
-    },
-    {
-      "id": "8ee74310deeb765c29d1404b",
-      "title": "Kentucky Air Guard stands up dedicated recruiting flight",
-      "summary": "The Kentucky Air National Guard has activated a new unit dedicated to recruiting the next generation of Guard Airmen across the Commonwealth.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578898/kentucky-air-guard-stands-up-dedicated-recruiting-flight",
-      "publishedAt": "2026-11-08T13:17:35Z"
-    },
-    {
-      "id": "71499f89cdd53e4ede608f7a",
-      "title": "Contingency Response Group stages defender training for multiple units in Puerto Rico",
-      "summary": "Airmen from the Kentucky Air National Guard’s 123rd Contingency Response Group staged security forces training in Puerto Rico recently to benefit more than 30 Guard defenders from multiple units.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578897/contingency-response-group-stages-defender-training-multiple-units-puerto-rico",
-      "publishedAt": "2026-11-08T13:11:35Z"
-    },
-    {
-      "id": "fc35d0cda639d1c1afa08871",
-      "title": "High Rollers’ 2026 accomplishments noted during Saturday’s change of command ceremony",
-      "summary": "Col. Erik Brown became the 26th wing commander of the 152nd Airlift Wing, Nevada Air National Guard, during a ceremony Saturday at the air base in Reno.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578885/high-rollers-2026-accomplishments-noted-during-saturdays-change-command-ceremony",
-      "publishedAt": "2026-11-08T00:13:28Z"
-    },
-    {
-      "id": "4aa57be0ae4469645b0d3437",
-      "title": "Georgia Air National Guard adds seven recruits during Ghost Pirates Military Appreciation Game",
-      "summary": "Seven future Airmen took the oath of enlistment during a Savannah Ghost Pirates' Military Appreciation Weekend Nov. 6 at Enmarket Arena, marking a memorable milestone for the 165th Airlift Wing.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578873/georgia-air-national-guard-adds-seven-recruits-during-ghost-pirates-military-appreciation-game",
-      "publishedAt": "2026-11-07T20:54:27Z"
-    },
-    {
-      "id": "34c0730e03232177bf2a5570",
-      "title": "U.S. Forces Disable Cargo Vessel Attempting to Violate Naval Blockade",
-      "summary": "TAMPA, Fla. — U.S. Central Command (CENTCOM) forces disabled a commercial vessel in the Gulf of Oman, Nov. 7, after the ship’s civilian crew ignored repeated warnings and attempted to violate the naval blockade against Iran multiple times.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578872/us-forces-disable-cargo-vessel-attempting-violate-naval-blockade",
-      "publishedAt": "2026-11-07T20:31:51Z"
-    },
-    {
-      "id": "29c2fbd4111230158cb304bc",
-      "title": "Passing on The Tradition: Father, Son Serve Together as Oldest, Youngest Marine at Birthday Ball",
-      "summary": "MYRTLE BEACH, S.C. – The passing of U.S. Marine Corps tradition and legacy took on a special polish for Marines and Sailors with Combat Logistics Battalion 26, 2nd Marine Logistics Group, during the battalion’s 251st Marine Corps birthday ball, Nov. 6, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578869/passing-tradition-father-son-serve-together-oldest-youngest-marine-birthday-ball",
-      "publishedAt": "2026-11-07T15:27:49Z"
-    },
-    {
-      "id": "85b8a8ca16646fda5a85567d",
-      "title": "CENTCOM Launches Task Force to Disrupt Iranian Ground Transit Routes Supporting Illegal Shipments",
-      "summary": "TAMPA, Fla. — On Nov. 7, the commander of U.S. Central Command (CENTCOM) directed the establishment of a task force that will support ongoing U.S. government efforts to prevent Iran from using ground routes to transport advanced weapons and other materials.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578868/centcom-launches-task-force-disrupt-iranian-ground-transit-routes-supporting-illegal-shipments",
-      "publishedAt": "2026-11-07T13:31:30Z"
-    },
-    {
-      "id": "ea611d9f5899cc2554ff5050",
-      "title": "The 28th Thai-American Consultation Senior Staff Talks strengthen Alliance",
-      "summary": "CAMP H.M. SMITH, Hawaii — Senior leaders from the Royal Thai Army and U.S. Pacific Command participated in the 28th Thai-American Consultation Senior Staff Talks at Camp H. M. Smith on Nov. 6, 2026, reinforcing the longstanding military partnership between Thailand and the United States.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578865/28th-thai-american-consultation-senior-staff-talks-strengthen-alliance",
-      "publishedAt": "2026-11-07T01:32:07Z"
-    },
-    {
-      "id": "338df1dce2ebab33d179429a",
-      "title": "CNFJ/RJ Celebrates 100 Years of Heritage Site",
-      "summary": "FLEET ACTIVITIES YOKOSUKA, Japan – Commander U.S. Naval Forces Japan/Navy Region Japan (CNFJ/RJ) commemorated the 100th anniversary of its current Headquarters, historic Building C-1, during a ceremony at Fleet Activities Yokosuka, Nov. 7, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578856/cnfj-rj-celebrates-100-years-heritage-site",
-      "publishedAt": "2026-11-06T23:13:02Z"
     }
   ],
   "nextPage": "page-3.json"
