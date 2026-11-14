@@ -1,7 +1,88 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-13T19:46:06Z",
+  "generatedAt": "2026-11-14T01:27:58Z",
   "articles": [
+    {
+      "id": "178001e9e41b8654c3b4ff13",
+      "title": "1st Armored Division Artillery holds first ever Bombard Challenge",
+      "summary": "1st Armored Division Artillery's commander U.S. Army Col. Samuel Nirenberg speaks on his unit's new Bombard Challenge, first held Oct. 21-22, 2026.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579351/1st-armored-division-artillery-holds-first-ever-bombard-challenge",
+      "publishedAt": "2026-11-13T23:54:13Z"
+    },
+    {
+      "id": "3f669b5f9814f4597163fbce",
+      "title": "Army honors Big Red One WWI Soldier with Posthumous Silver Star, Purple Heart",
+      "summary": "U.S. Army leaders, family members and community guests gathered at Fort Hamilton, New York, Nov. 10 to posthumously present the Silver Star and Purple Heart to Pvt. Isidor Olian, a World War I Soldier with Company K, 18th Infantry Regiment, 1st Infantry Division. Col. Ian J. Lauer, deputy commanding officer for support, 1st Inf.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579347/army-honors-big-red-one-wwi-soldier-with-posthumous-silver-star-purple-heart",
+      "publishedAt": "2026-11-13T23:32:38Z"
+    },
+    {
+      "id": "1d4cb905f2b685471189a4c0",
+      "title": "The New Six Frigates",
+      "summary": "PARIS — Tucked in a dark corner of a convention center in the French suburbs, a British company could hold the next design for America’s newest warship. A model of the Type-31 Arrowhead sailed on a display table at the Babcock International booth at Euronaval 2026 last week. It was one of a half a dozen contenders for the U.S.",
+      "category": "Defense",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/13/the-new-six-frigates",
+      "publishedAt": "2026-11-13T22:41:48Z"
+    },
+    {
+      "id": "339cd462055808c6ff866fc0",
+      "title": "USACE Mobile District permitting action supports former USS Enterprise arrival and dismantling in Mobile",
+      "summary": "The U.S. Army Corps of Engineers Mobile District helped prepare for the arrival and dismantling of the former USS Enterprise (CVN 65) by reviewing and authorizing waterfront improvements at MARRS’ Yard 8 in Mobile.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579342/usace-mobile-district-permitting-action-supports-former-uss-enterprise-arrival-and-dismantling-mobile",
+      "publishedAt": "2026-11-13T22:08:35Z"
+    },
+    {
+      "id": "2ba6249673c2daea7e6d5ce0",
+      "title": "Goodfellow AFB leadership joins the community in recognizing Veterans Day",
+      "summary": "In observance of Veterans Day, 17th Training Wing leadership joined the community on Nov. 11, 2026, to honor the service, sacrifice and enduring legacy of those who raised their right hand and served the United States of America.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579339/goodfellow-afb-leadership-joins-community-recognizing-veterans-day",
+      "publishedAt": "2026-11-13T21:48:53Z"
+    },
+    {
+      "id": "4e14107226bd70590d6196d5",
+      "title": "Utah National Guard, Granite School District celebrate veterans at 71st Annual Veterans Day Concert",
+      "summary": "The Utah National Guard and Granite School District honored America’s veterans through music, student performances and recognition of military service during the 71st Annual Veterans Day Concert on Nov. 11, 2026, at the Tabernacle at Temple Square.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579336/utah-national-guard-granite-school-district-celebrate-veterans-71st-annual-veterans-day-concert",
+      "publishedAt": "2026-11-13T21:06:54Z"
+    },
+    {
+      "id": "20e31f79cac7a996bd436fa7",
+      "title": "Hancock County arts educator experiences life aboard USS Nimitz",
+      "summary": "NAVAL CONSTRUCTION BATTALION CENTER GULFPORT, Miss. – For most Americans, the opportunity to visit a U.S. Navy aircraft carrier is something they will never experience.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579337/hancock-county-arts-educator-experiences-life-aboard-uss-nimitz",
+      "publishedAt": "2026-11-13T21:03:29Z"
+    },
+    {
+      "id": "c730d4de040b53a7ee2edaf2",
+      "title": "AMCOM 101 links aviation readiness to enterprise support",
+      "summary": "The U.S. Army Aviation and Missile Command brought together Soldiers, civilians and aviation enterprise partners Nov. 4-5 at Bob Jones Auditorium for its fall AMCOM 101 Aviation Conference, a biannual forum focused on connecting unit readiness challenges with the people and resources that support Army aviation.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579333/amcom-101-links-aviation-readiness-enterprise-support",
+      "publishedAt": "2026-11-13T20:35:03Z"
+    },
+    {
+      "id": "6d684eec0f951476b992f9d5",
+      "title": "U.S. Naval War College Holds November Graduation For Students of Colleges of Naval Warfare, Naval Command & Staff",
+      "summary": "The U.S. Naval War College (NWC) graduated 29 students from its Colleges of Naval Warfare (CNW) and Naval Command & Staff (CNCS) on Friday, Nov. 13, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579331/us-naval-war-college-holds-november-graduation-students-colleges-naval-warfare-naval-command-staff",
+      "publishedAt": "2026-11-13T20:26:28Z"
+    },
     {
       "id": "d11ae36023f3eb76ea4ef6f1",
       "title": "C. J. Graham Visits USS Essex (LHD 2)",
@@ -280,87 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579210/fort-ap-hill-commander-strengthens-community-ties-through-veterans-day-outreach-bowling-green-richmond",
       "publishedAt": "2026-11-12T19:16:24Z"
-    },
-    {
-      "id": "0714a0fbb77270060d89fca9",
-      "title": "Veterans continue to inspire",
-      "summary": "The legacy of American military service is a continuous chain, with each generation drawing inspiration from those who served before them. That was the message from Maj. Gen. Gavin Gardner, special assistant to the deputy commanding general of Army Materiel Command, when he visited the residents of the Floyd E.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579209/veterans-continue-inspire",
-      "publishedAt": "2026-11-12T19:08:12Z"
-    },
-    {
-      "id": "c6bd82175038cafac1d634d2",
-      "title": "Oregon National Guard honors veterans at Albany memorial service, 75th annual parade",
-      "summary": "The Oregon National Guard joined veterans, families and community members in Albany on Wednesday, Nov. 11, 2026, for a memorial service at the Linn County Veterans Memorial and the 75th Annual Linn County Veterans Day Parade.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579208/oregon-national-guard-honors-veterans-albany-memorial-service-75th-annual-parade",
-      "publishedAt": "2026-11-12T18:57:20Z"
-    },
-    {
-      "id": "b439a061205d90cbf87a78d4",
-      "title": "Repairing the HUEY on a Stick",
-      "summary": "Soldiers from the North Dakota Army National Guard Aviation Support Facility worked together Oct. 30 to repair and replace the tail rotor on a UH-1H Iroquois helicopter, nicknamed “Huey,” which marks the facility’s entrance.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579207/repairing-huey-stick",
-      "publishedAt": "2026-11-12T18:52:50Z"
-    },
-    {
-      "id": "0653e0e315777eb61545050f",
-      "title": "NATO Forward Land Forces Battle Group-Poland welcomes new U.S. Army commander during Transfer of Authority Ceremony at BPTA",
-      "summary": "U.S. Army Lt. Col. Jeremy Herron assumed command of the NATO Forward Land Forces Battle Group-Poland from Lt. Col. Steven Saxion during a transfer of authority ceremony at Bemowo Piskie Training Area, Poland, Nov. 12, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579199/nato-forward-land-forces-battle-group-poland-welcomes-new-us-army-commander-during-transfer-authority-ceremony-bpta",
-      "publishedAt": "2026-11-12T18:50:59Z"
-    },
-    {
-      "id": "1f3b9e0806df4a7dbe94f9cf",
-      "title": "New York Army National Guard Soldiers honor fellow Soldier during memorial ceremony",
-      "summary": "LATHAM, N.Y. __–New York Army National Guard Soldiers remembered the life of Spc. Hunter Hennessey during a Nov.8, 2026 memorial service at New York National Guard headquarters in Latham, New York.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579158/new-york-army-national-guard-soldiers-honor-fellow-soldier-during-memorial-ceremony",
-      "publishedAt": "2026-11-12T10:28:48Z"
-    },
-    {
-      "id": "2dee3d9fd17192d11b4662b1",
-      "title": "ROK-U.S. Alliance Strengthened Through Sportsmanship and Camaraderie",
-      "summary": "PAJU, South Korea — More than 5,000 Republic of Korea and U.S. service members and Korean civilians gathered at Imjingak Peace Nuri Park on Nov. 7, 2026, to commemorate the 73rd anniversary of the ROK-U.S. Alliance through sportsmanship, camaraderie and community engagement.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579155/rok-us-alliance-strengthened-through-sportsmanship-and-camaraderie",
-      "publishedAt": "2026-11-12T06:29:30Z"
-    },
-    {
-      "id": "794af324ba9cce1dc409d339",
-      "title": "Guard appears to rebuke Hegseth’s delegation at Tomb of the Unknown Soldier",
-      "summary": "The U.S. Army sentinel moved toward the group and, from a distance, shouted toward them: \"All visitors will maintain an atmosphere of silence and respect at all times.\"",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/11/11/guard-appears-to-rebuke-hegseths-delegation-at-tomb-of-the-unknown-soldier/",
-      "publishedAt": "2026-11-12T03:32:11Z"
-    },
-    {
-      "id": "d6fd8981320c484a94eccbc5",
-      "title": "From Juneau to the Skies: An Alaska Aviator’s Journey of Military Service in the Navy and Alaska Air Guard",
-      "summary": "For Lt. Col. Rick Walsh, a Juneau, Alaska, native, a career in military aviation was not a straight path. It was an unexpected adventure that took him around the world, from Navy flight school to the Pacific, and eventually back home to Alaska as a pilot in the Alaska Air National Guard.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579154/juneau-skies-alaska-aviators-journey-military-service-navy-and-alaska-air-guard",
-      "publishedAt": "2026-11-12T02:31:02Z"
-    },
-    {
-      "id": "10328451be76c94f25e8b1ed",
-      "title": "CH-47: The Hook That Connects Generations",
-      "summary": "More than 50 years after serving in separate combat tours in Vietnam, with the same Army Aviation unit, former CH-47 Chinook pilot Mike Mackey and former flight engineer Bob Roy met for the first time on Aug. 20, 2026, at a South Carolina Army National Guard aviation event.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579137/ch-47-hook-connects-generations",
-      "publishedAt": "2026-11-11T21:56:10Z"
     }
   ],
   "nextPage": "pages/page-2.json"

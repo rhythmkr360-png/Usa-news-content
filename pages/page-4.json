@@ -1,7 +1,88 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-13T19:46:06Z",
+  "generatedAt": "2026-11-14T01:27:58Z",
   "articles": [
+    {
+      "id": "3df9daf952c004184c8465a8",
+      "title": "SOUTHCOM Commander Supports Military Youth at Doral Purple Star School Designation",
+      "summary": "U.S. Marine Corps Gen. Francis L. Donovan, commander of U.S. Southern Command (SOUTHCOM), participated in a Military Child Education Coalition forum, Nov. 5, 2026, at J.C. Bermudez High School to recognize Miami-Dade County Public Schools for their commitment in supporting the unique needs of military-connected children.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578829/southcom-commander-supports-military-youth-doral-purple-star-school-designation",
+      "publishedAt": "2026-11-06T19:34:35Z"
+    },
+    {
+      "id": "2e72a32027f318e3cd77389a",
+      "title": "188th Wing Guardsman brings physical therapy perspective to Air Force fitness effort",
+      "summary": "In 2026, Maj. Isaac Bitter with the 188th Medical Group at Ebbing Air National Guard Base, had an opportunity to bring that perspective to a team working on an Air Force-wide challenge: shaping and supporting the service’s physical fitness program.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578828/188th-wing-guardsman-brings-physical-therapy-perspective-air-force-fitness-effort",
+      "publishedAt": "2026-11-06T19:30:21Z"
+    },
+    {
+      "id": "cc7a82fdae9cc7f89de0ae9b",
+      "title": "US, Colombian troops kick off exercise amid the Pentagon’s Western Hemisphere pivot",
+      "summary": "Hundreds of American and Colombian troops kicked off a sprawling military exercise in Colombia this week as the U.S. military sharpens its focus on the Western Hemisphere.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/global/the-americas/2026/11/06/us-colombian-troops-kick-off-exercise-amid-the-pentagons-western-hemisphere-pivot/",
+      "publishedAt": "2026-11-06T19:27:32Z"
+    },
+    {
+      "id": "d1536dd3995af28e5e60dabb",
+      "title": "III MEF Extends Curfew for Junior Members in Okinawa Following Murder Indictment",
+      "summary": "The U.S. military extended a curfew on Okinawa for junior service members that was scheduled to expire on Sunday and is continuing to impose restrictions on the purchase and consumption of alcohol. The curfew for grades E-1 through E-4 was extended for 30 days and restricts them to their personal housing from 12 a.m.",
+      "category": "Defense",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/06/iii-mef-extends-curfew-for-junior-members-in-okinawa-following-murder-indictment",
+      "publishedAt": "2026-11-06T19:10:38Z"
+    },
+    {
+      "id": "0b49d9911ce3e7220fa61172",
+      "title": "BCE Consulting outlines the critical elements of layered air defense architecture",
+      "summary": "What does the future of layered air defense look like? BCE Consulting lays out what it will take to protect American forces.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/video/2026/11/06/bce-consulting-outlines-the-critical-elements-of-layered-air-defense-architecture/",
+      "publishedAt": "2026-11-06T17:28:08Z"
+    },
+    {
+      "id": "e8a074486d0e866ccde96593",
+      "title": "Corps dewaters century-old Allegheny River lock chamber for critical repairs",
+      "summary": "At Allegheny River Lock and Dam 4, the U.S. Army Corps of Engineers Pittsburgh District completely drained the lock chamber, deployed dozens of personnel, cranes, boats, barges, and heavy equipment, and halted navigation through the vital inland waterway link for months because of a piece of wood.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578805/corps-dewaters-century-old-allegheny-river-lock-chamber-critical-repairs",
+      "publishedAt": "2026-11-06T16:34:39Z"
+    },
+    {
+      "id": "c1ab922aa18a4d79477c1f76",
+      "title": "Two in a row: Armaments Center receives Hopper Award for Software Maintenance Excellence for second straight year",
+      "summary": "PICATINNY ARSENAL, N.J. - For the third year, and second consecutive, the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center has received the prestigious Rear Admiral Grace M. Hopper Award for Software Maintenance Excellence.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578804/two-row-armaments-center-receives-hopper-award-software-maintenance-excellence-second-straight-year",
+      "publishedAt": "2026-11-06T16:30:10Z"
+    },
+    {
+      "id": "b396a6f15334bdfa29988797",
+      "title": "NETCOM engages industry to advance innovation, global network modernization",
+      "summary": "FORT HUACHUCA, Ariz. — As the Army continues to modernize its network and strengthen its ability to operate across multiple domains, leaders from the U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578800/netcom-engages-industry-advance-innovation-global-network-modernization",
+      "publishedAt": "2026-11-06T16:25:13Z"
+    },
+    {
+      "id": "523f1d010a1018db9ff2cf97",
+      "title": "U.S. Army honors Wisconsin son, killed on an Italian battlefield in WWI",
+      "summary": "SAN DONÀ DI PIAVE, Italy – Lt. Edward Michael McKey, an American Red Cross volunteer, arrived in Italy with a simple purpose – to help those caught in the devastation of war. He carried no rifle.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578794/us-army-honors-wisconsin-son-killed-italian-battlefield-wwi",
+      "publishedAt": "2026-11-06T16:11:54Z"
+    },
     {
       "id": "fe42ca0acc0b1289df26a76c",
       "title": "Health Facility Planning Agency cases colors, commemorates decades of service",
@@ -280,87 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578679/54th-qm-co-soldiers-deploy-centcom-aor",
       "publishedAt": "2026-11-05T14:41:19Z"
-    },
-    {
-      "id": "e48f6346d7a3f578f47fa250",
-      "title": "Defense Primer on U.S. Special Operations Forces",
-      "summary": "The following is the Nov. 3, 2026, Congressional Research Service report Defense Primer: U.S. Special Operations Forces. From the Report U.S.",
-      "category": "Defense",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/05/defense-primer-on-u-s-special-operations-forces",
-      "publishedAt": "2026-11-05T14:01:08Z"
-    },
-    {
-      "id": "1bb60f03ef7ad4ea31cb974e",
-      "title": "121st Field Hospital Revives Korean War-Era Rail Evacuation With a Commercial Railcar",
-      "summary": "During exercise Pacific Medic Forge 26-2 in August 2026, Soldiers of the 121st Field Hospital converted a commercial Korean passenger railcar into a casualty evacuation platform, revisiting a practice the U.S. Army used in Korea in 1950.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578651/121st-field-hospital-revives-korean-war-era-rail-evacuation-with-commercial-railcar",
-      "publishedAt": "2026-11-05T06:15:54Z"
-    },
-    {
-      "id": "a240e20a39faf4ffe92b1b74",
-      "title": "Tropic Lightning, Partner Forces Transition to the Close Battle at JPMRC 27-01",
-      "summary": "SCHOFIELD BARRACKS, Hawaii – After days of disciplined preparation and staging across the Hawaiian archipelago, U.S. Army forces and their multinational partners have officially transitioned into active, force-on-force maneuver training during Joint Pacific Multinational Readiness Center Rotation 27-01.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578644/tropic-lightning-partner-forces-transition-close-battle-jpmrc-27-01",
-      "publishedAt": "2026-11-05T03:53:23Z"
-    },
-    {
-      "id": "34ea1f65191bd270088ae0b3",
-      "title": "Oregon National Guard trains with Multnomah County Sheriff's Office SAR MEDEVAC",
-      "summary": "The Oregon National Guard worked with the Multnomah County Sheriff's Office SAR MEDEVAC team members to conduct medical and first aid training on Nov. 1, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578642/oregon-national-guard-trains-with-multnomah-county-sheriffs-office-sar-medevac",
-      "publishedAt": "2026-11-05T02:06:36Z"
-    },
-    {
-      "id": "ec1c6dd7324a21e08b99ff37",
-      "title": "Amid Iran conflict, ‘non-hostile’ deaths of 2 US airmen raise overseas toll",
-      "summary": "Two U.S. airmen supporting operations against Iran died last week in \"non-hostile\" incidents, raising the death toll to 23 since the war began.",
-      "category": "Air Force",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/11/04/amid-iran-conflict-non-hostile-deaths-of-2-us-airmen-raise-overseas-toll-to-23/",
-      "publishedAt": "2026-11-04T23:08:17Z"
-    },
-    {
-      "id": "d631588bb2dea5693430f206",
-      "title": "Fantastic Five: Introducing the TACOM Hall of Fame Class of 2026",
-      "summary": "Five careers. Decades of impact. One enduring legacy. Meet the former Army Civilians whose achievements, leadership and commitment to excellence earned them a spot in the U.S. Army Tank-automotive and Armaments Command Hall of Fame.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578628/fantastic-five-introducing-tacom-hall-fame-class-2026",
-      "publishedAt": "2026-11-04T23:07:48Z"
-    },
-    {
-      "id": "62698550e2c5f96f6b611681",
-      "title": "Michelle Link named TACOM ILSC executive director",
-      "summary": "Michelle A. Link took the helm last month of the U.S. Army Tank-automotive and Armaments Command’s Integrated Logistics Support Center, leveraging decades of logistics and acquisition experience to forge future readiness.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578632/michelle-link-named-tacom-ilsc-executive-director",
-      "publishedAt": "2026-11-04T23:07:48Z"
-    },
-    {
-      "id": "414459ea33457a7ae4bf86b1",
-      "title": "TACOM welcomes newest Hall of Fame inductees",
-      "summary": "Smiles, hugs and happy tears filled the Detroit Arsenal as five people who spent decades shaping the U.S. Army Tank-automotive and Armaments Command took a permanent place in its history. Agnes E. Holley-Smith, David W. Horton, Michele M. Moore, James “Patton” Tidwell and David L. Van Agtmael were inducted Oct. 28 into the TACOM Hall of Fame.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578625/tacom-welcomes-newest-hall-fame-inductees",
-      "publishedAt": "2026-11-04T23:07:47Z"
-    },
-    {
-      "id": "3610e97b9c59d8f8c865dfcc",
-      "title": "Beyond the fence: Army and community partners work together to clean up Dillingham Army Beach",
-      "summary": "U.S. Army Garrison Hawaii joined state agencies, nonprofit organizations and community volunteers for a coordinated cleanup at Dillingham Army Beach on Oct. 24, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578623/beyond-fence-army-and-community-partners-work-together-clean-up-dillingham-army-beach",
-      "publishedAt": "2026-11-04T21:03:11Z"
     }
   ],
   "nextPage": "page-5.json"
