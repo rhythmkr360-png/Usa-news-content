@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T01:27:58Z",
+  "generatedAt": "2026-11-14T10:31:39Z",
   "articles": [
+    {
+      "id": "b56a2a962b145ed7f322d639",
+      "title": "Fueling Air Dominance: 593rd CSC Supports F-22 Operations During Keen Sword 27",
+      "summary": "During Keen Sword, Soldiers from the 593rd Corps Sustainment Command, headquartered at Joint Base Lewis-McChord, Wash., played a critical sustainment role by supporting fuel operations that enabled the successful employment of U.S. Air Force F-22 Raptor aircraft.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579022/fueling-air-dominance-593rd-csc-supports-f-22-operations-during-keen-sword-27",
+      "publishedAt": "2026-11-09T22:48:48Z"
+    },
     {
       "id": "c86d2659ee20cb9619b34ef1",
       "title": "Air Guard’s mobility, global reach is combat tested, combat proven",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578832/ingenuity-display-students-engineer-high-flying-pumpkin-launchers-armaments-center",
       "publishedAt": "2026-11-06T19:48:23Z"
-    },
-    {
-      "id": "f2b2ccd6c91e827f20b1d741",
-      "title": "Six ‘Warrior Medics’ excel in, graduate from H2F-I course",
-      "summary": "Fourteen U.S. Army Reserve Soldiers throughout the Army Reserve medical enterprise, six of whom are assigned to the Army Reserve Medical Command headquarters here, took part in and graduated from the Holistic Health and Fitness- Integrator, or H2F-I, course held at the C.W. Bill Young Armed Forces Reserve Center here, Oct. 18-30, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578830/six-warrior-medics-excel-graduate-h2f-course",
-      "publishedAt": "2026-11-06T19:42:51Z"
     }
   ],
   "nextPage": "page-4.json"

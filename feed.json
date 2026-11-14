@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T01:27:58Z",
+  "generatedAt": "2026-11-14T10:31:39Z",
   "articles": [
+    {
+      "id": "ff7cff5def3dd238dedf8935",
+      "title": "Japan, U.S. participate in annual Joint Senior Leader Seminar",
+      "summary": "U.S. Pacific Command hosted the 2026 Joint Senior Leaders Seminar Nov. 13, bringing together American and Japanese defense officials to align strategic goals, coordinate operational planning and strengthen the defense alliance.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579361/japan-us-participate-annual-joint-senior-leader-seminar",
+      "publishedAt": "2026-11-14T07:09:21Z"
+    },
     {
       "id": "178001e9e41b8654c3b4ff13",
       "title": "1st Armored Division Artillery holds first ever Bombard Challenge",
@@ -352,15 +361,6 @@
       "sourceName": "Task & Purpose",
       "sourceUrl": "https://taskandpurpose.com/news/take-care-americas-veterans-act-benefits-cuts-controversy/",
       "publishedAt": "2026-11-12T19:27:15Z"
-    },
-    {
-      "id": "df8562092ea524e04b993fe8",
-      "title": "Fort A.P. Hill commander strengthens community ties through Veterans Day outreach in Bowling Green, Richmond",
-      "summary": "Lieutenant Colonel Isaac Howard, the garrison commander of Fort A.P. Hill, highlighted the enduring bond between the U.S. military and the surrounding Virginia communities during Veterans Day engagements in Bowling Green and Richmond.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579210/fort-ap-hill-commander-strengthens-community-ties-through-veterans-day-outreach-bowling-green-richmond",
-      "publishedAt": "2026-11-12T19:16:24Z"
     }
   ],
   "nextPage": "pages/page-2.json"

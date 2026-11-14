@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T01:27:58Z",
+  "generatedAt": "2026-11-14T10:31:39Z",
   "articles": [
+    {
+      "id": "f2b2ccd6c91e827f20b1d741",
+      "title": "Six ‘Warrior Medics’ excel in, graduate from H2F-I course",
+      "summary": "Fourteen U.S. Army Reserve Soldiers throughout the Army Reserve medical enterprise, six of whom are assigned to the Army Reserve Medical Command headquarters here, took part in and graduated from the Holistic Health and Fitness- Integrator, or H2F-I, course held at the C.W. Bill Young Armed Forces Reserve Center here, Oct. 18-30, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578830/six-warrior-medics-excel-graduate-h2f-course",
+      "publishedAt": "2026-11-06T19:42:51Z"
+    },
     {
       "id": "3df9daf952c004184c8465a8",
       "title": "SOUTHCOM Commander Supports Military Youth at Doral Purple Star School Designation",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578694/shelly-brooks-face-waterway",
       "publishedAt": "2026-11-05T15:40:29Z"
-    },
-    {
-      "id": "023a5e19f4e7ea464da459ec",
-      "title": "54th QM Co. Soldiers deploy to CENTCOM AOR",
-      "summary": "More than 25 Soldiers assigned to Detachment 1, 54th Quartermaster Company (Fatality Management), 10th Transportation Battalion (Terminal), 7th Transportation Brigade (Expeditionary) were recognized in a deployment ceremony Nov. 2 at the Fort Lee Family Life Center as they prepare to deploy to the U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578679/54th-qm-co-soldiers-deploy-centcom-aor",
-      "publishedAt": "2026-11-05T14:41:19Z"
     }
   ],
   "nextPage": "page-5.json"

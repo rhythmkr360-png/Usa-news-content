@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T01:27:58Z",
+  "generatedAt": "2026-11-14T10:31:39Z",
   "articles": [
+    {
+      "id": "df8562092ea524e04b993fe8",
+      "title": "Fort A.P. Hill commander strengthens community ties through Veterans Day outreach in Bowling Green, Richmond",
+      "summary": "Lieutenant Colonel Isaac Howard, the garrison commander of Fort A.P. Hill, highlighted the enduring bond between the U.S. military and the surrounding Virginia communities during Veterans Day engagements in Bowling Green and Richmond.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579210/fort-ap-hill-commander-strengthens-community-ties-through-veterans-day-outreach-bowling-green-richmond",
+      "publishedAt": "2026-11-12T19:16:24Z"
+    },
     {
       "id": "0714a0fbb77270060d89fca9",
       "title": "Veterans continue to inspire",
@@ -352,15 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579024/uss-lenah-sutcliffe-higbee-holds-change-command-ceremony",
       "publishedAt": "2026-11-09T22:52:23Z"
-    },
-    {
-      "id": "b56a2a962b145ed7f322d639",
-      "title": "Fueling Air Dominance: 593rd CSC Supports F-22 Operations During Keen Sword 27",
-      "summary": "During Keen Sword, Soldiers from the 593rd Corps Sustainment Command, headquartered at Joint Base Lewis-McChord, Wash., played a critical sustainment role by supporting fuel operations that enabled the successful employment of U.S. Air Force F-22 Raptor aircraft.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579022/fueling-air-dominance-593rd-csc-supports-f-22-operations-during-keen-sword-27",
-      "publishedAt": "2026-11-09T22:48:48Z"
     }
   ],
   "nextPage": "page-3.json"
