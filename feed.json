@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T16:23:50Z",
+  "generatedAt": "2026-11-15T22:52:19Z",
   "articles": [
+    {
+      "id": "4d9dd68beebde25321abb94e",
+      "title": "Hawaii Army National Guard bids farewell to Tahara, welcomes Hogsten as new commander",
+      "summary": "The Hawaii Army National Guard hosted a change of command ceremony in Kapolei, Hawaii, Nov. 14, 2026, marking the official transfer of command from Brig. Gen. Tyson Y. Tahara to Brig. Gen. Ronald D. Hogsten.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579370/hawaii-army-national-guard-bids-farewell-tahara-welcomes-hogsten-new-commander",
+      "publishedAt": "2026-11-15T19:36:08Z"
+    },
+    {
+      "id": "15a3607c37ed8e6407335acc",
+      "title": "75th USARIC Walks the Walk in Support of Suicide Awareness and Prevention",
+      "summary": "Soldiers assigned to the 75th U.S. Army Reserve Innovation Command and 1st Battalion, 289th Regiment, Training Support, gathered for a unit 2-mile walk and run dedicated to suicide prevention and awareness, Sept. 20, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579374/75th-usaric-walks-walk-support-suicide-awareness-and-prevention",
+      "publishedAt": "2026-11-15T19:22:14Z"
+    },
     {
       "id": "b3f7cb9c84db5bb17f36ef4e",
       "title": "Kadena welcomes first permanently assigned F-15EX Eagle II aircraft",
@@ -343,24 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579221/giant-salvinia-discovered-millwood-lake",
       "publishedAt": "2026-11-12T20:00:46Z"
-    },
-    {
-      "id": "ee1c123e21bf3739307c45d4",
-      "title": "Ayala takes command of VX-30 ‘Bloodhounds’",
-      "summary": "U.S. Navy Cmdr. J. Anderson Ayala took command of the “Bloodhounds” of Air Test and Evaluation Squadron (VX) 30 from Capt. Barry Carmody during a Nov. 10 ceremony at Point Mugu.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579213/ayala-takes-command-vx-30-bloodhounds",
-      "publishedAt": "2026-11-12T19:55:22Z"
-    },
-    {
-      "id": "8db36328717303ddb398656e",
-      "title": "Cleveland Harbor Fall Dredging Completed in Just Over Two Weeks; Completes $11.7M Annual Operation",
-      "summary": "The U.S. Army Corps of Engineers, Buffalo District, completed fall dredging of Cleveland Harbor in just over two weeks, ensuring safe and navigable waterways for Great Lakes commercial vessels, recreational boaters and other harbor users on Lake Erie.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579219/cleveland-harbor-fall-dredging-completed-just-over-two-weeks-completes-117m-annual-operation",
-      "publishedAt": "2026-11-12T19:54:43Z"
     }
   ],
   "nextPage": "pages/page-2.json"

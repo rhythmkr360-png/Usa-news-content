@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T16:23:50Z",
+  "generatedAt": "2026-11-15T22:52:19Z",
   "articles": [
+    {
+      "id": "0fd265cd77c8564394833d03",
+      "title": "Hegseth vows to fight impeachment ‘spectacle’",
+      "summary": "“What one disgruntled and defeated congressman is attempting is not oversight, and it’s not accountability. It’s a political spectacle, a personal manifesto driven by ego and resentment,” Hegseth told reporters at the Pentagon this morning.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/hegseth-vows-to-fight-impeachment-spectacle/",
+      "publishedAt": "2026-11-10T13:17:55Z"
+    },
+    {
+      "id": "5370f0d9c0d336e2fa107a18",
+      "title": "USAG Stuttgart commander conducts oath of enlistment and welcomes new Army recruit",
+      "summary": "For a moment, U.S. Army Garrison Stuttgart was home to the U.S. Army’s newest recruit following an Oath of Enlistment Ceremony on Panzer Kaserne, Nov. 6. Before administering the oath of enlistment, USAG Stuttgart Commander Col. Edward J.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579038/usag-stuttgart-commander-conducts-oath-enlistment-and-welcomes-new-army-recruit",
+      "publishedAt": "2026-11-10T11:01:27Z"
+    },
     {
       "id": "dadde75194e3658233259dd1",
       "title": "Lake Jackson Native Serving with Navy in Cuba Promoted to Senior Chief",
@@ -343,24 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578856/cnfj-rj-celebrates-100-years-heritage-site",
       "publishedAt": "2026-11-06T23:13:02Z"
-    },
-    {
-      "id": "d332a71f2672673caa9f1a79",
-      "title": "The Idaho Army National Guard and Boise Fire Department Train to Enhance Hoist Capabilities",
-      "summary": "The Idaho Army National Guard’s State Aviation Group trained with members of the Boise Fire Department’s swift water dive team this week on Gowen Field.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578850/idaho-army-national-guard-and-boise-fire-department-train-enhance-hoist-capabilities",
-      "publishedAt": "2026-11-06T21:15:16Z"
-    },
-    {
-      "id": "84c417336b0bcb2ecafd11de",
-      "title": "US Army feeds culinary soldiers new job title",
-      "summary": "Formerly known as culinary specialists, a soldier with the 92G occupation identifier will henceforth be known as a “tactical field feeding specialist.”",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/land/2026/11/06/us-army-feeds-culinary-soldiers-new-job-title/",
-      "publishedAt": "2026-11-06T20:43:37Z"
     }
   ],
   "nextPage": "page-4.json"

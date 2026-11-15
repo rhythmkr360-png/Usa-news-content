@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T16:23:50Z",
+  "generatedAt": "2026-11-15T22:52:19Z",
   "articles": [
+    {
+      "id": "ee1c123e21bf3739307c45d4",
+      "title": "Ayala takes command of VX-30 ‘Bloodhounds’",
+      "summary": "U.S. Navy Cmdr. J. Anderson Ayala took command of the “Bloodhounds” of Air Test and Evaluation Squadron (VX) 30 from Capt. Barry Carmody during a Nov. 10 ceremony at Point Mugu.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579213/ayala-takes-command-vx-30-bloodhounds",
+      "publishedAt": "2026-11-12T19:55:22Z"
+    },
+    {
+      "id": "8db36328717303ddb398656e",
+      "title": "Cleveland Harbor Fall Dredging Completed in Just Over Two Weeks; Completes $11.7M Annual Operation",
+      "summary": "The U.S. Army Corps of Engineers, Buffalo District, completed fall dredging of Cleveland Harbor in just over two weeks, ensuring safe and navigable waterways for Great Lakes commercial vessels, recreational boaters and other harbor users on Lake Erie.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579219/cleveland-harbor-fall-dredging-completed-just-over-two-weeks-completes-117m-annual-operation",
+      "publishedAt": "2026-11-12T19:54:43Z"
+    },
     {
       "id": "99551cb39ca864a695d21a3d",
       "title": "103-year-old D-Day vet receives French Legion of Honor Medal",
@@ -343,24 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579044/130th-airlift-wing-dedicates-airman-and-family-readiness-center-honor-elisabeth-melton",
       "publishedAt": "2026-11-10T13:21:05Z"
-    },
-    {
-      "id": "0fd265cd77c8564394833d03",
-      "title": "Hegseth vows to fight impeachment ‘spectacle’",
-      "summary": "“What one disgruntled and defeated congressman is attempting is not oversight, and it’s not accountability. It’s a political spectacle, a personal manifesto driven by ego and resentment,” Hegseth told reporters at the Pentagon this morning.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/hegseth-vows-to-fight-impeachment-spectacle/",
-      "publishedAt": "2026-11-10T13:17:55Z"
-    },
-    {
-      "id": "5370f0d9c0d336e2fa107a18",
-      "title": "USAG Stuttgart commander conducts oath of enlistment and welcomes new Army recruit",
-      "summary": "For a moment, U.S. Army Garrison Stuttgart was home to the U.S. Army’s newest recruit following an Oath of Enlistment Ceremony on Panzer Kaserne, Nov. 6. Before administering the oath of enlistment, USAG Stuttgart Commander Col. Edward J.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579038/usag-stuttgart-commander-conducts-oath-enlistment-and-welcomes-new-army-recruit",
-      "publishedAt": "2026-11-10T11:01:27Z"
     }
   ],
   "nextPage": "page-3.json"
