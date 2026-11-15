@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T06:39:25Z",
+  "generatedAt": "2026-11-15T16:23:50Z",
   "articles": [
     {
       "id": "70594ef5ecb7167e90616278",
@@ -352,16 +352,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578711/army-air-force-exchange-service-salutes-veterans-with-free-challenge-coins-veterans-day",
       "publishedAt": "2026-11-05T17:02:23Z"
-    },
-    {
-      "id": "913ec5e5a3cd54b81519ac42",
-      "title": "Measuring for Success: ONR App Makes Construction Estimates Faster, Easier",
-      "summary": "ARLINGTON, Va. — U.S. Navy and Marine Corps Engineer Officers and Engineer Chiefs have tough, dirty jobs in what’s called horizontal construction — building and maintaining roads, airstrips, landing zones and base camps.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578697/measuring-success-onr-app-makes-construction-estimates-faster-easier",
-      "publishedAt": "2026-11-05T16:08:47Z"
     }
-  ],
-  "nextPage": "page-5.json"
+  ]
 }
