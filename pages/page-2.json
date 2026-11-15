@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T22:28:54Z",
+  "generatedAt": "2026-11-15T06:39:25Z",
   "articles": [
+    {
+      "id": "99551cb39ca864a695d21a3d",
+      "title": "103-year-old D-Day vet receives French Legion of Honor Medal",
+      "summary": "The French government bestowed its highest medals for honor to a 103-year-old World War II veteran during a ceremony held at the U.S. Army Institute for Religious Leadership, Nov. 10.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579216/103-year-old-d-day-vet-receives-french-legion-honor-medal",
+      "publishedAt": "2026-11-12T19:53:37Z"
+    },
+    {
+      "id": "fccd50d06375e0a97333771f",
+      "title": "Vets groups slam House for quietly passing divisive benefits bill on Veterans Day",
+      "summary": "\"On a day when America honors the brave men and women who stepped forward to defend our freedom, House leaders chose to sneak through legislation threatening earned benefits for millions of veterans,” the head of Disabled American Veterans said.",
+      "category": "Defense",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/take-care-americas-veterans-act-benefits-cuts-controversy/",
+      "publishedAt": "2026-11-12T19:27:15Z"
+    },
     {
       "id": "df8562092ea524e04b993fe8",
       "title": "Fort A.P. Hill commander strengthens community ties through Veterans Day outreach in Bowling Green, Richmond",
@@ -343,24 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579038/usag-stuttgart-commander-conducts-oath-enlistment-and-welcomes-new-army-recruit",
       "publishedAt": "2026-11-10T11:01:27Z"
-    },
-    {
-      "id": "dadde75194e3658233259dd1",
-      "title": "Lake Jackson Native Serving with Navy in Cuba Promoted to Senior Chief",
-      "summary": "Courtesy story by By Chief Mass Communication Specialist Sean Furey, Navy Office of Community Outreach MILLINGTON, Tenn. — Senior Chief Petty Officer Arland Yancey, a native of Lake Jackson, Texas, was recently promoted to his current rank while stationed at U.S. Navy Medicine Readiness and Training Command (USNMRTC) Guantanamo Bay.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579028/lake-jackson-native-serving-with-navy-cuba-promoted-senior-chief",
-      "publishedAt": "2026-11-09T23:30:33Z"
-    },
-    {
-      "id": "53332e7dc51aa8149e1e909b",
-      "title": "USS Lenah Sutcliffe Higbee holds change of command ceremony",
-      "summary": "U.S. Navy Cmdr. Osei Asante relieved U.S. Navy Cmdr. Jack Skahen as commanding officer of Arleigh Burke-class guided-missile destroyer USS Lenah Sutcliffe Higbee (DDG 123) during a change of command ceremony at the USS Midway Museum on Nov. 6, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579024/uss-lenah-sutcliffe-higbee-holds-change-command-ceremony",
-      "publishedAt": "2026-11-09T22:52:23Z"
     }
   ],
   "nextPage": "page-3.json"

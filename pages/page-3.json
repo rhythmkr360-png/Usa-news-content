@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T22:28:54Z",
+  "generatedAt": "2026-11-15T06:39:25Z",
   "articles": [
+    {
+      "id": "dadde75194e3658233259dd1",
+      "title": "Lake Jackson Native Serving with Navy in Cuba Promoted to Senior Chief",
+      "summary": "Courtesy story by By Chief Mass Communication Specialist Sean Furey, Navy Office of Community Outreach MILLINGTON, Tenn. — Senior Chief Petty Officer Arland Yancey, a native of Lake Jackson, Texas, was recently promoted to his current rank while stationed at U.S. Navy Medicine Readiness and Training Command (USNMRTC) Guantanamo Bay.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579028/lake-jackson-native-serving-with-navy-cuba-promoted-senior-chief",
+      "publishedAt": "2026-11-09T23:30:33Z"
+    },
+    {
+      "id": "53332e7dc51aa8149e1e909b",
+      "title": "USS Lenah Sutcliffe Higbee holds change of command ceremony",
+      "summary": "U.S. Navy Cmdr. Osei Asante relieved U.S. Navy Cmdr. Jack Skahen as commanding officer of Arleigh Burke-class guided-missile destroyer USS Lenah Sutcliffe Higbee (DDG 123) during a change of command ceremony at the USS Midway Museum on Nov. 6, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579024/uss-lenah-sutcliffe-higbee-holds-change-command-ceremony",
+      "publishedAt": "2026-11-09T22:52:23Z"
+    },
     {
       "id": "b56a2a962b145ed7f322d639",
       "title": "Fueling Air Dominance: 593rd CSC Supports F-22 Operations During Keen Sword 27",
@@ -343,24 +361,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/land/2026/11/06/us-army-feeds-culinary-soldiers-new-job-title/",
       "publishedAt": "2026-11-06T20:43:37Z"
-    },
-    {
-      "id": "70594ef5ecb7167e90616278",
-      "title": "Cambodia and U.S. Pacific Command participate in a Bilateral Defense Dialogue",
-      "summary": "Senior defense officials from the United States and Cambodia concluded the 2026 Bilateral Defense Discussion (BDD) with the signing of a landmark Terms of Reference (ToR) between the U.S. Pacific Command and Cambodia’s Ministry of National Defense in Phnom Penh, Cambodia, Nov. 4, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578837/cambodia-and-us-pacific-command-participate-bilateral-defense-dialogue",
-      "publishedAt": "2026-11-06T20:07:31Z"
-    },
-    {
-      "id": "15d030f90fdec35921058072",
-      "title": "Ingenuity on display as students engineer high-flying pumpkin launchers at Armaments Center",
-      "summary": "PICATINNY ARSENAL, N.J. - It was pumpkin seeds aplenty as the annual Pumpkin Sling returned to the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center on Friday, Oct. 30.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578832/ingenuity-display-students-engineer-high-flying-pumpkin-launchers-armaments-center",
-      "publishedAt": "2026-11-06T19:48:23Z"
     }
   ],
   "nextPage": "page-4.json"

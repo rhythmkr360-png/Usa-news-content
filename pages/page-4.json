@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T22:28:54Z",
+  "generatedAt": "2026-11-15T06:39:25Z",
   "articles": [
+    {
+      "id": "70594ef5ecb7167e90616278",
+      "title": "Cambodia and U.S. Pacific Command participate in a Bilateral Defense Dialogue",
+      "summary": "Senior defense officials from the United States and Cambodia concluded the 2026 Bilateral Defense Discussion (BDD) with the signing of a landmark Terms of Reference (ToR) between the U.S. Pacific Command and Cambodia’s Ministry of National Defense in Phnom Penh, Cambodia, Nov. 4, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578837/cambodia-and-us-pacific-command-participate-bilateral-defense-dialogue",
+      "publishedAt": "2026-11-06T20:07:31Z"
+    },
+    {
+      "id": "15d030f90fdec35921058072",
+      "title": "Ingenuity on display as students engineer high-flying pumpkin launchers at Armaments Center",
+      "summary": "PICATINNY ARSENAL, N.J. - It was pumpkin seeds aplenty as the annual Pumpkin Sling returned to the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center on Friday, Oct. 30.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578832/ingenuity-display-students-engineer-high-flying-pumpkin-launchers-armaments-center",
+      "publishedAt": "2026-11-06T19:48:23Z"
+    },
     {
       "id": "f2b2ccd6c91e827f20b1d741",
       "title": "Six ‘Warrior Medics’ excel in, graduate from H2F-I course",
@@ -343,24 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578697/measuring-success-onr-app-makes-construction-estimates-faster-easier",
       "publishedAt": "2026-11-05T16:08:47Z"
-    },
-    {
-      "id": "d701575a2738c24f9cdc1ffa",
-      "title": "USS Stout Loses Power During Port Visit Due to ‘Engineering Casualty’",
-      "summary": "A deployed destroyer recently lost power during a port visit to Italy, USNI News understands. USS Stout (DDG-55) was in port in Augusta Bay, Italy, for a scheduled port visit on Oct. 25 when it experienced an engineering casualty, causing the ship to lose power, Cmdr. Lauren Spaziano, U.S. 6th Fleet spokesperson, told USNI News.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/05/uss-stout-loses-power-during-port-visit-due-to-engineering-casualty",
-      "publishedAt": "2026-11-05T16:06:54Z"
-    },
-    {
-      "id": "42279990bc7b66c65d970697",
-      "title": "Shelly Brooks: The Face of the Waterway",
-      "summary": "MOBILE, Ala. — Behind every successful lock operation, engineering feat, and environmental stewardship project along the Tennessee-Tombigbee Waterway (TTWW) is a dedicated administrative team keeping the mission moving forward.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578694/shelly-brooks-face-waterway",
-      "publishedAt": "2026-11-05T15:40:29Z"
     }
   ],
   "nextPage": "page-5.json"

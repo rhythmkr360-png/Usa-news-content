@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T22:28:54Z",
+  "generatedAt": "2026-11-15T06:39:25Z",
   "articles": [
+    {
+      "id": "b3f7cb9c84db5bb17f36ef4e",
+      "title": "Kadena welcomes first permanently assigned F-15EX Eagle II aircraft",
+      "summary": "The first permanently assigned U.S. Air Force F-15EX Eagle II fighter aircraft arrived at Kadena Air Base, Japan, on Nov. 15, 2026, marking a major milestone in the 18th Wing's fighter modernization and the continued strengthening of U.S. airpower in the Pacific region.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579371/kadena-welcomes-first-permanently-assigned-f-15ex-eagle-ii-aircraft",
+      "publishedAt": "2026-11-15T03:03:44Z"
+    },
+    {
+      "id": "c6ce264bbe187819bbb70148",
+      "title": "Operation Frozen Recovery: Alaska Soldiers Retrieve Historic Signal Corps Radio",
+      "summary": "Nine Soldiers assigned to Headquarters and Headquarters Detachment, 59th Signal Battalion, recovered a historic U.S. Army Signal Corps radio from the wreckage of a U.S. Air Force TB-29 bomber in Alaska, Aug. 10-11, 2026. The radio had remained at the crash site since 1957, when the aircraft went down during a training mission.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579368/operation-frozen-recovery-alaska-soldiers-retrieve-historic-signal-corps-radio",
+      "publishedAt": "2026-11-15T00:53:16Z"
+    },
     {
       "id": "ff7cff5def3dd238dedf8935",
       "title": "Japan, U.S. participate in annual Joint Senior Leader Seminar",
@@ -343,24 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579219/cleveland-harbor-fall-dredging-completed-just-over-two-weeks-completes-117m-annual-operation",
       "publishedAt": "2026-11-12T19:54:43Z"
-    },
-    {
-      "id": "99551cb39ca864a695d21a3d",
-      "title": "103-year-old D-Day vet receives French Legion of Honor Medal",
-      "summary": "The French government bestowed its highest medals for honor to a 103-year-old World War II veteran during a ceremony held at the U.S. Army Institute for Religious Leadership, Nov. 10.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579216/103-year-old-d-day-vet-receives-french-legion-honor-medal",
-      "publishedAt": "2026-11-12T19:53:37Z"
-    },
-    {
-      "id": "fccd50d06375e0a97333771f",
-      "title": "Vets groups slam House for quietly passing divisive benefits bill on Veterans Day",
-      "summary": "\"On a day when America honors the brave men and women who stepped forward to defend our freedom, House leaders chose to sneak through legislation threatening earned benefits for millions of veterans,” the head of Disabled American Veterans said.",
-      "category": "Defense",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/take-care-americas-veterans-act-benefits-cuts-controversy/",
-      "publishedAt": "2026-11-12T19:27:15Z"
     }
   ],
   "nextPage": "pages/page-2.json"
