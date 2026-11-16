@@ -1,5 +1,113 @@
 [
   {
+    "id": "c01fb5e45f8e3f5aee7154f5",
+    "title": "Elite red team brings realistic cyber testing to operational aviation systems",
+    "summary": "The U.S. Navy’s Naval Aviation Red Team (AIR-RT) has earned official certification from the NSA and accreditation from U.S. Cyber Command, bolstering the fleet's ability to simulate nation-state cyberattacks and defend tactical aircraft against advanced digital threats.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579438/elite-red-team-brings-realistic-cyber-testing-operational-aviation-systems",
+    "publishedAt": "2026-11-16T18:48:20Z"
+  },
+  {
+    "id": "25d7d2318584387a33550109",
+    "title": "Bringing the Future Forward: Inside Agile Flag’s Super Intelligence Implementation",
+    "summary": "U.S. Air Force Airmen assigned to 15th Air Force participated in Agile Flag at Shaw Air Force Base, South Carolina, from Nov. 1 to Nov. 5. Agile Flag was designed to build combat-ready Airmen and teams able to recover, refuel, rearm, repair, and launch aircraft from austere, unfamiliar locations under attack.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579433/bringing-future-forward-inside-agile-flags-super-intelligence-implementation",
+    "publishedAt": "2026-11-16T18:35:43Z"
+  },
+  {
+    "id": "6a1ad5c4fa96502ba518b8fa",
+    "title": "USS Minneapolis-Saint Paul Marks 250th Anniversary of Statia Day",
+    "summary": "USS Minneapolis-Saint Paul (LCS 21) joined the people of Sint Eustatius, known locally as Statia, Nov. 16, to commemorate the 250th anniversary of the island’s historic “First Salute” to the United States.",
+    "category": "Navy",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579430/uss-minneapolis-saint-paul-marks-250th-anniversary-statia-day",
+    "publishedAt": "2026-11-16T18:11:20Z"
+  },
+  {
+    "id": "e7b581c2950a64ba49243c67",
+    "title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
+    "summary": "Europe's defense ministries are looking to limit dependency on American technology and major software company Palantir Technologies.",
+    "category": "Defense",
+    "sourceName": "Defense News",
+    "sourceUrl": "https://www.defensenews.com/news/2026/11/16/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence/",
+    "publishedAt": "2026-11-16T18:00:00Z"
+  },
+  {
+    "id": "53c4b374f0fe9fff255c21ac",
+    "title": "Media Alert: Santa Claus is coming to town on an MH-60S Seahawk helicopter (Courtesy of the U.S. Navy)",
+    "summary": "Adm. Santa Claus will spread holiday cheer and conduct aerial reconnaissance from a U.S. Navy MH-60S Seahawk helicopter over Southern Maryland during a holiday flight with the Air Test and Evaluation Squadron (HX) 21 \"Blackjacks\" on Dec. 8, 2026.",
+    "category": "Navy",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579428/media-alert-santa-claus-coming-town-mh-60s-seahawk-helicopter-courtesy-us-navy",
+    "publishedAt": "2026-11-16T17:32:48Z"
+  },
+  {
+    "id": "d131b2a294effc72e2747ba0",
+    "title": "ARTRANS Leads Modernization Efforts with IBS-Cloud Native Training at Fort Eustis",
+    "summary": "In alignment with the U.S. Army’s strategic push for continuous modernization and cloud integration, cargo booking specialists from across U.S. Army Transportation Command (ARTRANS) converged at the Fort Eustis Education Center in November 2026, to prepare for an enterprise-wide digital transition.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579427/artrans-leads-modernization-efforts-with-ibs-cloud-native-training-fort-eustis",
+    "publishedAt": "2026-11-16T17:27:23Z"
+  },
+  {
+    "id": "fda6c3b0492574ed3c583c40",
+    "title": "Open Water Alternative Navigation: New Technology Promises Aid to GPS-Denied, Ocean-Flying Drones",
+    "summary": "GPS denial by jamming, spoofing, and other adversarial tactics can severely degrade the ability of uncrewed autonomous vehicles (UAV) to navigate and stay on mission.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579424/open-water-alternative-navigation-new-technology-promises-aid-gps-denied-ocean-flying-drones",
+    "publishedAt": "2026-11-16T17:11:56Z"
+  },
+  {
+    "id": "8aeff199abcee37270a073f9",
+    "title": "US and Russia to oppose talks on limiting autonomous weapons",
+    "summary": "Major arms producers the U.S. and Russia look set to oppose a push at a global meeting to launch negotiations on legally binding rules for autonomous weapons.",
+    "category": "Defense",
+    "sourceName": "Defense News",
+    "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/11/16/us-and-russia-to-oppose-talks-on-limiting-autonomous-weapons/",
+    "publishedAt": "2026-11-16T16:53:41Z"
+  },
+  {
+    "id": "c71e410c9e725eb1f6c84218",
+    "title": "Environmental Services Cooperative Agreements provide locals with clean up options",
+    "summary": "Today, the U.S. Army Corps of Engineers is leveraging an alternative federal funding model to accelerate environmental cleanups and return those properties to public and commercial use",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579420/environmental-services-cooperative-agreements-provide-locals-with-clean-up-options",
+    "publishedAt": "2026-11-16T16:50:23Z"
+  },
+  {
+    "id": "e03d1e3f6219de84a2c0b88d",
+    "title": "Army’s inaugural water technology demo advances collaboration, capabilities across defense community",
+    "summary": "SCHOFIELD BARRACKS, Hawaii – U.S. Army DEVCOM Ground Vehicle Systems Center, in partnership with the 25th Infantry Division, brought together military leaders, Soldiers and industry partners earlier this fall to accelerate new water technology acquisition and transition emerging commercial capabilities into solutions that drive Army readiness and…",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579422/armys-inaugural-water-technology-demo-advances-collaboration-capabilities-across-defense-community",
+    "publishedAt": "2026-11-16T16:49:08Z"
+  },
+  {
+    "id": "3cad029bf3d328e680427c3a",
+    "title": "Meeting on the 'X': ARTRANS, Joint Partners Align Strategic Logistics for SWORD 27",
+    "summary": "U.S. Army Chief Warrant Officer 3 Thomas Jackson, 597th Transportation Brigade, ARTRANS, “Rapid Support,” transportation officer, spearheaded critical logistics coordination at the SWORD 27 (Immediate and Swift Response) Mid-Planning Conference at Camp Mackall, North Carolina, Nov.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579418/meeting-x-artrans-joint-partners-align-strategic-logistics-sword-27",
+    "publishedAt": "2026-11-16T16:30:27Z"
+  },
+  {
+    "id": "27e772ebc56a8fc9fb45d734",
+    "title": "Troops in unsafe barracks can get temporary housing on or off base, Pentagon says",
+    "summary": "“The Department has more barracks data than it has ever had,” one advocate said. “We’re still relying on someone walking into a room to see the problem.” The post Troops in unsafe barracks can get temporary housing on or off base, Pentagon says appeared first on Task & Purpose .",
+    "category": "Defense",
+    "sourceName": "Task & Purpose",
+    "sourceUrl": "https://taskandpurpose.com/news/barracks-emergency-orders/",
+    "publishedAt": "2026-11-16T15:58:04Z"
+  },
+  {
     "id": "9c9f30391422a703a362b2d8",
     "title": "Eighth Army hosts Korean War veterans, reunited in honor of a sacrifice that shaped history",
     "summary": "Eighth Army welcomed approximately 30 Korean War veterans from the Korean War Veterans Association Seoul Branch to its headquarters at Camp Humphreys, Nov. 5, for a day honoring their service, sacrifice and lasting contributions to the U.S.-ROK alliance.",
@@ -1168,203 +1276,5 @@
     "sourceName": "DVIDS U.S. Military News",
     "sourceUrl": "https://www.dvidshub.net/news/578830/six-warrior-medics-excel-graduate-h2f-course",
     "publishedAt": "2026-11-06T19:42:51Z"
-  },
-  {
-    "id": "3df9daf952c004184c8465a8",
-    "title": "SOUTHCOM Commander Supports Military Youth at Doral Purple Star School Designation",
-    "summary": "U.S. Marine Corps Gen. Francis L. Donovan, commander of U.S. Southern Command (SOUTHCOM), participated in a Military Child Education Coalition forum, Nov. 5, 2026, at J.C. Bermudez High School to recognize Miami-Dade County Public Schools for their commitment in supporting the unique needs of military-connected children.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578829/southcom-commander-supports-military-youth-doral-purple-star-school-designation",
-    "publishedAt": "2026-11-06T19:34:35Z"
-  },
-  {
-    "id": "2e72a32027f318e3cd77389a",
-    "title": "188th Wing Guardsman brings physical therapy perspective to Air Force fitness effort",
-    "summary": "In 2026, Maj. Isaac Bitter with the 188th Medical Group at Ebbing Air National Guard Base, had an opportunity to bring that perspective to a team working on an Air Force-wide challenge: shaping and supporting the service’s physical fitness program.",
-    "category": "Air Force",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578828/188th-wing-guardsman-brings-physical-therapy-perspective-air-force-fitness-effort",
-    "publishedAt": "2026-11-06T19:30:21Z"
-  },
-  {
-    "id": "cc7a82fdae9cc7f89de0ae9b",
-    "title": "US, Colombian troops kick off exercise amid the Pentagon’s Western Hemisphere pivot",
-    "summary": "Hundreds of American and Colombian troops kicked off a sprawling military exercise in Colombia this week as the U.S. military sharpens its focus on the Western Hemisphere.",
-    "category": "Defense",
-    "sourceName": "Defense News",
-    "sourceUrl": "https://www.defensenews.com/global/the-americas/2026/11/06/us-colombian-troops-kick-off-exercise-amid-the-pentagons-western-hemisphere-pivot/",
-    "publishedAt": "2026-11-06T19:27:32Z"
-  },
-  {
-    "id": "d1536dd3995af28e5e60dabb",
-    "title": "III MEF Extends Curfew for Junior Members in Okinawa Following Murder Indictment",
-    "summary": "The U.S. military extended a curfew on Okinawa for junior service members that was scheduled to expire on Sunday and is continuing to impose restrictions on the purchase and consumption of alcohol. The curfew for grades E-1 through E-4 was extended for 30 days and restricts them to their personal housing from 12 a.m.",
-    "category": "Defense",
-    "sourceName": "USNI News",
-    "sourceUrl": "https://news.usni.org/2026/11/06/iii-mef-extends-curfew-for-junior-members-in-okinawa-following-murder-indictment",
-    "publishedAt": "2026-11-06T19:10:38Z"
-  },
-  {
-    "id": "0b49d9911ce3e7220fa61172",
-    "title": "BCE Consulting outlines the critical elements of layered air defense architecture",
-    "summary": "What does the future of layered air defense look like? BCE Consulting lays out what it will take to protect American forces.",
-    "category": "Defense",
-    "sourceName": "Defense News",
-    "sourceUrl": "https://www.defensenews.com/video/2026/11/06/bce-consulting-outlines-the-critical-elements-of-layered-air-defense-architecture/",
-    "publishedAt": "2026-11-06T17:28:08Z"
-  },
-  {
-    "id": "e8a074486d0e866ccde96593",
-    "title": "Corps dewaters century-old Allegheny River lock chamber for critical repairs",
-    "summary": "At Allegheny River Lock and Dam 4, the U.S. Army Corps of Engineers Pittsburgh District completely drained the lock chamber, deployed dozens of personnel, cranes, boats, barges, and heavy equipment, and halted navigation through the vital inland waterway link for months because of a piece of wood.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578805/corps-dewaters-century-old-allegheny-river-lock-chamber-critical-repairs",
-    "publishedAt": "2026-11-06T16:34:39Z"
-  },
-  {
-    "id": "c1ab922aa18a4d79477c1f76",
-    "title": "Two in a row: Armaments Center receives Hopper Award for Software Maintenance Excellence for second straight year",
-    "summary": "PICATINNY ARSENAL, N.J. - For the third year, and second consecutive, the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center has received the prestigious Rear Admiral Grace M. Hopper Award for Software Maintenance Excellence.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578804/two-row-armaments-center-receives-hopper-award-software-maintenance-excellence-second-straight-year",
-    "publishedAt": "2026-11-06T16:30:10Z"
-  },
-  {
-    "id": "b396a6f15334bdfa29988797",
-    "title": "NETCOM engages industry to advance innovation, global network modernization",
-    "summary": "FORT HUACHUCA, Ariz. — As the Army continues to modernize its network and strengthen its ability to operate across multiple domains, leaders from the U.S.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578800/netcom-engages-industry-advance-innovation-global-network-modernization",
-    "publishedAt": "2026-11-06T16:25:13Z"
-  },
-  {
-    "id": "523f1d010a1018db9ff2cf97",
-    "title": "U.S. Army honors Wisconsin son, killed on an Italian battlefield in WWI",
-    "summary": "SAN DONÀ DI PIAVE, Italy – Lt. Edward Michael McKey, an American Red Cross volunteer, arrived in Italy with a simple purpose – to help those caught in the devastation of war. He carried no rifle.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578794/us-army-honors-wisconsin-son-killed-italian-battlefield-wwi",
-    "publishedAt": "2026-11-06T16:11:54Z"
-  },
-  {
-    "id": "fe42ca0acc0b1289df26a76c",
-    "title": "Health Facility Planning Agency cases colors, commemorates decades of service",
-    "summary": "The U.S. Army Health Facility Planning Agency formally cased its colors during an inactivation ceremony at Defense Health Headquarters, Sept. 22, marking the completion of the organization’s service to Army Medicine and the nation.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578798/health-facility-planning-agency-cases-colors-commemorates-decades-service",
-    "publishedAt": "2026-11-06T16:02:47Z"
-  },
-  {
-    "id": "c2e844d865a62dd3a72b0645",
-    "title": "US European Command launches vigilance campaign as hybrid threats mount",
-    "summary": "U.S. European Command is calling on U.S. troops, family members, and civilian employees to stay alert for suspicious behavior and to cover their digital tracks while moving around Europe.",
-    "category": "Defense",
-    "sourceName": "Defense News",
-    "sourceUrl": "https://www.defensenews.com/news/2026/11/06/us-european-command-launches-vigilance-campaign-as-hybrid-threats-mount/",
-    "publishedAt": "2026-11-06T15:39:51Z"
-  },
-  {
-    "id": "428d203d6f7a84de2b7994a7",
-    "title": "Fort Buchanan firefighters teach fire safety to Coast Guard preschoolers",
-    "summary": "Installation U.S. Army civilian firefighters taught preschoolers to recognize firefighters as trusted helpers in emergencies Oct. 9 at the U.S. Coast Guard Child Development Center in Río Bayamón Housing, reinforcing fire safety awareness and strengthening ties with military families.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578792/fort-buchanan-firefighters-teach-fire-safety-coast-guard-preschoolers",
-    "publishedAt": "2026-11-06T15:28:30Z"
-  },
-  {
-    "id": "c6e9a476adf25a2db76dbfb1",
-    "title": "US Air Force eyes reviving WWII air bases in the Pacific",
-    "summary": "The U.S. Air Force hopes to conduct more than 6,000 aircraft operations annually at airfields on three American islands in the northwest Pacific Ocean.",
-    "category": "Air Force",
-    "sourceName": "Defense News",
-    "sourceUrl": "https://www.defensenews.com/global/asia-pacific/2026/11/06/us-air-force-eyes-reviving-wwii-air-bases-in-the-pacific/",
-    "publishedAt": "2026-11-06T15:28:23Z"
-  },
-  {
-    "id": "133f37e1ed1204a4aa848b4e",
-    "title": "Lost in 1951, Korean War Soldier to be Laid to Rest in Illinois",
-    "summary": "The remains of U.S. Army Sgt. Joseph Alfred Platzkoester, missing from the Korean War, will be interred November 11 at Green Mount Catholic Cemetery in Belleville, Illinois. Services and interment are being coordinated by Renner’s Funeral Home.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578790/lost-1951-korean-war-soldier-laid-rest-illinois",
-    "publishedAt": "2026-11-06T15:12:43Z"
-  },
-  {
-    "id": "6265ba02b3100e9e5344673e",
-    "title": "The Navy’s trainer is now the biggest test of the Pentagon’s acquisition reform efforts",
-    "summary": "With the competition effectively reduced to one bidder, the Navy faces a choice between falling back on old acquisition habits and showing that its reforms can work under pressure, writes Robbin Laird.",
-    "category": "Navy",
-    "sourceName": "Breaking Defense",
-    "sourceUrl": "https://breakingdefense.com/2026/11/the-navys-trainer-is-now-the-biggest-test-of-the-pentagons-acquisition-reform-efforts/",
-    "publishedAt": "2026-11-06T15:08:00Z"
-  },
-  {
-    "id": "b24a9c6c8b64b7ec1b1ece89",
-    "title": "How World War I advanced U.S. military medicine",
-    "summary": "U.S. military medical teams accelerated lasting innovations during World War I through breakthroughs in combat care, including frontline surgery, blood storage, mental healthcare, physical rehabilitation, and additional innovative treatments of warfighters — transforming military medicine into a collaborative, lifesaving system, laying the…",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578786/world-war-advanced-us-military-medicine",
-    "publishedAt": "2026-11-06T14:58:39Z"
-  },
-  {
-    "id": "c84f68d30dc66a01bbde45e9",
-    "title": "National Guard expands free childcare program for drill weekends, but with some caveats",
-    "summary": "The expansion aims to make it easier for soldiers and their families, but one childcare expert argued that some of the eligibility requirements may limit its effectiveness. The post National Guard expands free childcare program for drill weekends, but with some caveats appeared first on Task & Purpose .",
-    "category": "Army",
-    "sourceName": "Task & Purpose",
-    "sourceUrl": "https://taskandpurpose.com/news/national-guard-childcare-drill-weekend/",
-    "publishedAt": "2026-11-06T14:58:22Z"
-  },
-  {
-    "id": "5b099faeb239efa224039483",
-    "title": "Lost in 1945, WWII Airman Will Be Laid to Rest in Florida",
-    "summary": "The remains of U.S. Army Air Forces Sgt. Leonard J. McNeill, 27, of Orlando, Florida, who died as a prisoner of war during World War II, will be interred Nov. 11 at Greenwood Cemetery in Orlando, Florida. Services and interment are being coordinated by Colonial Funeral Home.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578789/lost-1945-wwii-airman-will-laid-rest-florida",
-    "publishedAt": "2026-11-06T14:54:20Z"
-  },
-  {
-    "id": "65b9fe06afe271ffbe66456d",
-    "title": "DeCA honors 251 years of the U.S. Marine Corps",
-    "summary": "The Defense Commissary Agency honors the U.S. Marine Corps on its 251st birthday Nov. 10, recognizing the Corps’ enduring legacy and DeCA’s long-standing support for Marines and their families.",
-    "category": "Marine Corps",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578787/deca-honors-251-years-us-marine-corps",
-    "publishedAt": "2026-11-06T14:40:58Z"
-  },
-  {
-    "id": "28d7cf677dda767822d1c254",
-    "title": "65th FAB Recognized as Nation’s Top Artillery Battery",
-    "summary": "Soldiers from Headquarters and Headquarters Battery, 65th Field Artillery Brigade gathered at Camp Williams to receive the Alexander Hamilton Award on Thursday, Nov. 5, 2026, officially recognizing the unit as the nation's best Army National Guard battery of 2025. The award was presented by Brig. Gen. Jason T.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578785/65th-fab-recognized-nations-top-artillery-battery",
-    "publishedAt": "2026-11-06T14:35:50Z"
-  },
-  {
-    "id": "59340f148b7da5299bb27399",
-    "title": "Key Space Force satellites can’t talk to each other, likely requiring $1B solution: Sources",
-    "summary": "To translate between the SpaceX-built SDN Backbone and other Pentagon communications and missile tracking satellites, sources said the Space Force is eyeing 12 or 13 Space Exchange Point birds.",
-    "category": "Space Force",
-    "sourceName": "Breaking Defense",
-    "sourceUrl": "https://breakingdefense.com/2026/11/key-space-force-satellites-cant-talk-to-each-other-likely-requiring-1b-solution-sources/",
-    "publishedAt": "2026-11-06T14:15:00Z"
-  },
-  {
-    "id": "b5da1378f9e12fe86f80e762",
-    "title": "Corps of Engineers, TVA earn national geology award for Chickamauga Lock project",
-    "summary": "The U.S. Army Corps of Engineers Nashville District and the Tennessee Valley Authority received the 2026 Outstanding Environmental and Engineering Geologic Project Award on Sept. 16, 2026.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578777/corps-engineers-tva-earn-national-geology-award-chickamauga-lock-project",
-    "publishedAt": "2026-11-06T13:55:43Z"
   }
 ]
