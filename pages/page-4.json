@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T22:52:19Z",
+  "generatedAt": "2026-11-16T06:36:40Z",
   "articles": [
+    {
+      "id": "34c0730e03232177bf2a5570",
+      "title": "U.S. Forces Disable Cargo Vessel Attempting to Violate Naval Blockade",
+      "summary": "TAMPA, Fla. — U.S. Central Command (CENTCOM) forces disabled a commercial vessel in the Gulf of Oman, Nov. 7, after the ship’s civilian crew ignored repeated warnings and attempted to violate the naval blockade against Iran multiple times.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578872/us-forces-disable-cargo-vessel-attempting-violate-naval-blockade",
+      "publishedAt": "2026-11-07T20:31:51Z"
+    },
+    {
+      "id": "29c2fbd4111230158cb304bc",
+      "title": "Passing on The Tradition: Father, Son Serve Together as Oldest, Youngest Marine at Birthday Ball",
+      "summary": "MYRTLE BEACH, S.C. – The passing of U.S. Marine Corps tradition and legacy took on a special polish for Marines and Sailors with Combat Logistics Battalion 26, 2nd Marine Logistics Group, during the battalion’s 251st Marine Corps birthday ball, Nov. 6, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578869/passing-tradition-father-son-serve-together-oldest-youngest-marine-birthday-ball",
+      "publishedAt": "2026-11-07T15:27:49Z"
+    },
+    {
+      "id": "85b8a8ca16646fda5a85567d",
+      "title": "CENTCOM Launches Task Force to Disrupt Iranian Ground Transit Routes Supporting Illegal Shipments",
+      "summary": "TAMPA, Fla. — On Nov. 7, the commander of U.S. Central Command (CENTCOM) directed the establishment of a task force that will support ongoing U.S. government efforts to prevent Iran from using ground routes to transport advanced weapons and other materials.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578868/centcom-launches-task-force-disrupt-iranian-ground-transit-routes-supporting-illegal-shipments",
+      "publishedAt": "2026-11-07T13:31:30Z"
+    },
+    {
+      "id": "ea611d9f5899cc2554ff5050",
+      "title": "The 28th Thai-American Consultation Senior Staff Talks strengthen Alliance",
+      "summary": "CAMP H.M. SMITH, Hawaii — Senior leaders from the Royal Thai Army and U.S. Pacific Command participated in the 28th Thai-American Consultation Senior Staff Talks at Camp H. M. Smith on Nov. 6, 2026, reinforcing the longstanding military partnership between Thailand and the United States.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578865/28th-thai-american-consultation-senior-staff-talks-strengthen-alliance",
+      "publishedAt": "2026-11-07T01:32:07Z"
+    },
+    {
+      "id": "338df1dce2ebab33d179429a",
+      "title": "CNFJ/RJ Celebrates 100 Years of Heritage Site",
+      "summary": "FLEET ACTIVITIES YOKOSUKA, Japan – Commander U.S. Naval Forces Japan/Navy Region Japan (CNFJ/RJ) commemorated the 100th anniversary of its current Headquarters, historic Building C-1, during a ceremony at Fleet Activities Yokosuka, Nov. 7, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578856/cnfj-rj-celebrates-100-years-heritage-site",
+      "publishedAt": "2026-11-06T23:13:02Z"
+    },
     {
       "id": "d332a71f2672673caa9f1a79",
       "title": "The Idaho Army National Guard and Boise Fire Department Train to Enhance Hoist Capabilities",
@@ -244,51 +289,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578777/corps-engineers-tva-earn-national-geology-award-chickamauga-lock-project",
       "publishedAt": "2026-11-06T13:55:43Z"
-    },
-    {
-      "id": "2a1f36b1dbd2752db4277279",
-      "title": "7th Communication Battalion celebrates enduring friendship at Moon Festival",
-      "summary": "U.S. Marines with 7th Communication Battalion, III Marine Expeditionary Force Information Group, joined residents, staff and community members for the annual Moon Festival at Hikarigaoka Nursing Home, Oct. 31, 2026, continuing a friendship spanning more than three decades.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578761/7th-communication-battalion-celebrates-enduring-friendship-moon-festival",
-      "publishedAt": "2026-11-06T06:12:19Z"
-    },
-    {
-      "id": "b23f729996da222fa97f0ea2",
-      "title": "Joint effort prepares military housing for incoming families",
-      "summary": "KADENA AIR BASE, Japan — U.S. Air Force Airmen assigned to the 18th Civil Engineer Group and U.S. Marines worked together over six weeks across Okinawa, Japan, to prepare more than 120 military homes for incoming families, combining maintenance support and administrative changes to improve housing operations.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578762/joint-effort-prepares-military-housing-incoming-families",
-      "publishedAt": "2026-11-06T06:01:57Z"
-    },
-    {
-      "id": "6ee00240fb73b3e22bc87da8",
-      "title": "Mustang of the Week: TSgt Wendall Curry",
-      "summary": "U.S. Air Force Tech. Sgt. Wendall Curry, 51st Comptroller Squadron noncommissioned officer in charge of travel, was recognized as Mustang of the Week for his dedication to supporting Airmen, strengthening team morale and demonstrating exceptional leadership while maintaining financial readiness for the 51st Fighter Wing at Osan Air Base, Republic…",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578760/mustang-week-tsgt-wendall-curry",
-      "publishedAt": "2026-11-06T05:01:49Z"
-    },
-    {
-      "id": "ecbd73624e8eb67d8b1e2f25",
-      "title": "Navy, NASA withdraw Final EIS",
-      "summary": "JOINT BASE PEARL HARBOR-HICKAM, Hawaii — The U.S. Navy and the National Aeronautics and Space Administration (NASA) formally withdrew the Final Environmental Impact Statement (EIS) covering Pacific Missile Range Facility (PMRF) and Kokee Park Geophysical Observatory (KPGO) Nov.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578757/navy-nasa-withdraw-final-eis",
-      "publishedAt": "2026-11-06T01:20:27Z"
-    },
-    {
-      "id": "6606a56ff63616b88351c6d6",
-      "title": "Three Generations, One Legacy: The Hernandez Family Continues Marine Corps Tradition",
-      "summary": "Platoon 2115 stands at attention, unmoving in the frigid morning air, patiently waiting to receive the Eagle, Globe and Anchor they’ve all earned after a grueling 54 hours. U.S. Marine Corps Recruit. Noel Hernandez waits among the platoon, not knowing his father, retired Marine Corps 1st Sgt.",
-      "category": "Marine Corps",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578755/three-generations-one-legacy-hernandez-family-continues-marine-corps-tradition",
-      "publishedAt": "2026-11-06T00:17:25Z"
     }
   ]
 }

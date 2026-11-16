@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T22:52:19Z",
+  "generatedAt": "2026-11-16T06:36:40Z",
   "articles": [
+    {
+      "id": "3ae1f49eeda6a75dde967d34",
+      "title": "Pentagon ‘greenlit’ permanent presence of US troops in Poland, official says",
+      "summary": "The Pentagon “greenlit” the permanent presence of U.S. troops in Poland, with the final decision to be made by the White House in early December, Poland's defense minister said.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/global/europe/2026/11/12/pentagon-greenlit-permanent-presence-of-us-troops-in-poland-official-says/",
+      "publishedAt": "2026-11-12T21:22:17Z"
+    },
+    {
+      "id": "fb3eb0547d521517b3cac2ce",
+      "title": "USS Michael Murphy Returns to Pearl Harbor Following an 11-Month Combat Deployment",
+      "summary": "PEARL HARBOR, Hawaii — Arleigh Burke-class guided-missile destroyer USS Michael Murphy (DDG 112), with embarked Helicopter Maritime Strike Squadron (HSM) 71 Detachment 2, returned to its homeport of Joint Base Pearl Harbor-Hickam, Hawaii following an 11-month deployment to the U.S.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579226/uss-michael-murphy-returns-pearl-harbor-following-11-month-combat-deployment",
+      "publishedAt": "2026-11-12T20:39:18Z"
+    },
+    {
+      "id": "58749b7d56d0e70643ea8254",
+      "title": "Atkinson joins Drill Sergeant Academy as 34th commandant",
+      "summary": "“This is an important occasion for the U.S. Army Drill Sergeant Academy and Fort Jackson,” said Brig. Gen. Jeremy Wilson, Fort Jackson commander. “A change in commandant represents more than a change in leadership.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579227/atkinson-joins-drill-sergeant-academy-34th-commandant",
+      "publishedAt": "2026-11-12T20:36:32Z"
+    },
+    {
+      "id": "ea353827b1128e8cce3e2225",
+      "title": "Facility technology medical program ends sunsets",
+      "summary": "For more than 10 years, the FTI-MED program provided technical expertise in the design, development, procurement, integration, installation, and project management oversight for the implementation of Facility Communications Distribution Systems (FCDS) for the Department of Defense medical community.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579223/facility-technology-medical-program-ends-sunsets",
+      "publishedAt": "2026-11-12T20:14:00Z"
+    },
+    {
+      "id": "cb5721241e642216906aeb67",
+      "title": "Giant salvinia discovered on Millwood Lake",
+      "summary": "The U.S. Army Corps of Engineers is alerting Millwood Lake visitors that giant salvinia, an invasive aquatic plant, was discovered in the lake in late October 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579221/giant-salvinia-discovered-millwood-lake",
+      "publishedAt": "2026-11-12T20:00:46Z"
+    },
     {
       "id": "ee1c123e21bf3739307c45d4",
       "title": "Ayala takes command of VX-30 ‘Bloodhounds’",
@@ -316,51 +361,6 @@
       "sourceName": "Task & Purpose",
       "sourceUrl": "https://taskandpurpose.com/news/air-force-medical-malpractice-lawsuit/",
       "publishedAt": "2026-11-10T16:22:58Z"
-    },
-    {
-      "id": "f5de6ca3caaf3cd54f951a33",
-      "title": "Pentagon can’t track millions of F-35 spare parts, watchdog finds",
-      "summary": "The GAO reported that while the DoD's F-35 program \"is the costliest in its history,\" the department \"struggles to account\" for its parts.",
-      "category": "Air Force",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/pentagon/2026/11/10/pentagon-cant-track-millions-of-f-35-spare-parts-watchdog-finds/",
-      "publishedAt": "2026-11-10T15:41:12Z"
-    },
-    {
-      "id": "09e90d0eb72de405e56f085e",
-      "title": "African Lion 2027: Allies and partners set the stage for joint warfighting readiness",
-      "summary": "VICENZA, Italy — The success of any multinational military exercise begins long before the first troops arrive at a training area. For African Lion 2027, the main planning event held in Vicenza, Italy, Nov. 3–6, represents a critical step in preparing the Tunisian portion of the U.S. Africa Command’s largest annual joint exercise led by U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579037/african-lion-2027-allies-and-partners-set-stage-joint-warfighting-readiness",
-      "publishedAt": "2026-11-10T14:50:53Z"
-    },
-    {
-      "id": "f93fbcf6c8f7b3eb9b776acc",
-      "title": "A Pentagon impeachment showdown, plus defense funding in limbo",
-      "summary": "Hegseth could face a high-profile impeachment battle as Congress struggles to settle major defense spending decisions before the new year.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/a-pentagon-impeachment-showdown-plus-defense-funding-in-limbo/",
-      "publishedAt": "2026-11-10T14:22:50Z"
-    },
-    {
-      "id": "8d543884c956b7cbbcd3e7d8",
-      "title": "Naval War College's Maritime Advanced Warfighting School studies American Revolution operations, visits multiple battlefields",
-      "summary": "The U.S. Naval War College (NWC) Maritime Advanced Warfighting School (MAWS) conducted a staff ride with students, staff, and faculty to battlefields in upstate New York and Vermont, Oct. 13-16, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579046/naval-war-colleges-maritime-advanced-warfighting-school-studies-american-revolution-operations-visits-multiple-battlefields",
-      "publishedAt": "2026-11-10T13:32:15Z"
-    },
-    {
-      "id": "f6b7b2ee72bf36d841a4e2dd",
-      "title": "130th Airlift Wing dedicates Airman and Family Readiness Center in honor of Elisabeth Melton",
-      "summary": "The 130th Airlift Wing dedicated its Airman and Family Readiness Center at McLaughlin Air National Guard Base on Nov. 7, 2026, in honor of Elisabeth “Beth” Melton, whose work supporting Airmen and their families left a lasting mark on the wing.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579044/130th-airlift-wing-dedicates-airman-and-family-readiness-center-honor-elisabeth-melton",
-      "publishedAt": "2026-11-10T13:21:05Z"
     }
   ],
   "nextPage": "page-3.json"
