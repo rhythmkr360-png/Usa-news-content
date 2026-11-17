@@ -1,7 +1,115 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-17T03:56:08Z",
+  "generatedAt": "2026-11-17T16:06:12Z",
   "articles": [
+    {
+      "id": "8d543884c956b7cbbcd3e7d8",
+      "title": "Naval War College's Maritime Advanced Warfighting School studies American Revolution operations, visits multiple battlefields",
+      "summary": "The U.S. Naval War College (NWC) Maritime Advanced Warfighting School (MAWS) conducted a staff ride with students, staff, and faculty to battlefields in upstate New York and Vermont, Oct. 13-16, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579046/naval-war-colleges-maritime-advanced-warfighting-school-studies-american-revolution-operations-visits-multiple-battlefields",
+      "publishedAt": "2026-11-10T13:32:15Z"
+    },
+    {
+      "id": "f6b7b2ee72bf36d841a4e2dd",
+      "title": "130th Airlift Wing dedicates Airman and Family Readiness Center in honor of Elisabeth Melton",
+      "summary": "The 130th Airlift Wing dedicated its Airman and Family Readiness Center at McLaughlin Air National Guard Base on Nov. 7, 2026, in honor of Elisabeth “Beth” Melton, whose work supporting Airmen and their families left a lasting mark on the wing.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579044/130th-airlift-wing-dedicates-airman-and-family-readiness-center-honor-elisabeth-melton",
+      "publishedAt": "2026-11-10T13:21:05Z"
+    },
+    {
+      "id": "0fd265cd77c8564394833d03",
+      "title": "Hegseth vows to fight impeachment ‘spectacle’",
+      "summary": "“What one disgruntled and defeated congressman is attempting is not oversight, and it’s not accountability. It’s a political spectacle, a personal manifesto driven by ego and resentment,” Hegseth told reporters at the Pentagon this morning.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/hegseth-vows-to-fight-impeachment-spectacle/",
+      "publishedAt": "2026-11-10T13:17:55Z"
+    },
+    {
+      "id": "5370f0d9c0d336e2fa107a18",
+      "title": "USAG Stuttgart commander conducts oath of enlistment and welcomes new Army recruit",
+      "summary": "For a moment, U.S. Army Garrison Stuttgart was home to the U.S. Army’s newest recruit following an Oath of Enlistment Ceremony on Panzer Kaserne, Nov. 6. Before administering the oath of enlistment, USAG Stuttgart Commander Col. Edward J.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579038/usag-stuttgart-commander-conducts-oath-enlistment-and-welcomes-new-army-recruit",
+      "publishedAt": "2026-11-10T11:01:27Z"
+    },
+    {
+      "id": "dadde75194e3658233259dd1",
+      "title": "Lake Jackson Native Serving with Navy in Cuba Promoted to Senior Chief",
+      "summary": "Courtesy story by By Chief Mass Communication Specialist Sean Furey, Navy Office of Community Outreach MILLINGTON, Tenn. — Senior Chief Petty Officer Arland Yancey, a native of Lake Jackson, Texas, was recently promoted to his current rank while stationed at U.S. Navy Medicine Readiness and Training Command (USNMRTC) Guantanamo Bay.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579028/lake-jackson-native-serving-with-navy-cuba-promoted-senior-chief",
+      "publishedAt": "2026-11-09T23:30:33Z"
+    },
+    {
+      "id": "53332e7dc51aa8149e1e909b",
+      "title": "USS Lenah Sutcliffe Higbee holds change of command ceremony",
+      "summary": "U.S. Navy Cmdr. Osei Asante relieved U.S. Navy Cmdr. Jack Skahen as commanding officer of Arleigh Burke-class guided-missile destroyer USS Lenah Sutcliffe Higbee (DDG 123) during a change of command ceremony at the USS Midway Museum on Nov. 6, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579024/uss-lenah-sutcliffe-higbee-holds-change-command-ceremony",
+      "publishedAt": "2026-11-09T22:52:23Z"
+    },
+    {
+      "id": "b56a2a962b145ed7f322d639",
+      "title": "Fueling Air Dominance: 593rd CSC Supports F-22 Operations During Keen Sword 27",
+      "summary": "During Keen Sword, Soldiers from the 593rd Corps Sustainment Command, headquartered at Joint Base Lewis-McChord, Wash., played a critical sustainment role by supporting fuel operations that enabled the successful employment of U.S. Air Force F-22 Raptor aircraft.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579022/fueling-air-dominance-593rd-csc-supports-f-22-operations-during-keen-sword-27",
+      "publishedAt": "2026-11-09T22:48:48Z"
+    },
+    {
+      "id": "c86d2659ee20cb9619b34ef1",
+      "title": "Air Guard’s mobility, global reach is combat tested, combat proven",
+      "summary": "The Air National Guard is a combat force in daily use – asked to deter, defend, deploy and fight around the world, and its demand to project power forward by way of airlift planes and air tankers is not slowing down.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579017/air-guards-mobility-global-reach-combat-tested-combat-proven",
+      "publishedAt": "2026-11-09T22:45:50Z"
+    },
+    {
+      "id": "50eeb27f47c12b9414293715",
+      "title": "Cpl. Nathan Armstrong - A Marine Willing to Charge into Fire",
+      "summary": "MARINE CORPS BASE CAMP LEJEUNE, N.C. – A normal evening with friends quickly turned into an adrenaline filled night for U.S. Marine Corps Cpl. Nathan Armstrong, who found himself inside a burning vehicle, pulling a man to safety on Aug. 3, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579011/cpl-nathan-armstrong-marine-willing-charge-into-fire",
+      "publishedAt": "2026-11-09T21:48:11Z"
+    },
+    {
+      "id": "fc1fa4202958aeea06d4caba",
+      "title": "Secretary of War visits U.S. Naval War College, announces reforms to ensure senior service colleges are ‘teaching victory’",
+      "summary": "The Honorable Pete Hegseth, U.S. Secretary of War, visited the U.S. Naval War College (NWC) in Newport, Rhode Island, on Nov. 9, 2026, to announce a comprehensive overhaul of the Department of War’s Professional Military Education (PME) system.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579014/secretary-war-visits-us-naval-war-college-announces-reforms-ensure-senior-service-colleges-teaching-victory",
+      "publishedAt": "2026-11-09T21:39:08Z"
+    },
+    {
+      "id": "5c4778d3e26244f2cd7b3781",
+      "title": "Corps to host public meeting, comment period for Berlin Lake Shoreline Management Plan update",
+      "summary": "The U.S. Army Corps of Engineers Pittsburgh District is hosting an open house-style public meeting to review proposed updates to the Berlin Lake Shoreline Management Plan.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579013/corps-host-public-meeting-comment-period-berlin-lake-shoreline-management-plan-update",
+      "publishedAt": "2026-11-09T21:30:58Z"
+    },
+    {
+      "id": "8c19602074b87fd13d5cd136",
+      "title": "Saundersville Boat Ramp at Old Hickory Lake temporarily closing for repairs",
+      "summary": "HENDERSONVILLE, Tenn. (Nov. 9, 2026) – The U.S. Army Corps of Engineers at Old Hickory Lake have scheduled repairs to the Saundersville Boat Ramp at the Saundersville Access Area, located at 106 Caudill Drive.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579008/saundersville-boat-ramp-old-hickory-lake-temporarily-closing-repairs",
+      "publishedAt": "2026-11-09T20:31:35Z"
+    },
     {
       "id": "e49f990cdae365844e15bcb8",
       "title": "Army medical maintainers support joint force readiness through quick-turn repair",
@@ -235,24 +343,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578872/us-forces-disable-cargo-vessel-attempting-violate-naval-blockade",
       "publishedAt": "2026-11-07T20:31:51Z"
-    },
-    {
-      "id": "29c2fbd4111230158cb304bc",
-      "title": "Passing on The Tradition: Father, Son Serve Together as Oldest, Youngest Marine at Birthday Ball",
-      "summary": "MYRTLE BEACH, S.C. – The passing of U.S. Marine Corps tradition and legacy took on a special polish for Marines and Sailors with Combat Logistics Battalion 26, 2nd Marine Logistics Group, during the battalion’s 251st Marine Corps birthday ball, Nov. 6, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578869/passing-tradition-father-son-serve-together-oldest-youngest-marine-birthday-ball",
-      "publishedAt": "2026-11-07T15:27:49Z"
-    },
-    {
-      "id": "85b8a8ca16646fda5a85567d",
-      "title": "CENTCOM Launches Task Force to Disrupt Iranian Ground Transit Routes Supporting Illegal Shipments",
-      "summary": "TAMPA, Fla. — On Nov. 7, the commander of U.S. Central Command (CENTCOM) directed the establishment of a task force that will support ongoing U.S. government efforts to prevent Iran from using ground routes to transport advanced weapons and other materials.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578868/centcom-launches-task-force-disrupt-iranian-ground-transit-routes-supporting-illegal-shipments",
-      "publishedAt": "2026-11-07T13:31:30Z"
     }
   ]
 }

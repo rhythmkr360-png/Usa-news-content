@@ -1,7 +1,115 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-17T03:56:08Z",
+  "generatedAt": "2026-11-17T16:06:12Z",
   "articles": [
+    {
+      "id": "17569ba086acf01ca78a5b1e",
+      "title": "NATO kicks off 11-nation Starlift satellite launch program",
+      "summary": "Notably, four countries that were original participants of the space effort were left out of today’s announcement — France, Hungary, Luxembourg and the United States.",
+      "category": "Space Force",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/nato-kicks-off-11-nation-starlift-satellite-launch-program/",
+      "publishedAt": "2026-11-17T15:34:16Z"
+    },
+    {
+      "id": "cd6bfb3af40dbb68dfd67173",
+      "title": "New Hampshire National Guard breaks ground on new Plymouth Readiness Center",
+      "summary": "The New Hampshire Army National Guard broke ground on the new Plymouth Readiness Center, a $31 million investment in Soldiers, readiness and the future of the Granite State. The 38,288-square-foot facility will replace Plymouth’s 1957 armory with modern, secure space to support training and missions for years to come.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579516/new-hampshire-national-guard-breaks-ground-new-plymouth-readiness-center",
+      "publishedAt": "2026-11-17T15:26:29Z"
+    },
+    {
+      "id": "3b3cf36dce4e34f3a118ed38",
+      "title": "U.S. and Canadian Armies Advance Bilateral Intelligence Modernization Efforts",
+      "summary": "FORT BELVOIR, Va. – In today’s ever-changing battle space of evolving technology and hybrid cyber-attacks, the United States and Canadian armies both have a similar goal: creating ready and equipped modern armies that can operate cohesively across diverse environments with its partners. To achieve this vision, both the U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579518/us-and-canadian-armies-advance-bilateral-intelligence-modernization-efforts",
+      "publishedAt": "2026-11-17T15:12:50Z"
+    },
+    {
+      "id": "bd58f5d89e7f18a7cd4b4ee2",
+      "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
+      "summary": "The Pentagon failed a financial audit for the ninth consecutive year, according to an inspector general report, but an official said a majority of its units passed for the first time.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/pentagon/2026/11/17/pentagon-fails-ninth-straight-audit-despite-progress-in-organizing-finances/",
+      "publishedAt": "2026-11-17T14:35:23Z"
+    },
+    {
+      "id": "b15a722b86e42cdaae256e53",
+      "title": "USAG Stuttgart community member helps lead team to All Army softball win",
+      "summary": "A physical therapy technician assigned at the U.S. Army Health Clinic Stuttgart joined fellow Soldier-athletes from across the globe to claim the Defense Department’s top softball title at the USA Softball Hall of Fame Complex.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579509/usag-stuttgart-community-member-helps-lead-team-all-army-softball-win",
+      "publishedAt": "2026-11-17T14:08:39Z"
+    },
+    {
+      "id": "be769b97d68bd8344ecc0bdc",
+      "title": "USAG Rheinland-Pfalz honors employee’s 57 years of service",
+      "summary": "KAISERSLAUTERN, Germany – A Department of the Army Food Service Supervisor serving at U.S. Army Garrison Rheinland-Pfalz is retiring after more than 57 years of service to the United States military. Mike Young began his career as an Air Transportation specialist with the U.S. Air Force in 1968.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579507/usag-rheinland-pfalz-honors-employees-57-years-service",
+      "publishedAt": "2026-11-17T14:03:00Z"
+    },
+    {
+      "id": "e0102f11bfc72fe67efeedde",
+      "title": "U.S. armor deploys to Lithuania",
+      "summary": "The 1st Infantry Division uncased the colors of the 5th Squadron, 4th Cavalry Regiment and the 82nd Engineer Battalion at Camp Herkus, Pabradė, Lithuania, Nov. 16, 2026. The ceremony marked the deployment of U.S. Abrams tanks to Lithuania for a new rotation in support of Operation Atlantic Resolve. Lithuanian President Gitanas Nausėda, U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579503/us-armor-deploys-lithuania",
+      "publishedAt": "2026-11-17T13:49:14Z"
+    },
+    {
+      "id": "e5b36f31f98cafa3be2067f6",
+      "title": "USAG Rheinland-Pfalz observes Germany’s National Day of Mourning",
+      "summary": "KAISERSLAUTERN, Germany — U.S. Army Garrison Rheinland-Pfalz leaders joined host nation officials at ceremonies across the Kaiserslautern and Baumholder communities to honor victims of war, terrorism, persecution and tyranny as part of Germany’s National Day of Mourning, or Volkstrauertag, Nov. 15.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579504/usag-rheinland-pfalz-observes-germanys-national-day-mourning",
+      "publishedAt": "2026-11-17T13:43:04Z"
+    },
+    {
+      "id": "f46f1eb3d9b14bb6b3686290",
+      "title": "Penn State Altoona Student Spotlight: Kevin McCallum",
+      "summary": "Penn State Altoona student Kevin McCallum, a second degree nursing major, is a married father of two who is active-duty in the National Guard and expected to graduate in December.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579505/penn-state-altoona-student-spotlight-kevin-mccallum",
+      "publishedAt": "2026-11-17T13:39:40Z"
+    },
+    {
+      "id": "b395709f035bf0acce4f6ff5",
+      "title": "Armaments Center partners with Rowan University to advance next generation lightweight metamaterials",
+      "summary": "PICATINNY ARSENAL, N.J. - The U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center has entered into a Cooperative Research and Development Agreement (CRADA) with Rowan University in Glassboro, effective Wednesday, Sept. 23.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579502/armaments-center-partners-with-rowan-university-advance-next-generation-lightweight-metamaterials",
+      "publishedAt": "2026-11-17T13:33:20Z"
+    },
+    {
+      "id": "15b240492a4a387b73a8ae5c",
+      "title": "Navy introduces Joint Warfighter Evaluation pilot for future flag officers",
+      "summary": "Announced in NAVADMIN 264/26, the U.S. Navy’s Joint Warfighter Evaluation (JWE) program, hosted by the U.S. Naval War College (NWC), will put senior flag-eligible officers through challenging wargame scenarios to further determine their fitness to promote.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579501/navy-introduces-joint-warfighter-evaluation-pilot-future-flag-officers",
+      "publishedAt": "2026-11-17T13:26:05Z"
+    },
+    {
+      "id": "d376e6243e256784f9ad5f0d",
+      "title": "GVSC, Michigan National Guard partner with industry to advance formation-based layered protection",
+      "summary": "More than 100 Soldiers, government engineers, and industry partners converged here recently for a two-week tactical experiment designed to test how multiple protective technologies can work together to enhance formation-level survivability and protection.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579500/gvsc-michigan-national-guard-partner-with-industry-advance-formation-based-layered-protection",
+      "publishedAt": "2026-11-17T12:45:29Z"
+    },
     {
       "id": "aa245ecf5ccfa3c7c911734f",
       "title": "U.S. Marines Join Local Okinawan Residents for 50th Annual Henoko Sports Day",
@@ -253,114 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579382/usace-far-east-district-completes-turnover-190-million-new-housing-facilities-camp-humphreys",
       "publishedAt": "2026-11-16T04:26:47Z"
-    },
-    {
-      "id": "e6a1e5cc6aae7abd55369aa9",
-      "title": "Projecting Lethality: 25th Infantry Division Validates Deep Strike Capabilities Across the Pacific",
-      "summary": "SCHOFIELD BARRACKS, Hawaii: The ability to rapidly project lethal, long-range fires across the vast expanse of the Pacific Ocean is a defining capability of the modern U.S. Army.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579391/projecting-lethality-25th-infantry-division-validates-deep-strike-capabilities-across-pacific",
-      "publishedAt": "2026-11-16T03:15:34Z"
-    },
-    {
-      "id": "e74f12fec574cbf4d8236ecf",
-      "title": "Assistant Secretary of the Navy (EI&E), Navy Installations Commander Conduct Pacific Visit",
-      "summary": "FLEET ACTIVITIES YOKOSUKA, Japan (Nov. 12, 2026) The Hon. Brendan Rogers, Assistant Secretary of the Navy for Energy, Installations and Environment (ASN EI&E), and Vice Adm. Brad Collins, Commander, Navy Installations Command (CNIC), visited Commander, Fleet Activities Yokosuka (CFAY), U.S.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579379/assistant-secretary-navy-eie-navy-installations-commander-conduct-pacific-visit",
-      "publishedAt": "2026-11-15T23:31:03Z"
-    },
-    {
-      "id": "4d9dd68beebde25321abb94e",
-      "title": "Hawaii Army National Guard bids farewell to Tahara, welcomes Hogsten as new commander",
-      "summary": "The Hawaii Army National Guard hosted a change of command ceremony in Kapolei, Hawaii, Nov. 14, 2026, marking the official transfer of command from Brig. Gen. Tyson Y. Tahara to Brig. Gen. Ronald D. Hogsten.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579370/hawaii-army-national-guard-bids-farewell-tahara-welcomes-hogsten-new-commander",
-      "publishedAt": "2026-11-15T19:36:08Z"
-    },
-    {
-      "id": "15a3607c37ed8e6407335acc",
-      "title": "75th USARIC Walks the Walk in Support of Suicide Awareness and Prevention",
-      "summary": "Soldiers assigned to the 75th U.S. Army Reserve Innovation Command and 1st Battalion, 289th Regiment, Training Support, gathered for a unit 2-mile walk and run dedicated to suicide prevention and awareness, Sept. 20, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579374/75th-usaric-walks-walk-support-suicide-awareness-and-prevention",
-      "publishedAt": "2026-11-15T19:22:14Z"
-    },
-    {
-      "id": "b3f7cb9c84db5bb17f36ef4e",
-      "title": "Kadena welcomes first permanently assigned F-15EX Eagle II aircraft",
-      "summary": "The first permanently assigned U.S. Air Force F-15EX Eagle II fighter aircraft arrived at Kadena Air Base, Japan, on Nov. 15, 2026, marking a major milestone in the 18th Wing's fighter modernization and the continued strengthening of U.S. airpower in the Pacific region.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579371/kadena-welcomes-first-permanently-assigned-f-15ex-eagle-ii-aircraft",
-      "publishedAt": "2026-11-15T03:03:44Z"
-    },
-    {
-      "id": "c6ce264bbe187819bbb70148",
-      "title": "Operation Frozen Recovery: Alaska Soldiers Retrieve Historic Signal Corps Radio",
-      "summary": "Nine Soldiers assigned to Headquarters and Headquarters Detachment, 59th Signal Battalion, recovered a historic U.S. Army Signal Corps radio from the wreckage of a U.S. Air Force TB-29 bomber in Alaska, Aug. 10-11, 2026. The radio had remained at the crash site since 1957, when the aircraft went down during a training mission.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579368/operation-frozen-recovery-alaska-soldiers-retrieve-historic-signal-corps-radio",
-      "publishedAt": "2026-11-15T00:53:16Z"
-    },
-    {
-      "id": "ff7cff5def3dd238dedf8935",
-      "title": "Japan, U.S. participate in annual Joint Senior Leader Seminar",
-      "summary": "U.S. Pacific Command hosted the 2026 Joint Senior Leaders Seminar Nov. 13, bringing together American and Japanese defense officials to align strategic goals, coordinate operational planning and strengthen the defense alliance.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579361/japan-us-participate-annual-joint-senior-leader-seminar",
-      "publishedAt": "2026-11-14T07:09:21Z"
-    },
-    {
-      "id": "178001e9e41b8654c3b4ff13",
-      "title": "1st Armored Division Artillery holds first ever Bombard Challenge",
-      "summary": "1st Armored Division Artillery's commander U.S. Army Col. Samuel Nirenberg speaks on his unit's new Bombard Challenge, first held Oct. 21-22, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579351/1st-armored-division-artillery-holds-first-ever-bombard-challenge",
-      "publishedAt": "2026-11-13T23:54:13Z"
-    },
-    {
-      "id": "3f669b5f9814f4597163fbce",
-      "title": "Army honors Big Red One WWI Soldier with Posthumous Silver Star, Purple Heart",
-      "summary": "U.S. Army leaders, family members and community guests gathered at Fort Hamilton, New York, Nov. 10 to posthumously present the Silver Star and Purple Heart to Pvt. Isidor Olian, a World War I Soldier with Company K, 18th Infantry Regiment, 1st Infantry Division. Col. Ian J. Lauer, deputy commanding officer for support, 1st Inf.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579347/army-honors-big-red-one-wwi-soldier-with-posthumous-silver-star-purple-heart",
-      "publishedAt": "2026-11-13T23:32:38Z"
-    },
-    {
-      "id": "1d4cb905f2b685471189a4c0",
-      "title": "The New Six Frigates",
-      "summary": "PARIS — Tucked in a dark corner of a convention center in the French suburbs, a British company could hold the next design for America’s newest warship. A model of the Type-31 Arrowhead sailed on a display table at the Babcock International booth at Euronaval 2026 last week. It was one of a half a dozen contenders for the U.S.",
-      "category": "Defense",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/13/the-new-six-frigates",
-      "publishedAt": "2026-11-13T22:41:48Z"
-    },
-    {
-      "id": "339cd462055808c6ff866fc0",
-      "title": "USACE Mobile District permitting action supports former USS Enterprise arrival and dismantling in Mobile",
-      "summary": "The U.S. Army Corps of Engineers Mobile District helped prepare for the arrival and dismantling of the former USS Enterprise (CVN 65) by reviewing and authorizing waterfront improvements at MARRS’ Yard 8 in Mobile.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579342/usace-mobile-district-permitting-action-supports-former-uss-enterprise-arrival-and-dismantling-mobile",
-      "publishedAt": "2026-11-13T22:08:35Z"
-    },
-    {
-      "id": "2ba6249673c2daea7e6d5ce0",
-      "title": "Goodfellow AFB leadership joins the community in recognizing Veterans Day",
-      "summary": "In observance of Veterans Day, 17th Training Wing leadership joined the community on Nov. 11, 2026, to honor the service, sacrifice and enduring legacy of those who raised their right hand and served the United States of America.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579339/goodfellow-afb-leadership-joins-community-recognizing-veterans-day",
-      "publishedAt": "2026-11-13T21:48:53Z"
     }
   ],
   "nextPage": "pages/page-2.json"
