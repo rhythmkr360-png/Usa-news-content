@@ -1,7 +1,124 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-16T19:38:34Z",
+  "generatedAt": "2026-11-17T03:56:08Z",
   "articles": [
+    {
+      "id": "e49f990cdae365844e15bcb8",
+      "title": "Army medical maintainers support joint force readiness through quick-turn repair",
+      "summary": "FORT DETRICK, Md. – A specialized team of U.S. Army medical maintenance technicians recently deployed on short notice to the U.S. Africa Command area of responsibility, restoring a critical imaging device for a joint force partner to full operational status in less than 24 hours.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579006/army-medical-maintainers-support-joint-force-readiness-through-quick-turn-repair",
+      "publishedAt": "2026-11-09T20:21:20Z"
+    },
+    {
+      "id": "d55fe219520b53f2bd99f777",
+      "title": "Pentagon can’t track thousands of F-35 parts: GAO",
+      "summary": "The government watchdog found that more than 17,000 F-35 fighter jet parts worth an estimated $1.3 billion were missing from the program’s inventory system.",
+      "category": "Air Force",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/pentagon-cant-track-thousands-of-f-35-parts-gao/",
+      "publishedAt": "2026-11-09T19:41:23Z"
+    },
+    {
+      "id": "643a9bbdbc6eb5ac02fa5008",
+      "title": "USS Lenah Sutcliffe Higbee holds change of command ceremony",
+      "summary": "NAVAL BASE SAN DIEGO (Nov. 6, 2026) - U.S. Navy Cmdr. Osei Asante relieved U.S. Navy Cmdr. Jack Skahen as commanding officer of Arleigh Burke-class guided-missile destroyer USS Lenah Sutcliffe Higbee (DDG 123) during a change of command ceremony at the USS Midway Museum on Nov. 6, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578995/uss-lenah-sutcliffe-higbee-holds-change-command-ceremony",
+      "publishedAt": "2026-11-09T19:29:55Z"
+    },
+    {
+      "id": "4f78c1dc6af44a738a7c343d",
+      "title": "USNI News Fleet and Marine Tracker: Nov. 9, 2026",
+      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 9, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/09/usni-news-fleet-and-marine-tracker-nov-9-2026",
+      "publishedAt": "2026-11-09T19:18:38Z"
+    },
+    {
+      "id": "1186fd95795b57d3f24918da",
+      "title": "PAE C2/CC2 - ST3 Celebrates Teamwork and Morale at Annual Organization Day",
+      "summary": "Soldiers, Army civilians and contractors from the U.S. Army’s Portfolio Acquisition Executive Command and Control/Counter Command and Control - Simulation, Training, Test and Threat (PAE C2/CC2 – ST3) gathered Nov.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578982/pae-c2-cc2-st3-celebrates-teamwork-and-morale-annual-organization-day",
+      "publishedAt": "2026-11-09T18:20:37Z"
+    },
+    {
+      "id": "c1493df90ed285bbbb4696d5",
+      "title": "UTEP AIAA Students Explore WSMR’s Historic Sites and Career Opportunities",
+      "summary": "On Nov. 6, UTEP’s American Institute of Aeronautics and Astronautics or AIAA students visited White Sands Missile Range.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578978/utep-aiaa-students-explore-wsmrs-historic-sites-and-career-opportunities",
+      "publishedAt": "2026-11-09T17:14:01Z"
+    },
+    {
+      "id": "1eda4c4ab2c6721ecbec7295",
+      "title": "Mount Morris Dam expands public engagement during 2026 visitor season",
+      "summary": "New York — The Mount Morris Dam and Recreation Area expanded public engagement during its 2026 visitor season, increasing participation in ranger-led dam tours, special events, educational programs and volunteer service while continuing to deliver flood risk management and environmental stewardship for the Genesee River Valley.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578977/mount-morris-dam-expands-public-engagement-during-2026-visitor-season",
+      "publishedAt": "2026-11-09T17:07:01Z"
+    },
+    {
+      "id": "6d6582913880b299e5db0bfe",
+      "title": "ACC-RSA Acting Executive Director Jeffrey Caldwell selected for Senior Executive Service",
+      "summary": "ACC-RSA Acting Executive Director Jeffrey L. Caldwell has been selected for the Senior Executive Service and appointed executive director of U.S. Army Contracting Command-Redstone Arsenal, effective Dec. 13, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578975/acc-rsa-acting-executive-director-jeffrey-caldwell-selected-senior-executive-service",
+      "publishedAt": "2026-11-09T17:03:15Z"
+    },
+    {
+      "id": "46f9ca2b3d607cb6cd1334e7",
+      "title": "Neros to expand domestic drone production with $450M Pentagon loan",
+      "summary": "The company is a frontrunner in a Defense Department competition to find the best quality, most affordable small drone for combat.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/11/09/neros-to-expand-domestic-drone-production-with-450m-pentagon-loan/",
+      "publishedAt": "2026-11-09T15:45:23Z"
+    },
+    {
+      "id": "d437bd7dbf443c5b41884a9b",
+      "title": "Gen. Brunson Thanks Japan's Defense Minister for Support to UNC-Rear",
+      "summary": "TOKYO, Japan - Gen. Xavier T. Brunson, commander of United Nations Command, Combined Forces Command and U.S. Forces Korea, met with Japanese Defense Minister Shinjiro Koizumi at the Ministry of Defense in Tokyo on Nov. 5 to thank Japan for its continued support to UNC-Rear and to reaffirm the U.S.-Japan Alliance.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578931/gen-brunson-thanks-japans-defense-minister-support-unc-rear",
+      "publishedAt": "2026-11-09T06:38:25Z"
+    },
+    {
+      "id": "e1cfc0849d71e52e286bacbf",
+      "title": "Fort McCoy advances 2026–2030 strategic plan as new fiscal year begins",
+      "summary": "As fiscal year 2027 moves forward, U.S. Army Garrison-Fort McCoy is continuing to implement a long-range strategic plan designed to guide installation operations, strengthen military readiness, modernize infrastructure, and prepare the installation for the Army's evolving requirements through 2030.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578929/fort-mccoy-advances-2026-2030-strategic-plan-new-fiscal-year-begins",
+      "publishedAt": "2026-11-09T05:47:37Z"
+    },
+    {
+      "id": "6d0a51c83a6c24c6300d839b",
+      "title": "5th Air Force hosts JAAGA, strengthening U.S.-Japan bilateral operations at Yokota",
+      "summary": "5th Air Force hosted 36 members of the Japan-America Air Force Goodwill Association, or JAAGA, during a visit to Yokota Air Base Nov. 5, 2026, reinforcing the longstanding relationship among U.S. Air Force personnel, Japan Air Self-Defense Force members and Japanese community leaders.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578924/5th-air-force-hosts-jaaga-strengthening-us-japan-bilateral-operations-yokota",
+      "publishedAt": "2026-11-09T04:59:19Z"
+    },
+    {
+      "id": "ca2c82382c0382c7c4b328be",
+      "title": "403rd Army Field Support Brigade Personality Spotlight: Ms. Pak, Hye Yong – LRC-North",
+      "summary": "Ms. Pak, Hye Yong began her career with the U.S. Army in February 2014 at LRC-North. She started as a Supply Technician and has served as the Quartermaster Laundry (QML) Manager at Yongsan since April 2022. In her current role, she oversees overall QML operations, staff management, and budget execution.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578927/403rd-army-field-support-brigade-personality-spotlight-ms-pak-hye-yong-lrc-north",
+      "publishedAt": "2026-11-09T03:54:52Z"
+    },
     {
       "id": "04cb54658d7f389de6fd3c9b",
       "title": "Red, Blue & Camo: One State, Two Teams, One Guard",
@@ -136,69 +253,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/578868/centcom-launches-task-force-disrupt-iranian-ground-transit-routes-supporting-illegal-shipments",
       "publishedAt": "2026-11-07T13:31:30Z"
-    },
-    {
-      "id": "ea611d9f5899cc2554ff5050",
-      "title": "The 28th Thai-American Consultation Senior Staff Talks strengthen Alliance",
-      "summary": "CAMP H.M. SMITH, Hawaii — Senior leaders from the Royal Thai Army and U.S. Pacific Command participated in the 28th Thai-American Consultation Senior Staff Talks at Camp H. M. Smith on Nov. 6, 2026, reinforcing the longstanding military partnership between Thailand and the United States.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578865/28th-thai-american-consultation-senior-staff-talks-strengthen-alliance",
-      "publishedAt": "2026-11-07T01:32:07Z"
-    },
-    {
-      "id": "338df1dce2ebab33d179429a",
-      "title": "CNFJ/RJ Celebrates 100 Years of Heritage Site",
-      "summary": "FLEET ACTIVITIES YOKOSUKA, Japan – Commander U.S. Naval Forces Japan/Navy Region Japan (CNFJ/RJ) commemorated the 100th anniversary of its current Headquarters, historic Building C-1, during a ceremony at Fleet Activities Yokosuka, Nov. 7, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578856/cnfj-rj-celebrates-100-years-heritage-site",
-      "publishedAt": "2026-11-06T23:13:02Z"
-    },
-    {
-      "id": "d332a71f2672673caa9f1a79",
-      "title": "The Idaho Army National Guard and Boise Fire Department Train to Enhance Hoist Capabilities",
-      "summary": "The Idaho Army National Guard’s State Aviation Group trained with members of the Boise Fire Department’s swift water dive team this week on Gowen Field.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578850/idaho-army-national-guard-and-boise-fire-department-train-enhance-hoist-capabilities",
-      "publishedAt": "2026-11-06T21:15:16Z"
-    },
-    {
-      "id": "84c417336b0bcb2ecafd11de",
-      "title": "US Army feeds culinary soldiers new job title",
-      "summary": "Formerly known as culinary specialists, a soldier with the 92G occupation identifier will henceforth be known as a “tactical field feeding specialist.”",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/land/2026/11/06/us-army-feeds-culinary-soldiers-new-job-title/",
-      "publishedAt": "2026-11-06T20:43:37Z"
-    },
-    {
-      "id": "70594ef5ecb7167e90616278",
-      "title": "Cambodia and U.S. Pacific Command participate in a Bilateral Defense Dialogue",
-      "summary": "Senior defense officials from the United States and Cambodia concluded the 2026 Bilateral Defense Discussion (BDD) with the signing of a landmark Terms of Reference (ToR) between the U.S. Pacific Command and Cambodia’s Ministry of National Defense in Phnom Penh, Cambodia, Nov. 4, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578837/cambodia-and-us-pacific-command-participate-bilateral-defense-dialogue",
-      "publishedAt": "2026-11-06T20:07:31Z"
-    },
-    {
-      "id": "15d030f90fdec35921058072",
-      "title": "Ingenuity on display as students engineer high-flying pumpkin launchers at Armaments Center",
-      "summary": "PICATINNY ARSENAL, N.J. - It was pumpkin seeds aplenty as the annual Pumpkin Sling returned to the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center on Friday, Oct. 30.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578832/ingenuity-display-students-engineer-high-flying-pumpkin-launchers-armaments-center",
-      "publishedAt": "2026-11-06T19:48:23Z"
-    },
-    {
-      "id": "f2b2ccd6c91e827f20b1d741",
-      "title": "Six ‘Warrior Medics’ excel in, graduate from H2F-I course",
-      "summary": "Fourteen U.S. Army Reserve Soldiers throughout the Army Reserve medical enterprise, six of whom are assigned to the Army Reserve Medical Command headquarters here, took part in and graduated from the Holistic Health and Fitness- Integrator, or H2F-I, course held at the C.W. Bill Young Armed Forces Reserve Center here, Oct. 18-30, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/578830/six-warrior-medics-excel-graduate-h2f-course",
-      "publishedAt": "2026-11-06T19:42:51Z"
     }
   ]
 }

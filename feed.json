@@ -1,7 +1,124 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-16T19:38:34Z",
+  "generatedAt": "2026-11-17T03:56:08Z",
   "articles": [
+    {
+      "id": "aa245ecf5ccfa3c7c911734f",
+      "title": "U.S. Marines Join Local Okinawan Residents for 50th Annual Henoko Sports Day",
+      "summary": "U.S. Marines with 4th Marine Regiment, 3rd Marine Division, joined Okinawan residents for the 50th Annual Track and Field Meet Sports Day, a traditional Japanese sports festival, on Nov. 1, 2026.",
+      "category": "Marine Corps",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579489/us-marines-join-local-okinawan-residents-50th-annual-henoko-sports-day",
+      "publishedAt": "2026-11-17T03:16:06Z"
+    },
+    {
+      "id": "08056569b548e595e5a319e4",
+      "title": "Senate appropriators unveil $1.1T Pentagon spending bill, folding in reconciliation priorities",
+      "summary": "Nearly $69 billion in money sought by the White House through reconciliation will be rolled into the base budget under the Senate appropriator’s plan.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/senate-appropriators-unveil-1-1t-pentagon-spending-bill-folding-in-reconciliation-priorities/",
+      "publishedAt": "2026-11-17T01:17:58Z"
+    },
+    {
+      "id": "3486e66e5d4d3c9864110ce7",
+      "title": "Penn State Lioness returns to Inspire Future STEM Airmen",
+      "summary": "In a flight suit neatly adorned, an Air Force Reserve Major General returned to her alma mater to inspire and engage the next generation of Science, Technology, Engineering, and Mathematics students who share the opportunity to launch their Reserve journeys.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579464/penn-state-lioness-returns-inspire-future-stem-airmen",
+      "publishedAt": "2026-11-16T23:46:00Z"
+    },
+    {
+      "id": "4445cb77ebf11444ce8a83a7",
+      "title": "Bridges of Peace: Kure Pier 6 safety officer promotes community safety, local history off duty",
+      "summary": "Yuji Matsushin, a safety officer with 30 years of service at U.S. Army Pier 6 in Japan, leverages his role and personal volunteer work as a historic tour guide to promote community safety, preserve Hiroshima's legacy, and foster international friendship.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579486/bridges-peace-kure-pier-6-safety-officer-promotes-community-safety-local-history-off-duty",
+      "publishedAt": "2026-11-16T23:29:26Z"
+    },
+    {
+      "id": "14b1f2a59a3198f4a6d701e5",
+      "title": "Funeral Honors highlight Oregon National Guard service to the community",
+      "summary": "The Oregon National Guard's Funeral Honors represents the state as \"The Service of Choice” for Oregonians. The Oregon National Guard's Citizen-Soldiers and Airmen provide protection, response, and readiness whenever the state or nation calls.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579465/funeral-honors-highlight-oregon-national-guard-service-community",
+      "publishedAt": "2026-11-16T22:29:15Z"
+    },
+    {
+      "id": "bc65c53ac530a22b421845c9",
+      "title": "Chemical, biological threats put Nevada Civil Support Team to the test",
+      "summary": "The Nevada National Guard’s 92nd Civil Support Team passed its readiness evaluation Oct. 20-22 at the Truckee Meadows Water Reclamation Facility in Sparks, Nevada, meeting standards in every critical task and mission-essential task assessed.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579476/chemical-biological-threats-put-nevada-civil-support-team-test",
+      "publishedAt": "2026-11-16T22:26:40Z"
+    },
+    {
+      "id": "b632b201e991fef73a2c958e",
+      "title": "From couches to crew quarters: USACE Sacramento District builds aircrew readiness at Beale Air Force Base",
+      "summary": "The U.S. Army Corps of Engineers Sacramento District is constructing an $11 million Aircrew Readiness Facility at Beale Air Force Base, California, to support the 940th Air Refueling Wing. The facility will provide dedicated sleeping quarters and mission support spaces for up to 40 airmen.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579475/couches-crew-quarters-usace-sacramento-district-builds-aircrew-readiness-beale-air-force-base",
+      "publishedAt": "2026-11-16T22:26:37Z"
+    },
+    {
+      "id": "89757079a0ef20c750299cfb",
+      "title": "Pentagon fails 9th audit, asserts path towards clean books in 2028",
+      "summary": "“While we have made progress… [with] the most important development is our change in audit strategy,” the department’s comptroller Jules Hurst told reporters last week.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/pentagon-fails-9th-audit-asserts-path-towards-clean-books-in-2028/",
+      "publishedAt": "2026-11-16T22:11:50Z"
+    },
+    {
+      "id": "2be0901143d7138ca45c86c1",
+      "title": "USS Theodore Roosevelt Now in the Middle East, Lincoln’s Last Escorts Finally Home",
+      "summary": "A third U.S. aircraft carrier and its escorts are now in the Middle East. USS Theodore Roosevelt (CVN-71) chopped into U.S. 5th Fleet on Sunday. The arrival of the Theodore Roosevelt Carrier Strike Group makes three U.S. carrier strike groups in the Middle East, as tensions persist between the U.S. and Iran.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/16/uss-theodore-roosevelt-now-in-the-middle-east-lincolns-last-escorts-finally-home",
+      "publishedAt": "2026-11-16T21:42:08Z"
+    },
+    {
+      "id": "b707e64782a5c301cb65b982",
+      "title": "White House, U.S. Naval Academy Honor Historic 'First Salute' to American Sovereignty Alongside Partners",
+      "summary": "The U.S. Naval Academy and White House Task Force 250 hosted U.S. officials, Dutch Ambassador Birgitta Tazelaar, and international partners in Annapolis, Maryland, Nov.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579469/white-house-us-naval-academy-honor-historic-first-salute-american-sovereignty-alongside-partners",
+      "publishedAt": "2026-11-16T21:39:33Z"
+    },
+    {
+      "id": "4623152b0e2dfb70e150e332",
+      "title": "Fort McCoy garrison commander serves as guest speaker at Tomah VA Medical Center Veterans Day ceremony",
+      "summary": "TOMAH, Wis. — More than 100 Veterans, family members, caregivers, community members, volunteers, and staff gathered Nov. 10 at the Tomah VA Medical Center to recognize and honor the men and women who have served in the U.S. armed forces during the facility’s annual Veterans Day ceremony.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579466/fort-mccoy-garrison-commander-serves-guest-speaker-tomah-va-medical-center-veterans-day-ceremony",
+      "publishedAt": "2026-11-16T21:28:57Z"
+    },
+    {
+      "id": "53aa908fc1f19b655063ee67",
+      "title": "US Army takes ‘urgent’ action to build concrete bunkers across the Middle East",
+      "summary": "The Army acknowledged in a notice Friday that U.S. soldiers in the Middle East are \"currently at risk\" using personnel shelters made of converted shipping containers.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/global/mideast-africa/2026/11/16/us-army-takes-urgent-action-to-build-concrete-bunkers-across-the-middle-east/",
+      "publishedAt": "2026-11-16T20:43:10Z"
+    },
+    {
+      "id": "876b3995769fcb31ab8dd389",
+      "title": "USNI News Fleet and Marine Tracker: Nov. 16, 2026",
+      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 16, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/16/usni-news-fleet-and-marine-tracker-nov-16-2026",
+      "publishedAt": "2026-11-16T19:55:16Z"
+    },
     {
       "id": "c01fb5e45f8e3f5aee7154f5",
       "title": "Elite red team brings realistic cyber testing to operational aviation systems",
@@ -244,123 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579339/goodfellow-afb-leadership-joins-community-recognizing-veterans-day",
       "publishedAt": "2026-11-13T21:48:53Z"
-    },
-    {
-      "id": "4e14107226bd70590d6196d5",
-      "title": "Utah National Guard, Granite School District celebrate veterans at 71st Annual Veterans Day Concert",
-      "summary": "The Utah National Guard and Granite School District honored America’s veterans through music, student performances and recognition of military service during the 71st Annual Veterans Day Concert on Nov. 11, 2026, at the Tabernacle at Temple Square.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579336/utah-national-guard-granite-school-district-celebrate-veterans-71st-annual-veterans-day-concert",
-      "publishedAt": "2026-11-13T21:06:54Z"
-    },
-    {
-      "id": "20e31f79cac7a996bd436fa7",
-      "title": "Hancock County arts educator experiences life aboard USS Nimitz",
-      "summary": "NAVAL CONSTRUCTION BATTALION CENTER GULFPORT, Miss. – For most Americans, the opportunity to visit a U.S. Navy aircraft carrier is something they will never experience.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579337/hancock-county-arts-educator-experiences-life-aboard-uss-nimitz",
-      "publishedAt": "2026-11-13T21:03:29Z"
-    },
-    {
-      "id": "c730d4de040b53a7ee2edaf2",
-      "title": "AMCOM 101 links aviation readiness to enterprise support",
-      "summary": "The U.S. Army Aviation and Missile Command brought together Soldiers, civilians and aviation enterprise partners Nov. 4-5 at Bob Jones Auditorium for its fall AMCOM 101 Aviation Conference, a biannual forum focused on connecting unit readiness challenges with the people and resources that support Army aviation.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579333/amcom-101-links-aviation-readiness-enterprise-support",
-      "publishedAt": "2026-11-13T20:35:03Z"
-    },
-    {
-      "id": "6d684eec0f951476b992f9d5",
-      "title": "U.S. Naval War College Holds November Graduation For Students of Colleges of Naval Warfare, Naval Command & Staff",
-      "summary": "The U.S. Naval War College (NWC) graduated 29 students from its Colleges of Naval Warfare (CNW) and Naval Command & Staff (CNCS) on Friday, Nov. 13, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579331/us-naval-war-college-holds-november-graduation-students-colleges-naval-warfare-naval-command-staff",
-      "publishedAt": "2026-11-13T20:26:28Z"
-    },
-    {
-      "id": "d11ae36023f3eb76ea4ef6f1",
-      "title": "C. J. Graham Visits USS Essex (LHD 2)",
-      "summary": "SAN DIEGO (Oct. 29, 2026) Actor C. J. Graham visited Wasp-class amphibious assault ship USS Essex (LHD 2) to tour the ship and meet with U.S. Navy Sailors.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579310/c-j-graham-visits-uss-essex-lhd-2",
-      "publishedAt": "2026-11-13T19:10:52Z"
-    },
-    {
-      "id": "46f6b0f77352f3d4820438e8",
-      "title": "National Guard Office of Special Victims' Counsel provides legal advocacy when victims need it most",
-      "summary": "or victims of sexual assault or domestic violence, one of the hardest questions can be what to do next. Understanding their rights, deciding whether to report and navigating unfamiliar legal processes can feel overwhelming. However, National Guard members do not have to navigate the process alone.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579309/national-guard-office-special-victims-counsel-provides-legal-advocacy-victims-need-most",
-      "publishedAt": "2026-11-13T19:09:32Z"
-    },
-    {
-      "id": "90ad881f9167f1130ed4a102",
-      "title": "USNI News Western Pacific Pulse: Nov. 13, 2026",
-      "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In Singapore The Theodore Roosevelt Carrier Strike Group departed on Sunday from Singapore.",
-      "category": "Defense",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/13/usni-news-western-pacific-pulse-nov-13-2026",
-      "publishedAt": "2026-11-13T18:56:52Z"
-    },
-    {
-      "id": "de48f65184e98b95c6fcda86",
-      "title": "The Pentagon brings back World War II-era OSS for special operations missions, funding",
-      "summary": "The plan could improve civilian oversight of special operations and make more room at the budget bargaining table, but much of it will require congressional approval. The post The Pentagon brings back World War II-era OSS for special operations missions, funding appeared first on Task & Purpose .",
-      "category": "Defense",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/hegseth-oss-special-operations/",
-      "publishedAt": "2026-11-13T18:51:27Z"
-    },
-    {
-      "id": "967a6c54de84ded4daa66588",
-      "title": "US Air Force adopts new Force Design focusing on sensors and autonomy",
-      "summary": "The Air Force's new Force Design 2026 outlines a shift toward artificial intelligence, autonomy and integrated sensors to counter emerging threats.",
-      "category": "Air Force",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/air/2026/11/13/us-air-force-adopts-new-force-design-focusing-on-sensors-and-autonomy/",
-      "publishedAt": "2026-11-13T18:43:45Z"
-    },
-    {
-      "id": "519bb05d9faddae77ec696d4",
-      "title": "New Hampshire National Guard breaks ground on new Plymouth Readiness Center",
-      "summary": "The New Hampshire Army National Guard broke ground Nov. 12 on the Plymouth Readiness Center, beginning a $31 million project to replace the community’s 1957 armory with a modern, secure facility built for current and future missions.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579307/new-hampshire-national-guard-breaks-ground-new-plymouth-readiness-center",
-      "publishedAt": "2026-11-13T18:20:50Z"
-    },
-    {
-      "id": "204fd1240237516a8dc99703",
-      "title": "Air Force Band ensembles honor veterans across the nation",
-      "summary": "The U.S. Air Force Band's Ceremonial Brass performed live at NBC's TODAY Show plaza, Nov. 11, 2026, anchoring a series of nationwide performances honoring America’s veterans through music.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579305/air-force-band-ensembles-honor-veterans-across-nation",
-      "publishedAt": "2026-11-13T18:00:48Z"
-    },
-    {
-      "id": "517ed16a0c1dcfaf2f0260c1",
-      "title": "Judges close part of ICC Afghanistan investigations that could look at US troops",
-      "summary": "The International Criminal Court will close investigations into Afghanistan that previously looked at alleged crimes by U.S. troops and focus only on actions of the Taliban.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/global/mideast-africa/2026/11/13/judges-close-part-of-icc-afghanistan-investigations-that-could-look-at-us-troops/",
-      "publishedAt": "2026-11-13T17:55:28Z"
-    },
-    {
-      "id": "b743b199fca752ba8e1e720a",
-      "title": "WHY I Serve: Soldier’s Determination Leads Her to Army Service at 41",
-      "summary": "At 41, many people have settled into established careers and routines. Pfc. Olivia Kabre, a nutrition care specialist at Landstuhl Regional Medical Center, chose a different path: She enlisted in the U.S. Army and completed basic combat training, pursuing a goal she had held for years.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579298/why-serve-soldiers-determination-leads-her-army-service-41",
-      "publishedAt": "2026-11-13T17:39:36Z"
     }
   ],
   "nextPage": "pages/page-2.json"
