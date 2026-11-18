@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T00:58:54Z",
+  "generatedAt": "2026-11-18T11:48:39Z",
   "articles": [
+    {
+      "id": "876b3995769fcb31ab8dd389",
+      "title": "USNI News Fleet and Marine Tracker: Nov. 16, 2026",
+      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 16, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/16/usni-news-fleet-and-marine-tracker-nov-16-2026",
+      "publishedAt": "2026-11-16T19:55:16Z"
+    },
+    {
+      "id": "c01fb5e45f8e3f5aee7154f5",
+      "title": "Elite red team brings realistic cyber testing to operational aviation systems",
+      "summary": "The U.S. Navy’s Naval Aviation Red Team (AIR-RT) has earned official certification from the NSA and accreditation from U.S. Cyber Command, bolstering the fleet's ability to simulate nation-state cyberattacks and defend tactical aircraft against advanced digital threats.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579438/elite-red-team-brings-realistic-cyber-testing-operational-aviation-systems",
+      "publishedAt": "2026-11-16T18:48:20Z"
+    },
+    {
+      "id": "25d7d2318584387a33550109",
+      "title": "Bringing the Future Forward: Inside Agile Flag’s Super Intelligence Implementation",
+      "summary": "U.S. Air Force Airmen assigned to 15th Air Force participated in Agile Flag at Shaw Air Force Base, South Carolina, from Nov. 1 to Nov. 5. Agile Flag was designed to build combat-ready Airmen and teams able to recover, refuel, rearm, repair, and launch aircraft from austere, unfamiliar locations under attack.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579433/bringing-future-forward-inside-agile-flags-super-intelligence-implementation",
+      "publishedAt": "2026-11-16T18:35:43Z"
+    },
+    {
+      "id": "6a1ad5c4fa96502ba518b8fa",
+      "title": "USS Minneapolis-Saint Paul Marks 250th Anniversary of Statia Day",
+      "summary": "USS Minneapolis-Saint Paul (LCS 21) joined the people of Sint Eustatius, known locally as Statia, Nov. 16, to commemorate the 250th anniversary of the island’s historic “First Salute” to the United States.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579430/uss-minneapolis-saint-paul-marks-250th-anniversary-statia-day",
+      "publishedAt": "2026-11-16T18:11:20Z"
+    },
+    {
+      "id": "e7b581c2950a64ba49243c67",
+      "title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
+      "summary": "Europe's defense ministries are looking to limit dependency on American technology and major software company Palantir Technologies.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/2026/11/16/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence/",
+      "publishedAt": "2026-11-16T18:00:00Z"
+    },
     {
       "id": "53c4b374f0fe9fff255c21ac",
       "title": "Media Alert: Santa Claus is coming to town on an MH-60S Seahawk helicopter (Courtesy of the U.S. Navy)",
@@ -316,51 +361,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/global/mideast-africa/2026/11/13/judges-close-part-of-icc-afghanistan-investigations-that-could-look-at-us-troops/",
       "publishedAt": "2026-11-13T17:55:28Z"
-    },
-    {
-      "id": "b743b199fca752ba8e1e720a",
-      "title": "WHY I Serve: Soldier’s Determination Leads Her to Army Service at 41",
-      "summary": "At 41, many people have settled into established careers and routines. Pfc. Olivia Kabre, a nutrition care specialist at Landstuhl Regional Medical Center, chose a different path: She enlisted in the U.S. Army and completed basic combat training, pursuing a goal she had held for years.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579298/why-serve-soldiers-determination-leads-her-army-service-41",
-      "publishedAt": "2026-11-13T17:39:36Z"
-    },
-    {
-      "id": "227bddeee7b3e3d5e9539bfa",
-      "title": "Oregon Guard Soldiers bring Army fitness, Veterans Day lesson to Salem middle school",
-      "summary": "Three Oregon Army National Guard Soldiers spent the day before Veterans Day at Crossler Middle School, leading students through Army-style physical training and talking with them about the veterans in their own families.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579300/oregon-guard-soldiers-bring-army-fitness-veterans-day-lesson-salem-middle-school",
-      "publishedAt": "2026-11-13T17:19:05Z"
-    },
-    {
-      "id": "0e8986d2a106dea0fd094617",
-      "title": "WRAIR-AFRIMS protects force health at Super Garuda Shield 2026",
-      "summary": "The Walter Reed Army Institute of Research – Armed Forces Research Institute of Medical Sciences, in partnership with the Australian Defence Force Malaria and Infectious Diseases Institute, conducted real-time infectious disease surveillance in support of Super Garuda Shield 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579297/wrair-afrims-protects-force-health-super-garuda-shield-2026",
-      "publishedAt": "2026-11-13T17:12:24Z"
-    },
-    {
-      "id": "07b0d4bcc9c4f5b3e44c9722",
-      "title": "Pentagon rebrands principle AI shop as ‘Super Intelligence Office’",
-      "summary": "The redesignation follows President Donald Trump’s push to replace references to artificial intelligence with “super intelligence” across the federal government.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/pentagon-rebrands-principle-ai-shop-as-super-intelligence-office/",
-      "publishedAt": "2026-11-13T17:00:00Z"
-    },
-    {
-      "id": "de7fdef47f527f35fcbaabf3",
-      "title": "US Army names officer held on ‘allegations of espionage’",
-      "summary": "Lt. Col. Brandon Carroll Tyner has been identified as the U.S. soldier arrested earlier this week in the UK for reportedly assisting Russian intelligence.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/global/europe/2026/11/13/us-army-names-officer-held-on-allegations-of-espionage/",
-      "publishedAt": "2026-11-13T16:32:38Z"
     }
   ],
   "nextPage": "page-3.json"

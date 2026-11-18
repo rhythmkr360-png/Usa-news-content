@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T00:58:54Z",
+  "generatedAt": "2026-11-18T11:48:39Z",
   "articles": [
+    {
+      "id": "ca2c82382c0382c7c4b328be",
+      "title": "403rd Army Field Support Brigade Personality Spotlight: Ms. Pak, Hye Yong – LRC-North",
+      "summary": "Ms. Pak, Hye Yong began her career with the U.S. Army in February 2014 at LRC-North. She started as a Supply Technician and has served as the Quartermaster Laundry (QML) Manager at Yongsan since April 2022. In her current role, she oversees overall QML operations, staff management, and budget execution.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578927/403rd-army-field-support-brigade-personality-spotlight-ms-pak-hye-yong-lrc-north",
+      "publishedAt": "2026-11-09T03:54:52Z"
+    },
+    {
+      "id": "04cb54658d7f389de6fd3c9b",
+      "title": "Red, Blue & Camo: One State, Two Teams, One Guard",
+      "summary": "The Utah National Guard supported the University of Utah-BYU football rivalry game Nov. 7, 2026, at Rice-Eccles Stadium through a series of military appreciation activities that brought together service members, fans and students from both schools.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578923/red-blue-camo-one-state-two-teams-one-guard",
+      "publishedAt": "2026-11-09T01:32:38Z"
+    },
+    {
+      "id": "f3b658ea3937bbca4292ce77",
+      "title": "Georgia Guardsmen battle in combined-MSC competition",
+      "summary": "Eight Georgia Army National Guard Soldiers competed in the Fiscal Year 2027 Combined Best Warrior Competition Nov. 6–8, 2026, at Fort Stewart, Georgia. The 78th Troop Command named U.S. Army Sgt. 1st Class Jeremy Nicoli its Noncommissioned Officer of the Year and U.S. Army Spc. Clinet Reier its Soldier of the Year.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578911/georgia-guardsmen-battle-combined-msc-competition",
+      "publishedAt": "2026-11-09T00:16:41Z"
+    },
+    {
+      "id": "25feaedae85e0e25891c5823",
+      "title": "ROK-U.S. Combined Forces Command Marks 48 Years of Combined Defense",
+      "summary": "CFC commemorates 48 years of strengthening the ROK-U.S. alliance and maintaining readiness on the Korean Peninsula",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578914/rok-us-combined-forces-command-marks-48-years-combined-defense",
+      "publishedAt": "2026-11-08T23:21:12Z"
+    },
+    {
+      "id": "d7076b0d7f381d85baf13103",
+      "title": "Tennessee Guard Soldier's promotion reunites former public affairs team",
+      "summary": "Tennessee Army National Guard Master Sgt. Lila A. Walker, a former public affairs specialist with the 118th Mobile Public Affairs Detachment, was promoted during a ceremony at Joint Force Headquarters in Nashville, Tennessee, Nov. 8, 2026.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578890/tennessee-guard-soldiers-promotion-reunites-former-public-affairs-team",
+      "publishedAt": "2026-11-08T21:07:46Z"
+    },
     {
       "id": "9852d58308c2e46049351843",
       "title": "73 APS welcomes new commander",

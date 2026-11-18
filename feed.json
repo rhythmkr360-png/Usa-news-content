@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T00:58:54Z",
+  "generatedAt": "2026-11-18T11:48:39Z",
   "articles": [
+    {
+      "id": "35a6f6c317c6fb9ecf4ffdde",
+      "title": "AFRICOM commander visits Mali, Senegal to address regional security",
+      "summary": "U.S. Air Force Gen. Dagvin Anderson, commander of U.S. Africa Command, completed a multi-day trip to West Africa Nov. 10-12.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579593/africom-commander-visits-mali-senegal-address-regional-security",
+      "publishedAt": "2026-11-18T09:16:51Z"
+    },
+    {
+      "id": "a0dc655a663341496d97910d",
+      "title": "Japan District Engineers Spark Young Minds at STEAM Day",
+      "summary": "U.S. Army Corps of Engineers Japan District (USACE JED) experts led elementary students through hands-on infrastructure and electrical engineering lessons during the annual STEAM Day at Shirley Lanham Elementary School on Nov. 6.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579586/japan-district-engineers-spark-young-minds-steam-day",
+      "publishedAt": "2026-11-18T05:50:01Z"
+    },
+    {
+      "id": "59787190a08e749f8d9fbf73",
+      "title": "U.S. Navy Sailor takes first place in the 2026 Norwegian Foot March 30K",
+      "summary": "Naval Aircrewman (Helicopter) 2nd Class Simon Ginsberg was the first participant to cross the finish line at the 2026 Norwegian Foot March, completing the 30-kilometer course in 3 hours and 18 minutes at Naval Air Facility (NAF) Atsugi, Japan, Nov. 14, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579589/us-navy-sailor-takes-first-place-2026-norwegian-foot-march-30k",
+      "publishedAt": "2026-11-18T05:17:39Z"
+    },
+    {
+      "id": "bfe94a75661e3e7011bb75a4",
+      "title": "Cmdr. JoAnn Friesz retires from the Navy Reserve after nearly 27 years of service",
+      "summary": "NAVAL CONSTRUCTION BATTALION CENTER GULFPORT, Miss. – Cmdr. JoAnn Susan Friesz, Commanding Officer of Navy Reserve Mobilization and Deployment Support Command Detachment Bravo, a resident of Bloomington, MN, retired from the U.S. Navy Reserve during a ceremony at the Seabee Memorial Chapel aboard Naval Construction Battalion Center Gulfport on Nov.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579588/cmdr-joann-friesz-retires-navy-reserve-after-nearly-27-years-service",
+      "publishedAt": "2026-11-18T03:53:34Z"
+    },
+    {
+      "id": "0f4267cde9d94e59b3ace18a",
+      "title": "Two years ago today, the Philippines and the United States officially signed the General Security of Military Information Agreement (GSOMIA). Signed by Department of National Defense (DND) Sec. Gilberto Teodoro Jr. and t",
+      "summary": "Two years ago today, the Philippines and the United States officially signed the General Security of Military Information Agreement (GSOMIA). Signed by Department of National Defense (DND) Sec. Gilberto Teodoro Jr. and then-U.S. Defense Sec. Lloyd Austin Facebook",
+      "category": "Defense",
+      "sourceName": "Facebook",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZW5fNVZRMG1QQUowMUdXNF9NaVVZTG53Vnk0d1laQ2w2Mi1WSG1YQjdmcUNjSWZ5RUg0aFJTcWxuczQ5TV8xOW1jbkFPTXdfcjJyZFlybGFwa1dZZmJ6MTRwSGloc0Y2Wndqb0JHQTdHUFJnQzZacjdmbDM2VVVodmpxRElqNGZDbWRqamtZeUEweFR4dFJRT2ZjejI4cDNlWm5aY29seVhhaXEtelhOOVRfRHcxZUdNd3hNbVFndVpnbk9vcjd0U0hzY0M4RHg0?oc=5",
+      "publishedAt": "2026-11-18T01:00:02Z"
+    },
     {
       "id": "9f4ad11ac7f640839fd1ae56",
       "title": "Army’s Senior Logistics Officer Visits JBLM, Port of Tacoma, Recognizing Regional Capabilities",
@@ -316,51 +361,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/global/mideast-africa/2026/11/16/us-army-takes-urgent-action-to-build-concrete-bunkers-across-the-middle-east/",
       "publishedAt": "2026-11-16T20:43:10Z"
-    },
-    {
-      "id": "876b3995769fcb31ab8dd389",
-      "title": "USNI News Fleet and Marine Tracker: Nov. 16, 2026",
-      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 16, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/16/usni-news-fleet-and-marine-tracker-nov-16-2026",
-      "publishedAt": "2026-11-16T19:55:16Z"
-    },
-    {
-      "id": "c01fb5e45f8e3f5aee7154f5",
-      "title": "Elite red team brings realistic cyber testing to operational aviation systems",
-      "summary": "The U.S. Navy’s Naval Aviation Red Team (AIR-RT) has earned official certification from the NSA and accreditation from U.S. Cyber Command, bolstering the fleet's ability to simulate nation-state cyberattacks and defend tactical aircraft against advanced digital threats.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579438/elite-red-team-brings-realistic-cyber-testing-operational-aviation-systems",
-      "publishedAt": "2026-11-16T18:48:20Z"
-    },
-    {
-      "id": "25d7d2318584387a33550109",
-      "title": "Bringing the Future Forward: Inside Agile Flag’s Super Intelligence Implementation",
-      "summary": "U.S. Air Force Airmen assigned to 15th Air Force participated in Agile Flag at Shaw Air Force Base, South Carolina, from Nov. 1 to Nov. 5. Agile Flag was designed to build combat-ready Airmen and teams able to recover, refuel, rearm, repair, and launch aircraft from austere, unfamiliar locations under attack.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579433/bringing-future-forward-inside-agile-flags-super-intelligence-implementation",
-      "publishedAt": "2026-11-16T18:35:43Z"
-    },
-    {
-      "id": "6a1ad5c4fa96502ba518b8fa",
-      "title": "USS Minneapolis-Saint Paul Marks 250th Anniversary of Statia Day",
-      "summary": "USS Minneapolis-Saint Paul (LCS 21) joined the people of Sint Eustatius, known locally as Statia, Nov. 16, to commemorate the 250th anniversary of the island’s historic “First Salute” to the United States.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579430/uss-minneapolis-saint-paul-marks-250th-anniversary-statia-day",
-      "publishedAt": "2026-11-16T18:11:20Z"
-    },
-    {
-      "id": "e7b581c2950a64ba49243c67",
-      "title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
-      "summary": "Europe's defense ministries are looking to limit dependency on American technology and major software company Palantir Technologies.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/2026/11/16/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence/",
-      "publishedAt": "2026-11-16T18:00:00Z"
     }
   ],
   "nextPage": "pages/page-2.json"
