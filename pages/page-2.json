@@ -1,7 +1,106 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-17T16:06:12Z",
+  "generatedAt": "2026-11-18T00:58:54Z",
   "articles": [
+    {
+      "id": "53c4b374f0fe9fff255c21ac",
+      "title": "Media Alert: Santa Claus is coming to town on an MH-60S Seahawk helicopter (Courtesy of the U.S. Navy)",
+      "summary": "Adm. Santa Claus will spread holiday cheer and conduct aerial reconnaissance from a U.S. Navy MH-60S Seahawk helicopter over Southern Maryland during a holiday flight with the Air Test and Evaluation Squadron (HX) 21 \"Blackjacks\" on Dec. 8, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579428/media-alert-santa-claus-coming-town-mh-60s-seahawk-helicopter-courtesy-us-navy",
+      "publishedAt": "2026-11-16T17:32:48Z"
+    },
+    {
+      "id": "d131b2a294effc72e2747ba0",
+      "title": "ARTRANS Leads Modernization Efforts with IBS-Cloud Native Training at Fort Eustis",
+      "summary": "In alignment with the U.S. Army’s strategic push for continuous modernization and cloud integration, cargo booking specialists from across U.S. Army Transportation Command (ARTRANS) converged at the Fort Eustis Education Center in November 2026, to prepare for an enterprise-wide digital transition.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579427/artrans-leads-modernization-efforts-with-ibs-cloud-native-training-fort-eustis",
+      "publishedAt": "2026-11-16T17:27:23Z"
+    },
+    {
+      "id": "fda6c3b0492574ed3c583c40",
+      "title": "Open Water Alternative Navigation: New Technology Promises Aid to GPS-Denied, Ocean-Flying Drones",
+      "summary": "GPS denial by jamming, spoofing, and other adversarial tactics can severely degrade the ability of uncrewed autonomous vehicles (UAV) to navigate and stay on mission.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579424/open-water-alternative-navigation-new-technology-promises-aid-gps-denied-ocean-flying-drones",
+      "publishedAt": "2026-11-16T17:11:56Z"
+    },
+    {
+      "id": "8aeff199abcee37270a073f9",
+      "title": "US and Russia to oppose talks on limiting autonomous weapons",
+      "summary": "Major arms producers the U.S. and Russia look set to oppose a push at a global meeting to launch negotiations on legally binding rules for autonomous weapons.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/11/16/us-and-russia-to-oppose-talks-on-limiting-autonomous-weapons/",
+      "publishedAt": "2026-11-16T16:53:41Z"
+    },
+    {
+      "id": "c71e410c9e725eb1f6c84218",
+      "title": "Environmental Services Cooperative Agreements provide locals with clean up options",
+      "summary": "Today, the U.S. Army Corps of Engineers is leveraging an alternative federal funding model to accelerate environmental cleanups and return those properties to public and commercial use",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579420/environmental-services-cooperative-agreements-provide-locals-with-clean-up-options",
+      "publishedAt": "2026-11-16T16:50:23Z"
+    },
+    {
+      "id": "e03d1e3f6219de84a2c0b88d",
+      "title": "Army’s inaugural water technology demo advances collaboration, capabilities across defense community",
+      "summary": "SCHOFIELD BARRACKS, Hawaii – U.S. Army DEVCOM Ground Vehicle Systems Center, in partnership with the 25th Infantry Division, brought together military leaders, Soldiers and industry partners earlier this fall to accelerate new water technology acquisition and transition emerging commercial capabilities into solutions that drive Army readiness and…",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579422/armys-inaugural-water-technology-demo-advances-collaboration-capabilities-across-defense-community",
+      "publishedAt": "2026-11-16T16:49:08Z"
+    },
+    {
+      "id": "3cad029bf3d328e680427c3a",
+      "title": "Meeting on the 'X': ARTRANS, Joint Partners Align Strategic Logistics for SWORD 27",
+      "summary": "U.S. Army Chief Warrant Officer 3 Thomas Jackson, 597th Transportation Brigade, ARTRANS, “Rapid Support,” transportation officer, spearheaded critical logistics coordination at the SWORD 27 (Immediate and Swift Response) Mid-Planning Conference at Camp Mackall, North Carolina, Nov.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579418/meeting-x-artrans-joint-partners-align-strategic-logistics-sword-27",
+      "publishedAt": "2026-11-16T16:30:27Z"
+    },
+    {
+      "id": "27e772ebc56a8fc9fb45d734",
+      "title": "Troops in unsafe barracks can get temporary housing on or off base, Pentagon says",
+      "summary": "“The Department has more barracks data than it has ever had,” one advocate said. “We’re still relying on someone walking into a room to see the problem.” The post Troops in unsafe barracks can get temporary housing on or off base, Pentagon says appeared first on Task & Purpose .",
+      "category": "Defense",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/barracks-emergency-orders/",
+      "publishedAt": "2026-11-16T15:58:04Z"
+    },
+    {
+      "id": "9c9f30391422a703a362b2d8",
+      "title": "Eighth Army hosts Korean War veterans, reunited in honor of a sacrifice that shaped history",
+      "summary": "Eighth Army welcomed approximately 30 Korean War veterans from the Korean War Veterans Association Seoul Branch to its headquarters at Camp Humphreys, Nov. 5, for a day honoring their service, sacrifice and lasting contributions to the U.S.-ROK alliance.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579394/eighth-army-hosts-korean-war-veterans-reunited-honor-sacrifice-shaped-history",
+      "publishedAt": "2026-11-16T06:17:26Z"
+    },
+    {
+      "id": "3d76e4fa9ab8b0cc28f044bb",
+      "title": "Brunson tells Civil Affairs Soldiers their work starts before the fight",
+      "summary": "SIMI VALLEY, Calif – Gen. Xavier T. Brunson, commander of United Nations Command, Republic of Korea-U.S. Combined Forces Command and U.S. Forces Korea, told Soldiers of the 358th Civil Affairs Brigade on Nov. 14 that civil affairs is not a cleanup crew. It is a capability that shapes the fight before it starts.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579393/brunson-tells-civil-affairs-soldiers-their-work-starts-before-fight",
+      "publishedAt": "2026-11-16T06:04:34Z"
+    },
+    {
+      "id": "b076772b0439f20cc4787af8",
+      "title": "USACE Far East District completes turnover of $190 million in new housing facilities at Camp Humphreys",
+      "summary": "The U.S. Army Corps of Engineers Far East District, in partnership with the Republic of Korea Ministry of National Defense-Defense Installation Agency, completed the turnover of new unaccompanied enlisted personnel housing facilities Nov. 9, 2026, at Camp Humphreys.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579382/usace-far-east-district-completes-turnover-190-million-new-housing-facilities-camp-humphreys",
+      "publishedAt": "2026-11-16T04:26:47Z"
+    },
     {
       "id": "e6a1e5cc6aae7abd55369aa9",
       "title": "Projecting Lethality: 25th Infantry Division Validates Deep Strike Capabilities Across the Pacific",
@@ -262,105 +361,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/global/europe/2026/11/13/us-army-names-officer-held-on-allegations-of-espionage/",
       "publishedAt": "2026-11-13T16:32:38Z"
-    },
-    {
-      "id": "5b5f595d9c340ecd4f4ae4ed",
-      "title": "Joint Forces Strengthen Aerial Sustainment Capabilities During JPMRC",
-      "summary": "Across the Indo-Pacific, the ability to deliver critical supplies and equipment to dispersed forces is essential to maintaining combat readiness. During Joint Pacific Multinational Readiness Center (JPMRC) 27-01, U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579251/joint-forces-strengthen-aerial-sustainment-capabilities-during-jpmrc",
-      "publishedAt": "2026-11-13T04:37:28Z"
-    },
-    {
-      "id": "c1ae5e4c1d2c2e92dcefdeaa",
-      "title": "T-19A Kestrel makes debut flyover at U.S. Air Force Academy",
-      "summary": "U.S. Air Force Academy cadets were treated to a historic aerial display today as the Air Force’s newest aircraft, the T-19A Kestrel, made its official public debut during a flyover of the Cadet Wing’s noon meal formation.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579253/t-19a-kestrel-makes-debut-flyover-us-air-force-academy",
-      "publishedAt": "2026-11-13T04:24:10Z"
-    },
-    {
-      "id": "695652166e8f0bbf1e1059af",
-      "title": "ACC-RSA celebrates Leadership Development and Readiness Program Graduates",
-      "summary": "U.S. Army Contracting Command-Redstone Arsenal recognized 21 employees who completed the Leadership Development and Readiness Program's Level II Practitioner Course during a Nov. 4, 2026 ceremony at Toftoy Hall on Redstone Arsenal, Alabama.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579252/acc-rsa-celebrates-leadership-development-and-readiness-program-graduates",
-      "publishedAt": "2026-11-13T03:51:13Z"
-    },
-    {
-      "id": "6acbeaa2655d97548c8eda38",
-      "title": "ACC-RSA Green Platoon graduation honors 33 contracting fellows",
-      "summary": "Thirty-three contracting fellows graduated from U.S. Army Contracting Command-Redstone Arsenal’s Green Platoon program during a ceremony on Oct. 5 at Heiser Hall on Redstone Arsenal, Ala.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579240/acc-rsa-green-platoon-graduation-honors-33-contracting-fellows",
-      "publishedAt": "2026-11-13T02:37:07Z"
-    },
-    {
-      "id": "15669a97cf196053348fa929",
-      "title": "SSN(X) Attack Boat Will be a Swift, Lethal Mothership for Undersea Drones, Navy Says",
-      "summary": "ARLINGTON, Va. — The next American nuclear attack submarine design will be faster, take less time to repair and serve as a mothership for a constellation of undersea drones, the Navy’s head of requirements for submarines said on Thursday.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/12/ssnx-attack-boat-will-be-a-swift-lethal-mothership-for-undersea-drones-navy-says",
-      "publishedAt": "2026-11-12T23:00:43Z"
-    },
-    {
-      "id": "67423c2244e0373fbd13075c",
-      "title": "Democrats push to remove US-Israel tech measure from defense bill",
-      "summary": "The measures call for enhanced cooperation between the U.S. and Israel on weapons technology development.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/congress/2026/11/12/democrats-push-to-remove-us-israel-tech-measure-from-defense-bill/",
-      "publishedAt": "2026-11-12T22:21:53Z"
-    },
-    {
-      "id": "2a06156f761d71b73915706e",
-      "title": "Washington Artillery marks 188 years at annual Pass in Review",
-      "summary": "NEW ORLEANS – The Louisiana National Guard’s 1st Battalion, 141st Field Artillery Regiment, Washington Artillery, commemorated 188 years of service during its annual Pass in Review ceremony in New Orleans, Nov. 8.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579233/washington-artillery-marks-188-years-annual-pass-review",
-      "publishedAt": "2026-11-12T21:46:57Z"
-    },
-    {
-      "id": "7dd21a3571d07e70e9d54f46",
-      "title": "U.S. Transfers Unmanned Surface Vessels to Philippine Marine Corps",
-      "summary": "The Philippine Marine Corps received two American-made unmanned surface vessels last week at Subic Bay as part of Washington’s efforts to bolster Manila’s asymmetric capabilities in the South China Sea and Luzon Strait. On Nov. 4, two Maritime Tactical Systems T38 Devil Ray USVs were transferred to the Philippine Marine Corps at Subic Bay.",
-      "category": "Marine Corps",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/12/u-s-transfers-unmanned-surface-vessels-to-philippine-marine-corps",
-      "publishedAt": "2026-11-12T21:24:58Z"
-    },
-    {
-      "id": "3ae1f49eeda6a75dde967d34",
-      "title": "Pentagon ‘greenlit’ permanent presence of US troops in Poland, official says",
-      "summary": "The Pentagon “greenlit” the permanent presence of U.S. troops in Poland, with the final decision to be made by the White House in early December, Poland's defense minister said.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/global/europe/2026/11/12/pentagon-greenlit-permanent-presence-of-us-troops-in-poland-official-says/",
-      "publishedAt": "2026-11-12T21:22:17Z"
-    },
-    {
-      "id": "fb3eb0547d521517b3cac2ce",
-      "title": "USS Michael Murphy Returns to Pearl Harbor Following an 11-Month Combat Deployment",
-      "summary": "PEARL HARBOR, Hawaii — Arleigh Burke-class guided-missile destroyer USS Michael Murphy (DDG 112), with embarked Helicopter Maritime Strike Squadron (HSM) 71 Detachment 2, returned to its homeport of Joint Base Pearl Harbor-Hickam, Hawaii following an 11-month deployment to the U.S.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579226/uss-michael-murphy-returns-pearl-harbor-following-11-month-combat-deployment",
-      "publishedAt": "2026-11-12T20:39:18Z"
-    },
-    {
-      "id": "58749b7d56d0e70643ea8254",
-      "title": "Atkinson joins Drill Sergeant Academy as 34th commandant",
-      "summary": "“This is an important occasion for the U.S. Army Drill Sergeant Academy and Fort Jackson,” said Brig. Gen. Jeremy Wilson, Fort Jackson commander. “A change in commandant represents more than a change in leadership.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579227/atkinson-joins-drill-sergeant-academy-34th-commandant",
-      "publishedAt": "2026-11-12T20:36:32Z"
     }
   ],
   "nextPage": "page-3.json"

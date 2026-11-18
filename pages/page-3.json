@@ -1,7 +1,106 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-17T16:06:12Z",
+  "generatedAt": "2026-11-18T00:58:54Z",
   "articles": [
+    {
+      "id": "5b5f595d9c340ecd4f4ae4ed",
+      "title": "Joint Forces Strengthen Aerial Sustainment Capabilities During JPMRC",
+      "summary": "Across the Indo-Pacific, the ability to deliver critical supplies and equipment to dispersed forces is essential to maintaining combat readiness. During Joint Pacific Multinational Readiness Center (JPMRC) 27-01, U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579251/joint-forces-strengthen-aerial-sustainment-capabilities-during-jpmrc",
+      "publishedAt": "2026-11-13T04:37:28Z"
+    },
+    {
+      "id": "c1ae5e4c1d2c2e92dcefdeaa",
+      "title": "T-19A Kestrel makes debut flyover at U.S. Air Force Academy",
+      "summary": "U.S. Air Force Academy cadets were treated to a historic aerial display today as the Air Force’s newest aircraft, the T-19A Kestrel, made its official public debut during a flyover of the Cadet Wing’s noon meal formation.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579253/t-19a-kestrel-makes-debut-flyover-us-air-force-academy",
+      "publishedAt": "2026-11-13T04:24:10Z"
+    },
+    {
+      "id": "695652166e8f0bbf1e1059af",
+      "title": "ACC-RSA celebrates Leadership Development and Readiness Program Graduates",
+      "summary": "U.S. Army Contracting Command-Redstone Arsenal recognized 21 employees who completed the Leadership Development and Readiness Program's Level II Practitioner Course during a Nov. 4, 2026 ceremony at Toftoy Hall on Redstone Arsenal, Alabama.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579252/acc-rsa-celebrates-leadership-development-and-readiness-program-graduates",
+      "publishedAt": "2026-11-13T03:51:13Z"
+    },
+    {
+      "id": "6acbeaa2655d97548c8eda38",
+      "title": "ACC-RSA Green Platoon graduation honors 33 contracting fellows",
+      "summary": "Thirty-three contracting fellows graduated from U.S. Army Contracting Command-Redstone Arsenal’s Green Platoon program during a ceremony on Oct. 5 at Heiser Hall on Redstone Arsenal, Ala.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579240/acc-rsa-green-platoon-graduation-honors-33-contracting-fellows",
+      "publishedAt": "2026-11-13T02:37:07Z"
+    },
+    {
+      "id": "15669a97cf196053348fa929",
+      "title": "SSN(X) Attack Boat Will be a Swift, Lethal Mothership for Undersea Drones, Navy Says",
+      "summary": "ARLINGTON, Va. — The next American nuclear attack submarine design will be faster, take less time to repair and serve as a mothership for a constellation of undersea drones, the Navy’s head of requirements for submarines said on Thursday.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/12/ssnx-attack-boat-will-be-a-swift-lethal-mothership-for-undersea-drones-navy-says",
+      "publishedAt": "2026-11-12T23:00:43Z"
+    },
+    {
+      "id": "67423c2244e0373fbd13075c",
+      "title": "Democrats push to remove US-Israel tech measure from defense bill",
+      "summary": "The measures call for enhanced cooperation between the U.S. and Israel on weapons technology development.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/congress/2026/11/12/democrats-push-to-remove-us-israel-tech-measure-from-defense-bill/",
+      "publishedAt": "2026-11-12T22:21:53Z"
+    },
+    {
+      "id": "2a06156f761d71b73915706e",
+      "title": "Washington Artillery marks 188 years at annual Pass in Review",
+      "summary": "NEW ORLEANS – The Louisiana National Guard’s 1st Battalion, 141st Field Artillery Regiment, Washington Artillery, commemorated 188 years of service during its annual Pass in Review ceremony in New Orleans, Nov. 8.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579233/washington-artillery-marks-188-years-annual-pass-review",
+      "publishedAt": "2026-11-12T21:46:57Z"
+    },
+    {
+      "id": "7dd21a3571d07e70e9d54f46",
+      "title": "U.S. Transfers Unmanned Surface Vessels to Philippine Marine Corps",
+      "summary": "The Philippine Marine Corps received two American-made unmanned surface vessels last week at Subic Bay as part of Washington’s efforts to bolster Manila’s asymmetric capabilities in the South China Sea and Luzon Strait. On Nov. 4, two Maritime Tactical Systems T38 Devil Ray USVs were transferred to the Philippine Marine Corps at Subic Bay.",
+      "category": "Marine Corps",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/12/u-s-transfers-unmanned-surface-vessels-to-philippine-marine-corps",
+      "publishedAt": "2026-11-12T21:24:58Z"
+    },
+    {
+      "id": "3ae1f49eeda6a75dde967d34",
+      "title": "Pentagon ‘greenlit’ permanent presence of US troops in Poland, official says",
+      "summary": "The Pentagon “greenlit” the permanent presence of U.S. troops in Poland, with the final decision to be made by the White House in early December, Poland's defense minister said.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/global/europe/2026/11/12/pentagon-greenlit-permanent-presence-of-us-troops-in-poland-official-says/",
+      "publishedAt": "2026-11-12T21:22:17Z"
+    },
+    {
+      "id": "fb3eb0547d521517b3cac2ce",
+      "title": "USS Michael Murphy Returns to Pearl Harbor Following an 11-Month Combat Deployment",
+      "summary": "PEARL HARBOR, Hawaii — Arleigh Burke-class guided-missile destroyer USS Michael Murphy (DDG 112), with embarked Helicopter Maritime Strike Squadron (HSM) 71 Detachment 2, returned to its homeport of Joint Base Pearl Harbor-Hickam, Hawaii following an 11-month deployment to the U.S.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579226/uss-michael-murphy-returns-pearl-harbor-following-11-month-combat-deployment",
+      "publishedAt": "2026-11-12T20:39:18Z"
+    },
+    {
+      "id": "58749b7d56d0e70643ea8254",
+      "title": "Atkinson joins Drill Sergeant Academy as 34th commandant",
+      "summary": "“This is an important occasion for the U.S. Army Drill Sergeant Academy and Fort Jackson,” said Brig. Gen. Jeremy Wilson, Fort Jackson commander. “A change in commandant represents more than a change in leadership.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579227/atkinson-joins-drill-sergeant-academy-34th-commandant",
+      "publishedAt": "2026-11-12T20:36:32Z"
+    },
     {
       "id": "ea353827b1128e8cce3e2225",
       "title": "Facility technology medical program ends sunsets",
@@ -262,105 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579111/reserve-iw-sailors-sharpen-fleet-readiness-during-mako-sentry",
       "publishedAt": "2026-11-10T21:08:30Z"
-    },
-    {
-      "id": "0ea48878f69712033e0ae15e",
-      "title": "USAWHC Commander Visits Southern Vanguard 2027 in Tolemaida, Colombia",
-      "summary": "Gen. Joseph A. Ryan, U.S. Army Western Hemisphere Command (USAWHC) Commanding General, visited Tolemaida, Colombia, on Nov. 9, 2026, to meet with U.S. and Colombian soldiers participating in Southern Vanguard 2027 (SV27), an annual exercise focused on strengthening interoperability, readiness, and bilateral security cooperation.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579113/usawhc-commander-visits-southern-vanguard-2027-tolemaida-colombia",
-      "publishedAt": "2026-11-10T21:04:35Z"
-    },
-    {
-      "id": "59374aa24c42301fc4c7615b",
-      "title": "Allen Control Systems launches new division to develop counter-drone lasers",
-      "summary": "The announcement comes amid the Pentagon’s growing interest in laser weapons, which use concentrated beams of energy to heat and destroy targets.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/allen-control-systems-launches-new-division-to-develop-counter-drone-lasers/",
-      "publishedAt": "2026-11-10T20:56:37Z"
-    },
-    {
-      "id": "d567e7b559a36a242d635a26",
-      "title": "U.S. Marines rehearse distributed, assured command and control across Oahu",
-      "summary": "U.S. Marines assigned to 3rd Marine Littoral Regiment, 3rd Marine Division, successfully concluded a dynamic command and control exercise across Oahu, Hawaii, Nov. 6, 2026.",
-      "category": "Marine Corps",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579107/us-marines-rehearse-distributed-assured-command-and-control-across-oahu",
-      "publishedAt": "2026-11-10T20:18:42Z"
-    },
-    {
-      "id": "89c02644bf29728210820aa2",
-      "title": "Nevada Army Guard honors 11 Soldiers and their families at retirement ceremony",
-      "summary": "Applause and cheers filled the room as the Nevada Army National Guard honored 11 retired and soon-to-retire Soldiers and the families who supported them during its third retirement ceremony Nov. 8.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579106/nevada-army-guard-honors-11-soldiers-and-their-families-retirement-ceremony",
-      "publishedAt": "2026-11-10T20:08:05Z"
-    },
-    {
-      "id": "f524c34cd563cb845ce5b2bb",
-      "title": "Warrant Officers focus on innovation and a transforming Army during Professional Development Symposium",
-      "summary": "For the first time in eight years, Washington Army National Guard warrant officers gathered for a state-level Warrant Officer Professional Development event, focusing on how their technical expertise can help commanders adapt to a transforming Army.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579104/warrant-officers-focus-innovation-and-transforming-army-during-professional-development-symposium",
-      "publishedAt": "2026-11-10T20:05:59Z"
-    },
-    {
-      "id": "dff5c190fd50b01060f5be71",
-      "title": "Maintaining the Foundation Drainage System Inside Mount Morris Dam",
-      "summary": "The U.S. Army Corps of Engineers, Buffalo District, is conducting foundation drain cleaning at the Mount Morris Dam to remove buildup, relieve water pressure beneath the structure and maintain its long-term safety. The recurring maintenance helps ensure the dam continues reducing flood risks for communities along the Genesee River.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579098/maintaining-foundation-drainage-system-inside-mount-morris-dam",
-      "publishedAt": "2026-11-10T19:11:37Z"
-    },
-    {
-      "id": "543fac7ad1dc0ce0192ed1ea",
-      "title": "PACFLT-NPS Agreement Strengthens Link Between Fleet Requirements, Graduate Education",
-      "summary": "U.S. Navy Adm. Steve. Koehler, commander, U.S. Pacific Fleet, and retired U.S. Navy Vice Adm. Ann E. Rondeau, president of the Naval Postgraduate School (NPS), signed a memorandum of agreement at Pacific Fleet headquarters, formalizing support for an NPS fleet liaison officer embedded with the Pacific Fleet staff. Nov. 2, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579095/pacflt-nps-agreement-strengthens-link-between-fleet-requirements-graduate-education",
-      "publishedAt": "2026-11-10T19:09:24Z"
-    },
-    {
-      "id": "0e1f04aa223a1e965dbaea93",
-      "title": "Family sues Air Force over daughter’s brain injury from birth overseas",
-      "summary": "The Walker family lawyer said military families suing for medical malpractice could receive “much better treatment” if the case happened in the U.S. rather than overseas. The post Family sues Air Force over daughter’s brain injury from birth overseas appeared first on Task & Purpose .",
-      "category": "Air Force",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/air-force-medical-malpractice-lawsuit/",
-      "publishedAt": "2026-11-10T16:22:58Z"
-    },
-    {
-      "id": "f5de6ca3caaf3cd54f951a33",
-      "title": "Pentagon can’t track millions of F-35 spare parts, watchdog finds",
-      "summary": "The GAO reported that while the DoD's F-35 program \"is the costliest in its history,\" the department \"struggles to account\" for its parts.",
-      "category": "Air Force",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/pentagon/2026/11/10/pentagon-cant-track-millions-of-f-35-spare-parts-watchdog-finds/",
-      "publishedAt": "2026-11-10T15:41:12Z"
-    },
-    {
-      "id": "09e90d0eb72de405e56f085e",
-      "title": "African Lion 2027: Allies and partners set the stage for joint warfighting readiness",
-      "summary": "VICENZA, Italy — The success of any multinational military exercise begins long before the first troops arrive at a training area. For African Lion 2027, the main planning event held in Vicenza, Italy, Nov. 3–6, represents a critical step in preparing the Tunisian portion of the U.S. Africa Command’s largest annual joint exercise led by U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579037/african-lion-2027-allies-and-partners-set-stage-joint-warfighting-readiness",
-      "publishedAt": "2026-11-10T14:50:53Z"
-    },
-    {
-      "id": "f93fbcf6c8f7b3eb9b776acc",
-      "title": "A Pentagon impeachment showdown, plus defense funding in limbo",
-      "summary": "Hegseth could face a high-profile impeachment battle as Congress struggles to settle major defense spending decisions before the new year.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/a-pentagon-impeachment-showdown-plus-defense-funding-in-limbo/",
-      "publishedAt": "2026-11-10T14:22:50Z"
     }
   ],
   "nextPage": "page-4.json"

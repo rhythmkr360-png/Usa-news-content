@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-18T00:58:54Z",
+  "articles": [
+    {
+      "id": "9852d58308c2e46049351843",
+      "title": "73 APS welcomes new commander",
+      "summary": "U.S. Air Force Maj. Charles Smith assumed command of the 73rd Aerial Port Squadron during a ceremony here Nov. 7, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578903/73-aps-welcomes-new-commander",
+      "publishedAt": "2026-11-08T20:57:46Z"
+    },
+    {
+      "id": "f9c3b1226228d7606072013d",
+      "title": "Ohio National Guard launches new partnership during inaugural visit to Angola",
+      "summary": "LUANDA, Angola — Ohio National Guard leaders traveled to Angola from June 29 to July 3, 2026, for the organization’s first official visit since Ohio and Angola were paired through the State Partnership Program.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578905/ohio-national-guard-launches-new-partnership-during-inaugural-visit-angola",
+      "publishedAt": "2026-11-08T19:38:36Z"
+    },
+    {
+      "id": "ada3eefed907aad49a67b9ea",
+      "title": "Behind the Flight Line: 162nd Wing AGE Airmen Power the Mission",
+      "summary": "Aerospace Ground Equipment Airmen assigned to the 162nd Wing, Arizona Air National Guard, maintain essential ground support equipment at Morris Air National Guard Base, Arizona.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578901/behind-flight-line-162nd-wing-age-airmen-power-mission",
+      "publishedAt": "2026-11-08T16:08:58Z"
+    },
+    {
+      "id": "a1f4212a5f61a879030f80cd",
+      "title": "Keeping the Mission Moving: Staff Sgt. Ryon Grant",
+      "summary": "U.S. Air National Guard Staff Sgt. Ryon Grant, a vehicle maintenance technician assigned to the 162nd Logistics Readiness Squadron, Arizona Air National Guard, plays a vital role in maintaining mission readiness at Morris Air National Guard Base, Arizona.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578900/keeping-mission-moving-staff-sgt-ryon-grant",
+      "publishedAt": "2026-11-08T16:08:57Z"
+    },
+    {
+      "id": "8ee74310deeb765c29d1404b",
+      "title": "Kentucky Air Guard stands up dedicated recruiting flight",
+      "summary": "The Kentucky Air National Guard has activated a new unit dedicated to recruiting the next generation of Guard Airmen across the Commonwealth.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578898/kentucky-air-guard-stands-up-dedicated-recruiting-flight",
+      "publishedAt": "2026-11-08T13:17:35Z"
+    },
+    {
+      "id": "71499f89cdd53e4ede608f7a",
+      "title": "Contingency Response Group stages defender training for multiple units in Puerto Rico",
+      "summary": "Airmen from the Kentucky Air National Guard’s 123rd Contingency Response Group staged security forces training in Puerto Rico recently to benefit more than 30 Guard defenders from multiple units.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/578897/contingency-response-group-stages-defender-training-multiple-units-puerto-rico",
+      "publishedAt": "2026-11-08T13:11:35Z"
+    }
+  ]
+}
