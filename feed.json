@@ -1,7 +1,124 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T11:45:17Z",
+  "generatedAt": "2026-11-19T20:41:40Z",
   "articles": [
+    {
+      "id": "70b669e0776c904a37436407",
+      "title": "xTech|Kinetic Reach Competition Seeks Next-Generation Agile Sustainment Solutions",
+      "summary": "The Army FUZE xTech Program, in partnership with G-TEAD and USAREUR-AF, has launched xTech|Kinetic Reach, a competition focused on sustainment and mobility technologies that support distributed operations at the tactical edge.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579775/xtech-kinetic-reach-competition-seeks-next-generation-agile-sustainment-solutions",
+      "publishedAt": "2026-11-19T20:18:06Z"
+    },
+    {
+      "id": "90fbf5ddb78bdd1770264fa4",
+      "title": "Washington Army National Guard, Singapore Army Begin Planning for Tiger Balm 2027",
+      "summary": "Washington Army National Guard and Singapore Army soldiers met at Mandai Hill Camp, Singapore, Oct. 19–23, 2026, for the initial planning conference for Exercise Tiger Balm 2027.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579774/washington-army-national-guard-singapore-army-begin-planning-tiger-balm-2027",
+      "publishedAt": "2026-11-19T20:12:10Z"
+    },
+    {
+      "id": "b8e4f3f103bbf30b3473455b",
+      "title": "U.S. Naval Academy Class of 2027 Obtain Career Assignments",
+      "summary": "A total of 1,041 midshipmen in the U.S. Naval Academy Class of 2027 received their service assignments in Bancroft Hall in Annapolis, Maryland, Nov. 19, 2026, marking a major milestone toward their May 2027 commissioning.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579773/us-naval-academy-class-2027-obtain-career-assignments",
+      "publishedAt": "2026-11-19T20:07:25Z"
+    },
+    {
+      "id": "da2897229a50e6dce726faf2",
+      "title": "READOUT: Pacific Fleet Commander’s travel to Papua New Guinea, Nov. 15-17",
+      "summary": "U.S. Navy Adm. Steve Koehler, commander, U.S. Pacific Fleet, visited Port Moresby, Papua New Guines, Nov. 15-17 to affirm the longstanding partnership and bilateral relationship between Papua New Guinea and the United States.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579768/readout-pacific-fleet-commanders-travel-papua-new-guinea-nov-15-17",
+      "publishedAt": "2026-11-19T19:59:03Z"
+    },
+    {
+      "id": "73ea987b1ac0a3334b68ede6",
+      "title": "READOUT: Pacific Fleet Commander’s travel to Tonga, Nov. 17-19",
+      "summary": "U.S. Navy Adm. Steve Koehler, commander, U.S. Pacific Fleet, traveled to Nuku’alofa, Tonga, Nov. 17-19 to reaffirm the longstanding partnership and deepening defense ties between the Kingdom of Tonga and the United States in support of shared maritime security and regional stability.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579771/readout-pacific-fleet-commanders-travel-tonga-nov-17-19",
+      "publishedAt": "2026-11-19T19:58:51Z"
+    },
+    {
+      "id": "a8db76e3f140fe80ae9241ac",
+      "title": "Candidates are lining up to be the next top HASC Republican.",
+      "summary": "With Democrats preparing to take control of the House Armed Services Committee, a Republican leadership race could shape the next round of Pentagon oversight.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/new-leadership-new-tensions-for-top-house-defense-panel/",
+      "publishedAt": "2026-11-19T19:54:46Z"
+    },
+    {
+      "id": "49de806ab35273a67f173c4a",
+      "title": "Teen panelists turn leadership into action for Wisconsin military youth",
+      "summary": "Nine military youth representatives participated in the Wisconsin National Guard Child and Youth Program’s State Teen Panel Fall Leadership Summit Nov. 13-15 at the Wisconsin Lions Camp.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579766/teen-panelists-turn-leadership-into-action-wisconsin-military-youth",
+      "publishedAt": "2026-11-19T19:47:26Z"
+    },
+    {
+      "id": "00155eb92640b2450dd083d7",
+      "title": "Army Guard senior leaders align on mobilization, combat readiness at 2026 GTCC",
+      "summary": "NORTH LITTLE ROCK, Ark. — Army National Guard senior commanders gathered Nov. 6-8 at the National Guard Professional Education Center at Camp Robinson for the 2026 Green Tab Commanders Conference. Hosted by Lt. Gen. Jonathan M.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579762/army-guard-senior-leaders-align-mobilization-combat-readiness-2026-gtcc",
+      "publishedAt": "2026-11-19T19:26:03Z"
+    },
+    {
+      "id": "6ea78fe01703ad0318523394",
+      "title": "NSWCPD Industry Day Connects Government and Industry Partners to Advance Navy Mission",
+      "summary": "From small businesses exploring opportunities to support the U.S. Navy to established industry partners providing advanced engineering and technical solutions, more than 580 participants came together Nov. 5, 2026, for Naval Surface Warfare Center, Philadelphia Division's (NSWCPD) Hybrid Industry Day.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579760/nswcpd-industry-day-connects-government-and-industry-partners-advance-navy-mission",
+      "publishedAt": "2026-11-19T18:59:45Z"
+    },
+    {
+      "id": "cd10d8f6708de9e496790534",
+      "title": "Pentagon lacks ‘overarching plan’ for munitions production, watchdog warns",
+      "summary": "“DoD does not have an overarching plan that links munitions production and funding to requirements,” warned the Government Accountability Office study.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/11/19/pentagon-lacks-overarching-plan-for-munitions-production-watchdog-warns/",
+      "publishedAt": "2026-11-19T18:59:12Z"
+    },
+    {
+      "id": "cdf192e1874ce5337311b521",
+      "title": "Fort Lee announces holiday office hours",
+      "summary": "Many Fort Lee offices will change their hours of operation and/or close on specific days during the holidays, including Thanksgiving break Nov. 26-29 and Holiday Block Leave Dec. 17 to Jan. 2. This reduction is aligned with the Army’s annual HBL, whereby U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579759/fort-lee-announces-holiday-office-hours",
+      "publishedAt": "2026-11-19T18:49:00Z"
+    },
+    {
+      "id": "bb061be407c1f89ef5d8d449",
+      "title": "Hegseth, in Caracas, announces US-Venezuela military partnership agreement",
+      "summary": "U.S. Defense Secretary Pete Hegseth announced a new agreement on military cooperation with Venezuela in his first visit to the country since U.S. special forces deposed President Nicolas Maduro in a January raid.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/pentagon/2026/11/19/hegseth-in-caracas-announces-us-venezuela-military-partnership-agreement/",
+      "publishedAt": "2026-11-19T17:03:28Z"
+    },
+    {
+      "id": "e58e7d211d98896e33494612",
+      "title": "CycloKinetics wins $86.3 million Pentagon contract for alternative fuels",
+      "summary": "The Utah-based startup is pioneering new “drop-in” propellants that can substitute prevailing forms of energy.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/cyclokinetics-wins-86-3-million-pentagon-contract-for-alternative-fuels/",
+      "publishedAt": "2026-11-19T14:00:00Z"
+    },
     {
       "id": "8e7a721d7e371d1660444c7e",
       "title": "5th Air Naval Gunfire Liaison Company evaluates candidates for deployable detachments",
@@ -192,6 +309,15 @@
       "publishedAt": "2026-11-18T21:05:34Z"
     },
     {
+      "id": "b790928c7c277aa6be0ace59",
+      "title": "US Navy used expired munitions during Iran war, Cao says",
+      "summary": "Acting Navy Secretary told lawmakers during a Senate confirmation hearing that the service is recoding expired munitions and firing them off.",
+      "category": "Navy",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/naval/2026/11/18/us-navy-used-expired-munitions-during-iran-war-cao-says/",
+      "publishedAt": "2026-11-18T21:05:34Z"
+    },
+    {
       "id": "2e9992688faef6003efe680e",
       "title": "Fort Meade enlisted leader honors veterans, military families at Crownsville ceremony",
       "summary": "U.S. Army Garrison Fort George G. Meade Command Sgt. Maj. Richard Moore delivered the principal address during the United Veterans of Anne Arundel County Veterans Day ceremony Nov. 11 at Crownsville State Veterans Cemetery, honoring generations of veterans and recognizing the sacrifices of military families.",
@@ -235,132 +361,6 @@
       "sourceName": "USNI News",
       "sourceUrl": "https://news.usni.org/2026/11/18/u-k-carrier-strike-group-concludes-6-month-operation-firecrest-deployment",
       "publishedAt": "2026-11-18T18:23:31Z"
-    },
-    {
-      "id": "4bc3f5fb2b7d45d32afa931b",
-      "title": "Preventing illness on the global stage: Navy corpsman reflects on Pacific Partnership 2026",
-      "summary": "Hospital Corpsman 1st Class Sean Weimer, a preventive medicine technician assigned to Navy Medicine Readiness and Training Command Twentynine Palms, supported force health protection and international public health engagements during Pacific Partnership 2026 from June to July. Working alongside U.S.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579634/preventing-illness-global-stage-navy-corpsman-reflects-pacific-partnership-2026",
-      "publishedAt": "2026-11-18T17:54:35Z"
-    },
-    {
-      "id": "84e91c7d8113c5e6535b5b94",
-      "title": "Report to Congress on the Defense Innovation Ecosystem",
-      "summary": "The following is the Nov. 16, 2026, Congressional Research Service report, the Defense Innovation Ecosystem. From the Report Providing for the national defense is a central concern of Congress. Technological advantage has long contributed to decisive U.S. military victories and deterred potential conflicts. Underpinning U.S.",
-      "category": "Defense",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/18/report-to-congress-on-the-defense-innovation-ecosystem",
-      "publishedAt": "2026-11-18T15:32:41Z"
-    },
-    {
-      "id": "541390114241cf3309ce208f",
-      "title": "The Pentagon fails another audit. Can it turn things around by 2028?",
-      "summary": "The Defense Department has struggled for years to get its books in order. Now, officials say a new approach could change that.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/the-pentagon-fails-another-audit-can-it-turn-things-around-by-2028/",
-      "publishedAt": "2026-11-18T14:23:52Z"
-    },
-    {
-      "id": "35a6f6c317c6fb9ecf4ffdde",
-      "title": "AFRICOM commander visits Mali, Senegal to address regional security",
-      "summary": "U.S. Air Force Gen. Dagvin Anderson, commander of U.S. Africa Command, completed a multi-day trip to West Africa Nov. 10-12.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579593/africom-commander-visits-mali-senegal-address-regional-security",
-      "publishedAt": "2026-11-18T09:16:51Z"
-    },
-    {
-      "id": "a0dc655a663341496d97910d",
-      "title": "Japan District Engineers Spark Young Minds at STEAM Day",
-      "summary": "U.S. Army Corps of Engineers Japan District (USACE JED) experts led elementary students through hands-on infrastructure and electrical engineering lessons during the annual STEAM Day at Shirley Lanham Elementary School on Nov. 6.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579586/japan-district-engineers-spark-young-minds-steam-day",
-      "publishedAt": "2026-11-18T05:50:01Z"
-    },
-    {
-      "id": "59787190a08e749f8d9fbf73",
-      "title": "U.S. Navy Sailor takes first place in the 2026 Norwegian Foot March 30K",
-      "summary": "Naval Aircrewman (Helicopter) 2nd Class Simon Ginsberg was the first participant to cross the finish line at the 2026 Norwegian Foot March, completing the 30-kilometer course in 3 hours and 18 minutes at Naval Air Facility (NAF) Atsugi, Japan, Nov. 14, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579589/us-navy-sailor-takes-first-place-2026-norwegian-foot-march-30k",
-      "publishedAt": "2026-11-18T05:17:39Z"
-    },
-    {
-      "id": "bfe94a75661e3e7011bb75a4",
-      "title": "Cmdr. JoAnn Friesz retires from the Navy Reserve after nearly 27 years of service",
-      "summary": "NAVAL CONSTRUCTION BATTALION CENTER GULFPORT, Miss. – Cmdr. JoAnn Susan Friesz, Commanding Officer of Navy Reserve Mobilization and Deployment Support Command Detachment Bravo, a resident of Bloomington, MN, retired from the U.S. Navy Reserve during a ceremony at the Seabee Memorial Chapel aboard Naval Construction Battalion Center Gulfport on Nov.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579588/cmdr-joann-friesz-retires-navy-reserve-after-nearly-27-years-service",
-      "publishedAt": "2026-11-18T03:53:34Z"
-    },
-    {
-      "id": "0f4267cde9d94e59b3ace18a",
-      "title": "Two years ago today, the Philippines and the United States officially signed the General Security of Military Information Agreement (GSOMIA). Signed by Department of National Defense (DND) Sec. Gilberto Teodoro Jr. and t",
-      "summary": "Two years ago today, the Philippines and the United States officially signed the General Security of Military Information Agreement (GSOMIA). Signed by Department of National Defense (DND) Sec. Gilberto Teodoro Jr. and then-U.S. Defense Sec. Lloyd Austin Facebook",
-      "category": "Defense",
-      "sourceName": "Facebook",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZW5fNVZRMG1QQUowMUdXNF9NaVVZTG53Vnk0d1laQ2w2Mi1WSG1YQjdmcUNjSWZ5RUg0aFJTcWxuczQ5TV8xOW1jbkFPTXdfcjJyZFlybGFwa1dZZmJ6MTRwSGloc0Y2Wndqb0JHQTdHUFJnQzZacjdmbDM2VVVodmpxRElqNGZDbWRqamtZeUEweFR4dFJRT2ZjejI4cDNlWm5aY29seVhhaXEtelhOOVRfRHcxZUdNd3hNbVFndVpnbk9vcjd0U0hzY0M4RHg0?oc=5",
-      "publishedAt": "2026-11-18T01:00:02Z"
-    },
-    {
-      "id": "9f4ad11ac7f640839fd1ae56",
-      "title": "Army’s Senior Logistics Officer Visits JBLM, Port of Tacoma, Recognizing Regional Capabilities",
-      "summary": "Lt. Gen. Michelle K. Donahue, the U.S. Army Deputy Chief of Staff, G‑4, visited Joint Base Lewis‑McChord and the Port of Tacoma on Nov. 10 to assess deployment and distribution capabilities supporting force projection into the Indo‑Pacific.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579581/armys-senior-logistics-officer-visits-jblm-port-tacoma-recognizing-regional-capabilities",
-      "publishedAt": "2026-11-17T23:21:47Z"
-    },
-    {
-      "id": "399d118bafdd51741121c4f4",
-      "title": "Stryker Leader Symposium Synchronizes Force Modernization",
-      "summary": "FORT CARSON, Colo. – The 4th Infantry Division hosted senior leaders from across the U.S. Army and the Royal Thai Army for the Stryker Leader Symposium Nov. 3-4 to synchronize modernization and redesign efforts.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579584/stryker-leader-symposium-synchronizes-force-modernization",
-      "publishedAt": "2026-11-17T23:21:35Z"
-    },
-    {
-      "id": "d8ba35f7b2fccb0f906aa268",
-      "title": "U.S. Marine Corps Forces South Hosts Regional Symposium to Strengthen Hemispheric Defense",
-      "summary": "NEW ORLEANS – U.S. Marine Corps Forces, South hosted senior leaders with marine and naval infantry forces from 12 Latin American countries during the Regional Marine Leaders Symposium, Nov. 4-6.",
-      "category": "Marine Corps",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579580/us-marine-corps-forces-south-hosts-regional-symposium-strengthen-hemispheric-defense",
-      "publishedAt": "2026-11-17T22:01:24Z"
-    },
-    {
-      "id": "55c1193d03be84f6a2ab0e81",
-      "title": "Sharon Chen, a New York City resident, retires from New York Army National Guard after 24 years of service",
-      "summary": "New York Army National Guard 1st Sgt. Sharon Chen, a Monroe resident and veteran of three Middle East deployments, retired after more than 24 years of military service during a Nov. 7 ceremony at the Whitestone Armory in Queens.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579577/sharon-chen-new-york-city-resident-retires-new-york-army-national-guard-after-24-years-service",
-      "publishedAt": "2026-11-17T21:39:57Z"
-    },
-    {
-      "id": "4e1b7071a5b5a1008839e87d",
-      "title": "Fort Buchanan helps service members turn military experience into business opportunities",
-      "summary": "Soldiers, veterans and military family members explored opportunities to turn their skills and ideas into businesses during a Boots to Business workshop hosted by Fort Buchanan in partnership with the U.S. Small Business Administration Nov. 17 at the installation's Training Support Center.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579566/fort-buchanan-helps-service-members-turn-military-experience-into-business-opportunities",
-      "publishedAt": "2026-11-17T20:11:34Z"
-    },
-    {
-      "id": "ad378f3c5e2015ec4a9e154e",
-      "title": "NORAD TO CONDUCT LONG-PLANNED AIR DEFENSE EXERCISE IN NATIONAL CAPITAL REGION",
-      "summary": "The North American Aerospace Defense Command (NORAD) will conduct Exercise FALCON VIRGO, a long-planned monthly live-fly air defense exercise on Nov. 18, 2026, between midnight and 2 a.m. EST in the National Capital Region.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579564/norad-conduct-long-planned-air-defense-exercise-national-capital-region",
-      "publishedAt": "2026-11-17T20:04:40Z"
     }
   ],
   "nextPage": "pages/page-2.json"
