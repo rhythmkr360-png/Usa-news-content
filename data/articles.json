@@ -1,5 +1,131 @@
 [
   {
+    "id": "7ef4c2e1a7ecc42ec9d4fa8c",
+    "title": "USS Charlotte (SSN 776) Holds Change of Command",
+    "summary": "Los Angeles-class fast-attack submarine USS Charlotte (SSN 766) held a change of command aboard Charlotte at Joint Base Pearl Harbor-Hickam, Nov. 13, 2026. U.S. Navy Cmdr. John Coleman III relieved Capt. Thomas Futch as commanding officer of Charlotte.",
+    "category": "Navy",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579689/uss-charlotte-ssn-776-holds-change-command",
+    "publishedAt": "2026-11-19T01:19:44Z"
+  },
+  {
+    "id": "91a66b4155866d308c2aa62b",
+    "title": "Oregon Army National Guard helps sponsor Millsap Racing for 2027",
+    "summary": "The Oregon Army National Guard Race Car will return for a second season in 2027.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579687/oregon-army-national-guard-helps-sponsor-millsap-racing-2027",
+    "publishedAt": "2026-11-19T00:47:56Z"
+  },
+  {
+    "id": "9fed54544c9af398a279a302",
+    "title": "143rd ESC soldiers participate in Great American Teach-In",
+    "summary": "Soldiers from the 143rd ESC participate in Orange County Public Schools' annual Great American Teach-In, November 18, 2026, in Orlando, Florida.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579684/143rd-esc-soldiers-participate-great-american-teach",
+    "publishedAt": "2026-11-19T00:10:35Z"
+  },
+  {
+    "id": "7965235a06b36e51c90d70ff",
+    "title": "Delta Battery makes Army history with first IBCS-Patriot enabled certification on peninsula",
+    "summary": "35th Air Defense Artillery Brigade made military history in the Republic of Korea by successfully completing certification on the Integrated Air and Missile Defense Battle Command System (IBCS), becoming the first operational Patriot battery in the U.S. Army to achieve this milestone.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579681/delta-battery-makes-army-history-with-first-ibcs-patriot-enabled-certification-peninsula",
+    "publishedAt": "2026-11-18T23:39:02Z"
+  },
+  {
+    "id": "2d62245c9978d4817f92f349",
+    "title": "US surges power projection to westernmost island chain as Russia, China loom",
+    "summary": "The U.S. Air Force is expanding its training on America's westernmost islands, where it can project power and monitor adversaries across the Pacific and the Arctic.",
+    "category": "Defense",
+    "sourceName": "Defense News",
+    "sourceUrl": "https://www.defensenews.com/global/the-americas/2026/11/18/us-surges-power-projection-to-westernmost-island-chain-as-russia-china-loom/",
+    "publishedAt": "2026-11-18T22:40:38Z"
+  },
+  {
+    "id": "adc757fe5a205f52e6c9cbb8",
+    "title": "The Coast Guard icebreaker nobody wanted just came back from a 133-day Arctic patrol",
+    "summary": "After failing its first job towing oil rigs, USCGC Storis just spent four months as the U.S. military’s sole surface ship in the Arctic. The post The Coast Guard icebreaker nobody wanted just came back from a 133-day Arctic patrol appeared first on Task & Purpose .",
+    "category": "Defense",
+    "sourceName": "Task & Purpose",
+    "sourceUrl": "https://taskandpurpose.com/news/coast-guard-icebreaker-storis-arctic-deployment/",
+    "publishedAt": "2026-11-18T22:39:32Z"
+  },
+  {
+    "id": "23a852639cb5f77795ed2166",
+    "title": "From Army Musician to Senior Leader: Command Sgt. Maj. Alton Huckaby Retires After 27 Years",
+    "summary": "Command Sgt. Maj. Alton Huckaby celebrated more than 27 years of military service during a retirement ceremony honoring his career and family.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579678/army-musician-senior-leader-command-sgt-maj-alton-huckaby-retires-after-27-years",
+    "publishedAt": "2026-11-18T22:24:49Z"
+  },
+  {
+    "id": "cc29a63059b57bb79f904fc1",
+    "title": "Hometown mission: Former Air Force leader helps build Mountain Home Air Force Base water resiliency",
+    "summary": "U.S. Army Corps of Engineers (USACE), Seattle District and Mountain Home Air Force Base marked a major milestone in its long-term water resilience efforts Oct. 29, 2026, with the opening ceremony of a new water treatment plant and pump station designed to help address declining groundwater levels.",
+    "category": "Air Force",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579673/hometown-mission-former-air-force-leader-helps-build-mountain-home-air-force-base-water-resiliency",
+    "publishedAt": "2026-11-18T22:08:05Z"
+  },
+  {
+    "id": "df457526e09bbe6eaf2a01c7",
+    "title": "USS Pierre (LCS 38) Hosts Change of Command Ceremony",
+    "summary": "U.S. Navy Cmdr. Justin Guernsey was relieved by U.S. Navy Cmdr. Audrey Munji as commanding officer of the Independence-variant littoral combat ship USS Pierre (LCS 38) during a change of command ceremony held at Naval Base San Diego, Sept, 18 2026.",
+    "category": "Navy",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579675/uss-pierre-lcs-38-hosts-change-command-ceremony",
+    "publishedAt": "2026-11-18T22:05:44Z"
+  },
+  {
+    "id": "be4eb0f969e31787291ddd76",
+    "title": "A $1.1 trillion Pentagon budget plan sets up a fight on Capitol Hill",
+    "summary": "Senate appropriators are prioritizing Golden Dome, drones and munitions, but other military programs could pay the price.",
+    "category": "Defense",
+    "sourceName": "Breaking Defense",
+    "sourceUrl": "https://breakingdefense.com/2026/11/a-1-1-trillion-pentagon-budget-sets-up-a-fight-on-capitol-hill/",
+    "publishedAt": "2026-11-18T21:48:03Z"
+  },
+  {
+    "id": "14671afab08e76855a044a66",
+    "title": "Attitude of gratitude: Signal staff pause to reflect, give thanks",
+    "summary": "U.S. Army Signal School staff gathered Nov. 10 for its annual Friendsgiving. Hosted by Regimental Chaplain (Maj.) Glen Thompson, the event featured reflective training, a shared meal, and expressions of gratitude.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579666/attitude-gratitude-signal-staff-pause-reflect-give-thanks",
+    "publishedAt": "2026-11-18T21:45:00Z"
+  },
+  {
+    "id": "90f19cc06cc6cec6ad19191d",
+    "title": "Carrier USS George Washington Leaves Middle East After Three Months",
+    "summary": "USS George Washington (CVN-73) left the Middle East after being on station for three months, a U.S. Pacific Fleet spokesperson confirmed Wednesday to USNI News. George Washington is now in U.S. 7th Fleet. The spokesperson did not provide additional details, including which of George Washington’s escorts accompanied the ship.",
+    "category": "Navy",
+    "sourceName": "USNI News",
+    "sourceUrl": "https://news.usni.org/2026/11/18/carrier-uss-george-washington-leaves-middle-east-after-three-months",
+    "publishedAt": "2026-11-18T21:31:01Z"
+  },
+  {
+    "id": "e872db88bcb69567cdf3e3fa",
+    "title": "US Navy used expired munitions during Iran war, Cao says",
+    "summary": "Acting Navy Secretary told lawmakers during a Senate confirmation hearing that the service is recoding expired munitions and firing them off.",
+    "category": "Navy",
+    "sourceName": "Defense News",
+    "sourceUrl": "https://www.defensenews.com/newsletters/daily-news-roundup/2026/11/18/us-navy-used-expired-munitions-during-iran-war-cao-says/",
+    "publishedAt": "2026-11-18T21:05:34Z"
+  },
+  {
+    "id": "2e9992688faef6003efe680e",
+    "title": "Fort Meade enlisted leader honors veterans, military families at Crownsville ceremony",
+    "summary": "U.S. Army Garrison Fort George G. Meade Command Sgt. Maj. Richard Moore delivered the principal address during the United Veterans of Anne Arundel County Veterans Day ceremony Nov. 11 at Crownsville State Veterans Cemetery, honoring generations of veterans and recognizing the sacrifices of military families.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/579662/fort-meade-enlisted-leader-honors-veterans-military-families-crownsville-ceremony",
+    "publishedAt": "2026-11-18T20:59:15Z"
+  },
+  {
     "id": "41004853a27d39bae622cffe",
     "title": "Watchdog flags fraud, failed Pentagon audit as defense priorities",
     "summary": "Days after the Pentagon failed its ninth consecutive audit, its oversight office ranked eliminating fraud and achieving a clean financial audit among the Defense Department’s most pressing strategic challenges.",
@@ -1510,50 +1636,5 @@
     "sourceName": "DVIDS U.S. Military News",
     "sourceUrl": "https://www.dvidshub.net/news/578927/403rd-army-field-support-brigade-personality-spotlight-ms-pak-hye-yong-lrc-north",
     "publishedAt": "2026-11-09T03:54:52Z"
-  },
-  {
-    "id": "04cb54658d7f389de6fd3c9b",
-    "title": "Red, Blue & Camo: One State, Two Teams, One Guard",
-    "summary": "The Utah National Guard supported the University of Utah-BYU football rivalry game Nov. 7, 2026, at Rice-Eccles Stadium through a series of military appreciation activities that brought together service members, fans and students from both schools.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578923/red-blue-camo-one-state-two-teams-one-guard",
-    "publishedAt": "2026-11-09T01:32:38Z"
-  },
-  {
-    "id": "f3b658ea3937bbca4292ce77",
-    "title": "Georgia Guardsmen battle in combined-MSC competition",
-    "summary": "Eight Georgia Army National Guard Soldiers competed in the Fiscal Year 2027 Combined Best Warrior Competition Nov. 6–8, 2026, at Fort Stewart, Georgia. The 78th Troop Command named U.S. Army Sgt. 1st Class Jeremy Nicoli its Noncommissioned Officer of the Year and U.S. Army Spc. Clinet Reier its Soldier of the Year.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578911/georgia-guardsmen-battle-combined-msc-competition",
-    "publishedAt": "2026-11-09T00:16:41Z"
-  },
-  {
-    "id": "25feaedae85e0e25891c5823",
-    "title": "ROK-U.S. Combined Forces Command Marks 48 Years of Combined Defense",
-    "summary": "CFC commemorates 48 years of strengthening the ROK-U.S. alliance and maintaining readiness on the Korean Peninsula",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578914/rok-us-combined-forces-command-marks-48-years-combined-defense",
-    "publishedAt": "2026-11-08T23:21:12Z"
-  },
-  {
-    "id": "d7076b0d7f381d85baf13103",
-    "title": "Tennessee Guard Soldier's promotion reunites former public affairs team",
-    "summary": "Tennessee Army National Guard Master Sgt. Lila A. Walker, a former public affairs specialist with the 118th Mobile Public Affairs Detachment, was promoted during a ceremony at Joint Force Headquarters in Nashville, Tennessee, Nov. 8, 2026.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578890/tennessee-guard-soldiers-promotion-reunites-former-public-affairs-team",
-    "publishedAt": "2026-11-08T21:07:46Z"
-  },
-  {
-    "id": "9852d58308c2e46049351843",
-    "title": "73 APS welcomes new commander",
-    "summary": "U.S. Air Force Maj. Charles Smith assumed command of the 73rd Aerial Port Squadron during a ceremony here Nov. 7, 2026.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/578903/73-aps-welcomes-new-commander",
-    "publishedAt": "2026-11-08T20:57:46Z"
   }
 ]
