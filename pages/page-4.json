@@ -1,7 +1,106 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T20:41:40Z",
+  "generatedAt": "2026-11-20T02:21:29Z",
   "articles": [
+    {
+      "id": "339cd462055808c6ff866fc0",
+      "title": "USACE Mobile District permitting action supports former USS Enterprise arrival and dismantling in Mobile",
+      "summary": "The U.S. Army Corps of Engineers Mobile District helped prepare for the arrival and dismantling of the former USS Enterprise (CVN 65) by reviewing and authorizing waterfront improvements at MARRS’ Yard 8 in Mobile.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579342/usace-mobile-district-permitting-action-supports-former-uss-enterprise-arrival-and-dismantling-mobile",
+      "publishedAt": "2026-11-13T22:08:35Z"
+    },
+    {
+      "id": "2ba6249673c2daea7e6d5ce0",
+      "title": "Goodfellow AFB leadership joins the community in recognizing Veterans Day",
+      "summary": "In observance of Veterans Day, 17th Training Wing leadership joined the community on Nov. 11, 2026, to honor the service, sacrifice and enduring legacy of those who raised their right hand and served the United States of America.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579339/goodfellow-afb-leadership-joins-community-recognizing-veterans-day",
+      "publishedAt": "2026-11-13T21:48:53Z"
+    },
+    {
+      "id": "4e14107226bd70590d6196d5",
+      "title": "Utah National Guard, Granite School District celebrate veterans at 71st Annual Veterans Day Concert",
+      "summary": "The Utah National Guard and Granite School District honored America’s veterans through music, student performances and recognition of military service during the 71st Annual Veterans Day Concert on Nov. 11, 2026, at the Tabernacle at Temple Square.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579336/utah-national-guard-granite-school-district-celebrate-veterans-71st-annual-veterans-day-concert",
+      "publishedAt": "2026-11-13T21:06:54Z"
+    },
+    {
+      "id": "20e31f79cac7a996bd436fa7",
+      "title": "Hancock County arts educator experiences life aboard USS Nimitz",
+      "summary": "NAVAL CONSTRUCTION BATTALION CENTER GULFPORT, Miss. – For most Americans, the opportunity to visit a U.S. Navy aircraft carrier is something they will never experience.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579337/hancock-county-arts-educator-experiences-life-aboard-uss-nimitz",
+      "publishedAt": "2026-11-13T21:03:29Z"
+    },
+    {
+      "id": "c730d4de040b53a7ee2edaf2",
+      "title": "AMCOM 101 links aviation readiness to enterprise support",
+      "summary": "The U.S. Army Aviation and Missile Command brought together Soldiers, civilians and aviation enterprise partners Nov. 4-5 at Bob Jones Auditorium for its fall AMCOM 101 Aviation Conference, a biannual forum focused on connecting unit readiness challenges with the people and resources that support Army aviation.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579333/amcom-101-links-aviation-readiness-enterprise-support",
+      "publishedAt": "2026-11-13T20:35:03Z"
+    },
+    {
+      "id": "6d684eec0f951476b992f9d5",
+      "title": "U.S. Naval War College Holds November Graduation For Students of Colleges of Naval Warfare, Naval Command & Staff",
+      "summary": "The U.S. Naval War College (NWC) graduated 29 students from its Colleges of Naval Warfare (CNW) and Naval Command & Staff (CNCS) on Friday, Nov. 13, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579331/us-naval-war-college-holds-november-graduation-students-colleges-naval-warfare-naval-command-staff",
+      "publishedAt": "2026-11-13T20:26:28Z"
+    },
+    {
+      "id": "d11ae36023f3eb76ea4ef6f1",
+      "title": "C. J. Graham Visits USS Essex (LHD 2)",
+      "summary": "SAN DIEGO (Oct. 29, 2026) Actor C. J. Graham visited Wasp-class amphibious assault ship USS Essex (LHD 2) to tour the ship and meet with U.S. Navy Sailors.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579310/c-j-graham-visits-uss-essex-lhd-2",
+      "publishedAt": "2026-11-13T19:10:52Z"
+    },
+    {
+      "id": "46f6b0f77352f3d4820438e8",
+      "title": "National Guard Office of Special Victims' Counsel provides legal advocacy when victims need it most",
+      "summary": "or victims of sexual assault or domestic violence, one of the hardest questions can be what to do next. Understanding their rights, deciding whether to report and navigating unfamiliar legal processes can feel overwhelming. However, National Guard members do not have to navigate the process alone.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579309/national-guard-office-special-victims-counsel-provides-legal-advocacy-victims-need-most",
+      "publishedAt": "2026-11-13T19:09:32Z"
+    },
+    {
+      "id": "90ad881f9167f1130ed4a102",
+      "title": "USNI News Western Pacific Pulse: Nov. 13, 2026",
+      "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In Singapore The Theodore Roosevelt Carrier Strike Group departed on Sunday from Singapore.",
+      "category": "Defense",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/13/usni-news-western-pacific-pulse-nov-13-2026",
+      "publishedAt": "2026-11-13T18:56:52Z"
+    },
+    {
+      "id": "de48f65184e98b95c6fcda86",
+      "title": "The Pentagon brings back World War II-era OSS for special operations missions, funding",
+      "summary": "The plan could improve civilian oversight of special operations and make more room at the budget bargaining table, but much of it will require congressional approval. The post The Pentagon brings back World War II-era OSS for special operations missions, funding appeared first on Task & Purpose .",
+      "category": "Defense",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/hegseth-oss-special-operations/",
+      "publishedAt": "2026-11-13T18:51:27Z"
+    },
+    {
+      "id": "967a6c54de84ded4daa66588",
+      "title": "US Air Force adopts new Force Design focusing on sensors and autonomy",
+      "summary": "The Air Force's new Force Design 2026 outlines a shift toward artificial intelligence, autonomy and integrated sensors to counter emerging threats.",
+      "category": "Air Force",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/air/2026/11/13/us-air-force-adopts-new-force-design-focusing-on-sensors-and-autonomy/",
+      "publishedAt": "2026-11-13T18:43:45Z"
+    },
     {
       "id": "519bb05d9faddae77ec696d4",
       "title": "New Hampshire National Guard breaks ground on new Plymouth Readiness Center",
@@ -262,105 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579207/repairing-huey-stick",
       "publishedAt": "2026-11-12T18:52:50Z"
-    },
-    {
-      "id": "0653e0e315777eb61545050f",
-      "title": "NATO Forward Land Forces Battle Group-Poland welcomes new U.S. Army commander during Transfer of Authority Ceremony at BPTA",
-      "summary": "U.S. Army Lt. Col. Jeremy Herron assumed command of the NATO Forward Land Forces Battle Group-Poland from Lt. Col. Steven Saxion during a transfer of authority ceremony at Bemowo Piskie Training Area, Poland, Nov. 12, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579199/nato-forward-land-forces-battle-group-poland-welcomes-new-us-army-commander-during-transfer-authority-ceremony-bpta",
-      "publishedAt": "2026-11-12T18:50:59Z"
-    },
-    {
-      "id": "1f3b9e0806df4a7dbe94f9cf",
-      "title": "New York Army National Guard Soldiers honor fellow Soldier during memorial ceremony",
-      "summary": "LATHAM, N.Y. __–New York Army National Guard Soldiers remembered the life of Spc. Hunter Hennessey during a Nov.8, 2026 memorial service at New York National Guard headquarters in Latham, New York.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579158/new-york-army-national-guard-soldiers-honor-fellow-soldier-during-memorial-ceremony",
-      "publishedAt": "2026-11-12T10:28:48Z"
-    },
-    {
-      "id": "2dee3d9fd17192d11b4662b1",
-      "title": "ROK-U.S. Alliance Strengthened Through Sportsmanship and Camaraderie",
-      "summary": "PAJU, South Korea — More than 5,000 Republic of Korea and U.S. service members and Korean civilians gathered at Imjingak Peace Nuri Park on Nov. 7, 2026, to commemorate the 73rd anniversary of the ROK-U.S. Alliance through sportsmanship, camaraderie and community engagement.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579155/rok-us-alliance-strengthened-through-sportsmanship-and-camaraderie",
-      "publishedAt": "2026-11-12T06:29:30Z"
-    },
-    {
-      "id": "794af324ba9cce1dc409d339",
-      "title": "Guard appears to rebuke Hegseth’s delegation at Tomb of the Unknown Soldier",
-      "summary": "The U.S. Army sentinel moved toward the group and, from a distance, shouted toward them: \"All visitors will maintain an atmosphere of silence and respect at all times.\"",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/11/11/guard-appears-to-rebuke-hegseths-delegation-at-tomb-of-the-unknown-soldier/",
-      "publishedAt": "2026-11-12T03:32:11Z"
-    },
-    {
-      "id": "d6fd8981320c484a94eccbc5",
-      "title": "From Juneau to the Skies: An Alaska Aviator’s Journey of Military Service in the Navy and Alaska Air Guard",
-      "summary": "For Lt. Col. Rick Walsh, a Juneau, Alaska, native, a career in military aviation was not a straight path. It was an unexpected adventure that took him around the world, from Navy flight school to the Pacific, and eventually back home to Alaska as a pilot in the Alaska Air National Guard.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579154/juneau-skies-alaska-aviators-journey-military-service-navy-and-alaska-air-guard",
-      "publishedAt": "2026-11-12T02:31:02Z"
-    },
-    {
-      "id": "10328451be76c94f25e8b1ed",
-      "title": "CH-47: The Hook That Connects Generations",
-      "summary": "More than 50 years after serving in separate combat tours in Vietnam, with the same Army Aviation unit, former CH-47 Chinook pilot Mike Mackey and former flight engineer Bob Roy met for the first time on Aug. 20, 2026, at a South Carolina Army National Guard aviation event.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579137/ch-47-hook-connects-generations",
-      "publishedAt": "2026-11-11T21:56:10Z"
-    },
-    {
-      "id": "00a62673e3f8e9e7c7b77fb9",
-      "title": "Naval District Washington Honors Veterans at U.S. Navy Memorial Wreath-Laying Ceremony",
-      "summary": "Naval District Washington honored the men and women who served in the U.S. armed forces during a Veterans Day wreath-laying ceremony at the U.S. Navy Memorial.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579148/naval-district-washington-honors-veterans-us-navy-memorial-wreath-laying-ceremony",
-      "publishedAt": "2026-11-11T21:02:10Z"
-    },
-    {
-      "id": "9fa41ec8cb1e42029a6900c9",
-      "title": "U.S. and 21 Partner Nations Bolster Maritime Security at NWC CFMCC Flag Course",
-      "summary": "Senior military leaders from 21 partner nations and the U.S. strengthened maritime partnerships through executive education during the U.S. Naval War College’s (NWC) Combined Force Maritime Component Commander (CFMCC) flag course, hosted by Rear Adm. Carlos Sardiello, Commander, U.S. Naval Forces Southern Command, Commander U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579146/us-and-21-partner-nations-bolster-maritime-security-nwc-cfmcc-flag-course",
-      "publishedAt": "2026-11-11T20:23:55Z"
-    },
-    {
-      "id": "cb6630124111316143a08830",
-      "title": "DoD pushes out 3 loans totaling $450M to bolster US space companies",
-      "summary": "One industry source told Breaking Defense that the reason for the spate of new loan announcements is that the Pentagon “needed to finalize loans by the end of the fiscal year.”",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/dod-pushes-out-3-loans-totally-450m-to-bolster-us-space-companies/",
-      "publishedAt": "2026-11-11T20:15:00Z"
-    },
-    {
-      "id": "b8aeba1fef1b3c2a938175b0",
-      "title": "Poland says Pentagon supports permanent US base, with decision expected in December",
-      "summary": "Warsaw has identified four potential locations for a base that could accommodate 5,000 US troops and their families, and is offering to spend up to $4.4 billion on supporting infrastructure.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/poland-says-pentagon-supports-permanent-us-base-with-decision-expected-in-december/",
-      "publishedAt": "2026-11-11T19:09:00Z"
-    },
-    {
-      "id": "df37536c824e31a69a40fd81",
-      "title": "Safe water, safe food, ready force: JB MDL turns field sanitation into force protection",
-      "summary": "At Joint Base McGuire-Dix-Lakehurst, New Jersey, a team of instructors teach the 40-hour U.S. Army Field Sanitation Team Certification Course, arming service members with the necessary skills to identify environmental health hazards and protect the health of their units, particularly when deployed conditions leave little room for established…",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579142/safe-water-safe-food-ready-force-jb-mdl-turns-field-sanitation-into-force-protection",
-      "publishedAt": "2026-11-11T18:05:32Z"
     }
   ],
   "nextPage": "page-5.json"

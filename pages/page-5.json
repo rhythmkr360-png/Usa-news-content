@@ -1,7 +1,106 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T20:41:40Z",
+  "generatedAt": "2026-11-20T02:21:29Z",
   "articles": [
+    {
+      "id": "0653e0e315777eb61545050f",
+      "title": "NATO Forward Land Forces Battle Group-Poland welcomes new U.S. Army commander during Transfer of Authority Ceremony at BPTA",
+      "summary": "U.S. Army Lt. Col. Jeremy Herron assumed command of the NATO Forward Land Forces Battle Group-Poland from Lt. Col. Steven Saxion during a transfer of authority ceremony at Bemowo Piskie Training Area, Poland, Nov. 12, 2026.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579199/nato-forward-land-forces-battle-group-poland-welcomes-new-us-army-commander-during-transfer-authority-ceremony-bpta",
+      "publishedAt": "2026-11-12T18:50:59Z"
+    },
+    {
+      "id": "1f3b9e0806df4a7dbe94f9cf",
+      "title": "New York Army National Guard Soldiers honor fellow Soldier during memorial ceremony",
+      "summary": "LATHAM, N.Y. __–New York Army National Guard Soldiers remembered the life of Spc. Hunter Hennessey during a Nov.8, 2026 memorial service at New York National Guard headquarters in Latham, New York.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579158/new-york-army-national-guard-soldiers-honor-fellow-soldier-during-memorial-ceremony",
+      "publishedAt": "2026-11-12T10:28:48Z"
+    },
+    {
+      "id": "2dee3d9fd17192d11b4662b1",
+      "title": "ROK-U.S. Alliance Strengthened Through Sportsmanship and Camaraderie",
+      "summary": "PAJU, South Korea — More than 5,000 Republic of Korea and U.S. service members and Korean civilians gathered at Imjingak Peace Nuri Park on Nov. 7, 2026, to commemorate the 73rd anniversary of the ROK-U.S. Alliance through sportsmanship, camaraderie and community engagement.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579155/rok-us-alliance-strengthened-through-sportsmanship-and-camaraderie",
+      "publishedAt": "2026-11-12T06:29:30Z"
+    },
+    {
+      "id": "794af324ba9cce1dc409d339",
+      "title": "Guard appears to rebuke Hegseth’s delegation at Tomb of the Unknown Soldier",
+      "summary": "The U.S. Army sentinel moved toward the group and, from a distance, shouted toward them: \"All visitors will maintain an atmosphere of silence and respect at all times.\"",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/11/11/guard-appears-to-rebuke-hegseths-delegation-at-tomb-of-the-unknown-soldier/",
+      "publishedAt": "2026-11-12T03:32:11Z"
+    },
+    {
+      "id": "d6fd8981320c484a94eccbc5",
+      "title": "From Juneau to the Skies: An Alaska Aviator’s Journey of Military Service in the Navy and Alaska Air Guard",
+      "summary": "For Lt. Col. Rick Walsh, a Juneau, Alaska, native, a career in military aviation was not a straight path. It was an unexpected adventure that took him around the world, from Navy flight school to the Pacific, and eventually back home to Alaska as a pilot in the Alaska Air National Guard.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579154/juneau-skies-alaska-aviators-journey-military-service-navy-and-alaska-air-guard",
+      "publishedAt": "2026-11-12T02:31:02Z"
+    },
+    {
+      "id": "10328451be76c94f25e8b1ed",
+      "title": "CH-47: The Hook That Connects Generations",
+      "summary": "More than 50 years after serving in separate combat tours in Vietnam, with the same Army Aviation unit, former CH-47 Chinook pilot Mike Mackey and former flight engineer Bob Roy met for the first time on Aug. 20, 2026, at a South Carolina Army National Guard aviation event.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579137/ch-47-hook-connects-generations",
+      "publishedAt": "2026-11-11T21:56:10Z"
+    },
+    {
+      "id": "00a62673e3f8e9e7c7b77fb9",
+      "title": "Naval District Washington Honors Veterans at U.S. Navy Memorial Wreath-Laying Ceremony",
+      "summary": "Naval District Washington honored the men and women who served in the U.S. armed forces during a Veterans Day wreath-laying ceremony at the U.S. Navy Memorial.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579148/naval-district-washington-honors-veterans-us-navy-memorial-wreath-laying-ceremony",
+      "publishedAt": "2026-11-11T21:02:10Z"
+    },
+    {
+      "id": "9fa41ec8cb1e42029a6900c9",
+      "title": "U.S. and 21 Partner Nations Bolster Maritime Security at NWC CFMCC Flag Course",
+      "summary": "Senior military leaders from 21 partner nations and the U.S. strengthened maritime partnerships through executive education during the U.S. Naval War College’s (NWC) Combined Force Maritime Component Commander (CFMCC) flag course, hosted by Rear Adm. Carlos Sardiello, Commander, U.S. Naval Forces Southern Command, Commander U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579146/us-and-21-partner-nations-bolster-maritime-security-nwc-cfmcc-flag-course",
+      "publishedAt": "2026-11-11T20:23:55Z"
+    },
+    {
+      "id": "cb6630124111316143a08830",
+      "title": "DoD pushes out 3 loans totaling $450M to bolster US space companies",
+      "summary": "One industry source told Breaking Defense that the reason for the spate of new loan announcements is that the Pentagon “needed to finalize loans by the end of the fiscal year.”",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/dod-pushes-out-3-loans-totally-450m-to-bolster-us-space-companies/",
+      "publishedAt": "2026-11-11T20:15:00Z"
+    },
+    {
+      "id": "b8aeba1fef1b3c2a938175b0",
+      "title": "Poland says Pentagon supports permanent US base, with decision expected in December",
+      "summary": "Warsaw has identified four potential locations for a base that could accommodate 5,000 US troops and their families, and is offering to spend up to $4.4 billion on supporting infrastructure.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/poland-says-pentagon-supports-permanent-us-base-with-decision-expected-in-december/",
+      "publishedAt": "2026-11-11T19:09:00Z"
+    },
+    {
+      "id": "df37536c824e31a69a40fd81",
+      "title": "Safe water, safe food, ready force: JB MDL turns field sanitation into force protection",
+      "summary": "At Joint Base McGuire-Dix-Lakehurst, New Jersey, a team of instructors teach the 40-hour U.S. Army Field Sanitation Team Certification Course, arming service members with the necessary skills to identify environmental health hazards and protect the health of their units, particularly when deployed conditions leave little room for established…",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579142/safe-water-safe-food-ready-force-jb-mdl-turns-field-sanitation-into-force-protection",
+      "publishedAt": "2026-11-11T18:05:32Z"
+    },
     {
       "id": "6b3f01d55895e75c4aef7dfc",
       "title": "Report to Congress on Strategic Stability of the Golden Dome",
@@ -208,69 +307,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579038/usag-stuttgart-commander-conducts-oath-enlistment-and-welcomes-new-army-recruit",
       "publishedAt": "2026-11-10T11:01:27Z"
-    },
-    {
-      "id": "dadde75194e3658233259dd1",
-      "title": "Lake Jackson Native Serving with Navy in Cuba Promoted to Senior Chief",
-      "summary": "Courtesy story by By Chief Mass Communication Specialist Sean Furey, Navy Office of Community Outreach MILLINGTON, Tenn. — Senior Chief Petty Officer Arland Yancey, a native of Lake Jackson, Texas, was recently promoted to his current rank while stationed at U.S. Navy Medicine Readiness and Training Command (USNMRTC) Guantanamo Bay.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579028/lake-jackson-native-serving-with-navy-cuba-promoted-senior-chief",
-      "publishedAt": "2026-11-09T23:30:33Z"
-    },
-    {
-      "id": "53332e7dc51aa8149e1e909b",
-      "title": "USS Lenah Sutcliffe Higbee holds change of command ceremony",
-      "summary": "U.S. Navy Cmdr. Osei Asante relieved U.S. Navy Cmdr. Jack Skahen as commanding officer of Arleigh Burke-class guided-missile destroyer USS Lenah Sutcliffe Higbee (DDG 123) during a change of command ceremony at the USS Midway Museum on Nov. 6, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579024/uss-lenah-sutcliffe-higbee-holds-change-command-ceremony",
-      "publishedAt": "2026-11-09T22:52:23Z"
-    },
-    {
-      "id": "b56a2a962b145ed7f322d639",
-      "title": "Fueling Air Dominance: 593rd CSC Supports F-22 Operations During Keen Sword 27",
-      "summary": "During Keen Sword, Soldiers from the 593rd Corps Sustainment Command, headquartered at Joint Base Lewis-McChord, Wash., played a critical sustainment role by supporting fuel operations that enabled the successful employment of U.S. Air Force F-22 Raptor aircraft.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579022/fueling-air-dominance-593rd-csc-supports-f-22-operations-during-keen-sword-27",
-      "publishedAt": "2026-11-09T22:48:48Z"
-    },
-    {
-      "id": "c86d2659ee20cb9619b34ef1",
-      "title": "Air Guard’s mobility, global reach is combat tested, combat proven",
-      "summary": "The Air National Guard is a combat force in daily use – asked to deter, defend, deploy and fight around the world, and its demand to project power forward by way of airlift planes and air tankers is not slowing down.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579017/air-guards-mobility-global-reach-combat-tested-combat-proven",
-      "publishedAt": "2026-11-09T22:45:50Z"
-    },
-    {
-      "id": "50eeb27f47c12b9414293715",
-      "title": "Cpl. Nathan Armstrong - A Marine Willing to Charge into Fire",
-      "summary": "MARINE CORPS BASE CAMP LEJEUNE, N.C. – A normal evening with friends quickly turned into an adrenaline filled night for U.S. Marine Corps Cpl. Nathan Armstrong, who found himself inside a burning vehicle, pulling a man to safety on Aug. 3, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579011/cpl-nathan-armstrong-marine-willing-charge-into-fire",
-      "publishedAt": "2026-11-09T21:48:11Z"
-    },
-    {
-      "id": "fc1fa4202958aeea06d4caba",
-      "title": "Secretary of War visits U.S. Naval War College, announces reforms to ensure senior service colleges are ‘teaching victory’",
-      "summary": "The Honorable Pete Hegseth, U.S. Secretary of War, visited the U.S. Naval War College (NWC) in Newport, Rhode Island, on Nov. 9, 2026, to announce a comprehensive overhaul of the Department of War’s Professional Military Education (PME) system.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579014/secretary-war-visits-us-naval-war-college-announces-reforms-ensure-senior-service-colleges-teaching-victory",
-      "publishedAt": "2026-11-09T21:39:08Z"
-    },
-    {
-      "id": "5c4778d3e26244f2cd7b3781",
-      "title": "Corps to host public meeting, comment period for Berlin Lake Shoreline Management Plan update",
-      "summary": "The U.S. Army Corps of Engineers Pittsburgh District is hosting an open house-style public meeting to review proposed updates to the Berlin Lake Shoreline Management Plan.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579013/corps-host-public-meeting-comment-period-berlin-lake-shoreline-management-plan-update",
-      "publishedAt": "2026-11-09T21:30:58Z"
     }
   ]
 }
