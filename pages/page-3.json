@@ -1,7 +1,61 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T02:21:29Z",
+  "generatedAt": "2026-11-20T11:46:26Z",
   "articles": [
+    {
+      "id": "b15a722b86e42cdaae256e53",
+      "title": "USAG Stuttgart community member helps lead team to All Army softball win",
+      "summary": "A physical therapy technician assigned at the U.S. Army Health Clinic Stuttgart joined fellow Soldier-athletes from across the globe to claim the Defense Department’s top softball title at the USA Softball Hall of Fame Complex.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579509/usag-stuttgart-community-member-helps-lead-team-all-army-softball-win",
+      "publishedAt": "2026-11-17T14:08:39Z"
+    },
+    {
+      "id": "be769b97d68bd8344ecc0bdc",
+      "title": "USAG Rheinland-Pfalz honors employee’s 57 years of service",
+      "summary": "KAISERSLAUTERN, Germany – A Department of the Army Food Service Supervisor serving at U.S. Army Garrison Rheinland-Pfalz is retiring after more than 57 years of service to the United States military. Mike Young began his career as an Air Transportation specialist with the U.S. Air Force in 1968.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579507/usag-rheinland-pfalz-honors-employees-57-years-service",
+      "publishedAt": "2026-11-17T14:03:00Z"
+    },
+    {
+      "id": "e0102f11bfc72fe67efeedde",
+      "title": "U.S. armor deploys to Lithuania",
+      "summary": "The 1st Infantry Division uncased the colors of the 5th Squadron, 4th Cavalry Regiment and the 82nd Engineer Battalion at Camp Herkus, Pabradė, Lithuania, Nov. 16, 2026. The ceremony marked the deployment of U.S. Abrams tanks to Lithuania for a new rotation in support of Operation Atlantic Resolve. Lithuanian President Gitanas Nausėda, U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579503/us-armor-deploys-lithuania",
+      "publishedAt": "2026-11-17T13:49:14Z"
+    },
+    {
+      "id": "e5b36f31f98cafa3be2067f6",
+      "title": "USAG Rheinland-Pfalz observes Germany’s National Day of Mourning",
+      "summary": "KAISERSLAUTERN, Germany — U.S. Army Garrison Rheinland-Pfalz leaders joined host nation officials at ceremonies across the Kaiserslautern and Baumholder communities to honor victims of war, terrorism, persecution and tyranny as part of Germany’s National Day of Mourning, or Volkstrauertag, Nov. 15.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579504/usag-rheinland-pfalz-observes-germanys-national-day-mourning",
+      "publishedAt": "2026-11-17T13:43:04Z"
+    },
+    {
+      "id": "f46f1eb3d9b14bb6b3686290",
+      "title": "Penn State Altoona Student Spotlight: Kevin McCallum",
+      "summary": "Penn State Altoona student Kevin McCallum, a second degree nursing major, is a married father of two who is active-duty in the National Guard and expected to graduate in December.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579505/penn-state-altoona-student-spotlight-kevin-mccallum",
+      "publishedAt": "2026-11-17T13:39:40Z"
+    },
+    {
+      "id": "b395709f035bf0acce4f6ff5",
+      "title": "Armaments Center partners with Rowan University to advance next generation lightweight metamaterials",
+      "summary": "PICATINNY ARSENAL, N.J. - The U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center has entered into a Cooperative Research and Development Agreement (CRADA) with Rowan University in Glassboro, effective Wednesday, Sept. 23.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579502/armaments-center-partners-with-rowan-university-advance-next-generation-lightweight-metamaterials",
+      "publishedAt": "2026-11-17T13:33:20Z"
+    },
     {
       "id": "15b240492a4a387b73a8ae5c",
       "title": "Navy introduces Joint Warfighter Evaluation pilot for future flag officers",
@@ -307,60 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579374/75th-usaric-walks-walk-support-suicide-awareness-and-prevention",
       "publishedAt": "2026-11-15T19:22:14Z"
-    },
-    {
-      "id": "b3f7cb9c84db5bb17f36ef4e",
-      "title": "Kadena welcomes first permanently assigned F-15EX Eagle II aircraft",
-      "summary": "The first permanently assigned U.S. Air Force F-15EX Eagle II fighter aircraft arrived at Kadena Air Base, Japan, on Nov. 15, 2026, marking a major milestone in the 18th Wing's fighter modernization and the continued strengthening of U.S. airpower in the Pacific region.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579371/kadena-welcomes-first-permanently-assigned-f-15ex-eagle-ii-aircraft",
-      "publishedAt": "2026-11-15T03:03:44Z"
-    },
-    {
-      "id": "c6ce264bbe187819bbb70148",
-      "title": "Operation Frozen Recovery: Alaska Soldiers Retrieve Historic Signal Corps Radio",
-      "summary": "Nine Soldiers assigned to Headquarters and Headquarters Detachment, 59th Signal Battalion, recovered a historic U.S. Army Signal Corps radio from the wreckage of a U.S. Air Force TB-29 bomber in Alaska, Aug. 10-11, 2026. The radio had remained at the crash site since 1957, when the aircraft went down during a training mission.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579368/operation-frozen-recovery-alaska-soldiers-retrieve-historic-signal-corps-radio",
-      "publishedAt": "2026-11-15T00:53:16Z"
-    },
-    {
-      "id": "ff7cff5def3dd238dedf8935",
-      "title": "Japan, U.S. participate in annual Joint Senior Leader Seminar",
-      "summary": "U.S. Pacific Command hosted the 2026 Joint Senior Leaders Seminar Nov. 13, bringing together American and Japanese defense officials to align strategic goals, coordinate operational planning and strengthen the defense alliance.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579361/japan-us-participate-annual-joint-senior-leader-seminar",
-      "publishedAt": "2026-11-14T07:09:21Z"
-    },
-    {
-      "id": "178001e9e41b8654c3b4ff13",
-      "title": "1st Armored Division Artillery holds first ever Bombard Challenge",
-      "summary": "1st Armored Division Artillery's commander U.S. Army Col. Samuel Nirenberg speaks on his unit's new Bombard Challenge, first held Oct. 21-22, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579351/1st-armored-division-artillery-holds-first-ever-bombard-challenge",
-      "publishedAt": "2026-11-13T23:54:13Z"
-    },
-    {
-      "id": "3f669b5f9814f4597163fbce",
-      "title": "Army honors Big Red One WWI Soldier with Posthumous Silver Star, Purple Heart",
-      "summary": "U.S. Army leaders, family members and community guests gathered at Fort Hamilton, New York, Nov. 10 to posthumously present the Silver Star and Purple Heart to Pvt. Isidor Olian, a World War I Soldier with Company K, 18th Infantry Regiment, 1st Infantry Division. Col. Ian J. Lauer, deputy commanding officer for support, 1st Inf.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579347/army-honors-big-red-one-wwi-soldier-with-posthumous-silver-star-purple-heart",
-      "publishedAt": "2026-11-13T23:32:38Z"
-    },
-    {
-      "id": "1d4cb905f2b685471189a4c0",
-      "title": "The New Six Frigates",
-      "summary": "PARIS — Tucked in a dark corner of a convention center in the French suburbs, a British company could hold the next design for America’s newest warship. A model of the Type-31 Arrowhead sailed on a display table at the Babcock International booth at Euronaval 2026 last week. It was one of a half a dozen contenders for the U.S.",
-      "category": "Defense",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/13/the-new-six-frigates",
-      "publishedAt": "2026-11-13T22:41:48Z"
     }
   ],
   "nextPage": "page-4.json"
