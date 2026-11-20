@@ -1,7 +1,124 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T11:46:26Z",
+  "generatedAt": "2026-11-20T20:25:53Z",
   "articles": [
+    {
+      "id": "bb061be407c1f89ef5d8d449",
+      "title": "Hegseth, in Caracas, announces US-Venezuela military partnership agreement",
+      "summary": "U.S. Defense Secretary Pete Hegseth announced a new agreement on military cooperation with Venezuela in his first visit to the country since U.S. special forces deposed President Nicolas Maduro in a January raid.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/pentagon/2026/11/19/hegseth-in-caracas-announces-us-venezuela-military-partnership-agreement/",
+      "publishedAt": "2026-11-19T17:03:28Z"
+    },
+    {
+      "id": "e58e7d211d98896e33494612",
+      "title": "CycloKinetics wins $86.3 million Pentagon contract for alternative fuels",
+      "summary": "The Utah-based startup is pioneering new “drop-in” propellants that can substitute prevailing forms of energy.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/cyclokinetics-wins-86-3-million-pentagon-contract-for-alternative-fuels/",
+      "publishedAt": "2026-11-19T14:00:00Z"
+    },
+    {
+      "id": "8e7a721d7e371d1660444c7e",
+      "title": "5th Air Naval Gunfire Liaison Company evaluates candidates for deployable detachments",
+      "summary": "U.S. Marines with 5th Air Naval Gunfire Liaison Company (ANGLICO), III Marine Expeditionary Force Information Group, and Marines across III MEF seeking to join the company completed physical and billet-specific evaluations during the ANGLICO Candidate Assessment at Camp Hansen, Okinawa, Japan, Nov. 6, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579700/5th-air-naval-gunfire-liaison-company-evaluates-candidates-deployable-detachments",
+      "publishedAt": "2026-11-19T08:08:39Z"
+    },
+    {
+      "id": "9b9c702e7340efa7a1156d60",
+      "title": "U.S. Soldiers in Japan help revitalize cherry blossoms, build ties at Mitsuike Park",
+      "summary": "YOKOHAMA, Japan – Soldiers from the 5th and 476th Transportation Companies volunteered at Mitsuike Park in Yokohama Nov. 17, helping staff revitalize the park’s famous cherry blossom trees.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579699/us-soldiers-japan-help-revitalize-cherry-blossoms-build-ties-mitsuike-park",
+      "publishedAt": "2026-11-19T07:46:56Z"
+    },
+    {
+      "id": "bff43d70e3f2f5f409145d36",
+      "title": "Pulling Together: 623rd MCT Soldiers tackle ‘No One Left Behind’ PT challenge",
+      "summary": "CAMP ZAMA, Japan – Soldiers with the 623rd Movement Control Team participated in a “No One Left Behind” physical training session led by the U.S. Army Japan Sexual Harassment/Assault Response and Prevention team Nov. 16 at Yano Field here.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579697/pulling-together-623rd-mct-soldiers-tackle-no-one-left-behind-pt-challenge",
+      "publishedAt": "2026-11-19T07:14:47Z"
+    },
+    {
+      "id": "a307e53d3f0b2d7938c76657",
+      "title": "Humphreys seminar helps families navigate college transition from overseas",
+      "summary": "U.S. Army Garrison Humphreys hosted the Pathways to Success Family Night seminar Nov. 16 to help families prepare for the travel, health care and financial planning requirements that can accompany a dependent’s move to college in the United States.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579696/humphreys-seminar-helps-families-navigate-college-transition-overseas",
+      "publishedAt": "2026-11-19T07:11:33Z"
+    },
+    {
+      "id": "96fb54a4f14f7133518ace26",
+      "title": "Beyond the Rank: 2ID Leaders Strengthen Trust, Communication and Team Cohesion",
+      "summary": "PYEONGTAEK, South Korea — Leadership in the U.S. Army is often measured by the ability to make decisions, accomplish missions and lead Soldiers through challenging circumstances. But effective leadership also requires something less tangible and equally essential: the ability to understand people, build trust and establish meaningful connections.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579694/beyond-rank-2id-leaders-strengthen-trust-communication-and-team-cohesion",
+      "publishedAt": "2026-11-19T06:10:56Z"
+    },
+    {
+      "id": "be317a8deb54f5f269f96781",
+      "title": "USS Blue Ridge Changes Command",
+      "summary": "The U.S. 7th Fleet flagship USS Blue Ridge (LCC 19) held a change of command ceremony Nov. 19.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579695/uss-blue-ridge-changes-command",
+      "publishedAt": "2026-11-19T05:44:36Z"
+    },
+    {
+      "id": "048bad3d8b1b6f5311e18c3d",
+      "title": "U.S. Army Soldiers assigned to the 2-11 Field Artillery Regiment, 25th Infantry Division Artillery Brigade, 25th Infantry Division and U.S. Air Force Airmen with the 15th Wing execute a High Mobility Artillery Rocket Sys",
+      "summary": "U.S. Army Soldiers assigned to the 2-11 Field Artillery Regiment, 25th Infantry Division Artillery Brigade, 25th Infantry Division and U.S. Air Force Airmen with the 15th Wing execute a High Mobility Artillery Rocket System (HIMARS) Rapid Infiltration (HIRAIN) dr The Killeen Daily Herald",
+      "category": "Air Force",
+      "sourceName": "The Killeen Daily Herald",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUktyYjRHZlNxcHBkNk9MbnR3UlNjU2l0VHd5ZVg5RXE2bmNMQTJocTJJVjR1NmJ5ZlhRNF9nNlRSVk82V2tuWnE1NGxlN0c0ZWNnR1BmSnFlU3JxQlZGMEtDaHQxMmZGSVpRRWZET3JMZ2xFM3k1dWxLb0RXN2Z1eGlLUUlaaDV1MnM3d1RpR2pRVW9pdjlYdHNLel9jcDJTN09DQ0xKVDBwUk5tY3FCS05fQlRKcmhkNndackxJREtPS2hZeW1fVkRsZ0paSC1JMzFTb3dWNWo1QzN4eU9saUZKc1VBYkk5Y3c?oc=5",
+      "publishedAt": "2026-11-19T03:08:00Z"
+    },
+    {
+      "id": "e0902fcc2252f9363c45b598",
+      "title": "U.S. Navy and Coast Guard Divers Restore Critical Aids to Navigation in Mariana Islands",
+      "summary": "SANTA RITA, Guam – U.S. Navy divers assigned to Commander, Task Group (CTG) 73.6, operating under Commander, Task Force (CTF) 73, partnered with U.S. Coast Guard divers to reposition and service critical aids to navigation near Guam, Saipan and Tinian, ensuring safe maritime access following storm-related damage.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579691/us-navy-and-coast-guard-divers-restore-critical-aids-navigation-mariana-islands",
+      "publishedAt": "2026-11-19T02:56:16Z"
+    },
+    {
+      "id": "ade0e3814823d212a8b78d65",
+      "title": "White House: US eyes $2B in military financing for PH, SCS deterrence MANILA – The United States plans to provide the Philippines with USD2 billion in foreign military financing (FMF), with USD400 million earmarked to st",
+      "summary": "White House: US eyes $2B in military financing for PH, SCS deterrence MANILA – The United States plans to provide the Philippines with USD2 billion in foreign military financing (FMF), with USD400 million earmarked to strengthen the country's operational r Facebook",
+      "category": "Defense",
+      "sourceName": "Facebook",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYXRmb3J0S3ZPYUxNNWhrU3RGLTloYTMxTHpUMHByR3VqS2treF9yMWdmN0lFV2RyeDZzMzhnTnNkd1MwdVdfM3FyUEQweS12czVwOThZZjFCS0F4aWpNQnFGNmJtMGxiYl8wazdDRngzVzF4ajZuNThXREtPelNvM0d2VThFWnFzSUZEMW1vRVc3OC1FV25DQkQxSmtRLXVwYUdETTJ3ZGtNay1xVVEyM21ULTdRZmQwTFdTeElrT1pEcDFFQ3pXcE5aTTFPZXBUVXBOVA?oc=5",
+      "publishedAt": "2026-11-19T02:24:15Z"
+    },
+    {
+      "id": "7ef4c2e1a7ecc42ec9d4fa8c",
+      "title": "USS Charlotte (SSN 776) Holds Change of Command",
+      "summary": "Los Angeles-class fast-attack submarine USS Charlotte (SSN 766) held a change of command aboard Charlotte at Joint Base Pearl Harbor-Hickam, Nov. 13, 2026. U.S. Navy Cmdr. John Coleman III relieved Capt. Thomas Futch as commanding officer of Charlotte.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579689/uss-charlotte-ssn-776-holds-change-command",
+      "publishedAt": "2026-11-19T01:19:44Z"
+    },
+    {
+      "id": "91a66b4155866d308c2aa62b",
+      "title": "Oregon Army National Guard helps sponsor Millsap Racing for 2027",
+      "summary": "The Oregon Army National Guard Race Car will return for a second season in 2027.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579687/oregon-army-national-guard-helps-sponsor-millsap-racing-2027",
+      "publishedAt": "2026-11-19T00:47:56Z"
+    },
     {
       "id": "9fed54544c9af398a279a302",
       "title": "143rd ESC soldiers participate in Great American Teach-In",
@@ -244,123 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579584/stryker-leader-symposium-synchronizes-force-modernization",
       "publishedAt": "2026-11-17T23:21:35Z"
-    },
-    {
-      "id": "d8ba35f7b2fccb0f906aa268",
-      "title": "U.S. Marine Corps Forces South Hosts Regional Symposium to Strengthen Hemispheric Defense",
-      "summary": "NEW ORLEANS – U.S. Marine Corps Forces, South hosted senior leaders with marine and naval infantry forces from 12 Latin American countries during the Regional Marine Leaders Symposium, Nov. 4-6.",
-      "category": "Marine Corps",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579580/us-marine-corps-forces-south-hosts-regional-symposium-strengthen-hemispheric-defense",
-      "publishedAt": "2026-11-17T22:01:24Z"
-    },
-    {
-      "id": "55c1193d03be84f6a2ab0e81",
-      "title": "Sharon Chen, a New York City resident, retires from New York Army National Guard after 24 years of service",
-      "summary": "New York Army National Guard 1st Sgt. Sharon Chen, a Monroe resident and veteran of three Middle East deployments, retired after more than 24 years of military service during a Nov. 7 ceremony at the Whitestone Armory in Queens.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579577/sharon-chen-new-york-city-resident-retires-new-york-army-national-guard-after-24-years-service",
-      "publishedAt": "2026-11-17T21:39:57Z"
-    },
-    {
-      "id": "4e1b7071a5b5a1008839e87d",
-      "title": "Fort Buchanan helps service members turn military experience into business opportunities",
-      "summary": "Soldiers, veterans and military family members explored opportunities to turn their skills and ideas into businesses during a Boots to Business workshop hosted by Fort Buchanan in partnership with the U.S. Small Business Administration Nov. 17 at the installation's Training Support Center.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579566/fort-buchanan-helps-service-members-turn-military-experience-into-business-opportunities",
-      "publishedAt": "2026-11-17T20:11:34Z"
-    },
-    {
-      "id": "ad378f3c5e2015ec4a9e154e",
-      "title": "NORAD TO CONDUCT LONG-PLANNED AIR DEFENSE EXERCISE IN NATIONAL CAPITAL REGION",
-      "summary": "The North American Aerospace Defense Command (NORAD) will conduct Exercise FALCON VIRGO, a long-planned monthly live-fly air defense exercise on Nov. 18, 2026, between midnight and 2 a.m. EST in the National Capital Region.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579564/norad-conduct-long-planned-air-defense-exercise-national-capital-region",
-      "publishedAt": "2026-11-17T20:04:40Z"
-    },
-    {
-      "id": "a9d76d8b4dfa1d768fb69f50",
-      "title": "Army JROTC Honors Hall of Fame Class of 2026",
-      "summary": "The U.S. Army’s Junior Reserve Officers Training Corps (JROTC) recently welcomed three inductees into the inaugural JROTC Hall of Fame. The retired inductees – Col. John Gessner, Maj. Gen. Alfred Valenzuela, and Sgt. Maj.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579562/army-jrotc-honors-hall-fame-class-2026",
-      "publishedAt": "2026-11-17T19:56:34Z"
-    },
-    {
-      "id": "5d2eb9a90d926fe05f09dc28",
-      "title": "Combat-Tested Base Security System of Systems Set for U.S. Installations",
-      "summary": "On October 23, Product Manager Force Protection Systems (PdM FPS), an office of Project Manager Aerial-Terrestrial Surveillance and Reconnaissance (PM ATSR), completed installation of the first Integrated Base Defense-Kitting (IBD-K) System-of-Systems in the Continental United States (CONUS).",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579563/combat-tested-base-security-system-systems-set-us-installations",
-      "publishedAt": "2026-11-17T19:48:18Z"
-    },
-    {
-      "id": "60dcdc73f6944848c8ad15d0",
-      "title": "Opening Remarks from Acting Navy Secretary Hung Cao’s Confirmation Hearing",
-      "summary": "The following is Acting Secretary of the Navy Hung Cao’s opening remarks, provided to the U.S. Senate Committee on Armed Services during Cao’s confirmation hearing on Nov. 17, 2026. From the Report The hearing saw testimony from Cao, who has served in an acting capacity since April. Below are also prepared advance policy questions from Cao.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/17/opening-remarks-from-acting-navy-secretary-hung-caos-confirmation-hearing",
-      "publishedAt": "2026-11-17T17:52:31Z"
-    },
-    {
-      "id": "8158a1f00a91a2de2f981132",
-      "title": "Lithuanian president says US troop rotations will continue beyond latest deployment",
-      "summary": "Lithuanian President Gitanas Nauseda said that U.S. troop rotations in the country would continue beyond the current nine-month deployment.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/global/europe/2026/11/17/lithuanian-president-says-us-troop-rotations-will-continue-beyond-latest-deployment/",
-      "publishedAt": "2026-11-17T17:04:13Z"
-    },
-    {
-      "id": "d9da1c3c83aadab040b8eea2",
-      "title": "Trump seeks nuclear cuts at summit with Putin and Xi, but prospects are low",
-      "summary": "From the U.S. side, meanwhile, the Trump administration surprised many observers by pushing for discussions about reducing nuclear weapons while in Shenzhen.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/global/the-americas/2026/11/17/trump-seeks-nuclear-cuts-at-summit-with-putin-and-xi-but-prospects-are-low/",
-      "publishedAt": "2026-11-17T16:10:34Z"
-    },
-    {
-      "id": "17569ba086acf01ca78a5b1e",
-      "title": "NATO kicks off 11-nation Starlift satellite launch program",
-      "summary": "Notably, four countries that were original participants of the space effort were left out of today’s announcement — France, Hungary, Luxembourg and the United States.",
-      "category": "Space Force",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/nato-kicks-off-11-nation-starlift-satellite-launch-program/",
-      "publishedAt": "2026-11-17T15:34:16Z"
-    },
-    {
-      "id": "cd6bfb3af40dbb68dfd67173",
-      "title": "New Hampshire National Guard breaks ground on new Plymouth Readiness Center",
-      "summary": "The New Hampshire Army National Guard broke ground on the new Plymouth Readiness Center, a $31 million investment in Soldiers, readiness and the future of the Granite State. The 38,288-square-foot facility will replace Plymouth’s 1957 armory with modern, secure space to support training and missions for years to come.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579516/new-hampshire-national-guard-breaks-ground-new-plymouth-readiness-center",
-      "publishedAt": "2026-11-17T15:26:29Z"
-    },
-    {
-      "id": "3b3cf36dce4e34f3a118ed38",
-      "title": "U.S. and Canadian Armies Advance Bilateral Intelligence Modernization Efforts",
-      "summary": "FORT BELVOIR, Va. – In today’s ever-changing battle space of evolving technology and hybrid cyber-attacks, the United States and Canadian armies both have a similar goal: creating ready and equipped modern armies that can operate cohesively across diverse environments with its partners. To achieve this vision, both the U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579518/us-and-canadian-armies-advance-bilateral-intelligence-modernization-efforts",
-      "publishedAt": "2026-11-17T15:12:50Z"
-    },
-    {
-      "id": "bd58f5d89e7f18a7cd4b4ee2",
-      "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
-      "summary": "The Pentagon failed a financial audit for the ninth consecutive year, according to an inspector general report, but an official said a majority of its units passed for the first time.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/pentagon/2026/11/17/pentagon-fails-ninth-straight-audit-despite-progress-in-organizing-finances/",
-      "publishedAt": "2026-11-17T14:35:23Z"
     }
   ],
   "nextPage": "page-3.json"
