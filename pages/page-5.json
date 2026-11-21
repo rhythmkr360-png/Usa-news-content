@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-21T02:21:02Z",
+  "generatedAt": "2026-11-21T11:11:20Z",
   "articles": [
     {
       "id": "517ed16a0c1dcfaf2f0260c1",
@@ -352,16 +352,6 @@
       "sourceName": "USNI News",
       "sourceUrl": "https://news.usni.org/2026/11/11/report-to-congress-on-strategic-stability-of-the-golden-dome",
       "publishedAt": "2026-11-11T12:22:07Z"
-    },
-    {
-      "id": "cdfd5ee2419cc41ef6f4e515",
-      "title": "Projecting Precision: 25th Infantry Division Executes HIMARS Rapid Infiltration at JPMRC 27-01",
-      "summary": "SCHOFIELD BARRACKS, Hawaii — Mastering the ability to rapidly project lethal, long-range fires across the expanse of the Pacific Ocean is a defining capability of the modern U.S. Army.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579136/projecting-precision-25th-infantry-division-executes-himars-rapid-infiltration-jpmrc-27-01",
-      "publishedAt": "2026-11-11T04:25:33Z"
     }
-  ],
-  "nextPage": "page-6.json"
+  ]
 }
