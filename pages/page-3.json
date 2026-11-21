@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T20:25:53Z",
+  "generatedAt": "2026-11-21T02:21:02Z",
   "articles": [
+    {
+      "id": "541390114241cf3309ce208f",
+      "title": "The Pentagon fails another audit. Can it turn things around by 2028?",
+      "summary": "The Defense Department has struggled for years to get its books in order. Now, officials say a new approach could change that.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/the-pentagon-fails-another-audit-can-it-turn-things-around-by-2028/",
+      "publishedAt": "2026-11-18T14:23:52Z"
+    },
+    {
+      "id": "35a6f6c317c6fb9ecf4ffdde",
+      "title": "AFRICOM commander visits Mali, Senegal to address regional security",
+      "summary": "U.S. Air Force Gen. Dagvin Anderson, commander of U.S. Africa Command, completed a multi-day trip to West Africa Nov. 10-12.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579593/africom-commander-visits-mali-senegal-address-regional-security",
+      "publishedAt": "2026-11-18T09:16:51Z"
+    },
+    {
+      "id": "a0dc655a663341496d97910d",
+      "title": "Japan District Engineers Spark Young Minds at STEAM Day",
+      "summary": "U.S. Army Corps of Engineers Japan District (USACE JED) experts led elementary students through hands-on infrastructure and electrical engineering lessons during the annual STEAM Day at Shirley Lanham Elementary School on Nov. 6.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579586/japan-district-engineers-spark-young-minds-steam-day",
+      "publishedAt": "2026-11-18T05:50:01Z"
+    },
+    {
+      "id": "59787190a08e749f8d9fbf73",
+      "title": "U.S. Navy Sailor takes first place in the 2026 Norwegian Foot March 30K",
+      "summary": "Naval Aircrewman (Helicopter) 2nd Class Simon Ginsberg was the first participant to cross the finish line at the 2026 Norwegian Foot March, completing the 30-kilometer course in 3 hours and 18 minutes at Naval Air Facility (NAF) Atsugi, Japan, Nov. 14, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579589/us-navy-sailor-takes-first-place-2026-norwegian-foot-march-30k",
+      "publishedAt": "2026-11-18T05:17:39Z"
+    },
+    {
+      "id": "bfe94a75661e3e7011bb75a4",
+      "title": "Cmdr. JoAnn Friesz retires from the Navy Reserve after nearly 27 years of service",
+      "summary": "NAVAL CONSTRUCTION BATTALION CENTER GULFPORT, Miss. – Cmdr. JoAnn Susan Friesz, Commanding Officer of Navy Reserve Mobilization and Deployment Support Command Detachment Bravo, a resident of Bloomington, MN, retired from the U.S. Navy Reserve during a ceremony at the Seabee Memorial Chapel aboard Naval Construction Battalion Center Gulfport on Nov.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579588/cmdr-joann-friesz-retires-navy-reserve-after-nearly-27-years-service",
+      "publishedAt": "2026-11-18T03:53:34Z"
+    },
+    {
+      "id": "0f4267cde9d94e59b3ace18a",
+      "title": "Two years ago today, the Philippines and the United States officially signed the General Security of Military Information Agreement (GSOMIA). Signed by Department of National Defense (DND) Sec. Gilberto Teodoro Jr. and t",
+      "summary": "Two years ago today, the Philippines and the United States officially signed the General Security of Military Information Agreement (GSOMIA). Signed by Department of National Defense (DND) Sec. Gilberto Teodoro Jr. and then-U.S. Defense Sec. Lloyd Austin Facebook",
+      "category": "Defense",
+      "sourceName": "Facebook",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZW5fNVZRMG1QQUowMUdXNF9NaVVZTG53Vnk0d1laQ2w2Mi1WSG1YQjdmcUNjSWZ5RUg0aFJTcWxuczQ5TV8xOW1jbkFPTXdfcjJyZFlybGFwa1dZZmJ6MTRwSGloc0Y2Wndqb0JHQTdHUFJnQzZacjdmbDM2VVVodmpxRElqNGZDbWRqamtZeUEweFR4dFJRT2ZjejI4cDNlWm5aY29seVhhaXEtelhOOVRfRHcxZUdNd3hNbVFndVpnbk9vcjd0U0hzY0M4RHg0?oc=5",
+      "publishedAt": "2026-11-18T01:00:02Z"
+    },
+    {
+      "id": "9f4ad11ac7f640839fd1ae56",
+      "title": "Army’s Senior Logistics Officer Visits JBLM, Port of Tacoma, Recognizing Regional Capabilities",
+      "summary": "Lt. Gen. Michelle K. Donahue, the U.S. Army Deputy Chief of Staff, G‑4, visited Joint Base Lewis‑McChord and the Port of Tacoma on Nov. 10 to assess deployment and distribution capabilities supporting force projection into the Indo‑Pacific.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579581/armys-senior-logistics-officer-visits-jblm-port-tacoma-recognizing-regional-capabilities",
+      "publishedAt": "2026-11-17T23:21:47Z"
+    },
+    {
+      "id": "399d118bafdd51741121c4f4",
+      "title": "Stryker Leader Symposium Synchronizes Force Modernization",
+      "summary": "FORT CARSON, Colo. – The 4th Infantry Division hosted senior leaders from across the U.S. Army and the Royal Thai Army for the Stryker Leader Symposium Nov. 3-4 to synchronize modernization and redesign efforts.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579584/stryker-leader-symposium-synchronizes-force-modernization",
+      "publishedAt": "2026-11-17T23:21:35Z"
+    },
     {
       "id": "d8ba35f7b2fccb0f906aa268",
       "title": "U.S. Marine Corps Forces South Hosts Regional Symposium to Strengthen Hemispheric Defense",
@@ -289,78 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579466/fort-mccoy-garrison-commander-serves-guest-speaker-tomah-va-medical-center-veterans-day-ceremony",
       "publishedAt": "2026-11-16T21:28:57Z"
-    },
-    {
-      "id": "53aa908fc1f19b655063ee67",
-      "title": "US Army takes ‘urgent’ action to build concrete bunkers across the Middle East",
-      "summary": "The Army acknowledged in a notice Friday that U.S. soldiers in the Middle East are \"currently at risk\" using personnel shelters made of converted shipping containers.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/global/mideast-africa/2026/11/16/us-army-takes-urgent-action-to-build-concrete-bunkers-across-the-middle-east/",
-      "publishedAt": "2026-11-16T20:43:10Z"
-    },
-    {
-      "id": "876b3995769fcb31ab8dd389",
-      "title": "USNI News Fleet and Marine Tracker: Nov. 16, 2026",
-      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 16, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/16/usni-news-fleet-and-marine-tracker-nov-16-2026",
-      "publishedAt": "2026-11-16T19:55:16Z"
-    },
-    {
-      "id": "c01fb5e45f8e3f5aee7154f5",
-      "title": "Elite red team brings realistic cyber testing to operational aviation systems",
-      "summary": "The U.S. Navy’s Naval Aviation Red Team (AIR-RT) has earned official certification from the NSA and accreditation from U.S. Cyber Command, bolstering the fleet's ability to simulate nation-state cyberattacks and defend tactical aircraft against advanced digital threats.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579438/elite-red-team-brings-realistic-cyber-testing-operational-aviation-systems",
-      "publishedAt": "2026-11-16T18:48:20Z"
-    },
-    {
-      "id": "25d7d2318584387a33550109",
-      "title": "Bringing the Future Forward: Inside Agile Flag’s Super Intelligence Implementation",
-      "summary": "U.S. Air Force Airmen assigned to 15th Air Force participated in Agile Flag at Shaw Air Force Base, South Carolina, from Nov. 1 to Nov. 5. Agile Flag was designed to build combat-ready Airmen and teams able to recover, refuel, rearm, repair, and launch aircraft from austere, unfamiliar locations under attack.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579433/bringing-future-forward-inside-agile-flags-super-intelligence-implementation",
-      "publishedAt": "2026-11-16T18:35:43Z"
-    },
-    {
-      "id": "6a1ad5c4fa96502ba518b8fa",
-      "title": "USS Minneapolis-Saint Paul Marks 250th Anniversary of Statia Day",
-      "summary": "USS Minneapolis-Saint Paul (LCS 21) joined the people of Sint Eustatius, known locally as Statia, Nov. 16, to commemorate the 250th anniversary of the island’s historic “First Salute” to the United States.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579430/uss-minneapolis-saint-paul-marks-250th-anniversary-statia-day",
-      "publishedAt": "2026-11-16T18:11:20Z"
-    },
-    {
-      "id": "e7b581c2950a64ba49243c67",
-      "title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
-      "summary": "Europe's defense ministries are looking to limit dependency on American technology and major software company Palantir Technologies.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/2026/11/16/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence/",
-      "publishedAt": "2026-11-16T18:00:00Z"
-    },
-    {
-      "id": "53c4b374f0fe9fff255c21ac",
-      "title": "Media Alert: Santa Claus is coming to town on an MH-60S Seahawk helicopter (Courtesy of the U.S. Navy)",
-      "summary": "Adm. Santa Claus will spread holiday cheer and conduct aerial reconnaissance from a U.S. Navy MH-60S Seahawk helicopter over Southern Maryland during a holiday flight with the Air Test and Evaluation Squadron (HX) 21 \"Blackjacks\" on Dec. 8, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579428/media-alert-santa-claus-coming-town-mh-60s-seahawk-helicopter-courtesy-us-navy",
-      "publishedAt": "2026-11-16T17:32:48Z"
-    },
-    {
-      "id": "d131b2a294effc72e2747ba0",
-      "title": "ARTRANS Leads Modernization Efforts with IBS-Cloud Native Training at Fort Eustis",
-      "summary": "In alignment with the U.S. Army’s strategic push for continuous modernization and cloud integration, cargo booking specialists from across U.S. Army Transportation Command (ARTRANS) converged at the Fort Eustis Education Center in November 2026, to prepare for an enterprise-wide digital transition.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579427/artrans-leads-modernization-efforts-with-ibs-cloud-native-training-fort-eustis",
-      "publishedAt": "2026-11-16T17:27:23Z"
     }
   ],
   "nextPage": "page-4.json"

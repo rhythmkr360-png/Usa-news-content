@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T20:25:53Z",
+  "generatedAt": "2026-11-21T02:21:02Z",
   "articles": [
+    {
+      "id": "53aa908fc1f19b655063ee67",
+      "title": "US Army takes ‘urgent’ action to build concrete bunkers across the Middle East",
+      "summary": "The Army acknowledged in a notice Friday that U.S. soldiers in the Middle East are \"currently at risk\" using personnel shelters made of converted shipping containers.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/global/mideast-africa/2026/11/16/us-army-takes-urgent-action-to-build-concrete-bunkers-across-the-middle-east/",
+      "publishedAt": "2026-11-16T20:43:10Z"
+    },
+    {
+      "id": "876b3995769fcb31ab8dd389",
+      "title": "USNI News Fleet and Marine Tracker: Nov. 16, 2026",
+      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 16, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/16/usni-news-fleet-and-marine-tracker-nov-16-2026",
+      "publishedAt": "2026-11-16T19:55:16Z"
+    },
+    {
+      "id": "c01fb5e45f8e3f5aee7154f5",
+      "title": "Elite red team brings realistic cyber testing to operational aviation systems",
+      "summary": "The U.S. Navy’s Naval Aviation Red Team (AIR-RT) has earned official certification from the NSA and accreditation from U.S. Cyber Command, bolstering the fleet's ability to simulate nation-state cyberattacks and defend tactical aircraft against advanced digital threats.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579438/elite-red-team-brings-realistic-cyber-testing-operational-aviation-systems",
+      "publishedAt": "2026-11-16T18:48:20Z"
+    },
+    {
+      "id": "25d7d2318584387a33550109",
+      "title": "Bringing the Future Forward: Inside Agile Flag’s Super Intelligence Implementation",
+      "summary": "U.S. Air Force Airmen assigned to 15th Air Force participated in Agile Flag at Shaw Air Force Base, South Carolina, from Nov. 1 to Nov. 5. Agile Flag was designed to build combat-ready Airmen and teams able to recover, refuel, rearm, repair, and launch aircraft from austere, unfamiliar locations under attack.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579433/bringing-future-forward-inside-agile-flags-super-intelligence-implementation",
+      "publishedAt": "2026-11-16T18:35:43Z"
+    },
+    {
+      "id": "6a1ad5c4fa96502ba518b8fa",
+      "title": "USS Minneapolis-Saint Paul Marks 250th Anniversary of Statia Day",
+      "summary": "USS Minneapolis-Saint Paul (LCS 21) joined the people of Sint Eustatius, known locally as Statia, Nov. 16, to commemorate the 250th anniversary of the island’s historic “First Salute” to the United States.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579430/uss-minneapolis-saint-paul-marks-250th-anniversary-statia-day",
+      "publishedAt": "2026-11-16T18:11:20Z"
+    },
+    {
+      "id": "e7b581c2950a64ba49243c67",
+      "title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
+      "summary": "Europe's defense ministries are looking to limit dependency on American technology and major software company Palantir Technologies.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/2026/11/16/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence/",
+      "publishedAt": "2026-11-16T18:00:00Z"
+    },
+    {
+      "id": "53c4b374f0fe9fff255c21ac",
+      "title": "Media Alert: Santa Claus is coming to town on an MH-60S Seahawk helicopter (Courtesy of the U.S. Navy)",
+      "summary": "Adm. Santa Claus will spread holiday cheer and conduct aerial reconnaissance from a U.S. Navy MH-60S Seahawk helicopter over Southern Maryland during a holiday flight with the Air Test and Evaluation Squadron (HX) 21 \"Blackjacks\" on Dec. 8, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579428/media-alert-santa-claus-coming-town-mh-60s-seahawk-helicopter-courtesy-us-navy",
+      "publishedAt": "2026-11-16T17:32:48Z"
+    },
+    {
+      "id": "d131b2a294effc72e2747ba0",
+      "title": "ARTRANS Leads Modernization Efforts with IBS-Cloud Native Training at Fort Eustis",
+      "summary": "In alignment with the U.S. Army’s strategic push for continuous modernization and cloud integration, cargo booking specialists from across U.S. Army Transportation Command (ARTRANS) converged at the Fort Eustis Education Center in November 2026, to prepare for an enterprise-wide digital transition.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579427/artrans-leads-modernization-efforts-with-ibs-cloud-native-training-fort-eustis",
+      "publishedAt": "2026-11-16T17:27:23Z"
+    },
     {
       "id": "fda6c3b0492574ed3c583c40",
       "title": "Open Water Alternative Navigation: New Technology Promises Aid to GPS-Denied, Ocean-Flying Drones",
@@ -289,78 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579305/air-force-band-ensembles-honor-veterans-across-nation",
       "publishedAt": "2026-11-13T18:00:48Z"
-    },
-    {
-      "id": "517ed16a0c1dcfaf2f0260c1",
-      "title": "Judges close part of ICC Afghanistan investigations that could look at US troops",
-      "summary": "The International Criminal Court will close investigations into Afghanistan that previously looked at alleged crimes by U.S. troops and focus only on actions of the Taliban.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/global/mideast-africa/2026/11/13/judges-close-part-of-icc-afghanistan-investigations-that-could-look-at-us-troops/",
-      "publishedAt": "2026-11-13T17:55:28Z"
-    },
-    {
-      "id": "b743b199fca752ba8e1e720a",
-      "title": "WHY I Serve: Soldier’s Determination Leads Her to Army Service at 41",
-      "summary": "At 41, many people have settled into established careers and routines. Pfc. Olivia Kabre, a nutrition care specialist at Landstuhl Regional Medical Center, chose a different path: She enlisted in the U.S. Army and completed basic combat training, pursuing a goal she had held for years.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579298/why-serve-soldiers-determination-leads-her-army-service-41",
-      "publishedAt": "2026-11-13T17:39:36Z"
-    },
-    {
-      "id": "227bddeee7b3e3d5e9539bfa",
-      "title": "Oregon Guard Soldiers bring Army fitness, Veterans Day lesson to Salem middle school",
-      "summary": "Three Oregon Army National Guard Soldiers spent the day before Veterans Day at Crossler Middle School, leading students through Army-style physical training and talking with them about the veterans in their own families.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579300/oregon-guard-soldiers-bring-army-fitness-veterans-day-lesson-salem-middle-school",
-      "publishedAt": "2026-11-13T17:19:05Z"
-    },
-    {
-      "id": "0e8986d2a106dea0fd094617",
-      "title": "WRAIR-AFRIMS protects force health at Super Garuda Shield 2026",
-      "summary": "The Walter Reed Army Institute of Research – Armed Forces Research Institute of Medical Sciences, in partnership with the Australian Defence Force Malaria and Infectious Diseases Institute, conducted real-time infectious disease surveillance in support of Super Garuda Shield 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579297/wrair-afrims-protects-force-health-super-garuda-shield-2026",
-      "publishedAt": "2026-11-13T17:12:24Z"
-    },
-    {
-      "id": "07b0d4bcc9c4f5b3e44c9722",
-      "title": "Pentagon rebrands principle AI shop as ‘Super Intelligence Office’",
-      "summary": "The redesignation follows President Donald Trump’s push to replace references to artificial intelligence with “super intelligence” across the federal government.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/pentagon-rebrands-principle-ai-shop-as-super-intelligence-office/",
-      "publishedAt": "2026-11-13T17:00:00Z"
-    },
-    {
-      "id": "de7fdef47f527f35fcbaabf3",
-      "title": "US Army names officer held on ‘allegations of espionage’",
-      "summary": "Lt. Col. Brandon Carroll Tyner has been identified as the U.S. soldier arrested earlier this week in the UK for reportedly assisting Russian intelligence.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/global/europe/2026/11/13/us-army-names-officer-held-on-allegations-of-espionage/",
-      "publishedAt": "2026-11-13T16:32:38Z"
-    },
-    {
-      "id": "5b5f595d9c340ecd4f4ae4ed",
-      "title": "Joint Forces Strengthen Aerial Sustainment Capabilities During JPMRC",
-      "summary": "Across the Indo-Pacific, the ability to deliver critical supplies and equipment to dispersed forces is essential to maintaining combat readiness. During Joint Pacific Multinational Readiness Center (JPMRC) 27-01, U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579251/joint-forces-strengthen-aerial-sustainment-capabilities-during-jpmrc",
-      "publishedAt": "2026-11-13T04:37:28Z"
-    },
-    {
-      "id": "c1ae5e4c1d2c2e92dcefdeaa",
-      "title": "T-19A Kestrel makes debut flyover at U.S. Air Force Academy",
-      "summary": "U.S. Air Force Academy cadets were treated to a historic aerial display today as the Air Force’s newest aircraft, the T-19A Kestrel, made its official public debut during a flyover of the Cadet Wing’s noon meal formation.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579253/t-19a-kestrel-makes-debut-flyover-us-air-force-academy",
-      "publishedAt": "2026-11-13T04:24:10Z"
     }
   ],
   "nextPage": "page-5.json"

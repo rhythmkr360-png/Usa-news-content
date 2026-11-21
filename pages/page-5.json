@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T20:25:53Z",
+  "generatedAt": "2026-11-21T02:21:02Z",
   "articles": [
+    {
+      "id": "517ed16a0c1dcfaf2f0260c1",
+      "title": "Judges close part of ICC Afghanistan investigations that could look at US troops",
+      "summary": "The International Criminal Court will close investigations into Afghanistan that previously looked at alleged crimes by U.S. troops and focus only on actions of the Taliban.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/global/mideast-africa/2026/11/13/judges-close-part-of-icc-afghanistan-investigations-that-could-look-at-us-troops/",
+      "publishedAt": "2026-11-13T17:55:28Z"
+    },
+    {
+      "id": "b743b199fca752ba8e1e720a",
+      "title": "WHY I Serve: Soldier’s Determination Leads Her to Army Service at 41",
+      "summary": "At 41, many people have settled into established careers and routines. Pfc. Olivia Kabre, a nutrition care specialist at Landstuhl Regional Medical Center, chose a different path: She enlisted in the U.S. Army and completed basic combat training, pursuing a goal she had held for years.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579298/why-serve-soldiers-determination-leads-her-army-service-41",
+      "publishedAt": "2026-11-13T17:39:36Z"
+    },
+    {
+      "id": "227bddeee7b3e3d5e9539bfa",
+      "title": "Oregon Guard Soldiers bring Army fitness, Veterans Day lesson to Salem middle school",
+      "summary": "Three Oregon Army National Guard Soldiers spent the day before Veterans Day at Crossler Middle School, leading students through Army-style physical training and talking with them about the veterans in their own families.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579300/oregon-guard-soldiers-bring-army-fitness-veterans-day-lesson-salem-middle-school",
+      "publishedAt": "2026-11-13T17:19:05Z"
+    },
+    {
+      "id": "0e8986d2a106dea0fd094617",
+      "title": "WRAIR-AFRIMS protects force health at Super Garuda Shield 2026",
+      "summary": "The Walter Reed Army Institute of Research – Armed Forces Research Institute of Medical Sciences, in partnership with the Australian Defence Force Malaria and Infectious Diseases Institute, conducted real-time infectious disease surveillance in support of Super Garuda Shield 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579297/wrair-afrims-protects-force-health-super-garuda-shield-2026",
+      "publishedAt": "2026-11-13T17:12:24Z"
+    },
+    {
+      "id": "07b0d4bcc9c4f5b3e44c9722",
+      "title": "Pentagon rebrands principle AI shop as ‘Super Intelligence Office’",
+      "summary": "The redesignation follows President Donald Trump’s push to replace references to artificial intelligence with “super intelligence” across the federal government.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/pentagon-rebrands-principle-ai-shop-as-super-intelligence-office/",
+      "publishedAt": "2026-11-13T17:00:00Z"
+    },
+    {
+      "id": "de7fdef47f527f35fcbaabf3",
+      "title": "US Army names officer held on ‘allegations of espionage’",
+      "summary": "Lt. Col. Brandon Carroll Tyner has been identified as the U.S. soldier arrested earlier this week in the UK for reportedly assisting Russian intelligence.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/global/europe/2026/11/13/us-army-names-officer-held-on-allegations-of-espionage/",
+      "publishedAt": "2026-11-13T16:32:38Z"
+    },
+    {
+      "id": "5b5f595d9c340ecd4f4ae4ed",
+      "title": "Joint Forces Strengthen Aerial Sustainment Capabilities During JPMRC",
+      "summary": "Across the Indo-Pacific, the ability to deliver critical supplies and equipment to dispersed forces is essential to maintaining combat readiness. During Joint Pacific Multinational Readiness Center (JPMRC) 27-01, U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579251/joint-forces-strengthen-aerial-sustainment-capabilities-during-jpmrc",
+      "publishedAt": "2026-11-13T04:37:28Z"
+    },
+    {
+      "id": "c1ae5e4c1d2c2e92dcefdeaa",
+      "title": "T-19A Kestrel makes debut flyover at U.S. Air Force Academy",
+      "summary": "U.S. Air Force Academy cadets were treated to a historic aerial display today as the Air Force’s newest aircraft, the T-19A Kestrel, made its official public debut during a flyover of the Cadet Wing’s noon meal formation.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579253/t-19a-kestrel-makes-debut-flyover-us-air-force-academy",
+      "publishedAt": "2026-11-13T04:24:10Z"
+    },
     {
       "id": "695652166e8f0bbf1e1059af",
       "title": "ACC-RSA celebrates Leadership Development and Readiness Program Graduates",
@@ -289,78 +361,7 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579136/projecting-precision-25th-infantry-division-executes-himars-rapid-infiltration-jpmrc-27-01",
       "publishedAt": "2026-11-11T04:25:33Z"
-    },
-    {
-      "id": "4e445cb232d7035101f8fa6c",
-      "title": "Dedication to Duty: Sgt. Charles E. Needles' Journey as an Air Defender",
-      "summary": "U.S. Army Sgt. Charles E. Needles, an Air Defense Enhanced Early Warning Systems Operator assigned to the 4th Battalion, 3rd Air Defense Artillery Regiment, 31st Air Defense Artillery Brigade, carries forward a family legacy of military service spanning generations.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579134/dedication-duty-sgt-charles-e-needles-journey-air-defender",
-      "publishedAt": "2026-11-11T03:48:14Z"
-    },
-    {
-      "id": "2381c775ab754e2a1e390fae",
-      "title": "10th Civil Support Team Strengthens International Response at Maple Mayhem",
-      "summary": "Washington National Guard’s 10th Civil Support Team provided hazardous-material detection and decontamination support to FBI investigators during Exercise Maple Mayhem in Chilliwack, British Columbia, Oct. 24–30, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579131/10th-civil-support-team-strengthens-international-response-maple-mayhem",
-      "publishedAt": "2026-11-10T23:18:03Z"
-    },
-    {
-      "id": "f8cb85cfaf523b17fbd7a723",
-      "title": "Saildrone, Blue Water Autonomy Ruling Adds Restrictions to OTA Funding Model",
-      "summary": "PARIS — An acquisition tool that the Pentagon has recently favored now comes with more strings attached following a late October ruling from a federal judge on a Navy drone boat program.",
-      "category": "Defense",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/10/saildrone-blue-water-autonomy-ruling-adds-restrictions-to-ota-funding-model",
-      "publishedAt": "2026-11-10T22:07:42Z"
-    },
-    {
-      "id": "7cbdce73d758ebf70e25f63f",
-      "title": "Yuma Proving Ground’s Ammunition & Armaments Division provides full cycle handling of ammunition",
-      "summary": "U.S. Army Yuma Proving Ground (YPG) Ammunition & Armaments Division has the dynamic critical responsibility of handling every piece of ammunition at YPG.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579121/yuma-proving-grounds-ammunition-armaments-division-provides-full-cycle-handling-ammunition",
-      "publishedAt": "2026-11-10T21:32:25Z"
-    },
-    {
-      "id": "36a10dc3b0ef8a685c829fec",
-      "title": "US soldier arrested in UK for suspected ‘espionage’ for Russia",
-      "summary": "A senior U.S. soldier was arrested in Britain on suspicion of assisting Russian ​intelligence, British police said on Tuesday.",
-      "category": "Army",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/global/europe/2026/11/10/us-soldier-arrested-in-uk-for-suspected-espionage-for-russia/",
-      "publishedAt": "2026-11-10T21:24:11Z"
-    },
-    {
-      "id": "2297edc32041224ec8888bf1",
-      "title": "Reserve IW Sailors sharpen fleet readiness during MAKO Sentry",
-      "summary": "NAVAL AMPHIBIOUS BASE CORONADO, Calif. (Nov. 7, 2026) -- Over 100 Sailors newly gained to U.S. Pacific Command, U.S. Pacific Fleet, U.S. 3rd Fleet and U.S. 7th Fleet, attended MAKO Sentry training onboard Naval Amphibious Base Coronado (NAB Coronado) Nov.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579111/reserve-iw-sailors-sharpen-fleet-readiness-during-mako-sentry",
-      "publishedAt": "2026-11-10T21:08:30Z"
-    },
-    {
-      "id": "0ea48878f69712033e0ae15e",
-      "title": "USAWHC Commander Visits Southern Vanguard 2027 in Tolemaida, Colombia",
-      "summary": "Gen. Joseph A. Ryan, U.S. Army Western Hemisphere Command (USAWHC) Commanding General, visited Tolemaida, Colombia, on Nov. 9, 2026, to meet with U.S. and Colombian soldiers participating in Southern Vanguard 2027 (SV27), an annual exercise focused on strengthening interoperability, readiness, and bilateral security cooperation.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579113/usawhc-commander-visits-southern-vanguard-2027-tolemaida-colombia",
-      "publishedAt": "2026-11-10T21:04:35Z"
-    },
-    {
-      "id": "59374aa24c42301fc4c7615b",
-      "title": "Allen Control Systems launches new division to develop counter-drone lasers",
-      "summary": "The announcement comes amid the Pentagon’s growing interest in laser weapons, which use concentrated beams of energy to heat and destroy targets.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/allen-control-systems-launches-new-division-to-develop-counter-drone-lasers/",
-      "publishedAt": "2026-11-10T20:56:37Z"
     }
-  ]
+  ],
+  "nextPage": "page-6.json"
 }

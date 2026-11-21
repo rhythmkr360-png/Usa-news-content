@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T20:25:53Z",
+  "generatedAt": "2026-11-21T02:21:02Z",
   "articles": [
+    {
+      "id": "da2897229a50e6dce726faf2",
+      "title": "READOUT: Pacific Fleet Commander’s travel to Papua New Guinea, Nov. 15-17",
+      "summary": "U.S. Navy Adm. Steve Koehler, commander, U.S. Pacific Fleet, visited Port Moresby, Papua New Guines, Nov. 15-17 to affirm the longstanding partnership and bilateral relationship between Papua New Guinea and the United States.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579768/readout-pacific-fleet-commanders-travel-papua-new-guinea-nov-15-17",
+      "publishedAt": "2026-11-19T19:59:03Z"
+    },
+    {
+      "id": "73ea987b1ac0a3334b68ede6",
+      "title": "READOUT: Pacific Fleet Commander’s travel to Tonga, Nov. 17-19",
+      "summary": "U.S. Navy Adm. Steve Koehler, commander, U.S. Pacific Fleet, traveled to Nuku’alofa, Tonga, Nov. 17-19 to reaffirm the longstanding partnership and deepening defense ties between the Kingdom of Tonga and the United States in support of shared maritime security and regional stability.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579771/readout-pacific-fleet-commanders-travel-tonga-nov-17-19",
+      "publishedAt": "2026-11-19T19:58:51Z"
+    },
+    {
+      "id": "a8db76e3f140fe80ae9241ac",
+      "title": "Candidates are lining up to be the next top HASC Republican.",
+      "summary": "With Democrats preparing to take control of the House Armed Services Committee, a Republican leadership race could shape the next round of Pentagon oversight.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/new-leadership-new-tensions-for-top-house-defense-panel/",
+      "publishedAt": "2026-11-19T19:54:46Z"
+    },
+    {
+      "id": "49de806ab35273a67f173c4a",
+      "title": "Teen panelists turn leadership into action for Wisconsin military youth",
+      "summary": "Nine military youth representatives participated in the Wisconsin National Guard Child and Youth Program’s State Teen Panel Fall Leadership Summit Nov. 13-15 at the Wisconsin Lions Camp.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579766/teen-panelists-turn-leadership-into-action-wisconsin-military-youth",
+      "publishedAt": "2026-11-19T19:47:26Z"
+    },
+    {
+      "id": "00155eb92640b2450dd083d7",
+      "title": "Army Guard senior leaders align on mobilization, combat readiness at 2026 GTCC",
+      "summary": "NORTH LITTLE ROCK, Ark. — Army National Guard senior commanders gathered Nov. 6-8 at the National Guard Professional Education Center at Camp Robinson for the 2026 Green Tab Commanders Conference. Hosted by Lt. Gen. Jonathan M.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579762/army-guard-senior-leaders-align-mobilization-combat-readiness-2026-gtcc",
+      "publishedAt": "2026-11-19T19:26:03Z"
+    },
+    {
+      "id": "6ea78fe01703ad0318523394",
+      "title": "NSWCPD Industry Day Connects Government and Industry Partners to Advance Navy Mission",
+      "summary": "From small businesses exploring opportunities to support the U.S. Navy to established industry partners providing advanced engineering and technical solutions, more than 580 participants came together Nov. 5, 2026, for Naval Surface Warfare Center, Philadelphia Division's (NSWCPD) Hybrid Industry Day.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579760/nswcpd-industry-day-connects-government-and-industry-partners-advance-navy-mission",
+      "publishedAt": "2026-11-19T18:59:45Z"
+    },
+    {
+      "id": "cd10d8f6708de9e496790534",
+      "title": "Pentagon lacks ‘overarching plan’ for munitions production, watchdog warns",
+      "summary": "“DoD does not have an overarching plan that links munitions production and funding to requirements,” warned the Government Accountability Office study.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/11/19/pentagon-lacks-overarching-plan-for-munitions-production-watchdog-warns/",
+      "publishedAt": "2026-11-19T18:59:12Z"
+    },
+    {
+      "id": "cdf192e1874ce5337311b521",
+      "title": "Fort Lee announces holiday office hours",
+      "summary": "Many Fort Lee offices will change their hours of operation and/or close on specific days during the holidays, including Thanksgiving break Nov. 26-29 and Holiday Block Leave Dec. 17 to Jan. 2. This reduction is aligned with the Army’s annual HBL, whereby U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579759/fort-lee-announces-holiday-office-hours",
+      "publishedAt": "2026-11-19T18:49:00Z"
+    },
     {
       "id": "bb061be407c1f89ef5d8d449",
       "title": "Hegseth, in Caracas, announces US-Venezuela military partnership agreement",
@@ -289,78 +361,6 @@
       "sourceName": "USNI News",
       "sourceUrl": "https://news.usni.org/2026/11/18/report-to-congress-on-the-defense-innovation-ecosystem",
       "publishedAt": "2026-11-18T15:32:41Z"
-    },
-    {
-      "id": "541390114241cf3309ce208f",
-      "title": "The Pentagon fails another audit. Can it turn things around by 2028?",
-      "summary": "The Defense Department has struggled for years to get its books in order. Now, officials say a new approach could change that.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/the-pentagon-fails-another-audit-can-it-turn-things-around-by-2028/",
-      "publishedAt": "2026-11-18T14:23:52Z"
-    },
-    {
-      "id": "35a6f6c317c6fb9ecf4ffdde",
-      "title": "AFRICOM commander visits Mali, Senegal to address regional security",
-      "summary": "U.S. Air Force Gen. Dagvin Anderson, commander of U.S. Africa Command, completed a multi-day trip to West Africa Nov. 10-12.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579593/africom-commander-visits-mali-senegal-address-regional-security",
-      "publishedAt": "2026-11-18T09:16:51Z"
-    },
-    {
-      "id": "a0dc655a663341496d97910d",
-      "title": "Japan District Engineers Spark Young Minds at STEAM Day",
-      "summary": "U.S. Army Corps of Engineers Japan District (USACE JED) experts led elementary students through hands-on infrastructure and electrical engineering lessons during the annual STEAM Day at Shirley Lanham Elementary School on Nov. 6.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579586/japan-district-engineers-spark-young-minds-steam-day",
-      "publishedAt": "2026-11-18T05:50:01Z"
-    },
-    {
-      "id": "59787190a08e749f8d9fbf73",
-      "title": "U.S. Navy Sailor takes first place in the 2026 Norwegian Foot March 30K",
-      "summary": "Naval Aircrewman (Helicopter) 2nd Class Simon Ginsberg was the first participant to cross the finish line at the 2026 Norwegian Foot March, completing the 30-kilometer course in 3 hours and 18 minutes at Naval Air Facility (NAF) Atsugi, Japan, Nov. 14, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579589/us-navy-sailor-takes-first-place-2026-norwegian-foot-march-30k",
-      "publishedAt": "2026-11-18T05:17:39Z"
-    },
-    {
-      "id": "bfe94a75661e3e7011bb75a4",
-      "title": "Cmdr. JoAnn Friesz retires from the Navy Reserve after nearly 27 years of service",
-      "summary": "NAVAL CONSTRUCTION BATTALION CENTER GULFPORT, Miss. – Cmdr. JoAnn Susan Friesz, Commanding Officer of Navy Reserve Mobilization and Deployment Support Command Detachment Bravo, a resident of Bloomington, MN, retired from the U.S. Navy Reserve during a ceremony at the Seabee Memorial Chapel aboard Naval Construction Battalion Center Gulfport on Nov.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579588/cmdr-joann-friesz-retires-navy-reserve-after-nearly-27-years-service",
-      "publishedAt": "2026-11-18T03:53:34Z"
-    },
-    {
-      "id": "0f4267cde9d94e59b3ace18a",
-      "title": "Two years ago today, the Philippines and the United States officially signed the General Security of Military Information Agreement (GSOMIA). Signed by Department of National Defense (DND) Sec. Gilberto Teodoro Jr. and t",
-      "summary": "Two years ago today, the Philippines and the United States officially signed the General Security of Military Information Agreement (GSOMIA). Signed by Department of National Defense (DND) Sec. Gilberto Teodoro Jr. and then-U.S. Defense Sec. Lloyd Austin Facebook",
-      "category": "Defense",
-      "sourceName": "Facebook",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZW5fNVZRMG1QQUowMUdXNF9NaVVZTG53Vnk0d1laQ2w2Mi1WSG1YQjdmcUNjSWZ5RUg0aFJTcWxuczQ5TV8xOW1jbkFPTXdfcjJyZFlybGFwa1dZZmJ6MTRwSGloc0Y2Wndqb0JHQTdHUFJnQzZacjdmbDM2VVVodmpxRElqNGZDbWRqamtZeUEweFR4dFJRT2ZjejI4cDNlWm5aY29seVhhaXEtelhOOVRfRHcxZUdNd3hNbVFndVpnbk9vcjd0U0hzY0M4RHg0?oc=5",
-      "publishedAt": "2026-11-18T01:00:02Z"
-    },
-    {
-      "id": "9f4ad11ac7f640839fd1ae56",
-      "title": "Army’s Senior Logistics Officer Visits JBLM, Port of Tacoma, Recognizing Regional Capabilities",
-      "summary": "Lt. Gen. Michelle K. Donahue, the U.S. Army Deputy Chief of Staff, G‑4, visited Joint Base Lewis‑McChord and the Port of Tacoma on Nov. 10 to assess deployment and distribution capabilities supporting force projection into the Indo‑Pacific.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579581/armys-senior-logistics-officer-visits-jblm-port-tacoma-recognizing-regional-capabilities",
-      "publishedAt": "2026-11-17T23:21:47Z"
-    },
-    {
-      "id": "399d118bafdd51741121c4f4",
-      "title": "Stryker Leader Symposium Synchronizes Force Modernization",
-      "summary": "FORT CARSON, Colo. – The 4th Infantry Division hosted senior leaders from across the U.S. Army and the Royal Thai Army for the Stryker Leader Symposium Nov. 3-4 to synchronize modernization and redesign efforts.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579584/stryker-leader-symposium-synchronizes-force-modernization",
-      "publishedAt": "2026-11-17T23:21:35Z"
     }
   ],
   "nextPage": "page-3.json"

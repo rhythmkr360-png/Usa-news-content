@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T20:25:53Z",
+  "generatedAt": "2026-11-21T02:21:02Z",
   "articles": [
+    {
+      "id": "d0a0305ecb694f45fa28e76b",
+      "title": "Missouri Air Guard Wing awarded Presidential Unit Citation",
+      "summary": "U. S. Air Force Chief of Staff Gen. Ken Wilsbach presented the Missouri Air National Guard’s 131st Bomb Wing the Presidential Unit Citation award during a ceremony at Whiteman Air Force Base, Missouri, Nov. 20, 2026, for their outstanding performance in Operation Midnight Hammer.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580009/missouri-air-guard-wing-awarded-presidential-unit-citation",
+      "publishedAt": "2026-11-21T00:04:23Z"
+    },
+    {
+      "id": "1e910af905268b9a6a9f18f8",
+      "title": "Whiteman bomb wings earn Presidential Unit Citation",
+      "summary": "The 509th Bomb Wing and 131st Bomb Wing, both located at Whiteman Air Force Base, Missouri, received the Presidential Unit Citation in a ceremony Friday, recognizing the units’ extraordinary heroism and disciplined execution of Operation Midnight Hammer, the U.S. strike against Iranian nuclear facilities in June 2025.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580005/whiteman-bomb-wings-earn-presidential-unit-citation",
+      "publishedAt": "2026-11-21T00:01:38Z"
+    },
+    {
+      "id": "f9e3779295c79dc43904e33e",
+      "title": "Air Force issues massive $16B contract for engine work to dozens of companies",
+      "summary": "A Pentagon notice said 58 companies were selected to participate in a broad contract for “advanced propulsion enterprise work” through 2041.",
+      "category": "Air Force",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/air-force-issues-massive-16b-contract-for-engine-work-to-dozens-of-companies/",
+      "publishedAt": "2026-11-20T23:52:57Z"
+    },
+    {
+      "id": "637c84ea1cb9c0d1aeccfa5a",
+      "title": "Oregon Air National Guard Brigadier General Jenifer E. Pardy retires after 42 years of military service",
+      "summary": "From bending sheet metal on fighter aircraft to advising the state’s senior leadership, Oregon Air National Guard Brig. Gen. Jenifer E. Pardy’s military career spans a lifetime of growth and accomplishment. She concluded 42 years of military service during her formal retirement ceremony held at Camp Withycombe in Happy Valley, Oregon, on Nov.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580002/oregon-air-national-guard-brigadier-general-jenifer-e-pardy-retires-after-42-years-military-service",
+      "publishedAt": "2026-11-20T22:26:50Z"
+    },
+    {
+      "id": "145c288bcfa110c5e5fa4cac",
+      "title": "Presidio of Monterey recognizes youth leaders at Porter Youth Center",
+      "summary": "U.S. Army Garrison Presidio of Monterey recognized four sixth graders at its Junior Military Youth of the Year competition Nov. 13 at Porter Youth Center. Families, local educators and Porter staff celebrated the students’ work in the Monterey military community.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579998/presidio-monterey-recognizes-youth-leaders-porter-youth-center",
+      "publishedAt": "2026-11-20T21:55:02Z"
+    },
+    {
+      "id": "90669907ac9bcc3d7cb4aad6",
+      "title": "Navy’s Shipbuilding Plan Would Exceed Budget Estimates by Hundreds of Billions, CBO Finds",
+      "summary": "Increasing the size of the Navy’s fleet by 112 ships over the next three decades would require a 41 percent increase in the sea service’s annual budget and exceed the Navy’s own budget estimates by about 18 percent – a total delta of some $234 billion. That’s according to a new analysis from the Congressional Budget Office, released Wednesday.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/20/navys-shipbuilding-plan-would-exceed-budget-estimates-by-hundreds-of-billions-cbo-finds",
+      "publishedAt": "2026-11-20T20:57:51Z"
+    },
+    {
+      "id": "62e6bb812b70ea23918a8817",
+      "title": "Fort Buchanan recognizes Army recruiter for contributions to Soldier readiness, community engagement",
+      "summary": "— Soldiers gathered at the installation headquarters Nov. 20 to witness the recognition of Staff Sgt. Julie M. Perez Gomez, a recruiter assigned to the U.S. Army San Juan Recruiting Company, as Col. David L. Brewer, Fort Buchanan garrison commander, presented her with the Army Commendation Medal for her contributions to the installation.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579995/fort-buchanan-recognizes-army-recruiter-contributions-soldier-readiness-community-engagement",
+      "publishedAt": "2026-11-20T20:47:28Z"
+    },
+    {
+      "id": "4b18f4a45fcc9520970aa0c8",
+      "title": "NETCOM puts people first through recognition, engagement and transparent leadership",
+      "summary": "FORT HUACHUCA, Ariz. — From early morning physical training to an afternoon command headquarters town hall, the U.S. Army Network Enterprise Technology Command (NETCOM) dedicated November 6th, 2026 to its most important asset, its people.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579988/netcom-puts-people-first-through-recognition-engagement-and-transparent-leadership",
+      "publishedAt": "2026-11-20T20:39:47Z"
+    },
     {
       "id": "71835a7beb6a6bb6ebaaa75c",
       "title": "Col. Carrie Wentzel reflects on 25 years of service during retirement ceremony",
@@ -289,78 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579773/us-naval-academy-class-2027-obtain-career-assignments",
       "publishedAt": "2026-11-19T20:07:25Z"
-    },
-    {
-      "id": "da2897229a50e6dce726faf2",
-      "title": "READOUT: Pacific Fleet Commander’s travel to Papua New Guinea, Nov. 15-17",
-      "summary": "U.S. Navy Adm. Steve Koehler, commander, U.S. Pacific Fleet, visited Port Moresby, Papua New Guines, Nov. 15-17 to affirm the longstanding partnership and bilateral relationship between Papua New Guinea and the United States.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579768/readout-pacific-fleet-commanders-travel-papua-new-guinea-nov-15-17",
-      "publishedAt": "2026-11-19T19:59:03Z"
-    },
-    {
-      "id": "73ea987b1ac0a3334b68ede6",
-      "title": "READOUT: Pacific Fleet Commander’s travel to Tonga, Nov. 17-19",
-      "summary": "U.S. Navy Adm. Steve Koehler, commander, U.S. Pacific Fleet, traveled to Nuku’alofa, Tonga, Nov. 17-19 to reaffirm the longstanding partnership and deepening defense ties between the Kingdom of Tonga and the United States in support of shared maritime security and regional stability.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579771/readout-pacific-fleet-commanders-travel-tonga-nov-17-19",
-      "publishedAt": "2026-11-19T19:58:51Z"
-    },
-    {
-      "id": "a8db76e3f140fe80ae9241ac",
-      "title": "Candidates are lining up to be the next top HASC Republican.",
-      "summary": "With Democrats preparing to take control of the House Armed Services Committee, a Republican leadership race could shape the next round of Pentagon oversight.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/new-leadership-new-tensions-for-top-house-defense-panel/",
-      "publishedAt": "2026-11-19T19:54:46Z"
-    },
-    {
-      "id": "49de806ab35273a67f173c4a",
-      "title": "Teen panelists turn leadership into action for Wisconsin military youth",
-      "summary": "Nine military youth representatives participated in the Wisconsin National Guard Child and Youth Program’s State Teen Panel Fall Leadership Summit Nov. 13-15 at the Wisconsin Lions Camp.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579766/teen-panelists-turn-leadership-into-action-wisconsin-military-youth",
-      "publishedAt": "2026-11-19T19:47:26Z"
-    },
-    {
-      "id": "00155eb92640b2450dd083d7",
-      "title": "Army Guard senior leaders align on mobilization, combat readiness at 2026 GTCC",
-      "summary": "NORTH LITTLE ROCK, Ark. — Army National Guard senior commanders gathered Nov. 6-8 at the National Guard Professional Education Center at Camp Robinson for the 2026 Green Tab Commanders Conference. Hosted by Lt. Gen. Jonathan M.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579762/army-guard-senior-leaders-align-mobilization-combat-readiness-2026-gtcc",
-      "publishedAt": "2026-11-19T19:26:03Z"
-    },
-    {
-      "id": "6ea78fe01703ad0318523394",
-      "title": "NSWCPD Industry Day Connects Government and Industry Partners to Advance Navy Mission",
-      "summary": "From small businesses exploring opportunities to support the U.S. Navy to established industry partners providing advanced engineering and technical solutions, more than 580 participants came together Nov. 5, 2026, for Naval Surface Warfare Center, Philadelphia Division's (NSWCPD) Hybrid Industry Day.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579760/nswcpd-industry-day-connects-government-and-industry-partners-advance-navy-mission",
-      "publishedAt": "2026-11-19T18:59:45Z"
-    },
-    {
-      "id": "cd10d8f6708de9e496790534",
-      "title": "Pentagon lacks ‘overarching plan’ for munitions production, watchdog warns",
-      "summary": "“DoD does not have an overarching plan that links munitions production and funding to requirements,” warned the Government Accountability Office study.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/11/19/pentagon-lacks-overarching-plan-for-munitions-production-watchdog-warns/",
-      "publishedAt": "2026-11-19T18:59:12Z"
-    },
-    {
-      "id": "cdf192e1874ce5337311b521",
-      "title": "Fort Lee announces holiday office hours",
-      "summary": "Many Fort Lee offices will change their hours of operation and/or close on specific days during the holidays, including Thanksgiving break Nov. 26-29 and Holiday Block Leave Dec. 17 to Jan. 2. This reduction is aligned with the Army’s annual HBL, whereby U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579759/fort-lee-announces-holiday-office-hours",
-      "publishedAt": "2026-11-19T18:49:00Z"
     }
   ],
   "nextPage": "pages/page-2.json"
