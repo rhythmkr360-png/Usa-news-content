@@ -1,7 +1,70 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-23T01:46:13Z",
+  "generatedAt": "2026-11-23T12:54:12Z",
   "articles": [
+    {
+      "id": "f58a1b5bc91ab2c15a8957f3",
+      "title": "Utah National Guard welcomes new senior enlisted leader as CSM Spencer Nielsen retires after 33 years of service",
+      "summary": "The Utah National Guard welcomed a new senior enlisted leader and recognized the retirement of one of its most influential champions of enlisted Soldiers during a change of responsibility ceremony Nov. 19, 2026, as Command Sgt. Maj. Kyle Harrison assumed responsibility as the Utah National Guard’s command senior enlisted leader from Command Sgt.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579802/utah-national-guard-welcomes-new-senior-enlisted-leader-csm-spencer-nielsen-retires-after-33-years-service",
+      "publishedAt": "2026-11-20T01:13:56Z"
+    },
+    {
+      "id": "a03ef8f72f0364c555c0988d",
+      "title": "U.S. Army Yuma Proving Ground Soldiers spread Thanksgiving cheer",
+      "summary": "The residents of the Arizona State Veteran Home Yuma are having a happier Thanksgiving after a visit from Soldiers from U.S. Army Yuma Proving Ground.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579800/us-army-yuma-proving-ground-soldiers-spread-thanksgiving-cheer",
+      "publishedAt": "2026-11-19T23:59:19Z"
+    },
+    {
+      "id": "f9276de3283ed3ff3fbc6d43",
+      "title": "A Different Path to Service: Federal Way Sailor Returns to His Recruiting Roots",
+      "summary": "For Conner DeCoursey, returning home from Marine Corps recruit training in 2025 was not the homecoming he had imagined. He had left Federal Way, Washington, determined to earn the title of United States Marine, beginning what he believed would be a career serving his country.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579795/different-path-service-federal-way-sailor-returns-his-recruiting-roots",
+      "publishedAt": "2026-11-19T22:55:34Z"
+    },
+    {
+      "id": "f3ebd75a6e6a298f6a2abbdf",
+      "title": "JPMRC 27-01: 5th SFAB Validates Advisor Readiness, Refines Warfighting Role",
+      "summary": "SCHOFIELD BARRACKS, Hawaii — As the U.S. Army continues to transform how it fights, Soldiers assigned to the 5th Security Force Assistance Brigade (5th SFAB) are leveraging the Joint Pacific Multinational Readiness Center (JPMRC) 27-01 rotation in Hawaii to validate Force Package Task Force elements preparing for upcoming deployments while further…",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579792/jpmrc-27-01-5th-sfab-validates-advisor-readiness-refines-warfighting-role",
+      "publishedAt": "2026-11-19T22:32:50Z"
+    },
+    {
+      "id": "5fc372221f52687e8453718f",
+      "title": "La. Guard’s 773d Military Police Battalion welcomes new commander",
+      "summary": "PINEVILLE, La. – The Louisiana National Guard’s 773d Military Police Battalion, 139th Regional Support Group, welcomed a new commander during a change of command ceremony at the Armed Forces Readiness Center at Camp Beauregard, Nov. 15, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579787/la-guards-773d-military-police-battalion-welcomes-new-commander",
+      "publishedAt": "2026-11-19T22:09:42Z"
+    },
+    {
+      "id": "8f2ee6fbf256df74b631d680",
+      "title": "159th Fighter Wing gains new cyberspace operations squadron",
+      "summary": "NEW ORLEANS – The Louisiana Air National Guard’s 122d Air Support Operations Squadron was redesignated as the 122d Cyberspace Operations Squadron during a ceremony at Jackson Barracks, Nov. 7, 2026, establishing a new cyber mission within the 159th Fighter Wing.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579784/159th-fighter-wing-gains-new-cyberspace-operations-squadron",
+      "publishedAt": "2026-11-19T22:09:41Z"
+    },
+    {
+      "id": "772aeba035bdb120e139846b",
+      "title": "DSCU and Armenian Defense Leaders Partner to Advance Military Transformation in Armenia",
+      "summary": "The Defense Security Cooperation University (DSCU) spearheaded an intensive Strategic Leadership and Planning course here, marking a significant milestone in Armenia’s military transformation and deepening bilateral defense cooperation with the United States.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579785/dscu-and-armenian-defense-leaders-partner-advance-military-transformation-armenia",
+      "publishedAt": "2026-11-19T21:57:37Z"
+    },
     {
       "id": "cffe26b76940d30ae11e9ba3",
       "title": "Modernizing Mateship: Marine Corps Acquisition Leaders Strengthen Partnerships With Australia",
@@ -298,69 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579673/hometown-mission-former-air-force-leader-helps-build-mountain-home-air-force-base-water-resiliency",
       "publishedAt": "2026-11-18T22:08:05Z"
-    },
-    {
-      "id": "df457526e09bbe6eaf2a01c7",
-      "title": "USS Pierre (LCS 38) Hosts Change of Command Ceremony",
-      "summary": "U.S. Navy Cmdr. Justin Guernsey was relieved by U.S. Navy Cmdr. Audrey Munji as commanding officer of the Independence-variant littoral combat ship USS Pierre (LCS 38) during a change of command ceremony held at Naval Base San Diego, Sept, 18 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579675/uss-pierre-lcs-38-hosts-change-command-ceremony",
-      "publishedAt": "2026-11-18T22:05:44Z"
-    },
-    {
-      "id": "be4eb0f969e31787291ddd76",
-      "title": "A $1.1 trillion Pentagon budget plan sets up a fight on Capitol Hill",
-      "summary": "Senate appropriators are prioritizing Golden Dome, drones and munitions, but other military programs could pay the price.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/a-1-1-trillion-pentagon-budget-sets-up-a-fight-on-capitol-hill/",
-      "publishedAt": "2026-11-18T21:48:03Z"
-    },
-    {
-      "id": "14671afab08e76855a044a66",
-      "title": "Attitude of gratitude: Signal staff pause to reflect, give thanks",
-      "summary": "U.S. Army Signal School staff gathered Nov. 10 for its annual Friendsgiving. Hosted by Regimental Chaplain (Maj.) Glen Thompson, the event featured reflective training, a shared meal, and expressions of gratitude.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579666/attitude-gratitude-signal-staff-pause-reflect-give-thanks",
-      "publishedAt": "2026-11-18T21:45:00Z"
-    },
-    {
-      "id": "90f19cc06cc6cec6ad19191d",
-      "title": "Carrier USS George Washington Leaves Middle East After Three Months",
-      "summary": "USS George Washington (CVN-73) left the Middle East after being on station for three months, a U.S. Pacific Fleet spokesperson confirmed Wednesday to USNI News. George Washington is now in U.S. 7th Fleet. The spokesperson did not provide additional details, including which of George Washington’s escorts accompanied the ship.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/18/carrier-uss-george-washington-leaves-middle-east-after-three-months",
-      "publishedAt": "2026-11-18T21:31:01Z"
-    },
-    {
-      "id": "e872db88bcb69567cdf3e3fa",
-      "title": "US Navy used expired munitions during Iran war, Cao says",
-      "summary": "Acting Navy Secretary told lawmakers during a Senate confirmation hearing that the service is recoding expired munitions and firing them off.",
-      "category": "Navy",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/newsletters/daily-news-roundup/2026/11/18/us-navy-used-expired-munitions-during-iran-war-cao-says/",
-      "publishedAt": "2026-11-18T21:05:34Z"
-    },
-    {
-      "id": "b790928c7c277aa6be0ace59",
-      "title": "US Navy used expired munitions during Iran war, Cao says",
-      "summary": "Acting Navy Secretary told lawmakers during a Senate confirmation hearing that the service is recoding expired munitions and firing them off.",
-      "category": "Navy",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/naval/2026/11/18/us-navy-used-expired-munitions-during-iran-war-cao-says/",
-      "publishedAt": "2026-11-18T21:05:34Z"
-    },
-    {
-      "id": "2e9992688faef6003efe680e",
-      "title": "Fort Meade enlisted leader honors veterans, military families at Crownsville ceremony",
-      "summary": "U.S. Army Garrison Fort George G. Meade Command Sgt. Maj. Richard Moore delivered the principal address during the United Veterans of Anne Arundel County Veterans Day ceremony Nov. 11 at Crownsville State Veterans Cemetery, honoring generations of veterans and recognizing the sacrifices of military families.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579662/fort-meade-enlisted-leader-honors-veterans-military-families-crownsville-ceremony",
-      "publishedAt": "2026-11-18T20:59:15Z"
     }
   ],
   "nextPage": "page-3.json"

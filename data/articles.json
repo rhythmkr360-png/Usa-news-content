@@ -1,5 +1,68 @@
 [
   {
+    "id": "4c1a738b8cdf11fe9ca77121",
+    "title": "Learning from the industry: Europe District holds Design-Build Bootcamp for its employees",
+    "summary": "In its journey to update business processes and improve efficiency, the U.S. Army Corps of Engineers, Europe District held a Design-Build Bootcamp from Oct. 27 to 29 on U.S. Army Garrison Wiesbaden.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/580029/learning-industry-europe-district-holds-design-build-bootcamp-its-employees",
+    "publishedAt": "2026-11-23T08:35:04Z"
+  },
+  {
+    "id": "7cc36d358ae411dd4b8aedcc",
+    "title": "U.S. Marines, Finnish military build maritime readiness in the Baltic",
+    "summary": "U.S. Marines, alongside Finnish and Estonian forces, will strengthen combined maritime readiness during Finnish Navy-led Exercise Narrow Waters, scheduled for Nov. 26 through Dec. 4, 2026, in the Northern Baltic Sea and Gulf of Finland. Led by Finnish naval forces, the exercise builds on recent Allied cooperation in the region, including U.S.",
+    "category": "Marine Corps",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/580028/us-marines-finnish-military-build-maritime-readiness-baltic",
+    "publishedAt": "2026-11-23T08:32:10Z"
+  },
+  {
+    "id": "32378c0c844af6d04a39f4c6",
+    "title": "Proving their mettle: More than 1,100 U.S., ROK troops take on E2B",
+    "summary": "More than 1,100 U.S. and Republic of Korea service members tested their tactical proficiency side by side across Camp Casey and Camp Hovey during a weeklong combined Expert Infantryman Badge and Expert Soldier Badge qualification, known as E2B, which concluded Nov. 21.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/580027/proving-their-mettle-more-than-1100-us-rok-troops-take-e2b",
+    "publishedAt": "2026-11-23T08:29:18Z"
+  },
+  {
+    "id": "7005e677647fb82f290a8144",
+    "title": "SETAF-AF will build readiness, test capabilities for how the Army fights through connected campaign in Africa",
+    "summary": "U.S. Army Southern European Task Force, Africa (SETAF-AF) will strengthen the Army's land power network on the continent by linking its fiscal year 2027 events into a connected innovation campaign in support of U.S. Africa Command.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/580017/setaf-af-will-build-readiness-test-capabilities-army-fights-through-connected-campaign-africa",
+    "publishedAt": "2026-11-23T08:06:51Z"
+  },
+  {
+    "id": "cb0efb31951772ae21b00000",
+    "title": "3rd LSB redesignates to distribution battalion in Okinawa",
+    "summary": "U.S. Marines and Sailors with 3rd Distribution Support Battalion, 3rd Marine Logistics Group, participate in a redesignation ceremony at Camp Foster, Okinawa, Japan, Nov. 18, 2026.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/580023/3rd-lsb-redesignates-distribution-battalion-okinawa",
+    "publishedAt": "2026-11-23T06:25:22Z"
+  },
+  {
+    "id": "c0e8eb471317bc15e0cf728a",
+    "title": "USARPAC Best Medic Competition Tests Medical Readiness Across the Indo-Pacific",
+    "summary": "U.S. Army Pacific (USARPAC) hosted its annual Best Medic Competition Nov. 16-20, bringing together Soldiers from various medical specialties across multiple USARPAC units to demonstrate their physical fitness, medical proficiency and ability to perform under pressure.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/580025/usarpac-best-medic-competition-tests-medical-readiness-across-indo-pacific",
+    "publishedAt": "2026-11-23T06:21:27Z"
+  },
+  {
+    "id": "bcb70ce2a53010742e12841f",
+    "title": "CNFK Hosts 2026 Trilateral Junior Officer Exchange in Republic of Korea",
+    "summary": "Junior officers assigned to Commander, U.S. Naval Forces Korea, U.S. Marine Forces Korea, the Republic of Korea Navy, and the Japan Maritime Self-Defense Force participated in the 2026 Trilateral Junior Officer Exchange in the Republic of Korea, Nov. 12-14.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/580022/cnfk-hosts-2026-trilateral-junior-officer-exchange-republic-korea",
+    "publishedAt": "2026-11-23T05:52:54Z"
+  },
+  {
     "id": "3e4d3862d9ff4ccc11d2799d",
     "title": "National Guard, Law Enforcement Partners Honor Fallen Soldier Sgt. Sarah Beckstrom in Wreath-Laying Ceremonies",
     "summary": "Senior military and federal law enforcement leaders gathered Nov. 21, 2026, at the National Law Enforcement Officers Memorial in Washington and the Tomb of the Unknown Soldier at Arlington National Cemetery in Arlington, Virginia, for solemn wreath-laying ceremonies honoring the life and ultimate sacrifice of U.S. Army Sgt. Sarah Beckstrom.",
@@ -1546,41 +1609,5 @@
     "sourceName": "Defense News",
     "sourceUrl": "https://www.defensenews.com/global/europe/2026/11/13/us-army-names-officer-held-on-allegations-of-espionage/",
     "publishedAt": "2026-11-13T16:32:38Z"
-  },
-  {
-    "id": "5b5f595d9c340ecd4f4ae4ed",
-    "title": "Joint Forces Strengthen Aerial Sustainment Capabilities During JPMRC",
-    "summary": "Across the Indo-Pacific, the ability to deliver critical supplies and equipment to dispersed forces is essential to maintaining combat readiness. During Joint Pacific Multinational Readiness Center (JPMRC) 27-01, U.S.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/579251/joint-forces-strengthen-aerial-sustainment-capabilities-during-jpmrc",
-    "publishedAt": "2026-11-13T04:37:28Z"
-  },
-  {
-    "id": "c1ae5e4c1d2c2e92dcefdeaa",
-    "title": "T-19A Kestrel makes debut flyover at U.S. Air Force Academy",
-    "summary": "U.S. Air Force Academy cadets were treated to a historic aerial display today as the Air Force’s newest aircraft, the T-19A Kestrel, made its official public debut during a flyover of the Cadet Wing’s noon meal formation.",
-    "category": "Air Force",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/579253/t-19a-kestrel-makes-debut-flyover-us-air-force-academy",
-    "publishedAt": "2026-11-13T04:24:10Z"
-  },
-  {
-    "id": "695652166e8f0bbf1e1059af",
-    "title": "ACC-RSA celebrates Leadership Development and Readiness Program Graduates",
-    "summary": "U.S. Army Contracting Command-Redstone Arsenal recognized 21 employees who completed the Leadership Development and Readiness Program's Level II Practitioner Course during a Nov. 4, 2026 ceremony at Toftoy Hall on Redstone Arsenal, Alabama.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/579252/acc-rsa-celebrates-leadership-development-and-readiness-program-graduates",
-    "publishedAt": "2026-11-13T03:51:13Z"
-  },
-  {
-    "id": "6acbeaa2655d97548c8eda38",
-    "title": "ACC-RSA Green Platoon graduation honors 33 contracting fellows",
-    "summary": "Thirty-three contracting fellows graduated from U.S. Army Contracting Command-Redstone Arsenal’s Green Platoon program during a ceremony on Oct. 5 at Heiser Hall on Redstone Arsenal, Ala.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/579240/acc-rsa-green-platoon-graduation-honors-33-contracting-fellows",
-    "publishedAt": "2026-11-13T02:37:07Z"
   }
 ]

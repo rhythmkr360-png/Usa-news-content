@@ -1,7 +1,70 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-23T01:46:13Z",
+  "generatedAt": "2026-11-23T12:54:12Z",
   "articles": [
+    {
+      "id": "339cd462055808c6ff866fc0",
+      "title": "USACE Mobile District permitting action supports former USS Enterprise arrival and dismantling in Mobile",
+      "summary": "The U.S. Army Corps of Engineers Mobile District helped prepare for the arrival and dismantling of the former USS Enterprise (CVN 65) by reviewing and authorizing waterfront improvements at MARRS’ Yard 8 in Mobile.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579342/usace-mobile-district-permitting-action-supports-former-uss-enterprise-arrival-and-dismantling-mobile",
+      "publishedAt": "2026-11-13T22:08:35Z"
+    },
+    {
+      "id": "2ba6249673c2daea7e6d5ce0",
+      "title": "Goodfellow AFB leadership joins the community in recognizing Veterans Day",
+      "summary": "In observance of Veterans Day, 17th Training Wing leadership joined the community on Nov. 11, 2026, to honor the service, sacrifice and enduring legacy of those who raised their right hand and served the United States of America.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579339/goodfellow-afb-leadership-joins-community-recognizing-veterans-day",
+      "publishedAt": "2026-11-13T21:48:53Z"
+    },
+    {
+      "id": "4e14107226bd70590d6196d5",
+      "title": "Utah National Guard, Granite School District celebrate veterans at 71st Annual Veterans Day Concert",
+      "summary": "The Utah National Guard and Granite School District honored America’s veterans through music, student performances and recognition of military service during the 71st Annual Veterans Day Concert on Nov. 11, 2026, at the Tabernacle at Temple Square.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579336/utah-national-guard-granite-school-district-celebrate-veterans-71st-annual-veterans-day-concert",
+      "publishedAt": "2026-11-13T21:06:54Z"
+    },
+    {
+      "id": "20e31f79cac7a996bd436fa7",
+      "title": "Hancock County arts educator experiences life aboard USS Nimitz",
+      "summary": "NAVAL CONSTRUCTION BATTALION CENTER GULFPORT, Miss. – For most Americans, the opportunity to visit a U.S. Navy aircraft carrier is something they will never experience.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579337/hancock-county-arts-educator-experiences-life-aboard-uss-nimitz",
+      "publishedAt": "2026-11-13T21:03:29Z"
+    },
+    {
+      "id": "c730d4de040b53a7ee2edaf2",
+      "title": "AMCOM 101 links aviation readiness to enterprise support",
+      "summary": "The U.S. Army Aviation and Missile Command brought together Soldiers, civilians and aviation enterprise partners Nov. 4-5 at Bob Jones Auditorium for its fall AMCOM 101 Aviation Conference, a biannual forum focused on connecting unit readiness challenges with the people and resources that support Army aviation.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579333/amcom-101-links-aviation-readiness-enterprise-support",
+      "publishedAt": "2026-11-13T20:35:03Z"
+    },
+    {
+      "id": "6d684eec0f951476b992f9d5",
+      "title": "U.S. Naval War College Holds November Graduation For Students of Colleges of Naval Warfare, Naval Command & Staff",
+      "summary": "The U.S. Naval War College (NWC) graduated 29 students from its Colleges of Naval Warfare (CNW) and Naval Command & Staff (CNCS) on Friday, Nov. 13, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579331/us-naval-war-college-holds-november-graduation-students-colleges-naval-warfare-naval-command-staff",
+      "publishedAt": "2026-11-13T20:26:28Z"
+    },
+    {
+      "id": "d11ae36023f3eb76ea4ef6f1",
+      "title": "C. J. Graham Visits USS Essex (LHD 2)",
+      "summary": "SAN DIEGO (Oct. 29, 2026) Actor C. J. Graham visited Wasp-class amphibious assault ship USS Essex (LHD 2) to tour the ship and meet with U.S. Navy Sailors.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579310/c-j-graham-visits-uss-essex-lhd-2",
+      "publishedAt": "2026-11-13T19:10:52Z"
+    },
     {
       "id": "46f6b0f77352f3d4820438e8",
       "title": "National Guard Office of Special Victims' Counsel provides legal advocacy when victims need it most",
@@ -109,42 +172,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/global/europe/2026/11/13/us-army-names-officer-held-on-allegations-of-espionage/",
       "publishedAt": "2026-11-13T16:32:38Z"
-    },
-    {
-      "id": "5b5f595d9c340ecd4f4ae4ed",
-      "title": "Joint Forces Strengthen Aerial Sustainment Capabilities During JPMRC",
-      "summary": "Across the Indo-Pacific, the ability to deliver critical supplies and equipment to dispersed forces is essential to maintaining combat readiness. During Joint Pacific Multinational Readiness Center (JPMRC) 27-01, U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579251/joint-forces-strengthen-aerial-sustainment-capabilities-during-jpmrc",
-      "publishedAt": "2026-11-13T04:37:28Z"
-    },
-    {
-      "id": "c1ae5e4c1d2c2e92dcefdeaa",
-      "title": "T-19A Kestrel makes debut flyover at U.S. Air Force Academy",
-      "summary": "U.S. Air Force Academy cadets were treated to a historic aerial display today as the Air Force’s newest aircraft, the T-19A Kestrel, made its official public debut during a flyover of the Cadet Wing’s noon meal formation.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579253/t-19a-kestrel-makes-debut-flyover-us-air-force-academy",
-      "publishedAt": "2026-11-13T04:24:10Z"
-    },
-    {
-      "id": "695652166e8f0bbf1e1059af",
-      "title": "ACC-RSA celebrates Leadership Development and Readiness Program Graduates",
-      "summary": "U.S. Army Contracting Command-Redstone Arsenal recognized 21 employees who completed the Leadership Development and Readiness Program's Level II Practitioner Course during a Nov. 4, 2026 ceremony at Toftoy Hall on Redstone Arsenal, Alabama.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579252/acc-rsa-celebrates-leadership-development-and-readiness-program-graduates",
-      "publishedAt": "2026-11-13T03:51:13Z"
-    },
-    {
-      "id": "6acbeaa2655d97548c8eda38",
-      "title": "ACC-RSA Green Platoon graduation honors 33 contracting fellows",
-      "summary": "Thirty-three contracting fellows graduated from U.S. Army Contracting Command-Redstone Arsenal’s Green Platoon program during a ceremony on Oct. 5 at Heiser Hall on Redstone Arsenal, Ala.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579240/acc-rsa-green-platoon-graduation-honors-33-contracting-fellows",
-      "publishedAt": "2026-11-13T02:37:07Z"
     }
   ]
 }
