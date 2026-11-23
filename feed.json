@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-22T19:45:14Z",
+  "generatedAt": "2026-11-23T01:46:13Z",
   "articles": [
+    {
+      "id": "3e4d3862d9ff4ccc11d2799d",
+      "title": "National Guard, Law Enforcement Partners Honor Fallen Soldier Sgt. Sarah Beckstrom in Wreath-Laying Ceremonies",
+      "summary": "Senior military and federal law enforcement leaders gathered Nov. 21, 2026, at the National Law Enforcement Officers Memorial in Washington and the Tomb of the Unknown Soldier at Arlington National Cemetery in Arlington, Virginia, for solemn wreath-laying ceremonies honoring the life and ultimate sacrifice of U.S. Army Sgt. Sarah Beckstrom.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580020/national-guard-law-enforcement-partners-honor-fallen-soldier-sgt-sarah-beckstrom-wreath-laying-ceremonies",
+      "publishedAt": "2026-11-22T23:51:57Z"
+    },
+    {
+      "id": "28cb0581e131cf136ef7508e",
+      "title": "Pentagon moves to limit social activities with Canadian troops",
+      "summary": "A new directive won’t change operations with NORAD but follows similar restrictions with think tanks and academic participation. The post Pentagon moves to limit social activities with Canadian troops appeared first on Task & Purpose .",
+      "category": "Defense",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/pentagon-canada-limit-social-activities/",
+      "publishedAt": "2026-11-22T23:50:57Z"
+    },
     {
       "id": "37160ec56283a68cf53e7925",
       "title": "USACE assists with local flood fight efforts in western Washington",
@@ -343,24 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579785/dscu-and-armenian-defense-leaders-partner-advance-military-transformation-armenia",
       "publishedAt": "2026-11-19T21:57:37Z"
-    },
-    {
-      "id": "cffe26b76940d30ae11e9ba3",
-      "title": "Modernizing Mateship: Marine Corps Acquisition Leaders Strengthen Partnerships With Australia",
-      "summary": "Portfolio Acquisition Executive Marine Corps (PAE MC) officials traveled Sept. 28 to Oct. 10 to strengthen military partnerships and explore how Australia's industrial capacity could help sustain U.S. Marines operating across the Pacific theater. Led by Col.",
-      "category": "Marine Corps",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579782/modernizing-mateship-marine-corps-acquisition-leaders-strengthen-partnerships-with-australia",
-      "publishedAt": "2026-11-19T21:36:46Z"
-    },
-    {
-      "id": "fc74ba423f01d563f80ee762",
-      "title": "Navy Wants New U.S. Frigate Shipyard Paid for by Foreign Shipbuilder",
-      "summary": "WASHINGTON — The Navy wants a new foreign-owned shipyard devoted to building small surface combatants in the United States, the service’s nominee for its number two civilian told lawmakers Thursday. Pressed by Sen.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/19/navy-wants-new-u-s-frigate-shipyard-paid-for-by-foreign-shipbuilder",
-      "publishedAt": "2026-11-19T21:15:50Z"
     }
   ],
   "nextPage": "pages/page-2.json"

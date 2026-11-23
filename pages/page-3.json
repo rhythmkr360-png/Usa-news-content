@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-22T19:45:14Z",
+  "generatedAt": "2026-11-23T01:46:13Z",
   "articles": [
+    {
+      "id": "41004853a27d39bae622cffe",
+      "title": "Watchdog flags fraud, failed Pentagon audit as defense priorities",
+      "summary": "Days after the Pentagon failed its ninth consecutive audit, its oversight office ranked eliminating fraud and achieving a clean financial audit among the Defense Department’s most pressing strategic challenges.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/11/18/watchdog-flags-fraud-failed-pentagon-audit-as-defense-priorities/",
+      "publishedAt": "2026-11-18T19:40:43Z"
+    },
+    {
+      "id": "a4fac7400d57787ece793870",
+      "title": "Oregon Guard medevac crews fly over Autzen Stadium",
+      "summary": "Three Oregon Army National Guard HH-60M Black Hawk helicopters flew over Autzen Stadium at the close of the national anthem before the University of Oregon's football game against the University of Michigan in Eugene, Ore., Nov. 14, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579642/oregon-guard-medevac-crews-fly-over-autzen-stadium",
+      "publishedAt": "2026-11-18T18:48:55Z"
+    },
     {
       "id": "9040cb585033af24a9e13bf2",
       "title": "346th AEW Defenders sharpen skills to counter small unmanned aircraft",
@@ -343,24 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579465/funeral-honors-highlight-oregon-national-guard-service-community",
       "publishedAt": "2026-11-16T22:29:15Z"
-    },
-    {
-      "id": "bc65c53ac530a22b421845c9",
-      "title": "Chemical, biological threats put Nevada Civil Support Team to the test",
-      "summary": "The Nevada National Guard’s 92nd Civil Support Team passed its readiness evaluation Oct. 20-22 at the Truckee Meadows Water Reclamation Facility in Sparks, Nevada, meeting standards in every critical task and mission-essential task assessed.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579476/chemical-biological-threats-put-nevada-civil-support-team-test",
-      "publishedAt": "2026-11-16T22:26:40Z"
-    },
-    {
-      "id": "b632b201e991fef73a2c958e",
-      "title": "From couches to crew quarters: USACE Sacramento District builds aircrew readiness at Beale Air Force Base",
-      "summary": "The U.S. Army Corps of Engineers Sacramento District is constructing an $11 million Aircrew Readiness Facility at Beale Air Force Base, California, to support the 940th Air Refueling Wing. The facility will provide dedicated sleeping quarters and mission support spaces for up to 40 airmen.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579475/couches-crew-quarters-usace-sacramento-district-builds-aircrew-readiness-beale-air-force-base",
-      "publishedAt": "2026-11-16T22:26:37Z"
     }
   ],
   "nextPage": "page-4.json"

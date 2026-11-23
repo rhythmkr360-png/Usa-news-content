@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-22T19:45:14Z",
+  "generatedAt": "2026-11-23T01:46:13Z",
   "articles": [
+    {
+      "id": "cffe26b76940d30ae11e9ba3",
+      "title": "Modernizing Mateship: Marine Corps Acquisition Leaders Strengthen Partnerships With Australia",
+      "summary": "Portfolio Acquisition Executive Marine Corps (PAE MC) officials traveled Sept. 28 to Oct. 10 to strengthen military partnerships and explore how Australia's industrial capacity could help sustain U.S. Marines operating across the Pacific theater. Led by Col.",
+      "category": "Marine Corps",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579782/modernizing-mateship-marine-corps-acquisition-leaders-strengthen-partnerships-with-australia",
+      "publishedAt": "2026-11-19T21:36:46Z"
+    },
+    {
+      "id": "fc74ba423f01d563f80ee762",
+      "title": "Navy Wants New U.S. Frigate Shipyard Paid for by Foreign Shipbuilder",
+      "summary": "WASHINGTON — The Navy wants a new foreign-owned shipyard devoted to building small surface combatants in the United States, the service’s nominee for its number two civilian told lawmakers Thursday. Pressed by Sen.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/19/navy-wants-new-u-s-frigate-shipyard-paid-for-by-foreign-shipbuilder",
+      "publishedAt": "2026-11-19T21:15:50Z"
+    },
     {
       "id": "9571bdde2ebb95e64c05648c",
       "title": "U.S. Expands Iranian Blockade As Ship Attacks Continue",
@@ -343,24 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579662/fort-meade-enlisted-leader-honors-veterans-military-families-crownsville-ceremony",
       "publishedAt": "2026-11-18T20:59:15Z"
-    },
-    {
-      "id": "41004853a27d39bae622cffe",
-      "title": "Watchdog flags fraud, failed Pentagon audit as defense priorities",
-      "summary": "Days after the Pentagon failed its ninth consecutive audit, its oversight office ranked eliminating fraud and achieving a clean financial audit among the Defense Department’s most pressing strategic challenges.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/11/18/watchdog-flags-fraud-failed-pentagon-audit-as-defense-priorities/",
-      "publishedAt": "2026-11-18T19:40:43Z"
-    },
-    {
-      "id": "a4fac7400d57787ece793870",
-      "title": "Oregon Guard medevac crews fly over Autzen Stadium",
-      "summary": "Three Oregon Army National Guard HH-60M Black Hawk helicopters flew over Autzen Stadium at the close of the national anthem before the University of Oregon's football game against the University of Michigan in Eugene, Ore., Nov. 14, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579642/oregon-guard-medevac-crews-fly-over-autzen-stadium",
-      "publishedAt": "2026-11-18T18:48:55Z"
     }
   ],
   "nextPage": "page-3.json"

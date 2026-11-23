@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-22T19:45:14Z",
+  "generatedAt": "2026-11-23T01:46:13Z",
   "articles": [
+    {
+      "id": "46f6b0f77352f3d4820438e8",
+      "title": "National Guard Office of Special Victims' Counsel provides legal advocacy when victims need it most",
+      "summary": "or victims of sexual assault or domestic violence, one of the hardest questions can be what to do next. Understanding their rights, deciding whether to report and navigating unfamiliar legal processes can feel overwhelming. However, National Guard members do not have to navigate the process alone.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579309/national-guard-office-special-victims-counsel-provides-legal-advocacy-victims-need-most",
+      "publishedAt": "2026-11-13T19:09:32Z"
+    },
+    {
+      "id": "90ad881f9167f1130ed4a102",
+      "title": "USNI News Western Pacific Pulse: Nov. 13, 2026",
+      "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In Singapore The Theodore Roosevelt Carrier Strike Group departed on Sunday from Singapore.",
+      "category": "Defense",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/13/usni-news-western-pacific-pulse-nov-13-2026",
+      "publishedAt": "2026-11-13T18:56:52Z"
+    },
     {
       "id": "de48f65184e98b95c6fcda86",
       "title": "The Pentagon brings back World War II-era OSS for special operations missions, funding",
@@ -127,114 +145,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579240/acc-rsa-green-platoon-graduation-honors-33-contracting-fellows",
       "publishedAt": "2026-11-13T02:37:07Z"
-    },
-    {
-      "id": "15669a97cf196053348fa929",
-      "title": "SSN(X) Attack Boat Will be a Swift, Lethal Mothership for Undersea Drones, Navy Says",
-      "summary": "ARLINGTON, Va. — The next American nuclear attack submarine design will be faster, take less time to repair and serve as a mothership for a constellation of undersea drones, the Navy’s head of requirements for submarines said on Thursday.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/12/ssnx-attack-boat-will-be-a-swift-lethal-mothership-for-undersea-drones-navy-says",
-      "publishedAt": "2026-11-12T23:00:43Z"
-    },
-    {
-      "id": "67423c2244e0373fbd13075c",
-      "title": "Democrats push to remove US-Israel tech measure from defense bill",
-      "summary": "The measures call for enhanced cooperation between the U.S. and Israel on weapons technology development.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/congress/2026/11/12/democrats-push-to-remove-us-israel-tech-measure-from-defense-bill/",
-      "publishedAt": "2026-11-12T22:21:53Z"
-    },
-    {
-      "id": "2a06156f761d71b73915706e",
-      "title": "Washington Artillery marks 188 years at annual Pass in Review",
-      "summary": "NEW ORLEANS – The Louisiana National Guard’s 1st Battalion, 141st Field Artillery Regiment, Washington Artillery, commemorated 188 years of service during its annual Pass in Review ceremony in New Orleans, Nov. 8.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579233/washington-artillery-marks-188-years-annual-pass-review",
-      "publishedAt": "2026-11-12T21:46:57Z"
-    },
-    {
-      "id": "7dd21a3571d07e70e9d54f46",
-      "title": "U.S. Transfers Unmanned Surface Vessels to Philippine Marine Corps",
-      "summary": "The Philippine Marine Corps received two American-made unmanned surface vessels last week at Subic Bay as part of Washington’s efforts to bolster Manila’s asymmetric capabilities in the South China Sea and Luzon Strait. On Nov. 4, two Maritime Tactical Systems T38 Devil Ray USVs were transferred to the Philippine Marine Corps at Subic Bay.",
-      "category": "Marine Corps",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/12/u-s-transfers-unmanned-surface-vessels-to-philippine-marine-corps",
-      "publishedAt": "2026-11-12T21:24:58Z"
-    },
-    {
-      "id": "3ae1f49eeda6a75dde967d34",
-      "title": "Pentagon ‘greenlit’ permanent presence of US troops in Poland, official says",
-      "summary": "The Pentagon “greenlit” the permanent presence of U.S. troops in Poland, with the final decision to be made by the White House in early December, Poland's defense minister said.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/global/europe/2026/11/12/pentagon-greenlit-permanent-presence-of-us-troops-in-poland-official-says/",
-      "publishedAt": "2026-11-12T21:22:17Z"
-    },
-    {
-      "id": "fb3eb0547d521517b3cac2ce",
-      "title": "USS Michael Murphy Returns to Pearl Harbor Following an 11-Month Combat Deployment",
-      "summary": "PEARL HARBOR, Hawaii — Arleigh Burke-class guided-missile destroyer USS Michael Murphy (DDG 112), with embarked Helicopter Maritime Strike Squadron (HSM) 71 Detachment 2, returned to its homeport of Joint Base Pearl Harbor-Hickam, Hawaii following an 11-month deployment to the U.S.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579226/uss-michael-murphy-returns-pearl-harbor-following-11-month-combat-deployment",
-      "publishedAt": "2026-11-12T20:39:18Z"
-    },
-    {
-      "id": "58749b7d56d0e70643ea8254",
-      "title": "Atkinson joins Drill Sergeant Academy as 34th commandant",
-      "summary": "“This is an important occasion for the U.S. Army Drill Sergeant Academy and Fort Jackson,” said Brig. Gen. Jeremy Wilson, Fort Jackson commander. “A change in commandant represents more than a change in leadership.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579227/atkinson-joins-drill-sergeant-academy-34th-commandant",
-      "publishedAt": "2026-11-12T20:36:32Z"
-    },
-    {
-      "id": "ea353827b1128e8cce3e2225",
-      "title": "Facility technology medical program ends sunsets",
-      "summary": "For more than 10 years, the FTI-MED program provided technical expertise in the design, development, procurement, integration, installation, and project management oversight for the implementation of Facility Communications Distribution Systems (FCDS) for the Department of Defense medical community.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579223/facility-technology-medical-program-ends-sunsets",
-      "publishedAt": "2026-11-12T20:14:00Z"
-    },
-    {
-      "id": "cb5721241e642216906aeb67",
-      "title": "Giant salvinia discovered on Millwood Lake",
-      "summary": "The U.S. Army Corps of Engineers is alerting Millwood Lake visitors that giant salvinia, an invasive aquatic plant, was discovered in the lake in late October 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579221/giant-salvinia-discovered-millwood-lake",
-      "publishedAt": "2026-11-12T20:00:46Z"
-    },
-    {
-      "id": "ee1c123e21bf3739307c45d4",
-      "title": "Ayala takes command of VX-30 ‘Bloodhounds’",
-      "summary": "U.S. Navy Cmdr. J. Anderson Ayala took command of the “Bloodhounds” of Air Test and Evaluation Squadron (VX) 30 from Capt. Barry Carmody during a Nov. 10 ceremony at Point Mugu.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579213/ayala-takes-command-vx-30-bloodhounds",
-      "publishedAt": "2026-11-12T19:55:22Z"
-    },
-    {
-      "id": "8db36328717303ddb398656e",
-      "title": "Cleveland Harbor Fall Dredging Completed in Just Over Two Weeks; Completes $11.7M Annual Operation",
-      "summary": "The U.S. Army Corps of Engineers, Buffalo District, completed fall dredging of Cleveland Harbor in just over two weeks, ensuring safe and navigable waterways for Great Lakes commercial vessels, recreational boaters and other harbor users on Lake Erie.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579219/cleveland-harbor-fall-dredging-completed-just-over-two-weeks-completes-117m-annual-operation",
-      "publishedAt": "2026-11-12T19:54:43Z"
-    },
-    {
-      "id": "99551cb39ca864a695d21a3d",
-      "title": "103-year-old D-Day vet receives French Legion of Honor Medal",
-      "summary": "The French government bestowed its highest medals for honor to a 103-year-old World War II veteran during a ceremony held at the U.S. Army Institute for Religious Leadership, Nov. 10.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579216/103-year-old-d-day-vet-receives-french-legion-honor-medal",
-      "publishedAt": "2026-11-12T19:53:37Z"
     }
   ]
 }
