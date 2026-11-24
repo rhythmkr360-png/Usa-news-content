@@ -1,5 +1,104 @@
 [
   {
+    "id": "6a249f50ab8ea889083b1212",
+    "title": "419th FSS Commander Shares Meaning of Veterans Day with Local Third-Graders",
+    "summary": "Third-grade students at Municipal Elementary School received a firsthand lesson on military service and history on Veterans Day, Nov. 11, when U.S. Air Force Maj. Andrew Olsen, commander of the 419th Force Support Squadron at Hill Air Force Base, visited their classrooms to speak about the holiday.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/580127/419th-fss-commander-shares-meaning-veterans-day-with-local-third-graders",
+    "publishedAt": "2026-11-24T02:08:56Z"
+  },
+  {
+    "id": "f818ec81984394aaf8eb3da9",
+    "title": "515th AMOW Airmen connect with Radford students",
+    "summary": "515th Air Mobility Operations Wing participated in a career day at Radford High School, sharing their experiences in aviation and aircraft maintenance while highlighting career opportunities in the U.S. Air Force.",
+    "category": "Air Force",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/580126/515th-amow-airmen-connect-with-radford-students",
+    "publishedAt": "2026-11-24T02:00:50Z"
+  },
+  {
+    "id": "16d7083da573acf8df1e2611",
+    "title": "403rd AFSB hosts community kimchi making event",
+    "summary": "More than 40 Soldiers, KATUSA Soldiers, civilian employees and family members from the 403rd AFSB, 19th ESC, 168th MMB, and USAG-Daegu participated in the kimjang event at the U.S. Army Garrison-Daegu Chapel Annex, Nov. 18. Kimjang is the traditional Korean practice of making and sharing large batches of kimchi in late autumn or early winter.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/580125/403rd-afsb-hosts-community-kimchi-making-event",
+    "publishedAt": "2026-11-24T00:59:02Z"
+  },
+  {
+    "id": "cc661b9b3df7c845ebf9ba74",
+    "title": "3rd MLG conducts tsunami evacuation drill alongside Urasoe City officials",
+    "summary": "U.S. Marine Corps Col. Robert Gerbracht, commanding officer of Combat Logistics Regiment 37, 3rd Marine Logistics Group, and base commander of Camp Kinser, guides Urasoe City Mayor Tetsuji Matsumoto and other city officials through the installation during a tsunami evacuation drill at Camp Kinser, Okinawa, Japan, Nov. 19, 2026.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/580123/3rd-mlg-conducts-tsunami-evacuation-drill-alongside-urasoe-city-officials",
+    "publishedAt": "2026-11-23T23:58:41Z"
+  },
+  {
+    "id": "7211442d2d9d39b2f4840e01",
+    "title": "MSCoE, Fort Leonard Wood welcomes new commanding general",
+    "summary": "Brig. Gen. Daniel Hibner assumed command of the U.S. Army Maneuver Support Center of Excellence and Fort Leonard Wood Nov. 23, 2026, in a ceremony on MSCoE Plaza.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/580118/mscoe-fort-leonard-wood-welcomes-new-commanding-general",
+    "publishedAt": "2026-11-23T22:26:40Z"
+  },
+  {
+    "id": "34573a63c509373d2bc465fd",
+    "title": "Serving the one beside you: Tooele depot commander reflects on sacrifice and faith",
+    "summary": "At a Veterans Day event in Tooele, Utah, Col. Ben Fortune, Commander, Tooele Army Depot, illustrates the service and sacrifice made by veterans of the U.S.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/580116/serving-one-beside-you-tooele-depot-commander-reflects-sacrifice-and-faith",
+    "publishedAt": "2026-11-23T22:25:23Z"
+  },
+  {
+    "id": "12c4bc161e36433fe1b12099",
+    "title": "Oregon Guard Physician Assistant Adds L-Sit Chin-Up World Record to His Collection",
+    "summary": "Maj. Tommy Vu, a physician assistant with the Oregon Army National Guard Medical Command, completed 425 L-sit chin-ups in one hour on Nov. 21, 2026, at Keizer Physiq in Keizer, Oregon. That beat the previous Guinness World Records mark of 371.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/580108/oregon-guard-physician-assistant-adds-l-sit-chin-up-world-record-his-collection",
+    "publishedAt": "2026-11-23T20:52:12Z"
+  },
+  {
+    "id": "3e08f2b3b34ed3f1ceacef53",
+    "title": "Hawaiʻi National Guard Completes Months-Long Tropical Cyclone Lala Recovery",
+    "summary": "The Hawaiʻi National Guard (HING) concluded its support to Tropical Cyclone Lala recovery operations Oct. 30, 2026, marking the completion of a multi-month disaster response that brought soldiers and airmen together with state and county agencies to assist storm-affected communities across Hawaiʻi.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/580107/hawaii-national-guard-completes-months-long-tropical-cyclone-lala-recovery",
+    "publishedAt": "2026-11-23T20:50:09Z"
+  },
+  {
+    "id": "70448e394023d283ed6bf107",
+    "title": "USNI News Fleet and Marine Tracker: Nov. 23, 2026",
+    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 23, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.",
+    "category": "Navy",
+    "sourceName": "USNI News",
+    "sourceUrl": "https://news.usni.org/2026/11/23/usni-news-fleet-and-marine-tracker-nov-23-2026",
+    "publishedAt": "2026-11-23T19:39:32Z"
+  },
+  {
+    "id": "dbdc03978e6bcc4a18e0e10d",
+    "title": "U.S. Commits $2B Defense Loan for Philippine Military, Luzon Strait Development",
+    "summary": "MANILA, Philippines — The U.S. pledged to grant a $2 billion foreign military financing loan package for Manila’s military modernization efforts and the development of an airport in the Luzon Strait.",
+    "category": "Defense",
+    "sourceName": "USNI News",
+    "sourceUrl": "https://news.usni.org/2026/11/23/u-s-commits-2b-defense-loan-for-philippine-military-luzon-strait-development",
+    "publishedAt": "2026-11-23T15:29:41Z"
+  },
+  {
+    "id": "5c759f38fdf5cac9bcd0efdf",
+    "title": "Acting Navy Secretary Hung Cao heads to the Hill and the Pentagon fails an audit | Headlines",
+    "summary": "The acting secretary of the Navy faced tough questions from Senators during his confirmation hearing, while the Pentagon must target fraud following an internal report.",
+    "category": "Navy",
+    "sourceName": "Defense News",
+    "sourceUrl": "https://www.defensenews.com/video/2026/11/23/acting-navy-secretary-hung-cao-heads-to-the-hill-and-the-pentagon-fails-an-audit-headlines/",
+    "publishedAt": "2026-11-23T14:14:00Z"
+  },
+  {
     "id": "4c1a738b8cdf11fe9ca77121",
     "title": "Learning from the industry: Europe District holds Design-Build Bootcamp for its employees",
     "summary": "In its journey to update business processes and improve efficiency, the U.S. Army Corps of Engineers, Europe District held a Design-Build Bootcamp from Oct. 27 to 29 on U.S. Army Garrison Wiesbaden.",
@@ -1411,203 +1510,5 @@
     "sourceName": "DVIDS U.S. Military News",
     "sourceUrl": "https://www.dvidshub.net/news/579361/japan-us-participate-annual-joint-senior-leader-seminar",
     "publishedAt": "2026-11-14T07:09:21Z"
-  },
-  {
-    "id": "178001e9e41b8654c3b4ff13",
-    "title": "1st Armored Division Artillery holds first ever Bombard Challenge",
-    "summary": "1st Armored Division Artillery's commander U.S. Army Col. Samuel Nirenberg speaks on his unit's new Bombard Challenge, first held Oct. 21-22, 2026.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/579351/1st-armored-division-artillery-holds-first-ever-bombard-challenge",
-    "publishedAt": "2026-11-13T23:54:13Z"
-  },
-  {
-    "id": "3f669b5f9814f4597163fbce",
-    "title": "Army honors Big Red One WWI Soldier with Posthumous Silver Star, Purple Heart",
-    "summary": "U.S. Army leaders, family members and community guests gathered at Fort Hamilton, New York, Nov. 10 to posthumously present the Silver Star and Purple Heart to Pvt. Isidor Olian, a World War I Soldier with Company K, 18th Infantry Regiment, 1st Infantry Division. Col. Ian J. Lauer, deputy commanding officer for support, 1st Inf.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/579347/army-honors-big-red-one-wwi-soldier-with-posthumous-silver-star-purple-heart",
-    "publishedAt": "2026-11-13T23:32:38Z"
-  },
-  {
-    "id": "1d4cb905f2b685471189a4c0",
-    "title": "The New Six Frigates",
-    "summary": "PARIS — Tucked in a dark corner of a convention center in the French suburbs, a British company could hold the next design for America’s newest warship. A model of the Type-31 Arrowhead sailed on a display table at the Babcock International booth at Euronaval 2026 last week. It was one of a half a dozen contenders for the U.S.",
-    "category": "Defense",
-    "sourceName": "USNI News",
-    "sourceUrl": "https://news.usni.org/2026/11/13/the-new-six-frigates",
-    "publishedAt": "2026-11-13T22:41:48Z"
-  },
-  {
-    "id": "339cd462055808c6ff866fc0",
-    "title": "USACE Mobile District permitting action supports former USS Enterprise arrival and dismantling in Mobile",
-    "summary": "The U.S. Army Corps of Engineers Mobile District helped prepare for the arrival and dismantling of the former USS Enterprise (CVN 65) by reviewing and authorizing waterfront improvements at MARRS’ Yard 8 in Mobile.",
-    "category": "Navy",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/579342/usace-mobile-district-permitting-action-supports-former-uss-enterprise-arrival-and-dismantling-mobile",
-    "publishedAt": "2026-11-13T22:08:35Z"
-  },
-  {
-    "id": "2ba6249673c2daea7e6d5ce0",
-    "title": "Goodfellow AFB leadership joins the community in recognizing Veterans Day",
-    "summary": "In observance of Veterans Day, 17th Training Wing leadership joined the community on Nov. 11, 2026, to honor the service, sacrifice and enduring legacy of those who raised their right hand and served the United States of America.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/579339/goodfellow-afb-leadership-joins-community-recognizing-veterans-day",
-    "publishedAt": "2026-11-13T21:48:53Z"
-  },
-  {
-    "id": "4e14107226bd70590d6196d5",
-    "title": "Utah National Guard, Granite School District celebrate veterans at 71st Annual Veterans Day Concert",
-    "summary": "The Utah National Guard and Granite School District honored America’s veterans through music, student performances and recognition of military service during the 71st Annual Veterans Day Concert on Nov. 11, 2026, at the Tabernacle at Temple Square.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/579336/utah-national-guard-granite-school-district-celebrate-veterans-71st-annual-veterans-day-concert",
-    "publishedAt": "2026-11-13T21:06:54Z"
-  },
-  {
-    "id": "20e31f79cac7a996bd436fa7",
-    "title": "Hancock County arts educator experiences life aboard USS Nimitz",
-    "summary": "NAVAL CONSTRUCTION BATTALION CENTER GULFPORT, Miss. – For most Americans, the opportunity to visit a U.S. Navy aircraft carrier is something they will never experience.",
-    "category": "Navy",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/579337/hancock-county-arts-educator-experiences-life-aboard-uss-nimitz",
-    "publishedAt": "2026-11-13T21:03:29Z"
-  },
-  {
-    "id": "c730d4de040b53a7ee2edaf2",
-    "title": "AMCOM 101 links aviation readiness to enterprise support",
-    "summary": "The U.S. Army Aviation and Missile Command brought together Soldiers, civilians and aviation enterprise partners Nov. 4-5 at Bob Jones Auditorium for its fall AMCOM 101 Aviation Conference, a biannual forum focused on connecting unit readiness challenges with the people and resources that support Army aviation.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/579333/amcom-101-links-aviation-readiness-enterprise-support",
-    "publishedAt": "2026-11-13T20:35:03Z"
-  },
-  {
-    "id": "6d684eec0f951476b992f9d5",
-    "title": "U.S. Naval War College Holds November Graduation For Students of Colleges of Naval Warfare, Naval Command & Staff",
-    "summary": "The U.S. Naval War College (NWC) graduated 29 students from its Colleges of Naval Warfare (CNW) and Naval Command & Staff (CNCS) on Friday, Nov. 13, 2026.",
-    "category": "Navy",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/579331/us-naval-war-college-holds-november-graduation-students-colleges-naval-warfare-naval-command-staff",
-    "publishedAt": "2026-11-13T20:26:28Z"
-  },
-  {
-    "id": "d11ae36023f3eb76ea4ef6f1",
-    "title": "C. J. Graham Visits USS Essex (LHD 2)",
-    "summary": "SAN DIEGO (Oct. 29, 2026) Actor C. J. Graham visited Wasp-class amphibious assault ship USS Essex (LHD 2) to tour the ship and meet with U.S. Navy Sailors.",
-    "category": "Navy",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/579310/c-j-graham-visits-uss-essex-lhd-2",
-    "publishedAt": "2026-11-13T19:10:52Z"
-  },
-  {
-    "id": "46f6b0f77352f3d4820438e8",
-    "title": "National Guard Office of Special Victims' Counsel provides legal advocacy when victims need it most",
-    "summary": "or victims of sexual assault or domestic violence, one of the hardest questions can be what to do next. Understanding their rights, deciding whether to report and navigating unfamiliar legal processes can feel overwhelming. However, National Guard members do not have to navigate the process alone.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/579309/national-guard-office-special-victims-counsel-provides-legal-advocacy-victims-need-most",
-    "publishedAt": "2026-11-13T19:09:32Z"
-  },
-  {
-    "id": "90ad881f9167f1130ed4a102",
-    "title": "USNI News Western Pacific Pulse: Nov. 13, 2026",
-    "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In Singapore The Theodore Roosevelt Carrier Strike Group departed on Sunday from Singapore.",
-    "category": "Defense",
-    "sourceName": "USNI News",
-    "sourceUrl": "https://news.usni.org/2026/11/13/usni-news-western-pacific-pulse-nov-13-2026",
-    "publishedAt": "2026-11-13T18:56:52Z"
-  },
-  {
-    "id": "de48f65184e98b95c6fcda86",
-    "title": "The Pentagon brings back World War II-era OSS for special operations missions, funding",
-    "summary": "The plan could improve civilian oversight of special operations and make more room at the budget bargaining table, but much of it will require congressional approval. The post The Pentagon brings back World War II-era OSS for special operations missions, funding appeared first on Task & Purpose .",
-    "category": "Defense",
-    "sourceName": "Task & Purpose",
-    "sourceUrl": "https://taskandpurpose.com/news/hegseth-oss-special-operations/",
-    "publishedAt": "2026-11-13T18:51:27Z"
-  },
-  {
-    "id": "967a6c54de84ded4daa66588",
-    "title": "US Air Force adopts new Force Design focusing on sensors and autonomy",
-    "summary": "The Air Force's new Force Design 2026 outlines a shift toward artificial intelligence, autonomy and integrated sensors to counter emerging threats.",
-    "category": "Air Force",
-    "sourceName": "Defense News",
-    "sourceUrl": "https://www.defensenews.com/air/2026/11/13/us-air-force-adopts-new-force-design-focusing-on-sensors-and-autonomy/",
-    "publishedAt": "2026-11-13T18:43:45Z"
-  },
-  {
-    "id": "519bb05d9faddae77ec696d4",
-    "title": "New Hampshire National Guard breaks ground on new Plymouth Readiness Center",
-    "summary": "The New Hampshire Army National Guard broke ground Nov. 12 on the Plymouth Readiness Center, beginning a $31 million project to replace the community’s 1957 armory with a modern, secure facility built for current and future missions.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/579307/new-hampshire-national-guard-breaks-ground-new-plymouth-readiness-center",
-    "publishedAt": "2026-11-13T18:20:50Z"
-  },
-  {
-    "id": "204fd1240237516a8dc99703",
-    "title": "Air Force Band ensembles honor veterans across the nation",
-    "summary": "The U.S. Air Force Band's Ceremonial Brass performed live at NBC's TODAY Show plaza, Nov. 11, 2026, anchoring a series of nationwide performances honoring America’s veterans through music.",
-    "category": "Air Force",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/579305/air-force-band-ensembles-honor-veterans-across-nation",
-    "publishedAt": "2026-11-13T18:00:48Z"
-  },
-  {
-    "id": "517ed16a0c1dcfaf2f0260c1",
-    "title": "Judges close part of ICC Afghanistan investigations that could look at US troops",
-    "summary": "The International Criminal Court will close investigations into Afghanistan that previously looked at alleged crimes by U.S. troops and focus only on actions of the Taliban.",
-    "category": "Defense",
-    "sourceName": "Defense News",
-    "sourceUrl": "https://www.defensenews.com/global/mideast-africa/2026/11/13/judges-close-part-of-icc-afghanistan-investigations-that-could-look-at-us-troops/",
-    "publishedAt": "2026-11-13T17:55:28Z"
-  },
-  {
-    "id": "b743b199fca752ba8e1e720a",
-    "title": "WHY I Serve: Soldier’s Determination Leads Her to Army Service at 41",
-    "summary": "At 41, many people have settled into established careers and routines. Pfc. Olivia Kabre, a nutrition care specialist at Landstuhl Regional Medical Center, chose a different path: She enlisted in the U.S. Army and completed basic combat training, pursuing a goal she had held for years.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/579298/why-serve-soldiers-determination-leads-her-army-service-41",
-    "publishedAt": "2026-11-13T17:39:36Z"
-  },
-  {
-    "id": "227bddeee7b3e3d5e9539bfa",
-    "title": "Oregon Guard Soldiers bring Army fitness, Veterans Day lesson to Salem middle school",
-    "summary": "Three Oregon Army National Guard Soldiers spent the day before Veterans Day at Crossler Middle School, leading students through Army-style physical training and talking with them about the veterans in their own families.",
-    "category": "Army",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/579300/oregon-guard-soldiers-bring-army-fitness-veterans-day-lesson-salem-middle-school",
-    "publishedAt": "2026-11-13T17:19:05Z"
-  },
-  {
-    "id": "0e8986d2a106dea0fd094617",
-    "title": "WRAIR-AFRIMS protects force health at Super Garuda Shield 2026",
-    "summary": "The Walter Reed Army Institute of Research – Armed Forces Research Institute of Medical Sciences, in partnership with the Australian Defence Force Malaria and Infectious Diseases Institute, conducted real-time infectious disease surveillance in support of Super Garuda Shield 2026.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/579297/wrair-afrims-protects-force-health-super-garuda-shield-2026",
-    "publishedAt": "2026-11-13T17:12:24Z"
-  },
-  {
-    "id": "07b0d4bcc9c4f5b3e44c9722",
-    "title": "Pentagon rebrands principle AI shop as ‘Super Intelligence Office’",
-    "summary": "The redesignation follows President Donald Trump’s push to replace references to artificial intelligence with “super intelligence” across the federal government.",
-    "category": "Defense",
-    "sourceName": "Breaking Defense",
-    "sourceUrl": "https://breakingdefense.com/2026/11/pentagon-rebrands-principle-ai-shop-as-super-intelligence-office/",
-    "publishedAt": "2026-11-13T17:00:00Z"
-  },
-  {
-    "id": "de7fdef47f527f35fcbaabf3",
-    "title": "US Army names officer held on ‘allegations of espionage’",
-    "summary": "Lt. Col. Brandon Carroll Tyner has been identified as the U.S. soldier arrested earlier this week in the UK for reportedly assisting Russian intelligence.",
-    "category": "Army",
-    "sourceName": "Defense News",
-    "sourceUrl": "https://www.defensenews.com/global/europe/2026/11/13/us-army-names-officer-held-on-allegations-of-espionage/",
-    "publishedAt": "2026-11-13T16:32:38Z"
   }
 ]

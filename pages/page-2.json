@@ -1,7 +1,106 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-23T12:54:12Z",
+  "generatedAt": "2026-11-24T02:14:51Z",
   "articles": [
+    {
+      "id": "0439ac07831c94c5a4991056",
+      "title": "U.S. Army Recruiting Battalion Celebrates Key Milestones: Two Noncommissioned Officers Promoted to Staff Sergeant, Recruiter Ring Awarded",
+      "summary": "The Oklahoma City Recruiting Battalion proudly recognized the leadership, dedication, and professional excellence of two local Noncommissioned Officers during a promotion ceremony honoring Staff Sgt. Ryan Markowski and Staff Sgt. Andrea MesaHernandez, both advancing from the rank of Sergeant to Staff Sergeant.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579976/us-army-recruiting-battalion-celebrates-key-milestones-two-noncommissioned-officers-promoted-staff-sergeant-recruiter-ring-awarded",
+      "publishedAt": "2026-11-20T19:20:51Z"
+    },
+    {
+      "id": "290cabd19f339ee182e2a609",
+      "title": "Green Mountain Chapter of Air & Space Forces Association Pauses Operations After Decades of Service",
+      "summary": "After decades of advocating for American airpower, supporting military members and strengthening connections between Vermont’s military and civilian communities, the Green Mountain Chapter of the Air & Space Forces Association (AFA) gathered Nov.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579975/green-mountain-chapter-air-space-forces-association-pauses-operations-after-decades-service",
+      "publishedAt": "2026-11-20T19:12:56Z"
+    },
+    {
+      "id": "46558099cbcba328933fe3ff",
+      "title": "Pentagon CIO Davies tapped as acting National Cyber Director",
+      "summary": "Kirsten Davies is taking over the role for Sean Cairncross at the White House.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/pentagon-cio-davies-tapped-as-acting-national-cyber-director/",
+      "publishedAt": "2026-11-20T16:31:00Z"
+    },
+    {
+      "id": "97257b562f7c535dcbf00b85",
+      "title": "CBO Analysis of the Navy’s Fiscal Year 2027 Shipbuilding Plan",
+      "summary": "The following is the Congressional Budget Office’s Analysis of the Navy’s Fiscal Year 2027 Shipbuilding Plan, released Nov. 19, 2026. From the Report Summary Each year, as directed by the Congress, the Department of Defense submits a report with the President’s budget describing the Navy’s plan for its future fleet for the next 30 years.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/20/cbo-analysis-of-the-navys-fiscal-year-2027-shipbuilding-plan",
+      "publishedAt": "2026-11-20T16:09:36Z"
+    },
+    {
+      "id": "a8aae706eec9193e108a3a69",
+      "title": "U.S., Philippine Marines Set Up Surveillance Radar in Palawan",
+      "summary": "MANILA, Philippines — U.S. and Philippine Marines set up coastal surveillance radar on a beach facing the South China Sea during a maritime strike targeting drill earlier this month.",
+      "category": "Marine Corps",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/20/u-s-philippine-marines-set-up-surveillance-radar-in-palawan",
+      "publishedAt": "2026-11-20T15:12:10Z"
+    },
+    {
+      "id": "886a5486c576775ee08b82e0",
+      "title": "U.S. Ambassador Visits USS George Washington",
+      "summary": "U.S. Ambassador to the Republic of India, Mr. Sergio Gor, along with distinguished guests from multiple countries embarked aboard the Nimitz-class aircraft carrier USS George Washington (CVN 73) via CMV-22 Osprey aircraft on Nov. 20, 2026, while the ship operated in the U.S. 7th Fleet area of operations.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579822/us-ambassador-visits-uss-george-washington",
+      "publishedAt": "2026-11-20T11:05:44Z"
+    },
+    {
+      "id": "13535fab50a0d2fe9028a25a",
+      "title": "USAREUR-AF Senior Leaders Synch Priorities, Chart Path Forward",
+      "summary": "Senior leaders from across U.S. Army Europe and Africa gathered at the Edelweiss Lodge and Resort, Nov. 9-10, for the USAREUR-AF Senior Leaders Conference to assess progress, synchronize priorities and strengthen the command’s ability to respond to an evolving security environment.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579819/usareur-af-senior-leaders-synch-priorities-chart-path-forward",
+      "publishedAt": "2026-11-20T09:18:54Z"
+    },
+    {
+      "id": "34b07db58bf93e7878c63a7d",
+      "title": "Retired Army colonel receives Bronze Star Medal with valor nearly 37 years after Operation Just Cause",
+      "summary": "Retired U.S. Army Col. Robert Gaddis received the Bronze Star Medal with “V” device during a ceremony at Special Operations Command South (SOCSOUTH) on Nov. 19, 2026, nearly 37 years after his heroic actions during Operation Just Cause in Panama. U.S. Navy Rear Adm.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579818/retired-army-colonel-receives-bronze-star-medal-with-valor-nearly-37-years-after-operation-just-cause",
+      "publishedAt": "2026-11-20T08:32:26Z"
+    },
+    {
+      "id": "fc810e80e22bf4bd09ae7b69",
+      "title": "Pride of the Pack: Senior Airman Marquis Martin",
+      "summary": "U.S. Air Force Senior Airman Marquis Martin, 8th Logistics Readiness Squadron decentralized materiel support journeyman and Augusta, Georgia native, was recognized as the 8th Fighter Wing’s Pride of the Pack for the week of Nov. 16-20, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579814/pride-pack-senior-airman-marquis-martin",
+      "publishedAt": "2026-11-20T06:47:57Z"
+    },
+    {
+      "id": "2a03be008b2859adc8e3fde5",
+      "title": "Mustang of the Week: Staff Sgt. Keven Gomescoello",
+      "summary": "U.S. Air Force Staff Sgt. Keven Gomescoello, 51st Operations Support Squadron aircrew flight equipment continuation training lead instructor, was recognized as Mustang of the Week at Osan Air Base, Republic of Korea, for his initiative, leadership and dedication to developing his fellow Airmen Nov. 13, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579812/mustang-week-staff-sgt-keven-gomescoello",
+      "publishedAt": "2026-11-20T06:12:22Z"
+    },
+    {
+      "id": "99c48bb217a8297a2b1e3498",
+      "title": "Hollywood Marine: reflects on 24 years of epic service and next phase of gung-ho",
+      "summary": "U.S. Marine Corps Lt. Col. Phillip J. Peacock, with III Marine Expeditionary Force, reflects on his 24-year military career, from his decision to leave the U.S. Air Force Academy and enlist in the Marine Corps following the Sept.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579810/hollywood-marine-reflects-24-years-epic-service-and-next-phase-gung-ho",
+      "publishedAt": "2026-11-20T03:10:38Z"
+    },
     {
       "id": "f58a1b5bc91ab2c15a8957f3",
       "title": "Utah National Guard welcomes new senior enlisted leader as CSM Spencer Nielsen retires after 33 years of service",
@@ -262,105 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579695/uss-blue-ridge-changes-command",
       "publishedAt": "2026-11-19T05:44:36Z"
-    },
-    {
-      "id": "048bad3d8b1b6f5311e18c3d",
-      "title": "U.S. Army Soldiers assigned to the 2-11 Field Artillery Regiment, 25th Infantry Division Artillery Brigade, 25th Infantry Division and U.S. Air Force Airmen with the 15th Wing execute a High Mobility Artillery Rocket Sys",
-      "summary": "U.S. Army Soldiers assigned to the 2-11 Field Artillery Regiment, 25th Infantry Division Artillery Brigade, 25th Infantry Division and U.S. Air Force Airmen with the 15th Wing execute a High Mobility Artillery Rocket System (HIMARS) Rapid Infiltration (HIRAIN) dr The Killeen Daily Herald",
-      "category": "Air Force",
-      "sourceName": "The Killeen Daily Herald",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUktyYjRHZlNxcHBkNk9MbnR3UlNjU2l0VHd5ZVg5RXE2bmNMQTJocTJJVjR1NmJ5ZlhRNF9nNlRSVk82V2tuWnE1NGxlN0c0ZWNnR1BmSnFlU3JxQlZGMEtDaHQxMmZGSVpRRWZET3JMZ2xFM3k1dWxLb0RXN2Z1eGlLUUlaaDV1MnM3d1RpR2pRVW9pdjlYdHNLel9jcDJTN09DQ0xKVDBwUk5tY3FCS05fQlRKcmhkNndackxJREtPS2hZeW1fVkRsZ0paSC1JMzFTb3dWNWo1QzN4eU9saUZKc1VBYkk5Y3c?oc=5",
-      "publishedAt": "2026-11-19T03:08:00Z"
-    },
-    {
-      "id": "e0902fcc2252f9363c45b598",
-      "title": "U.S. Navy and Coast Guard Divers Restore Critical Aids to Navigation in Mariana Islands",
-      "summary": "SANTA RITA, Guam – U.S. Navy divers assigned to Commander, Task Group (CTG) 73.6, operating under Commander, Task Force (CTF) 73, partnered with U.S. Coast Guard divers to reposition and service critical aids to navigation near Guam, Saipan and Tinian, ensuring safe maritime access following storm-related damage.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579691/us-navy-and-coast-guard-divers-restore-critical-aids-navigation-mariana-islands",
-      "publishedAt": "2026-11-19T02:56:16Z"
-    },
-    {
-      "id": "ade0e3814823d212a8b78d65",
-      "title": "White House: US eyes $2B in military financing for PH, SCS deterrence MANILA – The United States plans to provide the Philippines with USD2 billion in foreign military financing (FMF), with USD400 million earmarked to st",
-      "summary": "White House: US eyes $2B in military financing for PH, SCS deterrence MANILA – The United States plans to provide the Philippines with USD2 billion in foreign military financing (FMF), with USD400 million earmarked to strengthen the country's operational r Facebook",
-      "category": "Defense",
-      "sourceName": "Facebook",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYXRmb3J0S3ZPYUxNNWhrU3RGLTloYTMxTHpUMHByR3VqS2treF9yMWdmN0lFV2RyeDZzMzhnTnNkd1MwdVdfM3FyUEQweS12czVwOThZZjFCS0F4aWpNQnFGNmJtMGxiYl8wazdDRngzVzF4ajZuNThXREtPelNvM0d2VThFWnFzSUZEMW1vRVc3OC1FV25DQkQxSmtRLXVwYUdETTJ3ZGtNay1xVVEyM21ULTdRZmQwTFdTeElrT1pEcDFFQ3pXcE5aTTFPZXBUVXBOVA?oc=5",
-      "publishedAt": "2026-11-19T02:24:15Z"
-    },
-    {
-      "id": "7ef4c2e1a7ecc42ec9d4fa8c",
-      "title": "USS Charlotte (SSN 776) Holds Change of Command",
-      "summary": "Los Angeles-class fast-attack submarine USS Charlotte (SSN 766) held a change of command aboard Charlotte at Joint Base Pearl Harbor-Hickam, Nov. 13, 2026. U.S. Navy Cmdr. John Coleman III relieved Capt. Thomas Futch as commanding officer of Charlotte.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579689/uss-charlotte-ssn-776-holds-change-command",
-      "publishedAt": "2026-11-19T01:19:44Z"
-    },
-    {
-      "id": "91a66b4155866d308c2aa62b",
-      "title": "Oregon Army National Guard helps sponsor Millsap Racing for 2027",
-      "summary": "The Oregon Army National Guard Race Car will return for a second season in 2027.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579687/oregon-army-national-guard-helps-sponsor-millsap-racing-2027",
-      "publishedAt": "2026-11-19T00:47:56Z"
-    },
-    {
-      "id": "9fed54544c9af398a279a302",
-      "title": "143rd ESC soldiers participate in Great American Teach-In",
-      "summary": "Soldiers from the 143rd ESC participate in Orange County Public Schools' annual Great American Teach-In, November 18, 2026, in Orlando, Florida.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579684/143rd-esc-soldiers-participate-great-american-teach",
-      "publishedAt": "2026-11-19T00:10:35Z"
-    },
-    {
-      "id": "7965235a06b36e51c90d70ff",
-      "title": "Delta Battery makes Army history with first IBCS-Patriot enabled certification on peninsula",
-      "summary": "35th Air Defense Artillery Brigade made military history in the Republic of Korea by successfully completing certification on the Integrated Air and Missile Defense Battle Command System (IBCS), becoming the first operational Patriot battery in the U.S. Army to achieve this milestone.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579681/delta-battery-makes-army-history-with-first-ibcs-patriot-enabled-certification-peninsula",
-      "publishedAt": "2026-11-18T23:39:02Z"
-    },
-    {
-      "id": "2d62245c9978d4817f92f349",
-      "title": "US surges power projection to westernmost island chain as Russia, China loom",
-      "summary": "The U.S. Air Force is expanding its training on America's westernmost islands, where it can project power and monitor adversaries across the Pacific and the Arctic.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/global/the-americas/2026/11/18/us-surges-power-projection-to-westernmost-island-chain-as-russia-china-loom/",
-      "publishedAt": "2026-11-18T22:40:38Z"
-    },
-    {
-      "id": "adc757fe5a205f52e6c9cbb8",
-      "title": "The Coast Guard icebreaker nobody wanted just came back from a 133-day Arctic patrol",
-      "summary": "After failing its first job towing oil rigs, USCGC Storis just spent four months as the U.S. military’s sole surface ship in the Arctic. The post The Coast Guard icebreaker nobody wanted just came back from a 133-day Arctic patrol appeared first on Task & Purpose .",
-      "category": "Defense",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/coast-guard-icebreaker-storis-arctic-deployment/",
-      "publishedAt": "2026-11-18T22:39:32Z"
-    },
-    {
-      "id": "23a852639cb5f77795ed2166",
-      "title": "From Army Musician to Senior Leader: Command Sgt. Maj. Alton Huckaby Retires After 27 Years",
-      "summary": "Command Sgt. Maj. Alton Huckaby celebrated more than 27 years of military service during a retirement ceremony honoring his career and family.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579678/army-musician-senior-leader-command-sgt-maj-alton-huckaby-retires-after-27-years",
-      "publishedAt": "2026-11-18T22:24:49Z"
-    },
-    {
-      "id": "cc29a63059b57bb79f904fc1",
-      "title": "Hometown mission: Former Air Force leader helps build Mountain Home Air Force Base water resiliency",
-      "summary": "U.S. Army Corps of Engineers (USACE), Seattle District and Mountain Home Air Force Base marked a major milestone in its long-term water resilience efforts Oct. 29, 2026, with the opening ceremony of a new water treatment plant and pump station designed to help address declining groundwater levels.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579673/hometown-mission-former-air-force-leader-helps-build-mountain-home-air-force-base-water-resiliency",
-      "publishedAt": "2026-11-18T22:08:05Z"
     }
   ],
   "nextPage": "page-3.json"
