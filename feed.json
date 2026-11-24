@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-24T02:14:51Z",
+  "generatedAt": "2026-11-24T13:48:29Z",
   "articles": [
+    {
+      "id": "ae1073ac7eef9ebb00f30b9e",
+      "title": "Armaments Center thanked for contributions to thriving Dover school robotics team",
+      "summary": "PICATINNY ARSENAL, N.J. - The Dover School Board gave its thanks to the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center for sponsoring its district’s robotics team during its business meeting on Tuesday, Nov. 17.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580153/armaments-center-thanked-contributions-thriving-dover-school-robotics-team",
+      "publishedAt": "2026-11-24T13:17:38Z"
+    },
+    {
+      "id": "d320d0f064975a5ed620a937",
+      "title": "U.S. Army pilots join NATO partners at Latvia’s 108th independence day flyover",
+      "summary": "RIGA, Latvia — Cold November winds swept across the Daugava River as thousands of spectators lined the streets and bridges of Riga on Nov. 18 to celebrate Latvia's 108th Independence Day.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580142/us-army-pilots-join-nato-partners-latvias-108th-independence-day-flyover",
+      "publishedAt": "2026-11-24T12:24:06Z"
+    },
+    {
+      "id": "3b65372ce9685be4919200e6",
+      "title": "AFNORTH Battalion Event Connects SHAPE Community Through Touch-a-Truck",
+      "summary": "AFNORTH Battalion, U.S. Army NATO Brigade, hosted its annual Touch-a-Truck event, bringing military and civilian families from across the multinational community together for a day of hands-on learning and fun.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580146/afnorth-battalion-event-connects-shape-community-through-touch-truck",
+      "publishedAt": "2026-11-24T12:05:47Z"
+    },
+    {
+      "id": "9dff88132ade78281d281186",
+      "title": "Engineering Technician by Day, Graffiti Artist by Night: Meet DPW’s Marco Holzinger",
+      "summary": "ANSBACH, Germany — In Ansbach’s urban art scene, the graffiti tag ERAS is hard to miss. Bright colors, sharp lines and bold compositions mark the work of Marco Holzinger, a local graffiti artist whose pieces appear across facades, underpasses and public art spaces.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580145/engineering-technician-day-graffiti-artist-night-meet-dpws-marco-holzinger",
+      "publishedAt": "2026-11-24T10:40:36Z"
+    },
+    {
+      "id": "0bf6a5148b6ee7be8271dfa4",
+      "title": "SETAF-AF, US Air Force team with Kenya Defence Forces for donation to school",
+      "summary": "U.S. Soldiers assigned to Civil Affairs Team Kenya, Civil Affairs Battalion, U.S. Army Southern European Task Force, Africa (SETAF-AF) partnered with U.S. Airmen and Kenyan Defence Forces to provide donations to Safarisi Primary School during a civil affairs engagement in Safarisi, Kenya, July 22, in a combined, joint effort.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580143/setaf-af-us-air-force-team-with-kenya-defence-forces-donation-school",
+      "publishedAt": "2026-11-24T09:01:36Z"
+    },
+    {
+      "id": "8f0dd3e82104fe9e19807870",
+      "title": "Europe District navigates historic archeological discoveries at a construction site in Hungary",
+      "summary": "The U.S. Army Corps of Engineers, Europe District began construction to increase the capacity for the air base in Kecskemét, Hungary in 2025, only to stumble upon a historic archeological discovery.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580141/europe-district-navigates-historic-archeological-discoveries-construction-site-hungary",
+      "publishedAt": "2026-11-24T07:32:58Z"
+    },
+    {
+      "id": "0dc34df39a12a3ae2ea80035",
+      "title": "USFK holds 2026 Commander's Conference in Seoul",
+      "summary": "U.S. Forces Korea leaders, Department of the Army civilians and spouses gathered at Dragon Hill Lodge Nov. 18-20 for the 2026 USFK Commander's Conference.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580140/usfk-holds-2026-commanders-conference-seoul",
+      "publishedAt": "2026-11-24T06:45:08Z"
+    },
+    {
+      "id": "d66218f8bb0c9e46c0a32f6b",
+      "title": "CNFK Sailors participate in Iron Alliance 2026",
+      "summary": "U.S. service members concluded Iron Alliance, a joint training event held Nov. 15–20, designed to strengthen teamwork, interoperability, and readiness across the Korean Peninsula.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580129/cnfk-sailors-participate-iron-alliance-2026",
+      "publishedAt": "2026-11-24T05:01:01Z"
+    },
     {
       "id": "6a249f50ab8ea889083b1212",
       "title": "419th FSS Commander Shares Meaning of Veterans Day with Local Third-Graders",
@@ -289,78 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579988/netcom-puts-people-first-through-recognition-engagement-and-transparent-leadership",
       "publishedAt": "2026-11-20T20:39:47Z"
-    },
-    {
-      "id": "71835a7beb6a6bb6ebaaa75c",
-      "title": "Col. Carrie Wentzel reflects on 25 years of service during retirement ceremony",
-      "summary": "The Washington National Guard honored Col. Carrie Wentzel at a Nov. 7, 2026, retirement ceremony at Camp Murray, Washington, after nearly 25 years of military service.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579993/col-carrie-wentzel-reflects-25-years-service-during-retirement-ceremony",
-      "publishedAt": "2026-11-20T20:25:52Z"
-    },
-    {
-      "id": "d7a7ee244126abe54e375339",
-      "title": "Oklahoma Army National Guard's Camp Gruber Training Center holds change of command",
-      "summary": "Soldiers, family and loved ones gathered to bid farewell to outgoing Camp Gruber Training Center commander Col. Ronnie A. Beck and welcome incoming commander Col. Phillip R. Hemmert during a change of command ceremony at Camp Gruber, Saturday, Nov. 7, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579987/oklahoma-army-national-guards-camp-gruber-training-center-holds-change-command",
-      "publishedAt": "2026-11-20T20:16:24Z"
-    },
-    {
-      "id": "9850610a59708323403e917e",
-      "title": "The force behind the fight: Ready when called",
-      "summary": "When an aircraft experiences an ordnance-related emergency or unexploded munitions interrupt training operations, explosive ordnance disposal Airmen help restore the conditions necessary for the mission to continue. For U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579990/force-behind-fight-ready-called",
-      "publishedAt": "2026-11-20T20:10:04Z"
-    },
-    {
-      "id": "ecc31507ec3eb5d13cedc007",
-      "title": "ARL power, propulsion research program leaves defense ecosystem stronger",
-      "summary": "The U.S. Army Combat Capabilities Development Command, known as DEVCOM, Army Research Laboratory officially concluded the Versatile Tactical Power and Propulsion essential research program with a final capstone event that showcased the program’s impact on future Army aviation capabilities, opening new possibilities for both Army aircraft and…",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579986/arl-power-propulsion-research-program-leaves-defense-ecosystem-stronger",
-      "publishedAt": "2026-11-20T19:57:46Z"
-    },
-    {
-      "id": "15803434151b92ba963a9a39",
-      "title": "Oklahoma Army National Guard's 189th Regional Training Institute holds change of command",
-      "summary": "Members of the Oklahoma Army National Guard's 189th Regiment, Regional Training Institute, along with friends and family, gathered to bid farewell to outgoing commander Col. Phillip R. Hemmert and welcome incoming commander Col. Clint Carman during a change of command ceremony at Camp Gruber Training Center, Saturday, Nov. 7, 2026.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579982/oklahoma-army-national-guards-189th-regional-training-institute-holds-change-command",
-      "publishedAt": "2026-11-20T19:54:48Z"
-    },
-    {
-      "id": "9819c8939a9bf025a994428b",
-      "title": "As Flood Season Begins, Seattle District Completes Levee Rehabilitations Across Western Washington",
-      "summary": "Following the December 2025 floods, the U.S. Army Corps of Engineers, Seattle District completed 14 eligible levee rehabilitation projects across Western Washington under the Public Law 84-99 program.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579984/flood-season-begins-seattle-district-completes-levee-rehabilitations-across-western-washington",
-      "publishedAt": "2026-11-20T19:47:00Z"
-    },
-    {
-      "id": "5eac11bc0745f261d210c1c4",
-      "title": "MCAS New River rededicates MAGTF hangar in honor of Capt. David Spellacy",
-      "summary": "Marine Corps Air Station New River conducted a rededication ceremony to celebrate the opening of a new Type II Modified Marine Air-Ground Task Force (MAGTF) Hangar. The new hangar has been rededicated to U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579981/mcas-new-river-rededicates-magtf-hangar-honor-capt-david-spellacy",
-      "publishedAt": "2026-11-20T19:42:26Z"
-    },
-    {
-      "id": "7e0f79b9b2d4da0a71a28e93",
-      "title": "U.S. Army Chief Warrant Officer 2 Bradley Smith Promoted in Ceremony Pinned by Spouse, 1st Lt. Amanda DiClerico",
-      "summary": "The Oklahoma City Recruiting Battalion announced the promotion of Warrant Officer 1 Bradley Smith to the rank of Chief Warrant Officer 2 during a formal ceremony surrounded by colleagues, leadership, and family.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579979/us-army-chief-warrant-officer-2-bradley-smith-promoted-ceremony-pinned-spouse-1st-lt-amanda-diclerico",
-      "publishedAt": "2026-11-20T19:23:55Z"
     }
   ],
   "nextPage": "pages/page-2.json"

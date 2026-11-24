@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-24T02:14:51Z",
+  "generatedAt": "2026-11-24T13:48:29Z",
   "articles": [
+    {
+      "id": "d8ba35f7b2fccb0f906aa268",
+      "title": "U.S. Marine Corps Forces South Hosts Regional Symposium to Strengthen Hemispheric Defense",
+      "summary": "NEW ORLEANS – U.S. Marine Corps Forces, South hosted senior leaders with marine and naval infantry forces from 12 Latin American countries during the Regional Marine Leaders Symposium, Nov. 4-6.",
+      "category": "Marine Corps",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579580/us-marine-corps-forces-south-hosts-regional-symposium-strengthen-hemispheric-defense",
+      "publishedAt": "2026-11-17T22:01:24Z"
+    },
+    {
+      "id": "55c1193d03be84f6a2ab0e81",
+      "title": "Sharon Chen, a New York City resident, retires from New York Army National Guard after 24 years of service",
+      "summary": "New York Army National Guard 1st Sgt. Sharon Chen, a Monroe resident and veteran of three Middle East deployments, retired after more than 24 years of military service during a Nov. 7 ceremony at the Whitestone Armory in Queens.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579577/sharon-chen-new-york-city-resident-retires-new-york-army-national-guard-after-24-years-service",
+      "publishedAt": "2026-11-17T21:39:57Z"
+    },
+    {
+      "id": "4e1b7071a5b5a1008839e87d",
+      "title": "Fort Buchanan helps service members turn military experience into business opportunities",
+      "summary": "Soldiers, veterans and military family members explored opportunities to turn their skills and ideas into businesses during a Boots to Business workshop hosted by Fort Buchanan in partnership with the U.S. Small Business Administration Nov. 17 at the installation's Training Support Center.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579566/fort-buchanan-helps-service-members-turn-military-experience-into-business-opportunities",
+      "publishedAt": "2026-11-17T20:11:34Z"
+    },
+    {
+      "id": "ad378f3c5e2015ec4a9e154e",
+      "title": "NORAD TO CONDUCT LONG-PLANNED AIR DEFENSE EXERCISE IN NATIONAL CAPITAL REGION",
+      "summary": "The North American Aerospace Defense Command (NORAD) will conduct Exercise FALCON VIRGO, a long-planned monthly live-fly air defense exercise on Nov. 18, 2026, between midnight and 2 a.m. EST in the National Capital Region.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579564/norad-conduct-long-planned-air-defense-exercise-national-capital-region",
+      "publishedAt": "2026-11-17T20:04:40Z"
+    },
+    {
+      "id": "a9d76d8b4dfa1d768fb69f50",
+      "title": "Army JROTC Honors Hall of Fame Class of 2026",
+      "summary": "The U.S. Army’s Junior Reserve Officers Training Corps (JROTC) recently welcomed three inductees into the inaugural JROTC Hall of Fame. The retired inductees – Col. John Gessner, Maj. Gen. Alfred Valenzuela, and Sgt. Maj.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579562/army-jrotc-honors-hall-fame-class-2026",
+      "publishedAt": "2026-11-17T19:56:34Z"
+    },
+    {
+      "id": "5d2eb9a90d926fe05f09dc28",
+      "title": "Combat-Tested Base Security System of Systems Set for U.S. Installations",
+      "summary": "On October 23, Product Manager Force Protection Systems (PdM FPS), an office of Project Manager Aerial-Terrestrial Surveillance and Reconnaissance (PM ATSR), completed installation of the first Integrated Base Defense-Kitting (IBD-K) System-of-Systems in the Continental United States (CONUS).",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579563/combat-tested-base-security-system-systems-set-us-installations",
+      "publishedAt": "2026-11-17T19:48:18Z"
+    },
+    {
+      "id": "60dcdc73f6944848c8ad15d0",
+      "title": "Opening Remarks from Acting Navy Secretary Hung Cao’s Confirmation Hearing",
+      "summary": "The following is Acting Secretary of the Navy Hung Cao’s opening remarks, provided to the U.S. Senate Committee on Armed Services during Cao’s confirmation hearing on Nov. 17, 2026. From the Report The hearing saw testimony from Cao, who has served in an acting capacity since April. Below are also prepared advance policy questions from Cao.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/17/opening-remarks-from-acting-navy-secretary-hung-caos-confirmation-hearing",
+      "publishedAt": "2026-11-17T17:52:31Z"
+    },
+    {
+      "id": "8158a1f00a91a2de2f981132",
+      "title": "Lithuanian president says US troop rotations will continue beyond latest deployment",
+      "summary": "Lithuanian President Gitanas Nauseda said that U.S. troop rotations in the country would continue beyond the current nine-month deployment.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/global/europe/2026/11/17/lithuanian-president-says-us-troop-rotations-will-continue-beyond-latest-deployment/",
+      "publishedAt": "2026-11-17T17:04:13Z"
+    },
     {
       "id": "d9da1c3c83aadab040b8eea2",
       "title": "Trump seeks nuclear cuts at summit with Putin and Xi, but prospects are low",
@@ -289,78 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579427/artrans-leads-modernization-efforts-with-ibs-cloud-native-training-fort-eustis",
       "publishedAt": "2026-11-16T17:27:23Z"
-    },
-    {
-      "id": "fda6c3b0492574ed3c583c40",
-      "title": "Open Water Alternative Navigation: New Technology Promises Aid to GPS-Denied, Ocean-Flying Drones",
-      "summary": "GPS denial by jamming, spoofing, and other adversarial tactics can severely degrade the ability of uncrewed autonomous vehicles (UAV) to navigate and stay on mission.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579424/open-water-alternative-navigation-new-technology-promises-aid-gps-denied-ocean-flying-drones",
-      "publishedAt": "2026-11-16T17:11:56Z"
-    },
-    {
-      "id": "8aeff199abcee37270a073f9",
-      "title": "US and Russia to oppose talks on limiting autonomous weapons",
-      "summary": "Major arms producers the U.S. and Russia look set to oppose a push at a global meeting to launch negotiations on legally binding rules for autonomous weapons.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/11/16/us-and-russia-to-oppose-talks-on-limiting-autonomous-weapons/",
-      "publishedAt": "2026-11-16T16:53:41Z"
-    },
-    {
-      "id": "c71e410c9e725eb1f6c84218",
-      "title": "Environmental Services Cooperative Agreements provide locals with clean up options",
-      "summary": "Today, the U.S. Army Corps of Engineers is leveraging an alternative federal funding model to accelerate environmental cleanups and return those properties to public and commercial use",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579420/environmental-services-cooperative-agreements-provide-locals-with-clean-up-options",
-      "publishedAt": "2026-11-16T16:50:23Z"
-    },
-    {
-      "id": "e03d1e3f6219de84a2c0b88d",
-      "title": "Army’s inaugural water technology demo advances collaboration, capabilities across defense community",
-      "summary": "SCHOFIELD BARRACKS, Hawaii – U.S. Army DEVCOM Ground Vehicle Systems Center, in partnership with the 25th Infantry Division, brought together military leaders, Soldiers and industry partners earlier this fall to accelerate new water technology acquisition and transition emerging commercial capabilities into solutions that drive Army readiness and…",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579422/armys-inaugural-water-technology-demo-advances-collaboration-capabilities-across-defense-community",
-      "publishedAt": "2026-11-16T16:49:08Z"
-    },
-    {
-      "id": "3cad029bf3d328e680427c3a",
-      "title": "Meeting on the 'X': ARTRANS, Joint Partners Align Strategic Logistics for SWORD 27",
-      "summary": "U.S. Army Chief Warrant Officer 3 Thomas Jackson, 597th Transportation Brigade, ARTRANS, “Rapid Support,” transportation officer, spearheaded critical logistics coordination at the SWORD 27 (Immediate and Swift Response) Mid-Planning Conference at Camp Mackall, North Carolina, Nov.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579418/meeting-x-artrans-joint-partners-align-strategic-logistics-sword-27",
-      "publishedAt": "2026-11-16T16:30:27Z"
-    },
-    {
-      "id": "27e772ebc56a8fc9fb45d734",
-      "title": "Troops in unsafe barracks can get temporary housing on or off base, Pentagon says",
-      "summary": "“The Department has more barracks data than it has ever had,” one advocate said. “We’re still relying on someone walking into a room to see the problem.” The post Troops in unsafe barracks can get temporary housing on or off base, Pentagon says appeared first on Task & Purpose .",
-      "category": "Defense",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/barracks-emergency-orders/",
-      "publishedAt": "2026-11-16T15:58:04Z"
-    },
-    {
-      "id": "9c9f30391422a703a362b2d8",
-      "title": "Eighth Army hosts Korean War veterans, reunited in honor of a sacrifice that shaped history",
-      "summary": "Eighth Army welcomed approximately 30 Korean War veterans from the Korean War Veterans Association Seoul Branch to its headquarters at Camp Humphreys, Nov. 5, for a day honoring their service, sacrifice and lasting contributions to the U.S.-ROK alliance.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579394/eighth-army-hosts-korean-war-veterans-reunited-honor-sacrifice-shaped-history",
-      "publishedAt": "2026-11-16T06:17:26Z"
-    },
-    {
-      "id": "3d76e4fa9ab8b0cc28f044bb",
-      "title": "Brunson tells Civil Affairs Soldiers their work starts before the fight",
-      "summary": "SIMI VALLEY, Calif – Gen. Xavier T. Brunson, commander of United Nations Command, Republic of Korea-U.S. Combined Forces Command and U.S. Forces Korea, told Soldiers of the 358th Civil Affairs Brigade on Nov. 14 that civil affairs is not a cleanup crew. It is a capability that shapes the fight before it starts.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579393/brunson-tells-civil-affairs-soldiers-their-work-starts-before-fight",
-      "publishedAt": "2026-11-16T06:04:34Z"
     }
   ],
   "nextPage": "page-5.json"

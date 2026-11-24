@@ -1,5 +1,77 @@
 [
   {
+    "id": "ae1073ac7eef9ebb00f30b9e",
+    "title": "Armaments Center thanked for contributions to thriving Dover school robotics team",
+    "summary": "PICATINNY ARSENAL, N.J. - The Dover School Board gave its thanks to the U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center for sponsoring its district’s robotics team during its business meeting on Tuesday, Nov. 17.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/580153/armaments-center-thanked-contributions-thriving-dover-school-robotics-team",
+    "publishedAt": "2026-11-24T13:17:38Z"
+  },
+  {
+    "id": "d320d0f064975a5ed620a937",
+    "title": "U.S. Army pilots join NATO partners at Latvia’s 108th independence day flyover",
+    "summary": "RIGA, Latvia — Cold November winds swept across the Daugava River as thousands of spectators lined the streets and bridges of Riga on Nov. 18 to celebrate Latvia's 108th Independence Day.",
+    "category": "Army",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/580142/us-army-pilots-join-nato-partners-latvias-108th-independence-day-flyover",
+    "publishedAt": "2026-11-24T12:24:06Z"
+  },
+  {
+    "id": "3b65372ce9685be4919200e6",
+    "title": "AFNORTH Battalion Event Connects SHAPE Community Through Touch-a-Truck",
+    "summary": "AFNORTH Battalion, U.S. Army NATO Brigade, hosted its annual Touch-a-Truck event, bringing military and civilian families from across the multinational community together for a day of hands-on learning and fun.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/580146/afnorth-battalion-event-connects-shape-community-through-touch-truck",
+    "publishedAt": "2026-11-24T12:05:47Z"
+  },
+  {
+    "id": "9dff88132ade78281d281186",
+    "title": "Engineering Technician by Day, Graffiti Artist by Night: Meet DPW’s Marco Holzinger",
+    "summary": "ANSBACH, Germany — In Ansbach’s urban art scene, the graffiti tag ERAS is hard to miss. Bright colors, sharp lines and bold compositions mark the work of Marco Holzinger, a local graffiti artist whose pieces appear across facades, underpasses and public art spaces.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/580145/engineering-technician-day-graffiti-artist-night-meet-dpws-marco-holzinger",
+    "publishedAt": "2026-11-24T10:40:36Z"
+  },
+  {
+    "id": "0bf6a5148b6ee7be8271dfa4",
+    "title": "SETAF-AF, US Air Force team with Kenya Defence Forces for donation to school",
+    "summary": "U.S. Soldiers assigned to Civil Affairs Team Kenya, Civil Affairs Battalion, U.S. Army Southern European Task Force, Africa (SETAF-AF) partnered with U.S. Airmen and Kenyan Defence Forces to provide donations to Safarisi Primary School during a civil affairs engagement in Safarisi, Kenya, July 22, in a combined, joint effort.",
+    "category": "Air Force",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/580143/setaf-af-us-air-force-team-with-kenya-defence-forces-donation-school",
+    "publishedAt": "2026-11-24T09:01:36Z"
+  },
+  {
+    "id": "8f0dd3e82104fe9e19807870",
+    "title": "Europe District navigates historic archeological discoveries at a construction site in Hungary",
+    "summary": "The U.S. Army Corps of Engineers, Europe District began construction to increase the capacity for the air base in Kecskemét, Hungary in 2025, only to stumble upon a historic archeological discovery.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/580141/europe-district-navigates-historic-archeological-discoveries-construction-site-hungary",
+    "publishedAt": "2026-11-24T07:32:58Z"
+  },
+  {
+    "id": "0dc34df39a12a3ae2ea80035",
+    "title": "USFK holds 2026 Commander's Conference in Seoul",
+    "summary": "U.S. Forces Korea leaders, Department of the Army civilians and spouses gathered at Dragon Hill Lodge Nov. 18-20 for the 2026 USFK Commander's Conference.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/580140/usfk-holds-2026-commanders-conference-seoul",
+    "publishedAt": "2026-11-24T06:45:08Z"
+  },
+  {
+    "id": "d66218f8bb0c9e46c0a32f6b",
+    "title": "CNFK Sailors participate in Iron Alliance 2026",
+    "summary": "U.S. service members concluded Iron Alliance, a joint training event held Nov. 15–20, designed to strengthen teamwork, interoperability, and readiness across the Korean Peninsula.",
+    "category": "Defense",
+    "sourceName": "DVIDS U.S. Military News",
+    "sourceUrl": "https://www.dvidshub.net/news/580129/cnfk-sailors-participate-iron-alliance-2026",
+    "publishedAt": "2026-11-24T05:01:01Z"
+  },
+  {
     "id": "6a249f50ab8ea889083b1212",
     "title": "419th FSS Commander Shares Meaning of Veterans Day with Local Third-Graders",
     "summary": "Third-grade students at Municipal Elementary School received a firsthand lesson on military service and history on Veterans Day, Nov. 11, when U.S. Air Force Maj. Andrew Olsen, commander of the 419th Force Support Squadron at Hill Air Force Base, visited their classrooms to speak about the holiday.",
@@ -1501,14 +1573,5 @@
     "sourceName": "DVIDS U.S. Military News",
     "sourceUrl": "https://www.dvidshub.net/news/579368/operation-frozen-recovery-alaska-soldiers-retrieve-historic-signal-corps-radio",
     "publishedAt": "2026-11-15T00:53:16Z"
-  },
-  {
-    "id": "ff7cff5def3dd238dedf8935",
-    "title": "Japan, U.S. participate in annual Joint Senior Leader Seminar",
-    "summary": "U.S. Pacific Command hosted the 2026 Joint Senior Leaders Seminar Nov. 13, bringing together American and Japanese defense officials to align strategic goals, coordinate operational planning and strengthen the defense alliance.",
-    "category": "Defense",
-    "sourceName": "DVIDS U.S. Military News",
-    "sourceUrl": "https://www.dvidshub.net/news/579361/japan-us-participate-annual-joint-senior-leader-seminar",
-    "publishedAt": "2026-11-14T07:09:21Z"
   }
 ]
