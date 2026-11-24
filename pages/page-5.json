@@ -1,7 +1,70 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-24T13:48:29Z",
+  "generatedAt": "2026-11-24T23:55:06Z",
   "articles": [
+    {
+      "id": "876b3995769fcb31ab8dd389",
+      "title": "USNI News Fleet and Marine Tracker: Nov. 16, 2026",
+      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 16, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/16/usni-news-fleet-and-marine-tracker-nov-16-2026",
+      "publishedAt": "2026-11-16T19:55:16Z"
+    },
+    {
+      "id": "c01fb5e45f8e3f5aee7154f5",
+      "title": "Elite red team brings realistic cyber testing to operational aviation systems",
+      "summary": "The U.S. Navy’s Naval Aviation Red Team (AIR-RT) has earned official certification from the NSA and accreditation from U.S. Cyber Command, bolstering the fleet's ability to simulate nation-state cyberattacks and defend tactical aircraft against advanced digital threats.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579438/elite-red-team-brings-realistic-cyber-testing-operational-aviation-systems",
+      "publishedAt": "2026-11-16T18:48:20Z"
+    },
+    {
+      "id": "25d7d2318584387a33550109",
+      "title": "Bringing the Future Forward: Inside Agile Flag’s Super Intelligence Implementation",
+      "summary": "U.S. Air Force Airmen assigned to 15th Air Force participated in Agile Flag at Shaw Air Force Base, South Carolina, from Nov. 1 to Nov. 5. Agile Flag was designed to build combat-ready Airmen and teams able to recover, refuel, rearm, repair, and launch aircraft from austere, unfamiliar locations under attack.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579433/bringing-future-forward-inside-agile-flags-super-intelligence-implementation",
+      "publishedAt": "2026-11-16T18:35:43Z"
+    },
+    {
+      "id": "6a1ad5c4fa96502ba518b8fa",
+      "title": "USS Minneapolis-Saint Paul Marks 250th Anniversary of Statia Day",
+      "summary": "USS Minneapolis-Saint Paul (LCS 21) joined the people of Sint Eustatius, known locally as Statia, Nov. 16, to commemorate the 250th anniversary of the island’s historic “First Salute” to the United States.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579430/uss-minneapolis-saint-paul-marks-250th-anniversary-statia-day",
+      "publishedAt": "2026-11-16T18:11:20Z"
+    },
+    {
+      "id": "e7b581c2950a64ba49243c67",
+      "title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
+      "summary": "Europe's defense ministries are looking to limit dependency on American technology and major software company Palantir Technologies.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/2026/11/16/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence/",
+      "publishedAt": "2026-11-16T18:00:00Z"
+    },
+    {
+      "id": "53c4b374f0fe9fff255c21ac",
+      "title": "Media Alert: Santa Claus is coming to town on an MH-60S Seahawk helicopter (Courtesy of the U.S. Navy)",
+      "summary": "Adm. Santa Claus will spread holiday cheer and conduct aerial reconnaissance from a U.S. Navy MH-60S Seahawk helicopter over Southern Maryland during a holiday flight with the Air Test and Evaluation Squadron (HX) 21 \"Blackjacks\" on Dec. 8, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579428/media-alert-santa-claus-coming-town-mh-60s-seahawk-helicopter-courtesy-us-navy",
+      "publishedAt": "2026-11-16T17:32:48Z"
+    },
+    {
+      "id": "d131b2a294effc72e2747ba0",
+      "title": "ARTRANS Leads Modernization Efforts with IBS-Cloud Native Training at Fort Eustis",
+      "summary": "In alignment with the U.S. Army’s strategic push for continuous modernization and cloud integration, cargo booking specialists from across U.S. Army Transportation Command (ARTRANS) converged at the Fort Eustis Education Center in November 2026, to prepare for an enterprise-wide digital transition.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579427/artrans-leads-modernization-efforts-with-ibs-cloud-native-training-fort-eustis",
+      "publishedAt": "2026-11-16T17:27:23Z"
+    },
     {
       "id": "fda6c3b0492574ed3c583c40",
       "title": "Open Water Alternative Navigation: New Technology Promises Aid to GPS-Denied, Ocean-Flying Drones",

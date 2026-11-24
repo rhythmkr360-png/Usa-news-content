@@ -1,7 +1,70 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-24T13:48:29Z",
+  "generatedAt": "2026-11-24T23:55:06Z",
   "articles": [
+    {
+      "id": "d8ef8e1bc0dfa6a1c631ff4b",
+      "title": "Thunderbirds Conclude Historic, Record-Breaking 2026 Season",
+      "summary": "The United States Air Force Air Demonstration Squadron, known as the “Thunderbirds,” concluded a historic 2026 show season and bid farewell to four members of the squadron’s officer team.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580250/thunderbirds-conclude-historic-record-breaking-2026-season",
+      "publishedAt": "2026-11-24T23:03:47Z"
+    },
+    {
+      "id": "d88e7b93293d7351474efad9",
+      "title": "NETCOM Thanksgiving activities strengthen the team behind the Army’s global network",
+      "summary": "Soldiers, Department of the Army civilians and their families gathered at Fort Huachuca to celebrate Thanksgiving with a series of activities highlighting the people and relationships that sustain the U.S. Army Network Enterprise Technology Command's global mission.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580233/netcom-thanksgiving-activities-strengthen-team-behind-armys-global-network",
+      "publishedAt": "2026-11-24T21:40:06Z"
+    },
+    {
+      "id": "64172b2e6499997c6052235f",
+      "title": "Ford in talks with the Pentagon to supply military vehicles",
+      "summary": "Ford said on Tuesday it has held talks with the Pentagon about supplying military vehicles and other defense products to the U.S. military.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/pentagon/2026/11/24/ford-in-talks-with-the-pentagon-to-supply-military-vehicles/",
+      "publishedAt": "2026-11-24T21:30:00Z"
+    },
+    {
+      "id": "fb276c3e5d14eac4e0768056",
+      "title": "USSF CSO Gen. Schiess Promotes Guardian Ethos at SSC All-Call",
+      "summary": "In the seven years since its inception, the U.S. Space Force has transitioned from a support element to an integral part of the Joint Force. Speaking to Space Systems Command (SSC) personnel on Nov. 19, Chief of Space Operations Gen. Douglas A.",
+      "category": "Space Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580222/ussf-cso-gen-schiess-promotes-guardian-ethos-ssc-all-call",
+      "publishedAt": "2026-11-24T20:21:23Z"
+    },
+    {
+      "id": "925c0bc003a1909b4e254531",
+      "title": "Camp Murray Memorial Trail sculpture proposal honors Washington Guard’s World War II fallen",
+      "summary": "Sculptor Mardie Rees’ 2-foot clay model could become the first memorial sculpture on the Camp Murray Memorial Trail.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580214/camp-murray-memorial-trail-sculpture-proposal-honors-washington-guards-world-war-ii-fallen",
+      "publishedAt": "2026-11-24T19:37:47Z"
+    },
+    {
+      "id": "a173de5b0c9865652b759f10",
+      "title": "White House seeks funding exemptions for Golden Dome, Trump battleship in next funding stopgap",
+      "summary": "The Pentagon’s munitions ramp up could also face turmoil if anomalies for key programs are not approved, the White House warned.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/white-house-seeks-funding-exemptions-for-golden-dome-trump-battleship-in-next-funding-stopgap/",
+      "publishedAt": "2026-11-24T16:30:00Z"
+    },
+    {
+      "id": "e047b97246b2a6c56ed29c5b",
+      "title": "Opening Remarks from William Toti to be Undersecretary of the Navy",
+      "summary": "The following are William Toti’s opening remarks, provided to the U.S. Senate Committee on Armed Services during a Nov. 19, 2026, hearing to consider Toti to be the undersecretary of the Navy. From the Report The hearing saw testimony from Toti who has served in an acting capacity since May.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/24/opening-remarks-from-william-toti-to-be-undersecretary-of-the-navy",
+      "publishedAt": "2026-11-24T14:42:57Z"
+    },
     {
       "id": "ae1073ac7eef9ebb00f30b9e",
       "title": "Armaments Center thanked for contributions to thriving Dover school robotics team",
@@ -298,69 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/580009/missouri-air-guard-wing-awarded-presidential-unit-citation",
       "publishedAt": "2026-11-21T00:04:23Z"
-    },
-    {
-      "id": "1e910af905268b9a6a9f18f8",
-      "title": "Whiteman bomb wings earn Presidential Unit Citation",
-      "summary": "The 509th Bomb Wing and 131st Bomb Wing, both located at Whiteman Air Force Base, Missouri, received the Presidential Unit Citation in a ceremony Friday, recognizing the units’ extraordinary heroism and disciplined execution of Operation Midnight Hammer, the U.S. strike against Iranian nuclear facilities in June 2025.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580005/whiteman-bomb-wings-earn-presidential-unit-citation",
-      "publishedAt": "2026-11-21T00:01:38Z"
-    },
-    {
-      "id": "f9e3779295c79dc43904e33e",
-      "title": "Air Force issues massive $16B contract for engine work to dozens of companies",
-      "summary": "A Pentagon notice said 58 companies were selected to participate in a broad contract for “advanced propulsion enterprise work” through 2041.",
-      "category": "Air Force",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/air-force-issues-massive-16b-contract-for-engine-work-to-dozens-of-companies/",
-      "publishedAt": "2026-11-20T23:52:57Z"
-    },
-    {
-      "id": "637c84ea1cb9c0d1aeccfa5a",
-      "title": "Oregon Air National Guard Brigadier General Jenifer E. Pardy retires after 42 years of military service",
-      "summary": "From bending sheet metal on fighter aircraft to advising the state’s senior leadership, Oregon Air National Guard Brig. Gen. Jenifer E. Pardy’s military career spans a lifetime of growth and accomplishment. She concluded 42 years of military service during her formal retirement ceremony held at Camp Withycombe in Happy Valley, Oregon, on Nov.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580002/oregon-air-national-guard-brigadier-general-jenifer-e-pardy-retires-after-42-years-military-service",
-      "publishedAt": "2026-11-20T22:26:50Z"
-    },
-    {
-      "id": "145c288bcfa110c5e5fa4cac",
-      "title": "Presidio of Monterey recognizes youth leaders at Porter Youth Center",
-      "summary": "U.S. Army Garrison Presidio of Monterey recognized four sixth graders at its Junior Military Youth of the Year competition Nov. 13 at Porter Youth Center. Families, local educators and Porter staff celebrated the students’ work in the Monterey military community.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579998/presidio-monterey-recognizes-youth-leaders-porter-youth-center",
-      "publishedAt": "2026-11-20T21:55:02Z"
-    },
-    {
-      "id": "90669907ac9bcc3d7cb4aad6",
-      "title": "Navy’s Shipbuilding Plan Would Exceed Budget Estimates by Hundreds of Billions, CBO Finds",
-      "summary": "Increasing the size of the Navy’s fleet by 112 ships over the next three decades would require a 41 percent increase in the sea service’s annual budget and exceed the Navy’s own budget estimates by about 18 percent – a total delta of some $234 billion. That’s according to a new analysis from the Congressional Budget Office, released Wednesday.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/20/navys-shipbuilding-plan-would-exceed-budget-estimates-by-hundreds-of-billions-cbo-finds",
-      "publishedAt": "2026-11-20T20:57:51Z"
-    },
-    {
-      "id": "62e6bb812b70ea23918a8817",
-      "title": "Fort Buchanan recognizes Army recruiter for contributions to Soldier readiness, community engagement",
-      "summary": "— Soldiers gathered at the installation headquarters Nov. 20 to witness the recognition of Staff Sgt. Julie M. Perez Gomez, a recruiter assigned to the U.S. Army San Juan Recruiting Company, as Col. David L. Brewer, Fort Buchanan garrison commander, presented her with the Army Commendation Medal for her contributions to the installation.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579995/fort-buchanan-recognizes-army-recruiter-contributions-soldier-readiness-community-engagement",
-      "publishedAt": "2026-11-20T20:47:28Z"
-    },
-    {
-      "id": "4b18f4a45fcc9520970aa0c8",
-      "title": "NETCOM puts people first through recognition, engagement and transparent leadership",
-      "summary": "FORT HUACHUCA, Ariz. — From early morning physical training to an afternoon command headquarters town hall, the U.S. Army Network Enterprise Technology Command (NETCOM) dedicated November 6th, 2026 to its most important asset, its people.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579988/netcom-puts-people-first-through-recognition-engagement-and-transparent-leadership",
-      "publishedAt": "2026-11-20T20:39:47Z"
     }
   ],
   "nextPage": "pages/page-2.json"
