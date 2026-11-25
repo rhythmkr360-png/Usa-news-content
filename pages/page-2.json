@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-24T23:55:06Z",
+  "generatedAt": "2026-11-25T08:41:42Z",
   "articles": [
+    {
+      "id": "37160ec56283a68cf53e7925",
+      "title": "USACE assists with local flood fight efforts in western Washington",
+      "summary": "U.S. Army Corps of Engineers' efforts to provide materials and assistance across western Washington in response to coastal flooding risk associated with king tides, coupled with storm surge, continues.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580018/usace-assists-with-local-flood-fight-efforts-western-washington",
+      "publishedAt": "2026-11-21T18:08:31Z"
+    },
+    {
+      "id": "9ca33c42f915322918acdc5c",
+      "title": "Despite Hegseth memo, Canada hasn’t seen changes to defense relationship with US, says DefMin",
+      "summary": "Chief Pentagon Spokesman Sean Parnell told Breaking Defense the department is “taking steps to ensure its engagements with Canada advance tangible US defense objectives and ultimately support a reinvigorated defense relationship.”",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/canada-hasnt-seen-changes-to-defense-relationship-with-us-says-mcguinty/",
+      "publishedAt": "2026-11-21T18:06:38Z"
+    },
+    {
+      "id": "a35ccb5880d3dff2edf6cf61",
+      "title": "Testing Emerging Sustainment Systems for the Modern Battlefield at Kinetic Reach",
+      "summary": "U.S. Army Soldiers evaluated emerging autonomous sustainment technologies during Kinetic Reach 2026, held Nov. 10-20 in Baumholder, Germany. Conducted by the 21st Theater Sustainment Command, U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580016/testing-emerging-sustainment-systems-modern-battlefield-kinetic-reach",
+      "publishedAt": "2026-11-21T14:20:55Z"
+    },
+    {
+      "id": "3e817178fc5b6a3632c405c6",
+      "title": "Florida National Guard Soldiers help protect Sanford hospital from flooding",
+      "summary": "SANFORD, FLORIDA – Florida National Guard soldiers constructed a temporary flood barrier to help protect a Sanford hospital from rising water as heavy flooding threatened parts of central Florida on November 20, 2026. First Lt.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580015/florida-national-guard-soldiers-help-protect-sanford-hospital-flooding",
+      "publishedAt": "2026-11-21T12:49:05Z"
+    },
+    {
+      "id": "d0a0305ecb694f45fa28e76b",
+      "title": "Missouri Air Guard Wing awarded Presidential Unit Citation",
+      "summary": "U. S. Air Force Chief of Staff Gen. Ken Wilsbach presented the Missouri Air National Guard’s 131st Bomb Wing the Presidential Unit Citation award during a ceremony at Whiteman Air Force Base, Missouri, Nov. 20, 2026, for their outstanding performance in Operation Midnight Hammer.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580009/missouri-air-guard-wing-awarded-presidential-unit-citation",
+      "publishedAt": "2026-11-21T00:04:23Z"
+    },
     {
       "id": "1e910af905268b9a6a9f18f8",
       "title": "Whiteman bomb wings earn Presidential Unit Citation",
@@ -316,51 +361,6 @@
       "sourceName": "USNI News",
       "sourceUrl": "https://news.usni.org/2026/11/19/navy-wants-new-u-s-frigate-shipyard-paid-for-by-foreign-shipbuilder",
       "publishedAt": "2026-11-19T21:15:50Z"
-    },
-    {
-      "id": "9571bdde2ebb95e64c05648c",
-      "title": "U.S. Expands Iranian Blockade As Ship Attacks Continue",
-      "summary": "The U.S. expanded its blockade of Iranian ports and coastline to include any ship that receives cargo via ship-to-ship transfer, according to Joint Maritime Information Center.",
-      "category": "Defense",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/19/u-s-expands-iranian-blockade-as-ship-attacks-continue",
-      "publishedAt": "2026-11-19T20:54:23Z"
-    },
-    {
-      "id": "70b669e0776c904a37436407",
-      "title": "xTech|Kinetic Reach Competition Seeks Next-Generation Agile Sustainment Solutions",
-      "summary": "The Army FUZE xTech Program, in partnership with G-TEAD and USAREUR-AF, has launched xTech|Kinetic Reach, a competition focused on sustainment and mobility technologies that support distributed operations at the tactical edge.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579775/xtech-kinetic-reach-competition-seeks-next-generation-agile-sustainment-solutions",
-      "publishedAt": "2026-11-19T20:18:06Z"
-    },
-    {
-      "id": "90fbf5ddb78bdd1770264fa4",
-      "title": "Washington Army National Guard, Singapore Army Begin Planning for Tiger Balm 2027",
-      "summary": "Washington Army National Guard and Singapore Army soldiers met at Mandai Hill Camp, Singapore, Oct. 19–23, 2026, for the initial planning conference for Exercise Tiger Balm 2027.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579774/washington-army-national-guard-singapore-army-begin-planning-tiger-balm-2027",
-      "publishedAt": "2026-11-19T20:12:10Z"
-    },
-    {
-      "id": "b8e4f3f103bbf30b3473455b",
-      "title": "U.S. Naval Academy Class of 2027 Obtain Career Assignments",
-      "summary": "A total of 1,041 midshipmen in the U.S. Naval Academy Class of 2027 received their service assignments in Bancroft Hall in Annapolis, Maryland, Nov. 19, 2026, marking a major milestone toward their May 2027 commissioning.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579773/us-naval-academy-class-2027-obtain-career-assignments",
-      "publishedAt": "2026-11-19T20:07:25Z"
-    },
-    {
-      "id": "da2897229a50e6dce726faf2",
-      "title": "READOUT: Pacific Fleet Commander’s travel to Papua New Guinea, Nov. 15-17",
-      "summary": "U.S. Navy Adm. Steve Koehler, commander, U.S. Pacific Fleet, visited Port Moresby, Papua New Guines, Nov. 15-17 to affirm the longstanding partnership and bilateral relationship between Papua New Guinea and the United States.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579768/readout-pacific-fleet-commanders-travel-papua-new-guinea-nov-15-17",
-      "publishedAt": "2026-11-19T19:59:03Z"
     }
   ],
   "nextPage": "page-3.json"

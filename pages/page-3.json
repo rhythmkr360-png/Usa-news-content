@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-24T23:55:06Z",
+  "generatedAt": "2026-11-25T08:41:42Z",
   "articles": [
+    {
+      "id": "9571bdde2ebb95e64c05648c",
+      "title": "U.S. Expands Iranian Blockade As Ship Attacks Continue",
+      "summary": "The U.S. expanded its blockade of Iranian ports and coastline to include any ship that receives cargo via ship-to-ship transfer, according to Joint Maritime Information Center.",
+      "category": "Defense",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/19/u-s-expands-iranian-blockade-as-ship-attacks-continue",
+      "publishedAt": "2026-11-19T20:54:23Z"
+    },
+    {
+      "id": "70b669e0776c904a37436407",
+      "title": "xTech|Kinetic Reach Competition Seeks Next-Generation Agile Sustainment Solutions",
+      "summary": "The Army FUZE xTech Program, in partnership with G-TEAD and USAREUR-AF, has launched xTech|Kinetic Reach, a competition focused on sustainment and mobility technologies that support distributed operations at the tactical edge.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579775/xtech-kinetic-reach-competition-seeks-next-generation-agile-sustainment-solutions",
+      "publishedAt": "2026-11-19T20:18:06Z"
+    },
+    {
+      "id": "90fbf5ddb78bdd1770264fa4",
+      "title": "Washington Army National Guard, Singapore Army Begin Planning for Tiger Balm 2027",
+      "summary": "Washington Army National Guard and Singapore Army soldiers met at Mandai Hill Camp, Singapore, Oct. 19–23, 2026, for the initial planning conference for Exercise Tiger Balm 2027.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579774/washington-army-national-guard-singapore-army-begin-planning-tiger-balm-2027",
+      "publishedAt": "2026-11-19T20:12:10Z"
+    },
+    {
+      "id": "b8e4f3f103bbf30b3473455b",
+      "title": "U.S. Naval Academy Class of 2027 Obtain Career Assignments",
+      "summary": "A total of 1,041 midshipmen in the U.S. Naval Academy Class of 2027 received their service assignments in Bancroft Hall in Annapolis, Maryland, Nov. 19, 2026, marking a major milestone toward their May 2027 commissioning.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579773/us-naval-academy-class-2027-obtain-career-assignments",
+      "publishedAt": "2026-11-19T20:07:25Z"
+    },
+    {
+      "id": "da2897229a50e6dce726faf2",
+      "title": "READOUT: Pacific Fleet Commander’s travel to Papua New Guinea, Nov. 15-17",
+      "summary": "U.S. Navy Adm. Steve Koehler, commander, U.S. Pacific Fleet, visited Port Moresby, Papua New Guines, Nov. 15-17 to affirm the longstanding partnership and bilateral relationship between Papua New Guinea and the United States.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579768/readout-pacific-fleet-commanders-travel-papua-new-guinea-nov-15-17",
+      "publishedAt": "2026-11-19T19:59:03Z"
+    },
     {
       "id": "73ea987b1ac0a3334b68ede6",
       "title": "READOUT: Pacific Fleet Commander’s travel to Tonga, Nov. 17-19",
@@ -316,51 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579642/oregon-guard-medevac-crews-fly-over-autzen-stadium",
       "publishedAt": "2026-11-18T18:48:55Z"
-    },
-    {
-      "id": "9040cb585033af24a9e13bf2",
-      "title": "346th AEW Defenders sharpen skills to counter small unmanned aircraft",
-      "summary": "Specialized, hands-on training provided by the 346th Air Expeditionary Wing builds the capability for Airmen and teams to counter small unmanned aircraft systems, or sUAS. That capability protects expeditionary air bases and sustains air operations in the U.S. Southern Command area of responsibility.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579632/346th-aew-defenders-sharpen-skills-counter-small-unmanned-aircraft",
-      "publishedAt": "2026-11-18T18:29:20Z"
-    },
-    {
-      "id": "0b2f719d42863893bcd7163d",
-      "title": "U.K. Carrier Strike Group Concludes 6-month Operation Firecrest Deployment",
-      "summary": "Royal Navy aircraft carrier HMS Prince of Wales (R09) returned Monday to its homeport of Portsmouth, concluding the U.K. Carrier Strike Group’s two-phase Operation Firecrest deployment. The deployment spanned six months and took the carrier strike group the Atlantic and High North.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/18/u-k-carrier-strike-group-concludes-6-month-operation-firecrest-deployment",
-      "publishedAt": "2026-11-18T18:23:31Z"
-    },
-    {
-      "id": "4bc3f5fb2b7d45d32afa931b",
-      "title": "Preventing illness on the global stage: Navy corpsman reflects on Pacific Partnership 2026",
-      "summary": "Hospital Corpsman 1st Class Sean Weimer, a preventive medicine technician assigned to Navy Medicine Readiness and Training Command Twentynine Palms, supported force health protection and international public health engagements during Pacific Partnership 2026 from June to July. Working alongside U.S.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579634/preventing-illness-global-stage-navy-corpsman-reflects-pacific-partnership-2026",
-      "publishedAt": "2026-11-18T17:54:35Z"
-    },
-    {
-      "id": "84e91c7d8113c5e6535b5b94",
-      "title": "Report to Congress on the Defense Innovation Ecosystem",
-      "summary": "The following is the Nov. 16, 2026, Congressional Research Service report, the Defense Innovation Ecosystem. From the Report Providing for the national defense is a central concern of Congress. Technological advantage has long contributed to decisive U.S. military victories and deterred potential conflicts. Underpinning U.S.",
-      "category": "Defense",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/18/report-to-congress-on-the-defense-innovation-ecosystem",
-      "publishedAt": "2026-11-18T15:32:41Z"
-    },
-    {
-      "id": "541390114241cf3309ce208f",
-      "title": "The Pentagon fails another audit. Can it turn things around by 2028?",
-      "summary": "The Defense Department has struggled for years to get its books in order. Now, officials say a new approach could change that.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/the-pentagon-fails-another-audit-can-it-turn-things-around-by-2028/",
-      "publishedAt": "2026-11-18T14:23:52Z"
     }
   ],
   "nextPage": "page-4.json"

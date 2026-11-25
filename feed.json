@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-24T23:55:06Z",
+  "generatedAt": "2026-11-25T08:41:42Z",
   "articles": [
+    {
+      "id": "14e408fcb451274c014e197c",
+      "title": "Pride of the Pack: Staff Sgt. Jacob Nowakowski",
+      "summary": "KUNSAN AIR BASE, Republic of Korea – U.S. Air Force Staff Sgt. Jacob Nowakowski, a native of Eureka, Mont., and 8th Aircraft Maintenance Squadron weapons load crew chief, was named the 8th Fighter Wing’s Pride of the Pack for the week of Nov. 23-27 for rapidly assuming major leadership roles within his unit in less than two months.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580263/pride-pack-staff-sgt-jacob-nowakowski",
+      "publishedAt": "2026-11-25T06:28:49Z"
+    },
+    {
+      "id": "f22fbf390903225192ed10d6",
+      "title": "Mustang Going Gold: Tyler Thomas’ Enlisted to Commissioning Journey",
+      "summary": "When U.S. Marine Corps 1st Lt. Tyler Thomas, III Marine Expeditionary Force Media Engagement Officer, was preparing to graduate high school in 2012, college was nowhere on his radar.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580262/mustang-going-gold-tyler-thomas-enlisted-commissioning-journey",
+      "publishedAt": "2026-11-25T05:33:04Z"
+    },
+    {
+      "id": "31128813fc53cb3b6666a3bd",
+      "title": "USNH Yokosuka hosts Joint Nursing Symposium with host-nation and joint military partners",
+      "summary": "YOKOSUKA, Japan (Nov. 3, 2026) — U.S. Naval Hospital (USNH) Yokosuka hosted its 2026 Joint Nursing Symposium at the Admiral Arleigh A. Burke Officers’ Club onboard Fleet Activities Yokosuka, bringing together nursing professionals from Japanese host-nation hospitals and U.S. military medical organizations.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580258/usnh-yokosuka-hosts-joint-nursing-symposium-with-host-nation-and-joint-military-partners",
+      "publishedAt": "2026-11-25T04:34:02Z"
+    },
+    {
+      "id": "b30fe6e0249f42a455743c88",
+      "title": "Mustang of the Week: Staff Sgt. Tina Wang",
+      "summary": "U.S. Air Force Staff Sgt. Tina Wang, 51st Operational Medical Readiness Squadron executive assistant, was selected as Mustang of the Week for her dedication to supporting Airmen, strengthening communication and helping ensure the squadron's mission continues to run smoothly.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580257/mustang-week-staff-sgt-tina-wang",
+      "publishedAt": "2026-11-25T04:24:42Z"
+    },
+    {
+      "id": "e5f6bda5d8b155c345454482",
+      "title": "Army announces controlled detonation of degraded explosive material at Iowa Army Ammunition Plant",
+      "summary": "The U.S. Army, in close coordination with the U.S. Environmental Protection Agency (EPA), the Federal Emergency Management Agency (FEMA), the Department of Health and Human Services (HHS), the Bureau of Alcohol, Tobacco, Firearms & Explosives (ATF), and state and local emergency management authorities, announced plans today to conduct a…",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580256/army-announces-controlled-detonation-degraded-explosive-material-iowa-army-ammunition-plant",
+      "publishedAt": "2026-11-25T03:21:45Z"
+    },
     {
       "id": "d8ef8e1bc0dfa6a1c631ff4b",
       "title": "Thunderbirds Conclude Historic, Record-Breaking 2026 Season",
@@ -316,51 +361,6 @@
       "sourceName": "Task & Purpose",
       "sourceUrl": "https://taskandpurpose.com/news/pentagon-canada-limit-social-activities/",
       "publishedAt": "2026-11-22T23:50:57Z"
-    },
-    {
-      "id": "37160ec56283a68cf53e7925",
-      "title": "USACE assists with local flood fight efforts in western Washington",
-      "summary": "U.S. Army Corps of Engineers' efforts to provide materials and assistance across western Washington in response to coastal flooding risk associated with king tides, coupled with storm surge, continues.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580018/usace-assists-with-local-flood-fight-efforts-western-washington",
-      "publishedAt": "2026-11-21T18:08:31Z"
-    },
-    {
-      "id": "9ca33c42f915322918acdc5c",
-      "title": "Despite Hegseth memo, Canada hasn’t seen changes to defense relationship with US, says DefMin",
-      "summary": "Chief Pentagon Spokesman Sean Parnell told Breaking Defense the department is “taking steps to ensure its engagements with Canada advance tangible US defense objectives and ultimately support a reinvigorated defense relationship.”",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/canada-hasnt-seen-changes-to-defense-relationship-with-us-says-mcguinty/",
-      "publishedAt": "2026-11-21T18:06:38Z"
-    },
-    {
-      "id": "a35ccb5880d3dff2edf6cf61",
-      "title": "Testing Emerging Sustainment Systems for the Modern Battlefield at Kinetic Reach",
-      "summary": "U.S. Army Soldiers evaluated emerging autonomous sustainment technologies during Kinetic Reach 2026, held Nov. 10-20 in Baumholder, Germany. Conducted by the 21st Theater Sustainment Command, U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580016/testing-emerging-sustainment-systems-modern-battlefield-kinetic-reach",
-      "publishedAt": "2026-11-21T14:20:55Z"
-    },
-    {
-      "id": "3e817178fc5b6a3632c405c6",
-      "title": "Florida National Guard Soldiers help protect Sanford hospital from flooding",
-      "summary": "SANFORD, FLORIDA – Florida National Guard soldiers constructed a temporary flood barrier to help protect a Sanford hospital from rising water as heavy flooding threatened parts of central Florida on November 20, 2026. First Lt.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580015/florida-national-guard-soldiers-help-protect-sanford-hospital-flooding",
-      "publishedAt": "2026-11-21T12:49:05Z"
-    },
-    {
-      "id": "d0a0305ecb694f45fa28e76b",
-      "title": "Missouri Air Guard Wing awarded Presidential Unit Citation",
-      "summary": "U. S. Air Force Chief of Staff Gen. Ken Wilsbach presented the Missouri Air National Guard’s 131st Bomb Wing the Presidential Unit Citation award during a ceremony at Whiteman Air Force Base, Missouri, Nov. 20, 2026, for their outstanding performance in Operation Midnight Hammer.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580009/missouri-air-guard-wing-awarded-presidential-unit-citation",
-      "publishedAt": "2026-11-21T00:04:23Z"
     }
   ],
   "nextPage": "pages/page-2.json"

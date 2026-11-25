@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-24T23:55:06Z",
+  "generatedAt": "2026-11-25T08:41:42Z",
   "articles": [
+    {
+      "id": "89757079a0ef20c750299cfb",
+      "title": "Pentagon fails 9th audit, asserts path towards clean books in 2028",
+      "summary": "“While we have made progress… [with] the most important development is our change in audit strategy,” the department’s comptroller Jules Hurst told reporters last week.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/pentagon-fails-9th-audit-asserts-path-towards-clean-books-in-2028/",
+      "publishedAt": "2026-11-16T22:11:50Z"
+    },
+    {
+      "id": "2be0901143d7138ca45c86c1",
+      "title": "USS Theodore Roosevelt Now in the Middle East, Lincoln’s Last Escorts Finally Home",
+      "summary": "A third U.S. aircraft carrier and its escorts are now in the Middle East. USS Theodore Roosevelt (CVN-71) chopped into U.S. 5th Fleet on Sunday. The arrival of the Theodore Roosevelt Carrier Strike Group makes three U.S. carrier strike groups in the Middle East, as tensions persist between the U.S. and Iran.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/16/uss-theodore-roosevelt-now-in-the-middle-east-lincolns-last-escorts-finally-home",
+      "publishedAt": "2026-11-16T21:42:08Z"
+    },
+    {
+      "id": "b707e64782a5c301cb65b982",
+      "title": "White House, U.S. Naval Academy Honor Historic 'First Salute' to American Sovereignty Alongside Partners",
+      "summary": "The U.S. Naval Academy and White House Task Force 250 hosted U.S. officials, Dutch Ambassador Birgitta Tazelaar, and international partners in Annapolis, Maryland, Nov.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579469/white-house-us-naval-academy-honor-historic-first-salute-american-sovereignty-alongside-partners",
+      "publishedAt": "2026-11-16T21:39:33Z"
+    },
+    {
+      "id": "4623152b0e2dfb70e150e332",
+      "title": "Fort McCoy garrison commander serves as guest speaker at Tomah VA Medical Center Veterans Day ceremony",
+      "summary": "TOMAH, Wis. — More than 100 Veterans, family members, caregivers, community members, volunteers, and staff gathered Nov. 10 at the Tomah VA Medical Center to recognize and honor the men and women who have served in the U.S. armed forces during the facility’s annual Veterans Day ceremony.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579466/fort-mccoy-garrison-commander-serves-guest-speaker-tomah-va-medical-center-veterans-day-ceremony",
+      "publishedAt": "2026-11-16T21:28:57Z"
+    },
+    {
+      "id": "53aa908fc1f19b655063ee67",
+      "title": "US Army takes ‘urgent’ action to build concrete bunkers across the Middle East",
+      "summary": "The Army acknowledged in a notice Friday that U.S. soldiers in the Middle East are \"currently at risk\" using personnel shelters made of converted shipping containers.",
+      "category": "Army",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/global/mideast-africa/2026/11/16/us-army-takes-urgent-action-to-build-concrete-bunkers-across-the-middle-east/",
+      "publishedAt": "2026-11-16T20:43:10Z"
+    },
     {
       "id": "876b3995769fcb31ab8dd389",
       "title": "USNI News Fleet and Marine Tracker: Nov. 16, 2026",
@@ -181,24 +226,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579374/75th-usaric-walks-walk-support-suicide-awareness-and-prevention",
       "publishedAt": "2026-11-15T19:22:14Z"
-    },
-    {
-      "id": "b3f7cb9c84db5bb17f36ef4e",
-      "title": "Kadena welcomes first permanently assigned F-15EX Eagle II aircraft",
-      "summary": "The first permanently assigned U.S. Air Force F-15EX Eagle II fighter aircraft arrived at Kadena Air Base, Japan, on Nov. 15, 2026, marking a major milestone in the 18th Wing's fighter modernization and the continued strengthening of U.S. airpower in the Pacific region.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579371/kadena-welcomes-first-permanently-assigned-f-15ex-eagle-ii-aircraft",
-      "publishedAt": "2026-11-15T03:03:44Z"
-    },
-    {
-      "id": "c6ce264bbe187819bbb70148",
-      "title": "Operation Frozen Recovery: Alaska Soldiers Retrieve Historic Signal Corps Radio",
-      "summary": "Nine Soldiers assigned to Headquarters and Headquarters Detachment, 59th Signal Battalion, recovered a historic U.S. Army Signal Corps radio from the wreckage of a U.S. Air Force TB-29 bomber in Alaska, Aug. 10-11, 2026. The radio had remained at the crash site since 1957, when the aircraft went down during a training mission.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579368/operation-frozen-recovery-alaska-soldiers-retrieve-historic-signal-corps-radio",
-      "publishedAt": "2026-11-15T00:53:16Z"
     }
   ]
 }
