@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-25T08:41:42Z",
+  "generatedAt": "2026-11-25T19:20:38Z",
   "articles": [
+    {
+      "id": "7cc36d358ae411dd4b8aedcc",
+      "title": "U.S. Marines, Finnish military build maritime readiness in the Baltic",
+      "summary": "U.S. Marines, alongside Finnish and Estonian forces, will strengthen combined maritime readiness during Finnish Navy-led Exercise Narrow Waters, scheduled for Nov. 26 through Dec. 4, 2026, in the Northern Baltic Sea and Gulf of Finland. Led by Finnish naval forces, the exercise builds on recent Allied cooperation in the region, including U.S.",
+      "category": "Marine Corps",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580028/us-marines-finnish-military-build-maritime-readiness-baltic",
+      "publishedAt": "2026-11-23T08:32:10Z"
+    },
+    {
+      "id": "32378c0c844af6d04a39f4c6",
+      "title": "Proving their mettle: More than 1,100 U.S., ROK troops take on E2B",
+      "summary": "More than 1,100 U.S. and Republic of Korea service members tested their tactical proficiency side by side across Camp Casey and Camp Hovey during a weeklong combined Expert Infantryman Badge and Expert Soldier Badge qualification, known as E2B, which concluded Nov. 21.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580027/proving-their-mettle-more-than-1100-us-rok-troops-take-e2b",
+      "publishedAt": "2026-11-23T08:29:18Z"
+    },
+    {
+      "id": "7005e677647fb82f290a8144",
+      "title": "SETAF-AF will build readiness, test capabilities for how the Army fights through connected campaign in Africa",
+      "summary": "U.S. Army Southern European Task Force, Africa (SETAF-AF) will strengthen the Army's land power network on the continent by linking its fiscal year 2027 events into a connected innovation campaign in support of U.S. Africa Command.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580017/setaf-af-will-build-readiness-test-capabilities-army-fights-through-connected-campaign-africa",
+      "publishedAt": "2026-11-23T08:06:51Z"
+    },
+    {
+      "id": "cb0efb31951772ae21b00000",
+      "title": "3rd LSB redesignates to distribution battalion in Okinawa",
+      "summary": "U.S. Marines and Sailors with 3rd Distribution Support Battalion, 3rd Marine Logistics Group, participate in a redesignation ceremony at Camp Foster, Okinawa, Japan, Nov. 18, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580023/3rd-lsb-redesignates-distribution-battalion-okinawa",
+      "publishedAt": "2026-11-23T06:25:22Z"
+    },
+    {
+      "id": "c0e8eb471317bc15e0cf728a",
+      "title": "USARPAC Best Medic Competition Tests Medical Readiness Across the Indo-Pacific",
+      "summary": "U.S. Army Pacific (USARPAC) hosted its annual Best Medic Competition Nov. 16-20, bringing together Soldiers from various medical specialties across multiple USARPAC units to demonstrate their physical fitness, medical proficiency and ability to perform under pressure.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580025/usarpac-best-medic-competition-tests-medical-readiness-across-indo-pacific",
+      "publishedAt": "2026-11-23T06:21:27Z"
+    },
+    {
+      "id": "bcb70ce2a53010742e12841f",
+      "title": "CNFK Hosts 2026 Trilateral Junior Officer Exchange in Republic of Korea",
+      "summary": "Junior officers assigned to Commander, U.S. Naval Forces Korea, U.S. Marine Forces Korea, the Republic of Korea Navy, and the Japan Maritime Self-Defense Force participated in the 2026 Trilateral Junior Officer Exchange in the Republic of Korea, Nov. 12-14.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580022/cnfk-hosts-2026-trilateral-junior-officer-exchange-republic-korea",
+      "publishedAt": "2026-11-23T05:52:54Z"
+    },
+    {
+      "id": "3e4d3862d9ff4ccc11d2799d",
+      "title": "National Guard, Law Enforcement Partners Honor Fallen Soldier Sgt. Sarah Beckstrom in Wreath-Laying Ceremonies",
+      "summary": "Senior military and federal law enforcement leaders gathered Nov. 21, 2026, at the National Law Enforcement Officers Memorial in Washington and the Tomb of the Unknown Soldier at Arlington National Cemetery in Arlington, Virginia, for solemn wreath-laying ceremonies honoring the life and ultimate sacrifice of U.S. Army Sgt. Sarah Beckstrom.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580020/national-guard-law-enforcement-partners-honor-fallen-soldier-sgt-sarah-beckstrom-wreath-laying-ceremonies",
+      "publishedAt": "2026-11-22T23:51:57Z"
+    },
+    {
+      "id": "28cb0581e131cf136ef7508e",
+      "title": "Pentagon moves to limit social activities with Canadian troops",
+      "summary": "A new directive won’t change operations with NORAD but follows similar restrictions with think tanks and academic participation. The post Pentagon moves to limit social activities with Canadian troops appeared first on Task & Purpose .",
+      "category": "Defense",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/pentagon-canada-limit-social-activities/",
+      "publishedAt": "2026-11-22T23:50:57Z"
+    },
     {
       "id": "37160ec56283a68cf53e7925",
       "title": "USACE assists with local flood fight efforts in western Washington",
@@ -289,78 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579802/utah-national-guard-welcomes-new-senior-enlisted-leader-csm-spencer-nielsen-retires-after-33-years-service",
       "publishedAt": "2026-11-20T01:13:56Z"
-    },
-    {
-      "id": "a03ef8f72f0364c555c0988d",
-      "title": "U.S. Army Yuma Proving Ground Soldiers spread Thanksgiving cheer",
-      "summary": "The residents of the Arizona State Veteran Home Yuma are having a happier Thanksgiving after a visit from Soldiers from U.S. Army Yuma Proving Ground.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579800/us-army-yuma-proving-ground-soldiers-spread-thanksgiving-cheer",
-      "publishedAt": "2026-11-19T23:59:19Z"
-    },
-    {
-      "id": "f9276de3283ed3ff3fbc6d43",
-      "title": "A Different Path to Service: Federal Way Sailor Returns to His Recruiting Roots",
-      "summary": "For Conner DeCoursey, returning home from Marine Corps recruit training in 2025 was not the homecoming he had imagined. He had left Federal Way, Washington, determined to earn the title of United States Marine, beginning what he believed would be a career serving his country.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579795/different-path-service-federal-way-sailor-returns-his-recruiting-roots",
-      "publishedAt": "2026-11-19T22:55:34Z"
-    },
-    {
-      "id": "f3ebd75a6e6a298f6a2abbdf",
-      "title": "JPMRC 27-01: 5th SFAB Validates Advisor Readiness, Refines Warfighting Role",
-      "summary": "SCHOFIELD BARRACKS, Hawaii — As the U.S. Army continues to transform how it fights, Soldiers assigned to the 5th Security Force Assistance Brigade (5th SFAB) are leveraging the Joint Pacific Multinational Readiness Center (JPMRC) 27-01 rotation in Hawaii to validate Force Package Task Force elements preparing for upcoming deployments while further…",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579792/jpmrc-27-01-5th-sfab-validates-advisor-readiness-refines-warfighting-role",
-      "publishedAt": "2026-11-19T22:32:50Z"
-    },
-    {
-      "id": "5fc372221f52687e8453718f",
-      "title": "La. Guard’s 773d Military Police Battalion welcomes new commander",
-      "summary": "PINEVILLE, La. – The Louisiana National Guard’s 773d Military Police Battalion, 139th Regional Support Group, welcomed a new commander during a change of command ceremony at the Armed Forces Readiness Center at Camp Beauregard, Nov. 15, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579787/la-guards-773d-military-police-battalion-welcomes-new-commander",
-      "publishedAt": "2026-11-19T22:09:42Z"
-    },
-    {
-      "id": "8f2ee6fbf256df74b631d680",
-      "title": "159th Fighter Wing gains new cyberspace operations squadron",
-      "summary": "NEW ORLEANS – The Louisiana Air National Guard’s 122d Air Support Operations Squadron was redesignated as the 122d Cyberspace Operations Squadron during a ceremony at Jackson Barracks, Nov. 7, 2026, establishing a new cyber mission within the 159th Fighter Wing.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579784/159th-fighter-wing-gains-new-cyberspace-operations-squadron",
-      "publishedAt": "2026-11-19T22:09:41Z"
-    },
-    {
-      "id": "772aeba035bdb120e139846b",
-      "title": "DSCU and Armenian Defense Leaders Partner to Advance Military Transformation in Armenia",
-      "summary": "The Defense Security Cooperation University (DSCU) spearheaded an intensive Strategic Leadership and Planning course here, marking a significant milestone in Armenia’s military transformation and deepening bilateral defense cooperation with the United States.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579785/dscu-and-armenian-defense-leaders-partner-advance-military-transformation-armenia",
-      "publishedAt": "2026-11-19T21:57:37Z"
-    },
-    {
-      "id": "cffe26b76940d30ae11e9ba3",
-      "title": "Modernizing Mateship: Marine Corps Acquisition Leaders Strengthen Partnerships With Australia",
-      "summary": "Portfolio Acquisition Executive Marine Corps (PAE MC) officials traveled Sept. 28 to Oct. 10 to strengthen military partnerships and explore how Australia's industrial capacity could help sustain U.S. Marines operating across the Pacific theater. Led by Col.",
-      "category": "Marine Corps",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579782/modernizing-mateship-marine-corps-acquisition-leaders-strengthen-partnerships-with-australia",
-      "publishedAt": "2026-11-19T21:36:46Z"
-    },
-    {
-      "id": "fc74ba423f01d563f80ee762",
-      "title": "Navy Wants New U.S. Frigate Shipyard Paid for by Foreign Shipbuilder",
-      "summary": "WASHINGTON — The Navy wants a new foreign-owned shipyard devoted to building small surface combatants in the United States, the service’s nominee for its number two civilian told lawmakers Thursday. Pressed by Sen.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/19/navy-wants-new-u-s-frigate-shipyard-paid-for-by-foreign-shipbuilder",
-      "publishedAt": "2026-11-19T21:15:50Z"
     }
   ],
   "nextPage": "page-3.json"

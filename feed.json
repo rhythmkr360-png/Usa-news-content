@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-25T08:41:42Z",
+  "generatedAt": "2026-11-25T19:20:38Z",
   "articles": [
+    {
+      "id": "8ff728b948bae58f5423767e",
+      "title": "A degree of gratitude: Airmen surprise fellow Guardsman with graduation ceremony",
+      "summary": "U.S. Air Force Master Sgt. Christine Norman, a personnel systems manager with the 189th Force Support Squadron, received a surprise commencement ceremony Nov. 12 after earning her bachelor's degree in applied human resources management from Grand Canyon University.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580295/degree-gratitude-airmen-surprise-fellow-guardsman-with-graduation-ceremony",
+      "publishedAt": "2026-11-25T17:36:01Z"
+    },
+    {
+      "id": "685ed1394bdf387b895508bd",
+      "title": "Air Force issues Boeing $2.8 billion for more KC-46s",
+      "summary": "The award brings the total number of air refuelers under contract to 203, and is the final production batch for the US Air Force under the program’s original fixed-price contract.",
+      "category": "Air Force",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/air-force-issues-boeing-2-8-billion-for-more-kc-46s/",
+      "publishedAt": "2026-11-25T16:45:00Z"
+    },
+    {
+      "id": "a5e76b8de64ef29b70a833c2",
+      "title": "Different branches, same mission: Marine firefighters conduct live-fire training at JBLG",
+      "summary": "JOINT BASE LINDSEY GRAHAM, S.C. — U.S. Marines with Aircraft Rescue Firefighting, Marine Corps Air Station Beaufort conducted live-fire aircraft training using a C-17 Globemaster III to practice emergency response procedures and strengthen their firefighting capabilities, Nov. 17 and 18, 2026, at Joint Base Lindsey Graham.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580286/different-branches-same-mission-marine-firefighters-conduct-live-fire-training-jblg",
+      "publishedAt": "2026-11-25T16:16:12Z"
+    },
+    {
+      "id": "5e6a588636ffd88a37e016d7",
+      "title": "Washington National Guard History: F.A. Boutelle’s Unlikely Journey to Adjutant General",
+      "summary": "After fighting at the Second Battle of Bull Run and finishing the Civil War as a Union cavalry captain, Frazier Augustus Boutelle returned to military service in 1866 as a private. He earned a new commission in the Regular Army and served as acting superintendent of Yellowstone National Park before becoming Washington’s adjutant general in 1895.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580281/washington-national-guard-history-fa-boutelles-unlikely-journey-adjutant-general",
+      "publishedAt": "2026-11-25T15:45:26Z"
+    },
+    {
+      "id": "ddb27316bc85744cf875bc03",
+      "title": "US Air Force buys final KC-46 lot under Boeing’s original tanker deal",
+      "summary": "The Pentagon announced a $2.82 billion Boeing contract for 15 more KC-46A Pegasus tankers, the final production lot under the program's original 2011 contract.",
+      "category": "Air Force",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/11/25/us-air-force-buys-final-kc-46-lot-under-boeings-original-tanker-deal/",
+      "publishedAt": "2026-11-25T14:58:13Z"
+    },
+    {
+      "id": "edf3292dad18fe35ca2bdc7a",
+      "title": "Opening Remarks from Richard Breckenridge to be the Navy’s Chief Acquisition Official",
+      "summary": "The following are Richard Breckenridge’s opening remarks, provided to the U.S. Senate Committee on Armed Services during a Nov. 19, 2026, hearing to consider Breckenridge to be the assistant secretary of the Navy for research, development and acquisition.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/25/opening-remarks-from-richard-breckenridge-to-be-the-navys-chief-acquisition-official",
+      "publishedAt": "2026-11-25T14:43:05Z"
+    },
+    {
+      "id": "eb6634042a07cabb9b54a893",
+      "title": "Why the Pentagon is asking for ‘anomalies’ as it plans for a long-term CR",
+      "summary": "The Trump administration is trying to protect Golden Dome and other priority programs as the budget remains uncertain.",
+      "category": "Defense",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://breakingdefense.com/2026/11/why-the-pentagon-is-asking-for-anomalies-as-it-plans-for-a-long-term-cr/",
+      "publishedAt": "2026-11-25T14:40:55Z"
+    },
+    {
+      "id": "a0be83f64e5d406dac5d8345",
+      "title": "More than 100 military families sue contractor over rampant mold on Florida base housing",
+      "summary": "MacDill Air Force Base is at the center of what may be the largest military housing lawsuit in United States history. The post More than 100 military families sue contractor over rampant mold on Florida base housing appeared first on Task & Purpose .",
+      "category": "Defense",
+      "sourceName": "Task & Purpose",
+      "sourceUrl": "https://taskandpurpose.com/news/macdill-base-housing-mold-lawsuit/",
+      "publishedAt": "2026-11-25T13:00:00Z"
+    },
     {
       "id": "14e408fcb451274c014e197c",
       "title": "Pride of the Pack: Staff Sgt. Jacob Nowakowski",
@@ -289,78 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/580029/learning-industry-europe-district-holds-design-build-bootcamp-its-employees",
       "publishedAt": "2026-11-23T08:35:04Z"
-    },
-    {
-      "id": "7cc36d358ae411dd4b8aedcc",
-      "title": "U.S. Marines, Finnish military build maritime readiness in the Baltic",
-      "summary": "U.S. Marines, alongside Finnish and Estonian forces, will strengthen combined maritime readiness during Finnish Navy-led Exercise Narrow Waters, scheduled for Nov. 26 through Dec. 4, 2026, in the Northern Baltic Sea and Gulf of Finland. Led by Finnish naval forces, the exercise builds on recent Allied cooperation in the region, including U.S.",
-      "category": "Marine Corps",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580028/us-marines-finnish-military-build-maritime-readiness-baltic",
-      "publishedAt": "2026-11-23T08:32:10Z"
-    },
-    {
-      "id": "32378c0c844af6d04a39f4c6",
-      "title": "Proving their mettle: More than 1,100 U.S., ROK troops take on E2B",
-      "summary": "More than 1,100 U.S. and Republic of Korea service members tested their tactical proficiency side by side across Camp Casey and Camp Hovey during a weeklong combined Expert Infantryman Badge and Expert Soldier Badge qualification, known as E2B, which concluded Nov. 21.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580027/proving-their-mettle-more-than-1100-us-rok-troops-take-e2b",
-      "publishedAt": "2026-11-23T08:29:18Z"
-    },
-    {
-      "id": "7005e677647fb82f290a8144",
-      "title": "SETAF-AF will build readiness, test capabilities for how the Army fights through connected campaign in Africa",
-      "summary": "U.S. Army Southern European Task Force, Africa (SETAF-AF) will strengthen the Army's land power network on the continent by linking its fiscal year 2027 events into a connected innovation campaign in support of U.S. Africa Command.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580017/setaf-af-will-build-readiness-test-capabilities-army-fights-through-connected-campaign-africa",
-      "publishedAt": "2026-11-23T08:06:51Z"
-    },
-    {
-      "id": "cb0efb31951772ae21b00000",
-      "title": "3rd LSB redesignates to distribution battalion in Okinawa",
-      "summary": "U.S. Marines and Sailors with 3rd Distribution Support Battalion, 3rd Marine Logistics Group, participate in a redesignation ceremony at Camp Foster, Okinawa, Japan, Nov. 18, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580023/3rd-lsb-redesignates-distribution-battalion-okinawa",
-      "publishedAt": "2026-11-23T06:25:22Z"
-    },
-    {
-      "id": "c0e8eb471317bc15e0cf728a",
-      "title": "USARPAC Best Medic Competition Tests Medical Readiness Across the Indo-Pacific",
-      "summary": "U.S. Army Pacific (USARPAC) hosted its annual Best Medic Competition Nov. 16-20, bringing together Soldiers from various medical specialties across multiple USARPAC units to demonstrate their physical fitness, medical proficiency and ability to perform under pressure.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580025/usarpac-best-medic-competition-tests-medical-readiness-across-indo-pacific",
-      "publishedAt": "2026-11-23T06:21:27Z"
-    },
-    {
-      "id": "bcb70ce2a53010742e12841f",
-      "title": "CNFK Hosts 2026 Trilateral Junior Officer Exchange in Republic of Korea",
-      "summary": "Junior officers assigned to Commander, U.S. Naval Forces Korea, U.S. Marine Forces Korea, the Republic of Korea Navy, and the Japan Maritime Self-Defense Force participated in the 2026 Trilateral Junior Officer Exchange in the Republic of Korea, Nov. 12-14.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580022/cnfk-hosts-2026-trilateral-junior-officer-exchange-republic-korea",
-      "publishedAt": "2026-11-23T05:52:54Z"
-    },
-    {
-      "id": "3e4d3862d9ff4ccc11d2799d",
-      "title": "National Guard, Law Enforcement Partners Honor Fallen Soldier Sgt. Sarah Beckstrom in Wreath-Laying Ceremonies",
-      "summary": "Senior military and federal law enforcement leaders gathered Nov. 21, 2026, at the National Law Enforcement Officers Memorial in Washington and the Tomb of the Unknown Soldier at Arlington National Cemetery in Arlington, Virginia, for solemn wreath-laying ceremonies honoring the life and ultimate sacrifice of U.S. Army Sgt. Sarah Beckstrom.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580020/national-guard-law-enforcement-partners-honor-fallen-soldier-sgt-sarah-beckstrom-wreath-laying-ceremonies",
-      "publishedAt": "2026-11-22T23:51:57Z"
-    },
-    {
-      "id": "28cb0581e131cf136ef7508e",
-      "title": "Pentagon moves to limit social activities with Canadian troops",
-      "summary": "A new directive won’t change operations with NORAD but follows similar restrictions with think tanks and academic participation. The post Pentagon moves to limit social activities with Canadian troops appeared first on Task & Purpose .",
-      "category": "Defense",
-      "sourceName": "Task & Purpose",
-      "sourceUrl": "https://taskandpurpose.com/news/pentagon-canada-limit-social-activities/",
-      "publishedAt": "2026-11-22T23:50:57Z"
     }
   ],
   "nextPage": "pages/page-2.json"
