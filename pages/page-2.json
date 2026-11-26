@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-26T03:36:17Z",
+  "generatedAt": "2026-11-26T16:58:15Z",
   "articles": [
+    {
+      "id": "6a249f50ab8ea889083b1212",
+      "title": "419th FSS Commander Shares Meaning of Veterans Day with Local Third-Graders",
+      "summary": "Third-grade students at Municipal Elementary School received a firsthand lesson on military service and history on Veterans Day, Nov. 11, when U.S. Air Force Maj. Andrew Olsen, commander of the 419th Force Support Squadron at Hill Air Force Base, visited their classrooms to speak about the holiday.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580127/419th-fss-commander-shares-meaning-veterans-day-with-local-third-graders",
+      "publishedAt": "2026-11-24T02:08:56Z"
+    },
+    {
+      "id": "f818ec81984394aaf8eb3da9",
+      "title": "515th AMOW Airmen connect with Radford students",
+      "summary": "515th Air Mobility Operations Wing participated in a career day at Radford High School, sharing their experiences in aviation and aircraft maintenance while highlighting career opportunities in the U.S. Air Force.",
+      "category": "Air Force",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580126/515th-amow-airmen-connect-with-radford-students",
+      "publishedAt": "2026-11-24T02:00:50Z"
+    },
     {
       "id": "16d7083da573acf8df1e2611",
       "title": "403rd AFSB hosts community kimchi making event",
@@ -343,24 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579979/us-army-chief-warrant-officer-2-bradley-smith-promoted-ceremony-pinned-spouse-1st-lt-amanda-diclerico",
       "publishedAt": "2026-11-20T19:23:55Z"
-    },
-    {
-      "id": "0439ac07831c94c5a4991056",
-      "title": "U.S. Army Recruiting Battalion Celebrates Key Milestones: Two Noncommissioned Officers Promoted to Staff Sergeant, Recruiter Ring Awarded",
-      "summary": "The Oklahoma City Recruiting Battalion proudly recognized the leadership, dedication, and professional excellence of two local Noncommissioned Officers during a promotion ceremony honoring Staff Sgt. Ryan Markowski and Staff Sgt. Andrea MesaHernandez, both advancing from the rank of Sergeant to Staff Sergeant.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579976/us-army-recruiting-battalion-celebrates-key-milestones-two-noncommissioned-officers-promoted-staff-sergeant-recruiter-ring-awarded",
-      "publishedAt": "2026-11-20T19:20:51Z"
-    },
-    {
-      "id": "290cabd19f339ee182e2a609",
-      "title": "Green Mountain Chapter of Air & Space Forces Association Pauses Operations After Decades of Service",
-      "summary": "After decades of advocating for American airpower, supporting military members and strengthening connections between Vermont’s military and civilian communities, the Green Mountain Chapter of the Air & Space Forces Association (AFA) gathered Nov.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579975/green-mountain-chapter-air-space-forces-association-pauses-operations-after-decades-service",
-      "publishedAt": "2026-11-20T19:12:56Z"
     }
   ],
   "nextPage": "page-3.json"

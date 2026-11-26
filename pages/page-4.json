@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-26T03:36:17Z",
+  "generatedAt": "2026-11-26T16:58:15Z",
   "articles": [
+    {
+      "id": "048bad3d8b1b6f5311e18c3d",
+      "title": "U.S. Army Soldiers assigned to the 2-11 Field Artillery Regiment, 25th Infantry Division Artillery Brigade, 25th Infantry Division and U.S. Air Force Airmen with the 15th Wing execute a High Mobility Artillery Rocket Sys",
+      "summary": "U.S. Army Soldiers assigned to the 2-11 Field Artillery Regiment, 25th Infantry Division Artillery Brigade, 25th Infantry Division and U.S. Air Force Airmen with the 15th Wing execute a High Mobility Artillery Rocket System (HIMARS) Rapid Infiltration (HIRAIN) dr The Killeen Daily Herald",
+      "category": "Air Force",
+      "sourceName": "The Killeen Daily Herald",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUktyYjRHZlNxcHBkNk9MbnR3UlNjU2l0VHd5ZVg5RXE2bmNMQTJocTJJVjR1NmJ5ZlhRNF9nNlRSVk82V2tuWnE1NGxlN0c0ZWNnR1BmSnFlU3JxQlZGMEtDaHQxMmZGSVpRRWZET3JMZ2xFM3k1dWxLb0RXN2Z1eGlLUUlaaDV1MnM3d1RpR2pRVW9pdjlYdHNLel9jcDJTN09DQ0xKVDBwUk5tY3FCS05fQlRKcmhkNndackxJREtPS2hZeW1fVkRsZ0paSC1JMzFTb3dWNWo1QzN4eU9saUZKc1VBYkk5Y3c?oc=5",
+      "publishedAt": "2026-11-19T03:08:00Z"
+    },
+    {
+      "id": "e0902fcc2252f9363c45b598",
+      "title": "U.S. Navy and Coast Guard Divers Restore Critical Aids to Navigation in Mariana Islands",
+      "summary": "SANTA RITA, Guam – U.S. Navy divers assigned to Commander, Task Group (CTG) 73.6, operating under Commander, Task Force (CTF) 73, partnered with U.S. Coast Guard divers to reposition and service critical aids to navigation near Guam, Saipan and Tinian, ensuring safe maritime access following storm-related damage.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579691/us-navy-and-coast-guard-divers-restore-critical-aids-navigation-mariana-islands",
+      "publishedAt": "2026-11-19T02:56:16Z"
+    },
     {
       "id": "ade0e3814823d212a8b78d65",
       "title": "White House: US eyes $2B in military financing for PH, SCS deterrence MANILA – The United States plans to provide the Philippines with USD2 billion in foreign military financing (FMF), with USD400 million earmarked to st",
@@ -343,24 +361,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/global/europe/2026/11/17/lithuanian-president-says-us-troop-rotations-will-continue-beyond-latest-deployment/",
       "publishedAt": "2026-11-17T17:04:13Z"
-    },
-    {
-      "id": "d9da1c3c83aadab040b8eea2",
-      "title": "Trump seeks nuclear cuts at summit with Putin and Xi, but prospects are low",
-      "summary": "From the U.S. side, meanwhile, the Trump administration surprised many observers by pushing for discussions about reducing nuclear weapons while in Shenzhen.",
-      "category": "Defense",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/global/the-americas/2026/11/17/trump-seeks-nuclear-cuts-at-summit-with-putin-and-xi-but-prospects-are-low/",
-      "publishedAt": "2026-11-17T16:10:34Z"
-    },
-    {
-      "id": "17569ba086acf01ca78a5b1e",
-      "title": "NATO kicks off 11-nation Starlift satellite launch program",
-      "summary": "Notably, four countries that were original participants of the space effort were left out of today’s announcement — France, Hungary, Luxembourg and the United States.",
-      "category": "Space Force",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/nato-kicks-off-11-nation-starlift-satellite-launch-program/",
-      "publishedAt": "2026-11-17T15:34:16Z"
     }
   ],
   "nextPage": "page-5.json"
