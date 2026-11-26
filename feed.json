@@ -1,7 +1,97 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-25T19:20:38Z",
+  "generatedAt": "2026-11-26T03:36:17Z",
   "articles": [
+    {
+      "id": "4a5356d77e2d783fbcf01fa9",
+      "title": "Recce Town Spotlight: Staff Sgt. Cristian Martinez",
+      "summary": "The 9th Reconnaissance Wing selected U.S. Air Force Staff Sgt. Cristian Martinez, 9th Operational Medical Readiness Squadron optometry noncommissioned officer in charge, as November’s Recce Town Spotlight recipient for his leadership, dedication to patient care and contributions to mission readiness.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580334/recce-town-spotlight-staff-sgt-cristian-martinez",
+      "publishedAt": "2026-11-26T03:30:54Z"
+    },
+    {
+      "id": "f4e88c8b646cd48b0d9c352a",
+      "title": "Joint Navy-Coast Guard Maritime Security Exercise Strengthens Interoperability",
+      "summary": "SEAL BEACH, Calif. -- U.S. Navy Maritime Expeditionary Security Squadron (MSRON) 7 completed a maritime security training exercise off the coast of Long Beach, Calif. alongside U.S. Coast Guard Port Security Unit (PSU) 311 and the Sentinel-class fast response cutter USCGC Robert Ward (WPC-1130), Nov. 7.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580330/joint-navy-coast-guard-maritime-security-exercise-strengthens-interoperability",
+      "publishedAt": "2026-11-26T03:15:41Z"
+    },
+    {
+      "id": "f848ca659d944ed0296a4f87",
+      "title": "JMSDF, U.S. conduct Mine Warfare Exercise 3JA",
+      "summary": "The U.S. Navy and Japan Maritime Self-Defense Force (JMSDF) conducted Mine Warfare Exercise 3JA (MINEX 3JA) 2026 in the vicinity of Hososhima, Japan, Nov. 10–26, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580325/jmsdf-us-conduct-mine-warfare-exercise-3ja",
+      "publishedAt": "2026-11-26T00:31:35Z"
+    },
+    {
+      "id": "b4267da049fee2a77b58b2b2",
+      "title": "Escape from Kabul: One Ally’s Journey to Serve the U.S.",
+      "summary": "A former Afghan interpreter and logistics specialist who narrowly escaped the 2021 fall of Kabul brought his journey of service full circle by enlisting in the U.S. Air Force Reserve. Zakaria “Zak” Bahaduri, who supported U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580322/escape-kabul-one-allys-journey-serve-us",
+      "publishedAt": "2026-11-25T23:41:00Z"
+    },
+    {
+      "id": "2318e06081091db174fe940f",
+      "title": "Send Me: The making of a Soldier | Week 9",
+      "summary": "Closing in on the final hurdle of U.S. Army Basic Combat Training, Fort Leonard Wood trainees with Company A, 3rd Battalion, 10th Infantry Regiment, 3rd Chemical Brigade, started Week 9 as trainees and ended it as U.S. Army Soldiers.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580320/send-me-making-soldier-week-9",
+      "publishedAt": "2026-11-25T21:55:16Z"
+    },
+    {
+      "id": "3e3fb9cfb9ac2d8a203e73c5",
+      "title": "Carla Babb Named Head of Content for Military Times and Defense News",
+      "summary": "Carla Babb is joining Military Times and Defense News as our new Head of Content. In nearly two decades covering national security and international affairs, Babb has earned a reputation for fearless, fact-driven journalism and deep relationships across the U.S. defense establishment.",
+      "category": "Defense",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/news/2026/11/25/carla-babb-named-head-of-content-for-military-times-and-defense-news/",
+      "publishedAt": "2026-11-25T21:51:50Z"
+    },
+    {
+      "id": "2491f49a23d71a37ccf53cce",
+      "title": "Pacific Land Forces Strengthen Cooperation During Land Forces Dialogue Technical Working Group in Sydney",
+      "summary": "Military planners and senior leaders from Australia, Japan, the Philippines and the United States convened in Sydney, Nov. 17-20, 2026, for the Land Forces Dialogue Technical Working Group, bringing together four nations and six military services to strengthen multinational land force integration and operational readiness across the Indo-Pacific.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580318/pacific-land-forces-strengthen-cooperation-during-land-forces-dialogue-technical-working-group-sydney",
+      "publishedAt": "2026-11-25T21:02:32Z"
+    },
+    {
+      "id": "0cb330e714a33d6aeed2d25f",
+      "title": "STEU2 Strengthens Readiness for Atlantic Fleet Seabees",
+      "summary": "NAVAL CONSTRUCTION BATTALION CENTER GULFPORT, Miss. — The U.S. Navy officially established Seabee Training and Evaluation Unit (STEU) Two during a joint disestablishment and establishment ceremony at Naval Construction Battalion Center (NCBC) Gulfport, Mississippi, Aug. 28, 2026.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580315/steu2-strengthens-readiness-atlantic-fleet-seabees",
+      "publishedAt": "2026-11-25T20:14:26Z"
+    },
+    {
+      "id": "720d4ece32972aa057cd85bf",
+      "title": "Korean War Veteran Presented Long Overdue Medals and Decorations",
+      "summary": "HONOLULU — 97-year-old U.S. Army veteran who served in WWII and the Korean War received his long-overdue military recognition more than seven decades after serving his country.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580312/korean-war-veteran-presented-long-overdue-medals-and-decorations",
+      "publishedAt": "2026-11-25T20:03:28Z"
+    },
+    {
+      "id": "1e796b93b1d65b1996652904",
+      "title": "The next generation of music",
+      "summary": "The U.S. Air Force Band's Airmen of Note toured the midwest region, mentoring high school and college jazz musicians.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580310/next-generation-music",
+      "publishedAt": "2026-11-25T19:29:16Z"
+    },
     {
       "id": "8ff728b948bae58f5423767e",
       "title": "A degree of gratitude: Airmen surprise fellow Guardsman with graduation ceremony",
@@ -271,96 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/580126/515th-amow-airmen-connect-with-radford-students",
       "publishedAt": "2026-11-24T02:00:50Z"
-    },
-    {
-      "id": "16d7083da573acf8df1e2611",
-      "title": "403rd AFSB hosts community kimchi making event",
-      "summary": "More than 40 Soldiers, KATUSA Soldiers, civilian employees and family members from the 403rd AFSB, 19th ESC, 168th MMB, and USAG-Daegu participated in the kimjang event at the U.S. Army Garrison-Daegu Chapel Annex, Nov. 18. Kimjang is the traditional Korean practice of making and sharing large batches of kimchi in late autumn or early winter.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580125/403rd-afsb-hosts-community-kimchi-making-event",
-      "publishedAt": "2026-11-24T00:59:02Z"
-    },
-    {
-      "id": "cc661b9b3df7c845ebf9ba74",
-      "title": "3rd MLG conducts tsunami evacuation drill alongside Urasoe City officials",
-      "summary": "U.S. Marine Corps Col. Robert Gerbracht, commanding officer of Combat Logistics Regiment 37, 3rd Marine Logistics Group, and base commander of Camp Kinser, guides Urasoe City Mayor Tetsuji Matsumoto and other city officials through the installation during a tsunami evacuation drill at Camp Kinser, Okinawa, Japan, Nov. 19, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580123/3rd-mlg-conducts-tsunami-evacuation-drill-alongside-urasoe-city-officials",
-      "publishedAt": "2026-11-23T23:58:41Z"
-    },
-    {
-      "id": "7211442d2d9d39b2f4840e01",
-      "title": "MSCoE, Fort Leonard Wood welcomes new commanding general",
-      "summary": "Brig. Gen. Daniel Hibner assumed command of the U.S. Army Maneuver Support Center of Excellence and Fort Leonard Wood Nov. 23, 2026, in a ceremony on MSCoE Plaza.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580118/mscoe-fort-leonard-wood-welcomes-new-commanding-general",
-      "publishedAt": "2026-11-23T22:26:40Z"
-    },
-    {
-      "id": "34573a63c509373d2bc465fd",
-      "title": "Serving the one beside you: Tooele depot commander reflects on sacrifice and faith",
-      "summary": "At a Veterans Day event in Tooele, Utah, Col. Ben Fortune, Commander, Tooele Army Depot, illustrates the service and sacrifice made by veterans of the U.S.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580116/serving-one-beside-you-tooele-depot-commander-reflects-sacrifice-and-faith",
-      "publishedAt": "2026-11-23T22:25:23Z"
-    },
-    {
-      "id": "12c4bc161e36433fe1b12099",
-      "title": "Oregon Guard Physician Assistant Adds L-Sit Chin-Up World Record to His Collection",
-      "summary": "Maj. Tommy Vu, a physician assistant with the Oregon Army National Guard Medical Command, completed 425 L-sit chin-ups in one hour on Nov. 21, 2026, at Keizer Physiq in Keizer, Oregon. That beat the previous Guinness World Records mark of 371.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580108/oregon-guard-physician-assistant-adds-l-sit-chin-up-world-record-his-collection",
-      "publishedAt": "2026-11-23T20:52:12Z"
-    },
-    {
-      "id": "3e08f2b3b34ed3f1ceacef53",
-      "title": "Hawaiʻi National Guard Completes Months-Long Tropical Cyclone Lala Recovery",
-      "summary": "The Hawaiʻi National Guard (HING) concluded its support to Tropical Cyclone Lala recovery operations Oct. 30, 2026, marking the completion of a multi-month disaster response that brought soldiers and airmen together with state and county agencies to assist storm-affected communities across Hawaiʻi.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580107/hawaii-national-guard-completes-months-long-tropical-cyclone-lala-recovery",
-      "publishedAt": "2026-11-23T20:50:09Z"
-    },
-    {
-      "id": "70448e394023d283ed6bf107",
-      "title": "USNI News Fleet and Marine Tracker: Nov. 23, 2026",
-      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 23, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/23/usni-news-fleet-and-marine-tracker-nov-23-2026",
-      "publishedAt": "2026-11-23T19:39:32Z"
-    },
-    {
-      "id": "dbdc03978e6bcc4a18e0e10d",
-      "title": "U.S. Commits $2B Defense Loan for Philippine Military, Luzon Strait Development",
-      "summary": "MANILA, Philippines — The U.S. pledged to grant a $2 billion foreign military financing loan package for Manila’s military modernization efforts and the development of an airport in the Luzon Strait.",
-      "category": "Defense",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/23/u-s-commits-2b-defense-loan-for-philippine-military-luzon-strait-development",
-      "publishedAt": "2026-11-23T15:29:41Z"
-    },
-    {
-      "id": "5c759f38fdf5cac9bcd0efdf",
-      "title": "Acting Navy Secretary Hung Cao heads to the Hill and the Pentagon fails an audit | Headlines",
-      "summary": "The acting secretary of the Navy faced tough questions from Senators during his confirmation hearing, while the Pentagon must target fraud following an internal report.",
-      "category": "Navy",
-      "sourceName": "Defense News",
-      "sourceUrl": "https://www.defensenews.com/video/2026/11/23/acting-navy-secretary-hung-cao-heads-to-the-hill-and-the-pentagon-fails-an-audit-headlines/",
-      "publishedAt": "2026-11-23T14:14:00Z"
-    },
-    {
-      "id": "4c1a738b8cdf11fe9ca77121",
-      "title": "Learning from the industry: Europe District holds Design-Build Bootcamp for its employees",
-      "summary": "In its journey to update business processes and improve efficiency, the U.S. Army Corps of Engineers, Europe District held a Design-Build Bootcamp from Oct. 27 to 29 on U.S. Army Garrison Wiesbaden.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580029/learning-industry-europe-district-holds-design-build-bootcamp-its-employees",
-      "publishedAt": "2026-11-23T08:35:04Z"
     }
   ],
   "nextPage": "pages/page-2.json"

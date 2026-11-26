@@ -1,7 +1,97 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-25T19:20:38Z",
+  "generatedAt": "2026-11-26T03:36:17Z",
   "articles": [
+    {
+      "id": "16d7083da573acf8df1e2611",
+      "title": "403rd AFSB hosts community kimchi making event",
+      "summary": "More than 40 Soldiers, KATUSA Soldiers, civilian employees and family members from the 403rd AFSB, 19th ESC, 168th MMB, and USAG-Daegu participated in the kimjang event at the U.S. Army Garrison-Daegu Chapel Annex, Nov. 18. Kimjang is the traditional Korean practice of making and sharing large batches of kimchi in late autumn or early winter.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580125/403rd-afsb-hosts-community-kimchi-making-event",
+      "publishedAt": "2026-11-24T00:59:02Z"
+    },
+    {
+      "id": "cc661b9b3df7c845ebf9ba74",
+      "title": "3rd MLG conducts tsunami evacuation drill alongside Urasoe City officials",
+      "summary": "U.S. Marine Corps Col. Robert Gerbracht, commanding officer of Combat Logistics Regiment 37, 3rd Marine Logistics Group, and base commander of Camp Kinser, guides Urasoe City Mayor Tetsuji Matsumoto and other city officials through the installation during a tsunami evacuation drill at Camp Kinser, Okinawa, Japan, Nov. 19, 2026.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580123/3rd-mlg-conducts-tsunami-evacuation-drill-alongside-urasoe-city-officials",
+      "publishedAt": "2026-11-23T23:58:41Z"
+    },
+    {
+      "id": "7211442d2d9d39b2f4840e01",
+      "title": "MSCoE, Fort Leonard Wood welcomes new commanding general",
+      "summary": "Brig. Gen. Daniel Hibner assumed command of the U.S. Army Maneuver Support Center of Excellence and Fort Leonard Wood Nov. 23, 2026, in a ceremony on MSCoE Plaza.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580118/mscoe-fort-leonard-wood-welcomes-new-commanding-general",
+      "publishedAt": "2026-11-23T22:26:40Z"
+    },
+    {
+      "id": "34573a63c509373d2bc465fd",
+      "title": "Serving the one beside you: Tooele depot commander reflects on sacrifice and faith",
+      "summary": "At a Veterans Day event in Tooele, Utah, Col. Ben Fortune, Commander, Tooele Army Depot, illustrates the service and sacrifice made by veterans of the U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580116/serving-one-beside-you-tooele-depot-commander-reflects-sacrifice-and-faith",
+      "publishedAt": "2026-11-23T22:25:23Z"
+    },
+    {
+      "id": "12c4bc161e36433fe1b12099",
+      "title": "Oregon Guard Physician Assistant Adds L-Sit Chin-Up World Record to His Collection",
+      "summary": "Maj. Tommy Vu, a physician assistant with the Oregon Army National Guard Medical Command, completed 425 L-sit chin-ups in one hour on Nov. 21, 2026, at Keizer Physiq in Keizer, Oregon. That beat the previous Guinness World Records mark of 371.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580108/oregon-guard-physician-assistant-adds-l-sit-chin-up-world-record-his-collection",
+      "publishedAt": "2026-11-23T20:52:12Z"
+    },
+    {
+      "id": "3e08f2b3b34ed3f1ceacef53",
+      "title": "Hawaiʻi National Guard Completes Months-Long Tropical Cyclone Lala Recovery",
+      "summary": "The Hawaiʻi National Guard (HING) concluded its support to Tropical Cyclone Lala recovery operations Oct. 30, 2026, marking the completion of a multi-month disaster response that brought soldiers and airmen together with state and county agencies to assist storm-affected communities across Hawaiʻi.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580107/hawaii-national-guard-completes-months-long-tropical-cyclone-lala-recovery",
+      "publishedAt": "2026-11-23T20:50:09Z"
+    },
+    {
+      "id": "70448e394023d283ed6bf107",
+      "title": "USNI News Fleet and Marine Tracker: Nov. 23, 2026",
+      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 23, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.",
+      "category": "Navy",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/23/usni-news-fleet-and-marine-tracker-nov-23-2026",
+      "publishedAt": "2026-11-23T19:39:32Z"
+    },
+    {
+      "id": "dbdc03978e6bcc4a18e0e10d",
+      "title": "U.S. Commits $2B Defense Loan for Philippine Military, Luzon Strait Development",
+      "summary": "MANILA, Philippines — The U.S. pledged to grant a $2 billion foreign military financing loan package for Manila’s military modernization efforts and the development of an airport in the Luzon Strait.",
+      "category": "Defense",
+      "sourceName": "USNI News",
+      "sourceUrl": "https://news.usni.org/2026/11/23/u-s-commits-2b-defense-loan-for-philippine-military-luzon-strait-development",
+      "publishedAt": "2026-11-23T15:29:41Z"
+    },
+    {
+      "id": "5c759f38fdf5cac9bcd0efdf",
+      "title": "Acting Navy Secretary Hung Cao heads to the Hill and the Pentagon fails an audit | Headlines",
+      "summary": "The acting secretary of the Navy faced tough questions from Senators during his confirmation hearing, while the Pentagon must target fraud following an internal report.",
+      "category": "Navy",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/video/2026/11/23/acting-navy-secretary-hung-cao-heads-to-the-hill-and-the-pentagon-fails-an-audit-headlines/",
+      "publishedAt": "2026-11-23T14:14:00Z"
+    },
+    {
+      "id": "4c1a738b8cdf11fe9ca77121",
+      "title": "Learning from the industry: Europe District holds Design-Build Bootcamp for its employees",
+      "summary": "In its journey to update business processes and improve efficiency, the U.S. Army Corps of Engineers, Europe District held a Design-Build Bootcamp from Oct. 27 to 29 on U.S. Army Garrison Wiesbaden.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580029/learning-industry-europe-district-holds-design-build-bootcamp-its-employees",
+      "publishedAt": "2026-11-23T08:35:04Z"
+    },
     {
       "id": "7cc36d358ae411dd4b8aedcc",
       "title": "U.S. Marines, Finnish military build maritime readiness in the Baltic",
@@ -271,96 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/579975/green-mountain-chapter-air-space-forces-association-pauses-operations-after-decades-service",
       "publishedAt": "2026-11-20T19:12:56Z"
-    },
-    {
-      "id": "46558099cbcba328933fe3ff",
-      "title": "Pentagon CIO Davies tapped as acting National Cyber Director",
-      "summary": "Kirsten Davies is taking over the role for Sean Cairncross at the White House.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/pentagon-cio-davies-tapped-as-acting-national-cyber-director/",
-      "publishedAt": "2026-11-20T16:31:00Z"
-    },
-    {
-      "id": "97257b562f7c535dcbf00b85",
-      "title": "CBO Analysis of the Navy’s Fiscal Year 2027 Shipbuilding Plan",
-      "summary": "The following is the Congressional Budget Office’s Analysis of the Navy’s Fiscal Year 2027 Shipbuilding Plan, released Nov. 19, 2026. From the Report Summary Each year, as directed by the Congress, the Department of Defense submits a report with the President’s budget describing the Navy’s plan for its future fleet for the next 30 years.",
-      "category": "Navy",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/20/cbo-analysis-of-the-navys-fiscal-year-2027-shipbuilding-plan",
-      "publishedAt": "2026-11-20T16:09:36Z"
-    },
-    {
-      "id": "a8aae706eec9193e108a3a69",
-      "title": "U.S., Philippine Marines Set Up Surveillance Radar in Palawan",
-      "summary": "MANILA, Philippines — U.S. and Philippine Marines set up coastal surveillance radar on a beach facing the South China Sea during a maritime strike targeting drill earlier this month.",
-      "category": "Marine Corps",
-      "sourceName": "USNI News",
-      "sourceUrl": "https://news.usni.org/2026/11/20/u-s-philippine-marines-set-up-surveillance-radar-in-palawan",
-      "publishedAt": "2026-11-20T15:12:10Z"
-    },
-    {
-      "id": "886a5486c576775ee08b82e0",
-      "title": "U.S. Ambassador Visits USS George Washington",
-      "summary": "U.S. Ambassador to the Republic of India, Mr. Sergio Gor, along with distinguished guests from multiple countries embarked aboard the Nimitz-class aircraft carrier USS George Washington (CVN 73) via CMV-22 Osprey aircraft on Nov. 20, 2026, while the ship operated in the U.S. 7th Fleet area of operations.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579822/us-ambassador-visits-uss-george-washington",
-      "publishedAt": "2026-11-20T11:05:44Z"
-    },
-    {
-      "id": "13535fab50a0d2fe9028a25a",
-      "title": "USAREUR-AF Senior Leaders Synch Priorities, Chart Path Forward",
-      "summary": "Senior leaders from across U.S. Army Europe and Africa gathered at the Edelweiss Lodge and Resort, Nov. 9-10, for the USAREUR-AF Senior Leaders Conference to assess progress, synchronize priorities and strengthen the command’s ability to respond to an evolving security environment.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579819/usareur-af-senior-leaders-synch-priorities-chart-path-forward",
-      "publishedAt": "2026-11-20T09:18:54Z"
-    },
-    {
-      "id": "34b07db58bf93e7878c63a7d",
-      "title": "Retired Army colonel receives Bronze Star Medal with valor nearly 37 years after Operation Just Cause",
-      "summary": "Retired U.S. Army Col. Robert Gaddis received the Bronze Star Medal with “V” device during a ceremony at Special Operations Command South (SOCSOUTH) on Nov. 19, 2026, nearly 37 years after his heroic actions during Operation Just Cause in Panama. U.S. Navy Rear Adm.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579818/retired-army-colonel-receives-bronze-star-medal-with-valor-nearly-37-years-after-operation-just-cause",
-      "publishedAt": "2026-11-20T08:32:26Z"
-    },
-    {
-      "id": "fc810e80e22bf4bd09ae7b69",
-      "title": "Pride of the Pack: Senior Airman Marquis Martin",
-      "summary": "U.S. Air Force Senior Airman Marquis Martin, 8th Logistics Readiness Squadron decentralized materiel support journeyman and Augusta, Georgia native, was recognized as the 8th Fighter Wing’s Pride of the Pack for the week of Nov. 16-20, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579814/pride-pack-senior-airman-marquis-martin",
-      "publishedAt": "2026-11-20T06:47:57Z"
-    },
-    {
-      "id": "2a03be008b2859adc8e3fde5",
-      "title": "Mustang of the Week: Staff Sgt. Keven Gomescoello",
-      "summary": "U.S. Air Force Staff Sgt. Keven Gomescoello, 51st Operations Support Squadron aircrew flight equipment continuation training lead instructor, was recognized as Mustang of the Week at Osan Air Base, Republic of Korea, for his initiative, leadership and dedication to developing his fellow Airmen Nov. 13, 2026.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579812/mustang-week-staff-sgt-keven-gomescoello",
-      "publishedAt": "2026-11-20T06:12:22Z"
-    },
-    {
-      "id": "99c48bb217a8297a2b1e3498",
-      "title": "Hollywood Marine: reflects on 24 years of epic service and next phase of gung-ho",
-      "summary": "U.S. Marine Corps Lt. Col. Phillip J. Peacock, with III Marine Expeditionary Force, reflects on his 24-year military career, from his decision to leave the U.S. Air Force Academy and enlist in the Marine Corps following the Sept.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579810/hollywood-marine-reflects-24-years-epic-service-and-next-phase-gung-ho",
-      "publishedAt": "2026-11-20T03:10:38Z"
-    },
-    {
-      "id": "f58a1b5bc91ab2c15a8957f3",
-      "title": "Utah National Guard welcomes new senior enlisted leader as CSM Spencer Nielsen retires after 33 years of service",
-      "summary": "The Utah National Guard welcomed a new senior enlisted leader and recognized the retirement of one of its most influential champions of enlisted Soldiers during a change of responsibility ceremony Nov. 19, 2026, as Command Sgt. Maj. Kyle Harrison assumed responsibility as the Utah National Guard’s command senior enlisted leader from Command Sgt.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579802/utah-national-guard-welcomes-new-senior-enlisted-leader-csm-spencer-nielsen-retires-after-33-years-service",
-      "publishedAt": "2026-11-20T01:13:56Z"
     }
   ],
   "nextPage": "page-3.json"
