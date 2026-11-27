@@ -1,7 +1,70 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-27T12:30:26Z",
+  "generatedAt": "2026-11-27T23:29:01Z",
   "articles": [
+    {
+      "id": "d7a7ee244126abe54e375339",
+      "title": "Oklahoma Army National Guard's Camp Gruber Training Center holds change of command",
+      "summary": "Soldiers, family and loved ones gathered to bid farewell to outgoing Camp Gruber Training Center commander Col. Ronnie A. Beck and welcome incoming commander Col. Phillip R. Hemmert during a change of command ceremony at Camp Gruber, Saturday, Nov. 7, 2026.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579987/oklahoma-army-national-guards-camp-gruber-training-center-holds-change-command",
+      "publishedAt": "2026-11-20T20:16:24Z"
+    },
+    {
+      "id": "9850610a59708323403e917e",
+      "title": "The force behind the fight: Ready when called",
+      "summary": "When an aircraft experiences an ordnance-related emergency or unexploded munitions interrupt training operations, explosive ordnance disposal Airmen help restore the conditions necessary for the mission to continue. For U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579990/force-behind-fight-ready-called",
+      "publishedAt": "2026-11-20T20:10:04Z"
+    },
+    {
+      "id": "ecc31507ec3eb5d13cedc007",
+      "title": "ARL power, propulsion research program leaves defense ecosystem stronger",
+      "summary": "The U.S. Army Combat Capabilities Development Command, known as DEVCOM, Army Research Laboratory officially concluded the Versatile Tactical Power and Propulsion essential research program with a final capstone event that showcased the program’s impact on future Army aviation capabilities, opening new possibilities for both Army aircraft and…",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579986/arl-power-propulsion-research-program-leaves-defense-ecosystem-stronger",
+      "publishedAt": "2026-11-20T19:57:46Z"
+    },
+    {
+      "id": "15803434151b92ba963a9a39",
+      "title": "Oklahoma Army National Guard's 189th Regional Training Institute holds change of command",
+      "summary": "Members of the Oklahoma Army National Guard's 189th Regiment, Regional Training Institute, along with friends and family, gathered to bid farewell to outgoing commander Col. Phillip R. Hemmert and welcome incoming commander Col. Clint Carman during a change of command ceremony at Camp Gruber Training Center, Saturday, Nov. 7, 2026.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579982/oklahoma-army-national-guards-189th-regional-training-institute-holds-change-command",
+      "publishedAt": "2026-11-20T19:54:48Z"
+    },
+    {
+      "id": "9819c8939a9bf025a994428b",
+      "title": "As Flood Season Begins, Seattle District Completes Levee Rehabilitations Across Western Washington",
+      "summary": "Following the December 2025 floods, the U.S. Army Corps of Engineers, Seattle District completed 14 eligible levee rehabilitation projects across Western Washington under the Public Law 84-99 program.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579984/flood-season-begins-seattle-district-completes-levee-rehabilitations-across-western-washington",
+      "publishedAt": "2026-11-20T19:47:00Z"
+    },
+    {
+      "id": "5eac11bc0745f261d210c1c4",
+      "title": "MCAS New River rededicates MAGTF hangar in honor of Capt. David Spellacy",
+      "summary": "Marine Corps Air Station New River conducted a rededication ceremony to celebrate the opening of a new Type II Modified Marine Air-Ground Task Force (MAGTF) Hangar. The new hangar has been rededicated to U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579981/mcas-new-river-rededicates-magtf-hangar-honor-capt-david-spellacy",
+      "publishedAt": "2026-11-20T19:42:26Z"
+    },
+    {
+      "id": "7e0f79b9b2d4da0a71a28e93",
+      "title": "U.S. Army Chief Warrant Officer 2 Bradley Smith Promoted in Ceremony Pinned by Spouse, 1st Lt. Amanda DiClerico",
+      "summary": "The Oklahoma City Recruiting Battalion announced the promotion of Warrant Officer 1 Bradley Smith to the rank of Chief Warrant Officer 2 during a formal ceremony surrounded by colleagues, leadership, and family.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/579979/us-army-chief-warrant-officer-2-bradley-smith-promoted-ceremony-pinned-spouse-1st-lt-amanda-diclerico",
+      "publishedAt": "2026-11-20T19:23:55Z"
+    },
     {
       "id": "0439ac07831c94c5a4991056",
       "title": "U.S. Army Recruiting Battalion Celebrates Key Milestones: Two Noncommissioned Officers Promoted to Staff Sergeant, Recruiter Ring Awarded",
@@ -298,69 +361,6 @@
       "sourceName": "Defense News",
       "sourceUrl": "https://www.defensenews.com/pentagon/2026/11/19/hegseth-in-caracas-announces-us-venezuela-military-partnership-agreement/",
       "publishedAt": "2026-11-19T17:03:28Z"
-    },
-    {
-      "id": "e58e7d211d98896e33494612",
-      "title": "CycloKinetics wins $86.3 million Pentagon contract for alternative fuels",
-      "summary": "The Utah-based startup is pioneering new “drop-in” propellants that can substitute prevailing forms of energy.",
-      "category": "Defense",
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://breakingdefense.com/2026/11/cyclokinetics-wins-86-3-million-pentagon-contract-for-alternative-fuels/",
-      "publishedAt": "2026-11-19T14:00:00Z"
-    },
-    {
-      "id": "8e7a721d7e371d1660444c7e",
-      "title": "5th Air Naval Gunfire Liaison Company evaluates candidates for deployable detachments",
-      "summary": "U.S. Marines with 5th Air Naval Gunfire Liaison Company (ANGLICO), III Marine Expeditionary Force Information Group, and Marines across III MEF seeking to join the company completed physical and billet-specific evaluations during the ANGLICO Candidate Assessment at Camp Hansen, Okinawa, Japan, Nov. 6, 2026.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579700/5th-air-naval-gunfire-liaison-company-evaluates-candidates-deployable-detachments",
-      "publishedAt": "2026-11-19T08:08:39Z"
-    },
-    {
-      "id": "9b9c702e7340efa7a1156d60",
-      "title": "U.S. Soldiers in Japan help revitalize cherry blossoms, build ties at Mitsuike Park",
-      "summary": "YOKOHAMA, Japan – Soldiers from the 5th and 476th Transportation Companies volunteered at Mitsuike Park in Yokohama Nov. 17, helping staff revitalize the park’s famous cherry blossom trees.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579699/us-soldiers-japan-help-revitalize-cherry-blossoms-build-ties-mitsuike-park",
-      "publishedAt": "2026-11-19T07:46:56Z"
-    },
-    {
-      "id": "bff43d70e3f2f5f409145d36",
-      "title": "Pulling Together: 623rd MCT Soldiers tackle ‘No One Left Behind’ PT challenge",
-      "summary": "CAMP ZAMA, Japan – Soldiers with the 623rd Movement Control Team participated in a “No One Left Behind” physical training session led by the U.S. Army Japan Sexual Harassment/Assault Response and Prevention team Nov. 16 at Yano Field here.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579697/pulling-together-623rd-mct-soldiers-tackle-no-one-left-behind-pt-challenge",
-      "publishedAt": "2026-11-19T07:14:47Z"
-    },
-    {
-      "id": "a307e53d3f0b2d7938c76657",
-      "title": "Humphreys seminar helps families navigate college transition from overseas",
-      "summary": "U.S. Army Garrison Humphreys hosted the Pathways to Success Family Night seminar Nov. 16 to help families prepare for the travel, health care and financial planning requirements that can accompany a dependent’s move to college in the United States.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579696/humphreys-seminar-helps-families-navigate-college-transition-overseas",
-      "publishedAt": "2026-11-19T07:11:33Z"
-    },
-    {
-      "id": "96fb54a4f14f7133518ace26",
-      "title": "Beyond the Rank: 2ID Leaders Strengthen Trust, Communication and Team Cohesion",
-      "summary": "PYEONGTAEK, South Korea — Leadership in the U.S. Army is often measured by the ability to make decisions, accomplish missions and lead Soldiers through challenging circumstances. But effective leadership also requires something less tangible and equally essential: the ability to understand people, build trust and establish meaningful connections.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579694/beyond-rank-2id-leaders-strengthen-trust-communication-and-team-cohesion",
-      "publishedAt": "2026-11-19T06:10:56Z"
-    },
-    {
-      "id": "be317a8deb54f5f269f96781",
-      "title": "USS Blue Ridge Changes Command",
-      "summary": "The U.S. 7th Fleet flagship USS Blue Ridge (LCC 19) held a change of command ceremony Nov. 19.",
-      "category": "Navy",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/579695/uss-blue-ridge-changes-command",
-      "publishedAt": "2026-11-19T05:44:36Z"
     }
   ],
   "nextPage": "page-4.json"

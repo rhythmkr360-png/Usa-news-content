@@ -1,7 +1,70 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-27T12:30:26Z",
+  "generatedAt": "2026-11-27T23:29:01Z",
   "articles": [
+    {
+      "id": "9aa5c3ef59fceb3b922f75be",
+      "title": "From tragedy to transformation: The story of the Turkey Creek Flood Damage Reduction Project",
+      "summary": "On October 4, 1998, devastating flooding along Turkey Creek left communities across the Kansas City metropolitan area in shock and disarray. The recurring issue demanded action. Fortunately, the Unified Government of Wyandotte County and Kansas City, Kansas, the City of Kansas City, Missouri, and the Kansas City District, U.S.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580350/tragedy-transformation-story-turkey-creek-flood-damage-reduction-project",
+      "publishedAt": "2026-11-27T18:13:47Z"
+    },
+    {
+      "id": "4077d38cdd6f06b8173f583b",
+      "title": "INSCOM logistician's artwork highlighted by George Mason University",
+      "summary": "George Mason University’s Mason Exhibitions highlighted the works of 31 artists, including a U.S. Army Intelligence and Security Command (INSCOM) civilian employee, during its \"As You Were ...\" military veterans exhibition. The exhibition ran from Aug. 24 to Nov. 11, in the Art and Design Building's Gillespie Gallery.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580349/inscom-logisticians-artwork-highlighted-george-mason-university",
+      "publishedAt": "2026-11-27T17:48:45Z"
+    },
+    {
+      "id": "392829f6e3398672709a0801",
+      "title": "U.S. Forces Disable Commercial Vessel During Blockade Enforcement Against Iran",
+      "summary": "TAMPA, Fla. – U.S. Central Command (CENTCOM) disabled a commercial vessel in the Gulf of Oman, Nov. 26, after the crew attempted to run the U.S. naval blockade, despite multiple warnings, following departure from an Iranian port.",
+      "category": "Defense",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580348/us-forces-disable-commercial-vessel-during-blockade-enforcement-against-iran",
+      "publishedAt": "2026-11-27T16:14:21Z"
+    },
+    {
+      "id": "608537e33893e22d6aa60037",
+      "title": "USS Delbert D. Black Concludes Port Visit to Cape Town Following Thanksgiving with U.S. Ambassador L. Brent Bozell III",
+      "summary": "CAPE TOWN, South Africa — The Arleigh Burke-class guided-missile destroyer USS Delbert D. Black (DDG 119) departed Cape Town, South Africa, Nov. 27, 2026, following a scheduled, routine port visit to conduct resupply and refueling operations.",
+      "category": "Navy",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580341/uss-delbert-d-black-concludes-port-visit-cape-town-following-thanksgiving-with-us-ambassador-l-brent-bozell-iii",
+      "publishedAt": "2026-11-27T15:49:28Z"
+    },
+    {
+      "id": "8ae25ea8318b2631ce90bdc9",
+      "title": "Hackers breach US Air Force flagship Cloud One computing platform",
+      "summary": "Hackers have reportedly breached the service's flagship cloud computing platform, in a development that could jeopardize a vast swathe of tactical, personnel and logistics data.",
+      "category": "Air Force",
+      "sourceName": "Defense News",
+      "sourceUrl": "https://www.defensenews.com/pentagon/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform/",
+      "publishedAt": "2026-11-27T14:23:36Z"
+    },
+    {
+      "id": "083de89d7523960235cb0f01",
+      "title": "180 NY Army Guard Military Police Soldiers Back Home After Year-Long Border Mission",
+      "summary": "NEW YORK, New York — One hundred and eighty New York Army National Guard Soldiers have returned from a year-long mission assisting the Border Patrol along the U.S.-Mexico border in Texas. Soldiers of the 104th Military Police Battalion returned from the mission to their Kingston, New York headquarters on Nov. 20 on individual flights from Texas.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580344/180-ny-army-guard-military-police-soldiers-back-home-after-year-long-border-mission",
+      "publishedAt": "2026-11-27T14:20:52Z"
+    },
+    {
+      "id": "ef9e0548eece5291451360b5",
+      "title": "Maryland National Guard and Estonian Defense Force participate in Baltic Blitz 26",
+      "summary": "Thirty Airmen and Soldiers of the Maryland National Guard and their Estonia counterparts continued strengthening their longstanding military partnership during Baltic Blitz 26, a cybersecurity exchange event, at Warfield Air National Guard Base at Martin State Airport, Middle River, Maryland, November 8 - 13, 2026.",
+      "category": "Army",
+      "sourceName": "DVIDS U.S. Military News",
+      "sourceUrl": "https://www.dvidshub.net/news/580342/maryland-national-guard-and-estonian-defense-force-participate-baltic-blitz-26",
+      "publishedAt": "2026-11-27T13:31:11Z"
+    },
     {
       "id": "050a0815c6eb73f314383af8",
       "title": "GAO on How the Defense Department can Address Munitions Shortages",
@@ -298,69 +361,6 @@
       "sourceName": "DVIDS U.S. Military News",
       "sourceUrl": "https://www.dvidshub.net/news/580153/armaments-center-thanked-contributions-thriving-dover-school-robotics-team",
       "publishedAt": "2026-11-24T13:17:38Z"
-    },
-    {
-      "id": "d320d0f064975a5ed620a937",
-      "title": "U.S. Army pilots join NATO partners at Latvia’s 108th independence day flyover",
-      "summary": "RIGA, Latvia — Cold November winds swept across the Daugava River as thousands of spectators lined the streets and bridges of Riga on Nov. 18 to celebrate Latvia's 108th Independence Day.",
-      "category": "Army",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580142/us-army-pilots-join-nato-partners-latvias-108th-independence-day-flyover",
-      "publishedAt": "2026-11-24T12:24:06Z"
-    },
-    {
-      "id": "3b65372ce9685be4919200e6",
-      "title": "AFNORTH Battalion Event Connects SHAPE Community Through Touch-a-Truck",
-      "summary": "AFNORTH Battalion, U.S. Army NATO Brigade, hosted its annual Touch-a-Truck event, bringing military and civilian families from across the multinational community together for a day of hands-on learning and fun.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580146/afnorth-battalion-event-connects-shape-community-through-touch-truck",
-      "publishedAt": "2026-11-24T12:05:47Z"
-    },
-    {
-      "id": "9dff88132ade78281d281186",
-      "title": "Engineering Technician by Day, Graffiti Artist by Night: Meet DPW’s Marco Holzinger",
-      "summary": "ANSBACH, Germany — In Ansbach’s urban art scene, the graffiti tag ERAS is hard to miss. Bright colors, sharp lines and bold compositions mark the work of Marco Holzinger, a local graffiti artist whose pieces appear across facades, underpasses and public art spaces.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580145/engineering-technician-day-graffiti-artist-night-meet-dpws-marco-holzinger",
-      "publishedAt": "2026-11-24T10:40:36Z"
-    },
-    {
-      "id": "0bf6a5148b6ee7be8271dfa4",
-      "title": "SETAF-AF, US Air Force team with Kenya Defence Forces for donation to school",
-      "summary": "U.S. Soldiers assigned to Civil Affairs Team Kenya, Civil Affairs Battalion, U.S. Army Southern European Task Force, Africa (SETAF-AF) partnered with U.S. Airmen and Kenyan Defence Forces to provide donations to Safarisi Primary School during a civil affairs engagement in Safarisi, Kenya, July 22, in a combined, joint effort.",
-      "category": "Air Force",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580143/setaf-af-us-air-force-team-with-kenya-defence-forces-donation-school",
-      "publishedAt": "2026-11-24T09:01:36Z"
-    },
-    {
-      "id": "8f0dd3e82104fe9e19807870",
-      "title": "Europe District navigates historic archeological discoveries at a construction site in Hungary",
-      "summary": "The U.S. Army Corps of Engineers, Europe District began construction to increase the capacity for the air base in Kecskemét, Hungary in 2025, only to stumble upon a historic archeological discovery.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580141/europe-district-navigates-historic-archeological-discoveries-construction-site-hungary",
-      "publishedAt": "2026-11-24T07:32:58Z"
-    },
-    {
-      "id": "0dc34df39a12a3ae2ea80035",
-      "title": "USFK holds 2026 Commander's Conference in Seoul",
-      "summary": "U.S. Forces Korea leaders, Department of the Army civilians and spouses gathered at Dragon Hill Lodge Nov. 18-20 for the 2026 USFK Commander's Conference.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580140/usfk-holds-2026-commanders-conference-seoul",
-      "publishedAt": "2026-11-24T06:45:08Z"
-    },
-    {
-      "id": "d66218f8bb0c9e46c0a32f6b",
-      "title": "CNFK Sailors participate in Iron Alliance 2026",
-      "summary": "U.S. service members concluded Iron Alliance, a joint training event held Nov. 15–20, designed to strengthen teamwork, interoperability, and readiness across the Korean Peninsula.",
-      "category": "Defense",
-      "sourceName": "DVIDS U.S. Military News",
-      "sourceUrl": "https://www.dvidshub.net/news/580129/cnfk-sailors-participate-iron-alliance-2026",
-      "publishedAt": "2026-11-24T05:01:01Z"
     }
   ],
   "nextPage": "pages/page-2.json"
